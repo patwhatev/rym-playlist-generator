@@ -1,12 +1,34 @@
 {
   "manifest_version": 3,
   "name": "rymlist capture",
-  "version": "0.1.0",
-  "description": "Save a rateyourmusic list (every page) for the rymlist CLI.",
+  "version": "0.3.0",
+  "description": "Save rateyourmusic lists for the rymlist CLI: every page automatically (resumable), or only the pages you visit while recording.",
   "action": {
     "default_title": "Capture this RYM list",
     "default_popup": "popup.html"
   },
-  "permissions": ["activeTab", "scripting", "downloads"],
-  "host_permissions": ["https://rateyourmusic.com/*"]
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "downloads",
+    "storage",
+    "unlimitedStorage"
+  ],
+  "host_permissions": [
+    "https://rateyourmusic.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://rateyourmusic.com/list/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
 }

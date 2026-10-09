@@ -1,6 +1,9 @@
 [
  {
+  "service": "spotify",
   "position": 1,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/sigridur-nielsdottir/grandma-lo-fi-the-basement-tapes-of-sigridur-nielsdottir-1/",
   "title": "Grandma Lo-Fi: The Basement Tapes of Sigríður Níelsdóttir",
@@ -14,7 +17,10 @@
   "reason": "an artist named Sigríður Níelsdóttir is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 2,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/しゅ〜ふるまぁ〜じゅ/1話目/",
   "title": "1話目",
@@ -28,7 +34,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 3,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sharda/childrens-disco-musical-stories/",
   "title": "Children's Disco Musical Stories",
@@ -42,7 +51,10 @@
   "reason": "an artist named Shardae is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 4,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/轟かおる/uncle-calvins-private-life/",
   "title": "Uncle Calvin's Private Life",
@@ -56,7 +68,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 5,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/kyle-maclachlan/diane-the-twin-peaks-tapes-of-agent-cooper/",
   "title": "\"Diane...\": The Twin Peaks Tapes of Agent Cooper",
@@ -70,7 +85,10 @@
   "reason": "an artist named Kyle MacLachlan is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 6,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/unauth/boyd_britton/the_rants_of_francis_e__dec/",
   "title": "The Rants of Francis E. Dec",
@@ -84,7 +102,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 7,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/สุเทพ-โชคสกุล/บูรณาการ/",
   "title": "บูรณาการ",
@@ -98,7 +119,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 8,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/various-artists/mechanical-opera-opera-favorites-on-music-boxes/",
   "title": "Mechanical Opera: Opera Favorites on Music Boxes",
@@ -112,7 +136,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 9,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/hulk-hogan/hulkamania™-workout-set/",
   "title": "Hulkamania™ Workout Set",
@@ -126,7 +153,10 @@
   "reason": "an artist named Hulk Hogan is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 10,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/various-artists/african-songs-and-rhythms-for-children/",
   "title": "African Songs & Rhythms for Children",
@@ -140,7 +170,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 13,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/unauth/rev-jim-jones/transcript-of-mass-suicide-at-jonestown-guyana-17-18-november-1978-1/",
   "title": "Transcript of Mass Suicide at Jonestown, Guyana, 17-18 November, 1978",
@@ -154,7 +187,10 @@
   "reason": "an artist named Rev. Jim Jones is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 14,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/นกแล/ทิงนองนอย-ting-nong-noi/",
   "title": "ทิงนองนอย (Ting Nong Noi)",
@@ -168,7 +204,10 @@
   "reason": "an artist named นกแล is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 15,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/dick-higgins/poems-and-metapoems/",
   "title": "Poems and Metapoems",
@@ -182,7 +221,10 @@
   "reason": "an artist named Dick Higgins is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 17,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/eero-ja-jussi-and-the-boys/ystavyys-yhdistaa-venskar-samsandling/",
   "title": "Ystävyys yhdistää - Venskar samsandling",
@@ -196,7 +238,10 @@
   "reason": "an artist named Eero ja Jussi & The Boys is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 18,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/owen-sound/sign-language/",
   "title": "Sign Language",
@@ -210,7 +255,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 19,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/23-drifts-to-guestling/",
   "title": "23 Drifts to Guestling",
@@ -224,7 +272,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 20,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/kathy-acker-with-nox/love-emily/",
   "title": "Love, Emily",
@@ -239,7 +290,10 @@
   "reason": "an artist named Kathy Acker is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 21,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/tellus-11-the-sound-of-radio/",
   "title": "Tellus #11 - The Sound of Radio",
@@ -253,7 +307,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 22,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mcgruff/mcgruffs-smart-kids-album/",
   "title": "McGruff's Smart Kids Album",
@@ -267,7 +324,10 @@
   "reason": "an artist named McGruff is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 24,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/william-bennett/examples-of-cannibalism/",
   "title": "Examples of Cannibalism",
@@ -281,7 +341,10 @@
   "reason": "an artist named William Bennett is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 25,
+  "page": 1,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/feature-mist/",
   "title": "Feature Mist",
@@ -295,7 +358,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 26,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/blowhole-big-joey/blowhole-big-joey/",
   "title": "Blowhole / Big Joey",
@@ -310,7 +376,10 @@
   "reason": "an artist named Blowhole is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 27,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/16-17/buffbunker-and-hardkore/",
   "title": "Buffbunker and Hardkore",
@@ -324,7 +393,10 @@
   "reason": "an artist named 16-17 is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 28,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/merzbow/le-cuisinier/",
   "title": "Le Cuisinier",
@@ -338,7 +410,10 @@
   "reason": "an artist named Merzbow is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 29,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/非常階段/極悪の教典/",
   "title": "極悪の教典",
@@ -352,7 +427,10 @@
   "reason": "an artist named Hijokaidan is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 30,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/jon-rose-roger-turner/trouble-in-the-woodwork/",
   "title": "Trouble in the Woodwork",
@@ -367,7 +445,10 @@
   "reason": "an artist named Jon Rose is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 31,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/company/fables/",
   "title": "Fables",
@@ -381,7 +462,10 @@
   "reason": "an artist named Company is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 32,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/new-7th-music/in-a-dream/",
   "title": "In a Dream",
@@ -395,7 +479,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 33,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/nu-creative-methods/superstitions/",
   "title": "Superstitions",
@@ -409,7 +496,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 34,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/music_for_homemade_instruments/a_decade_of_debris/",
   "title": "A Decade of Debris",
@@ -423,7 +513,10 @@
   "reason": "an artist named Music For Homemade Instruments is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 35,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/向井千惠-本木良憲/向井千惠-本木良憲/",
   "title": "向井千惠 + 本木良憲",
@@ -438,7 +531,10 @@
   "reason": "an artist named Chie Mukai is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 36,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/maze-1066/retrospective-vol-1-bologna-10_9_1981/",
   "title": "Rétrospective Vol. 1 - Bologna 10.9.1981",
@@ -452,7 +548,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 37,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/jon-rose/featurism-the-relative-violin/",
   "title": "'Featurism' the Relative Violin",
@@ -466,7 +565,10 @@
   "reason": "an artist named Jon Rose is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 38,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/etienne-brunet-trio/boubou-smoking/",
   "title": "Boubou-Smoking",
@@ -480,7 +582,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 39,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sun-city-girls/tibetan-jazz-666/",
   "title": "Tibetan Jazz 666",
@@ -494,7 +599,10 @@
   "reason": "an artist named Sun City Girls is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 40,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/persuasion-a/two-steps-to-easier-breathing-a-south-african-suite/",
   "title": "Two Steps To Easier Breathing: A South African Suite",
@@ -508,7 +616,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 41,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the_honkies/honkattack_/",
   "title": "Honkattack!",
@@ -522,7 +633,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 42,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/solmania/h_a_d_a_y_r_o/",
   "title": "H·A·D·A·Y·R·O",
@@ -536,7 +650,10 @@
   "reason": "an artist named SOLMANIA is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 43,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/bow-gamelan-ensemble/bow-gamelan-ensemble/",
   "title": "Bow Gamelan Ensemble",
@@ -550,7 +667,10 @@
   "reason": "an artist named Bow Gamelan Ensemble is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 44,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/tickmayer_formatio/monumentomanija_maleroznog_prvoborca/",
   "title": "Monumentomanija maleroznog prvoborca",
@@ -564,7 +684,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 45,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the_larry_mondello_band/foreign_matter_exists___six_is_ten/",
   "title": "Foreign Matter Exists / Six Is Ten",
@@ -578,7 +701,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 46,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/kyoko_kuroda/ort_live__brecht_a_la_machina/",
   "title": "Ort Live: Brecht a la Machina",
@@ -592,7 +718,10 @@
   "reason": "an artist named Kyoko Kuroda is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 47,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/der-junge-hund/optreden-41/",
   "title": "Optreden 41",
@@ -606,7 +735,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 48,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/luca-miti/possible-plays/",
   "title": "Possible Plays",
@@ -620,7 +752,10 @@
   "reason": "an artist named Luca Miti is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 49,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/daher_der_name/mu_third_part/",
   "title": "Mu Third Part",
@@ -634,7 +769,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 50,
+  "page": 2,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/das_freie_orchester/1__programm/",
   "title": "1. Programm",
@@ -648,7 +786,10 @@
   "reason": "an artist named Das Freie Orchester is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 51,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/packing-death/spanner-of-lerv/",
   "title": "Spanner of Lerv",
@@ -662,7 +803,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 52,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ocarina-orchestra/ocarina-orchestra/",
   "title": "Ocarina Orchestra",
@@ -676,7 +820,10 @@
   "reason": "an artist named The Ocarina Orchestra is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 53,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/paper-bag/ticket-to-trauma/",
   "title": "Ticket to Trauma",
@@ -690,7 +837,10 @@
   "reason": "an artist named Paper Bag is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 54,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/jon-rose-john-russell-steve-beresford-tony-wren/luton-centre-of-the-universe/",
   "title": "Luton - Centre of the Universe",
@@ -707,7 +857,10 @@
   "reason": "an artist named Jon Rose is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 55,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/risvegli-notturni/",
   "title": "Risvegli notturni",
@@ -721,7 +874,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 57,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/eyeless-in-gaza-lol-coxhill/eyeless-in-gaza-lol-coxhill/",
   "title": "Eyeless in Gaza / Lol Coxhill",
@@ -736,7 +892,10 @@
   "reason": "an artist named Eyeless In Gaza is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 58,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/various-artists/live-in-v2-—-22-12-84-no-1/",
   "title": "Live in V2 — 22-12-84, No. 1",
@@ -750,7 +909,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 59,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/いろ/魂ふり-spiritual-rolling-1/",
   "title": "魂ふり (Spiritual Rolling)",
@@ -764,7 +926,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 60,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/paper-bag/land-without-fences/",
   "title": "Land Without Fences",
@@ -778,7 +943,10 @@
   "reason": "an artist named Paper Bag is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 61,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/u_n_a_c_d_/sans_titre/",
   "title": "Sans titre",
@@ -792,7 +960,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 62,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/son-of-madness/",
   "title": "Son of Madness!",
@@ -806,7 +977,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 63,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/otomo-yoshihide/early-works-i-81-85/",
   "title": "Early Works I: '81-'85",
@@ -820,7 +994,10 @@
   "reason": "an artist named Otomo Yoshihide is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 64,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/anne-tardos/gatherings/",
   "title": "Gatherings",
@@ -834,7 +1011,10 @@
   "reason": "an artist named Anne Tardos is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 65,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/fysisk-fostran/vi-behover-ett-odopt-barn/",
   "title": "Vi behöver ett odöpt barn",
@@ -848,7 +1028,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 66,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/paul-rutherford-trio/bracknell-83/",
   "title": "Bracknell '83",
@@ -862,7 +1045,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 67,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/terry_fugate/the_bingo_triplets/",
   "title": "The Bingo Triplets",
@@ -876,7 +1062,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 68,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/m-reams/heaven-is-here/",
   "title": "Heaven Is Here",
@@ -890,7 +1079,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 69,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/smegma/clitoridis-praeputil/",
   "title": "Clitoridis / Praeputil",
@@ -904,7 +1096,10 @@
   "reason": "an artist named Smegma is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 70,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/charles-wharf-and-simon-h-fell/m_m/",
   "title": "M.M.",
@@ -918,7 +1113,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 71,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/dead-air-fresheners/i-try-to-show-my-love/",
   "title": "I Try to Show My Love",
@@ -932,7 +1130,10 @@
   "reason": "an artist named Dead Air Fresheners is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 72,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/noggin/some_live_noggin/",
   "title": "Some Live Noggin",
@@ -946,7 +1147,10 @@
   "reason": "an artist named Noggin is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 73,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/tavitian-kumpf/open-end/",
   "title": "Open End",
@@ -961,7 +1165,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 74,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/tom-nunn/plate-techphonics/",
   "title": "Plate Techphonics",
@@ -975,7 +1182,10 @@
   "reason": "an artist named Tom Nunn is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 75,
+  "page": 3,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/crank-sturgeon-wham-o/crank-sturgeon-wham-o/",
   "title": "Crank Sturgeon / Wham-O",
@@ -990,7 +1200,10 @@
   "reason": "an artist named Crank Sturgeon is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 76,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dr-dre/85-live/",
   "title": "'85 Live!",
@@ -1004,7 +1217,10 @@
   "reason": "an artist named Dr. Dre is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 77,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dj_jam/87_master_mix_/",
   "title": "'87 Master Mix!",
@@ -1018,7 +1234,10 @@
   "reason": "an artist named DjJam is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 78,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/t_t-wizard/88-boom-n-bass/",
   "title": "88 Boom N Bass",
@@ -1032,7 +1251,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 79,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/kid-koala/scratchcratchratchatch/",
   "title": "Scratchcratchratchatch",
@@ -1046,7 +1268,10 @@
   "reason": "an artist named Kid Koala is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 80,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/nujabes/sweet-sticky-thing/",
   "title": "Sweet Sticky Thing",
@@ -1060,7 +1285,10 @@
   "reason": "an artist named Nujabes is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 81,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/fabio/_hard-set-april-94/",
   "title": "(Hard Set) April '94",
@@ -1074,7 +1302,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 82,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dj-hype/ruf-stuff-volume-iii/",
   "title": "Ruf Stuff Volume III",
@@ -1088,7 +1319,10 @@
   "reason": "an artist named DJ Hype is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 83,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dj-rap/queen-of-the-jungle/",
   "title": "Queen of the Jungle",
@@ -1102,7 +1336,10 @@
   "reason": "an artist named DJ Rap is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 84,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/unauth/ellis-dee/jungle-mix-vol-1/",
   "title": "Jungle Mix Vol. 1",
@@ -1116,7 +1353,10 @@
   "reason": "an artist named Ellis Dee is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 85,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dj-randall/the-definition-of-hardcore/",
   "title": "The Definition of Hardcore",
@@ -1130,7 +1370,10 @@
   "reason": "an artist named DJ Randall is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 86,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dj-moonraker/riot-allnighter/",
   "title": "Riot Allnighter",
@@ -1144,7 +1387,10 @@
   "reason": "an artist named Dj Moonraker is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 87,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dj-gwange/into-the-darkest-depths-of-hardcore/",
   "title": "Into the Darkest Depths of Hardcore",
@@ -1158,7 +1404,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 88,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/unauth/top-buzz/the-edge/",
   "title": "The Edge",
@@ -1172,7 +1421,10 @@
   "reason": "an artist named Top Buzz is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 89,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/vittore-baroni-daniele-ciullini/notterossa-rednight-the-exhibition/",
   "title": "Notterossa / Rednight: The Exhibition",
@@ -1187,7 +1439,10 @@
   "reason": "an artist named Vittore Baroni is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 90,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/unauth/gerogerigegege/recycled/",
   "title": "Recycled",
@@ -1201,7 +1456,10 @@
   "reason": "an artist named Gerogerigegege is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 91,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dj-tron/end-of-the-fucking-world/",
   "title": "End of the Fucking World",
@@ -1215,7 +1473,10 @@
   "reason": "an artist named DJ Tron is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 92,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dorpzicht/the-tape-from-nowhere-trip-1/",
   "title": "The Tape From Nowhere Trip: 1",
@@ -1229,7 +1490,10 @@
   "reason": "an artist named Dorpzicht is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 93,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/laurent-ho/200-and-more/",
   "title": "200 & More",
@@ -1243,7 +1507,10 @@
   "reason": "an artist named Laurent Hô is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 94,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/anne-kgb/fuck-da-police/",
   "title": "Fuck da Police",
@@ -1257,7 +1524,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 95,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/total-resistance/la-totale-corruption/",
   "title": "La totale corruption",
@@ -1271,7 +1541,10 @@
   "reason": "an artist named Total Resistance is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 96,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sound-conspiracy/kahos-in-kontrol-1_1_99-goa/",
   "title": "Kahos in Kontrol: 1.1.99 Goa",
@@ -1285,7 +1558,10 @@
   "reason": "an artist named Sound Conspiracy is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 97,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dj-jeno/inside-the-mind/",
   "title": "Inside the Mind",
@@ -1299,7 +1575,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 98,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/mr-strictly-and-pc/blech/",
   "title": "Blech",
@@ -1314,7 +1593,10 @@
   "reason": "an artist named Patrick Carpenter is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 99,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/dj-tron/fucking-sick-and-menacing/",
   "title": "Fucking Sick & Menacing",
@@ -1328,7 +1610,10 @@
   "reason": "an artist named DJ Tron is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 100,
+  "page": 4,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/djmix/la-peste/couloirs-des-titans/",
   "title": "Couloirs des titans",
@@ -1342,7 +1627,10 @@
   "reason": "an artist named La Peste is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 101,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/константин-рябинов/движение-вселенское-сие/",
   "title": "Движение вселенское сие",
@@ -1356,7 +1644,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 103,
+  "page": 5,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/ігор-цимбровський/прийди-янголе/",
   "title": "Прийди янголе",
@@ -1371,7 +1662,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/0FS2EcWR4WWvhiRXd4MVCd"
  },
  {
+  "service": "spotify",
   "position": 104,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/цукор-біла-смерть/selo/",
   "title": "Selo",
@@ -1385,7 +1679,10 @@
   "reason": "an artist named Cukor Bila Smert' is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 105,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/богаљи/фотокопиране-звери/",
   "title": "Фотокопиране звери",
@@ -1399,7 +1696,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 106,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/фома/белая-сказка/",
   "title": "Белая сказка",
@@ -1413,7 +1713,10 @@
   "reason": "an artist named Фома is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 108,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/dva-zagorodnyh-doma/chudesenki/",
   "title": "Chudesenki",
@@ -1427,7 +1730,10 @@
   "reason": "an artist named Dva Zagorodnyh Doma is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 109,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/ансамбль-сучасної-музики-верба-хльос/берестейська-музика/",
   "title": "Берестейська музика",
@@ -1441,7 +1747,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 110,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/love_cult/nebulaes/",
   "title": "Nebulaes",
@@ -1455,7 +1764,10 @@
   "reason": "an artist named Love Cult is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 111,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/avangard-europi/сакральные-мальчишки-из-гитлерюгенд-души-которых-отравлены-скорбью-о-павшем-величии-третьего-рейха/",
   "title": "Сакральные мальчишки из Гитлерюгенд, души которых отравлены скорбью о павшем величии Третьего Рейха",
@@ -1469,7 +1781,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 112,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/yximalloo/techno-temple-choir/",
   "title": "Techno Temple Choir",
@@ -1483,7 +1798,10 @@
   "reason": "an artist named Yximalloo is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 113,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/井内賢吾/花狂いの夜/",
   "title": "花狂いの夜",
@@ -1497,7 +1815,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 114,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/森田童子/夜想曲-2/",
   "title": "夜想曲",
@@ -1511,7 +1832,10 @@
   "reason": "an artist named 森田童子 is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 115,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/hachiman_mae/hachiman_mae/",
   "title": "Hachiman-Mae",
@@ -1525,7 +1849,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 117,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mr-and-mrs-smith-and-mr-drake/mr-and-mrs-smith-and-mr-drake/",
   "title": "Mr & Mrs Smith & Mr Drake",
@@ -1539,7 +1866,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 118,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/derdiyoklar_ikilisi/oyun_havalari_ve_halaylar/",
   "title": "Oyun Havalari ve Halaylar",
@@ -1553,7 +1883,10 @@
   "reason": "an artist named Derdiyoklar İkilisi is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 119,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/kitchen_cynics/a_girl_eats_the_moon/",
   "title": "A Girl Eats the Moon",
@@ -1567,7 +1900,10 @@
   "reason": "an artist named Kitchen Cynics is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 120,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/trois-lapins/",
   "title": "Trois Lapins",
@@ -1581,7 +1917,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 121,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/music-the-world-does-not-see/",
   "title": "Music the World Does Not See",
@@ -1595,7 +1934,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 122,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/klimperei/les-plus-belles-valses-de-klimperei/",
   "title": "Les plus belles valses de Klimperei",
@@ -1609,7 +1951,10 @@
   "reason": "an artist named Klimperei is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 123,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sentridoh/weed_forestin_f3/",
   "title": "Weed Forestin'",
@@ -1623,7 +1968,10 @@
   "reason": "no Spotify candidates passed validation"
  },
  {
+  "service": "spotify",
   "position": 124,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sue-ann-harkey/listen-little-man/",
   "title": "Listen, Little Man!",
@@ -1637,7 +1985,10 @@
   "reason": "an artist named Sue Ann Harkey is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 125,
+  "page": 5,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/songs-from-a-random-house/songs-from-a-random-house/",
   "title": "Songs From a Random House",
@@ -1651,7 +2002,10 @@
   "reason": "an artist named Songs From A Random House is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 126,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-ullulators/beyond-the-gates-of-ull/",
   "title": "Beyond the Gates of Ull",
@@ -1665,7 +2019,10 @@
   "reason": "an artist named The Ullulators is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 127,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/စိုင်းဆိုင်မောဝ်/အမှတ်တရ-သျှမ်းတေးစုများ-အမှတ်-2/",
   "title": "အမှတ်တရ သျှမ်းတေးစုများ အမှတ် 2",
@@ -1679,7 +2036,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 128,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/lord_litter/space_age/",
   "title": "Space Age",
@@ -1693,7 +2053,10 @@
   "reason": "an artist named Lord Litter is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 129,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/evil-ednas-horror-toilet/too-much-gristle-in-the-blancmange/",
   "title": "Too Much Gristle in the Blancmange",
@@ -1707,7 +2070,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 130,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/harry-rusli/titik-api/",
   "title": "Titik Api",
@@ -1721,7 +2087,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 131,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/d__a__dettmar_and_gerald_toon/synthesis/",
   "title": "Synthesis",
@@ -1736,7 +2105,10 @@
   "reason": "an artist named DEL DETTMAR is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 132,
+  "page": 6,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/the-legendary-pink-dots/prayer-for-aradia-1/",
   "title": "Prayer for Aradia",
@@ -1751,7 +2123,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/3GFU7au6YQZZQkSs1Sj7XL"
  },
  {
+  "service": "spotify",
   "position": 133,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/benny-soebardja/benny-soebardja-and-lizard/",
   "title": "Benny Soebardja & Lizard",
@@ -1765,7 +2140,10 @@
   "reason": "an artist named Benny Soebardja is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 134,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mainliner/psychedelic-atmosphere-beatnik/",
   "title": "Psychedelic Atmosphere Beatnik",
@@ -1779,7 +2157,10 @@
   "reason": "an artist named The Mainliners is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 135,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/f_i/meridian_channel/",
   "title": "Meridian Channel",
@@ -1793,7 +2174,10 @@
   "reason": "an artist named F/i is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 136,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sun-city-girls/the-multiple-hallucinations-of-an-assassin/",
   "title": "The Multiple Hallucinations of an Assassin",
@@ -1807,7 +2191,10 @@
   "reason": "an artist named Sun City Girls is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 137,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/alien-planetscapes/celestial-dance-hits/",
   "title": "Celestial Dance Hits",
@@ -1821,7 +2208,10 @@
   "reason": "an artist named Alien Planetscapes is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 138,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-oroonies/like-yeast-we-rise/",
   "title": "Like Yeast We Rise",
@@ -1835,7 +2225,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 139,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/black-sun-ensemble/sapphire-sky-symphony/",
   "title": "Sapphire Sky Symphony",
@@ -1849,7 +2242,10 @@
   "reason": "an artist named Black Sun Ensemble is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 140,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/evil_acidhead/depths_of_satan/",
   "title": "Depths of Satan",
@@ -1863,7 +2259,10 @@
   "reason": "an artist named Evil Acidhead is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 142,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/kikie-spotlight-and-francois-banholzer/a-trip-to-heave-and-ho-up-down-to-and-fro/",
   "title": "A Trip to Heave and Ho, Up, Down, To and Fro",
@@ -1877,7 +2276,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 145,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/wooden-baby/forbidden-pastures/",
   "title": "Forbidden Pastures",
@@ -1891,7 +2293,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 146,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-entire-cosmos/the-hitch-hikers-guide-to-the-entire-cosmos/",
   "title": "The Hitch-Hikers Guide to The Entire Cosmos",
@@ -1905,7 +2310,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 147,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/dave-brock/dave-brock/",
   "title": "Dave Brock",
@@ -1919,7 +2327,10 @@
   "reason": "an artist named Dave Brock is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 148,
+  "page": 6,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/high-tide/interesting-times/",
   "title": "Interesting Times",
@@ -1934,7 +2345,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/5FWdAqsIFMfJFRKJizn5e8"
  },
  {
+  "service": "spotify",
   "position": 150,
+  "page": 6,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/porcupine-tree/tarquins-seaweed-farm/",
   "title": "Tarquin's Seaweed Farm",
@@ -1948,7 +2362,10 @@
   "reason": "an artist named Porcupine Tree is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 151,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/prophecy-of-doom/insanity-reigns-supreme/",
   "title": "Insanity Reigns Supreme",
@@ -1962,7 +2379,10 @@
   "reason": "an artist named Prophecy of Doom is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 152,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/atrocity_f1/mangled/",
   "title": "Mangled",
@@ -1976,7 +2396,10 @@
   "reason": "an artist named Atrocity is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 153,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/terrorizer-nausea/split-demo-87_88/",
   "title": "Split Demo 87'/88'",
@@ -1991,7 +2414,10 @@
   "reason": "an artist named Terrorizer is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 154,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/various-artists/hardcore-holocaust-87-88-sessions/",
   "title": "Hardcore Holocaust: 87-88 Sessions",
@@ -2005,7 +2431,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 155,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/regurgitation/bathrooms-rule/",
   "title": "Bathrooms Rule",
@@ -2019,7 +2448,10 @@
   "reason": "an artist named Regurgitation is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 156,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/xysma/swarming-of-the-maggots/",
   "title": "Swarming of the Maggots",
@@ -2033,7 +2465,10 @@
   "reason": "an artist named Xysma is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 157,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/schismopathic/kharkharamaphatic-regurgitator/",
   "title": "Kharkharamaphatic Regurgitator",
@@ -2047,7 +2482,10 @@
   "reason": "an artist named SCHISMOPATHIC is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 158,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/dreadful/demo-1988/",
   "title": "Demo 1988",
@@ -2061,7 +2499,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 159,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/regurgitation/organic-backwash/",
   "title": "Organic Backwash",
@@ -2075,7 +2516,10 @@
   "reason": "an artist named Regurgitation is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 160,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/confident/schizophrenia-war-and-beer/",
   "title": "Schizophrenia, War and Beer",
@@ -2089,7 +2533,10 @@
   "reason": "an artist named Confident is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 161,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/anarchus/total_hate/",
   "title": "Total Hate",
@@ -2103,7 +2550,10 @@
   "reason": "an artist named Anarchus is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 162,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/blood/recognize-yourself/",
   "title": "Recognize Yourself",
@@ -2117,7 +2567,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 163,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/grimcorpses/demo/",
   "title": "Demo",
@@ -2131,7 +2584,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 164,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/toxic_and_toxic/pigmalionizm/",
   "title": "Pigmalionizm",
@@ -2145,7 +2601,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 166,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/necrobutcher/schizophrenic-christianity/",
   "title": "Schizophrenic Christianity",
@@ -2159,7 +2618,10 @@
   "reason": "an artist named Necrobutcher is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 167,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/slashing-death/irrevocably-and-with-no-hope/",
   "title": "Irrevocably and With No Hope",
@@ -2173,7 +2635,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 168,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/s_o_b-napalm-death/s_o_b-napalm-death/",
   "title": "S.O.B. / Napalm Death",
@@ -2188,7 +2653,10 @@
   "reason": "an artist named S.O.B. is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 169,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/ulcerous-phlegm/its-inside-your-guts/",
   "title": "It's Inside Your Guts",
@@ -2202,7 +2670,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 170,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/impetigo/giallo/",
   "title": "Giallo",
@@ -2216,7 +2687,10 @@
   "reason": "an artist named Impetigo is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 171,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/agathocles/cabbalic-gnosticism/",
   "title": "Cabbalic Gnosticism",
@@ -2230,7 +2704,10 @@
   "reason": "an artist named Agathocles is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 172,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/carcass/flesh-ripping-sonic-torment/",
   "title": "Flesh Ripping Sonic Torment",
@@ -2244,7 +2721,10 @@
   "reason": "an artist named Carcass is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 173,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/azagthoth/shredded-flesh/",
   "title": "Shredded Flesh",
@@ -2258,7 +2738,10 @@
   "reason": "an artist named Azathoth is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 174,
+  "page": 7,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/macabre/shit-list/",
   "title": "Shit List",
@@ -2272,7 +2755,10 @@
   "reason": "an artist named MACABRE is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 176,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/gg-allin/suicide-sessions/",
   "title": "Suicide Sessions",
@@ -2286,7 +2772,10 @@
   "reason": "an artist named GG Allin is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 178,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/weird-paul/in-case-of-fire-throw-this-in/",
   "title": "In Case of Fire Throw This In",
@@ -2300,7 +2789,10 @@
   "reason": "an artist named Weird Paul is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 179,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/excel/personal_onslaught/",
   "title": "Personal Onslaught",
@@ -2314,7 +2806,10 @@
   "reason": "an artist named Excel is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 180,
+  "page": 8,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/achwgha_ney_wodei/achwgha_ney_wodei/",
   "title": "Achwghâ Ney Wodei",
@@ -2329,7 +2824,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/4XRhYUnvTyPeLXUuEsnxfL"
  },
  {
+  "service": "spotify",
   "position": 181,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/kotsen/attack_of_the_savage_horde/",
   "title": "Attack of the Savage Horde",
@@ -2343,7 +2841,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 182,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/move/move-out-of-sight/",
   "title": "Move Out of Sight",
@@ -2357,7 +2858,10 @@
   "reason": "an artist named Move is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 183,
+  "page": 8,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/ep/godsend/godsend/",
   "title": "Godsend",
@@ -2372,7 +2876,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/2jHg2ovQDw3GhM7JZoHtEK"
  },
  {
+  "service": "spotify",
   "position": 184,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/bunker/bunker/",
   "title": "Bunker",
@@ -2386,7 +2893,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 185,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/little_nemo/past_and_future/",
   "title": "Past and Future",
@@ -2400,7 +2910,10 @@
   "reason": "no Spotify candidates passed validation"
  },
  {
+  "service": "spotify",
   "position": 186,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/ludus/pickpocket/",
   "title": "Pickpocket",
@@ -2414,7 +2927,10 @@
   "reason": "an artist named Ludus is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 187,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/altes-eisen/sehr-nett/",
   "title": "Sehr nett",
@@ -2428,7 +2944,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 188,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/weimar-gesang/our-silent-growth/",
   "title": "Our Silent Growth",
@@ -2442,7 +2961,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 189,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/blue_vomit/demo/",
   "title": "Demo",
@@ -2456,7 +2978,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 190,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/tabea-und-doris/durfen-doch-wohl-noch-apache-tanzen/",
   "title": "Dürfen doch wohl noch Apache tanzen",
@@ -2471,7 +2996,10 @@
   "reason": "an artist named Die Tödliche Doris is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 192,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/skating_for_cover/rituals/",
   "title": "Rituals",
@@ -2485,7 +3013,10 @@
   "reason": "an artist named Skating for Cover is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 193,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/die-todliche-doris/das-typische-ding/",
   "title": "Das typische Ding",
@@ -2499,7 +3030,10 @@
   "reason": "an artist named Die Tödliche Doris is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 194,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/datblygu/amheuon-corfforol/",
   "title": "Amheuon Corfforol",
@@ -2513,7 +3047,10 @@
   "reason": "an artist named Datblygu is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 195,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/bona-dish/on-c30/",
   "title": "On C30",
@@ -2527,7 +3064,10 @@
   "reason": "an artist named Bona Dish is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 197,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/electro-hippies/if-killing-babies-is-tight-killing-babies-for-profit-is-even-tighter/",
   "title": "If Killing Babies Is Tight... Killing Babies for Profit Is Even Tighter",
@@ -2541,7 +3081,10 @@
   "reason": "an artist named Electro Hippies is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 198,
+  "page": 8,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/ep/altercation/altercation/",
   "title": "Altercation",
@@ -2556,7 +3099,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/1l74PugleG59tYDYnz0wVt"
  },
  {
+  "service": "spotify",
   "position": 199,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/napalm-death/hatred-surge/",
   "title": "Hatred Surge",
@@ -2570,7 +3116,10 @@
   "reason": "an artist named Napalm Death is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 200,
+  "page": 8,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/hellbastard/ripper-crust/",
   "title": "Ripper Crust",
@@ -2584,7 +3133,10 @@
   "reason": "an artist named Hellbastard is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 201,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/bring-home-the-lobsters/bring-home-the-lobsters/",
   "title": "Bring Home the Lobsters",
@@ -2598,7 +3150,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 202,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/deficit-des-annees-anterieures/la-famille-des-saltimbanques/",
   "title": "La famille des saltimbanques",
@@ -2612,7 +3167,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 203,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/gate/fear-of-music-2/",
   "title": "Fear of Music",
@@ -2626,7 +3184,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 204,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/nox/acte-i/",
   "title": "Acte I",
@@ -2640,7 +3201,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 205,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the_fleshtones/blast_off_/",
   "title": "Blast Off!",
@@ -2654,7 +3218,10 @@
   "reason": "an artist named The Fleshtones is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 207,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ramleh/soundcheck-changeling/",
   "title": "Soundcheck Changeling",
@@ -2668,7 +3235,10 @@
   "reason": "an artist named Ramleh is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 208,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ivanov-down/best-urban-technical-noises/",
   "title": "Best Urban Technical Noises",
@@ -2682,7 +3252,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 210,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-dead-milkmen/death-rides-a-pale-cow/",
   "title": "Death Rides a Pale Cow",
@@ -2696,7 +3269,10 @@
   "reason": "an artist named The Dead Milkmen is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 212,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/инструкция-по-выживанию/смертное-1/",
   "title": "Смертное",
@@ -2710,7 +3286,10 @@
   "reason": "an artist named Инструкция по выживанию is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 213,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/the_silver/the_last_of_the_mohicans/",
   "title": "The Last of the Mohicans",
@@ -2724,7 +3303,10 @@
   "reason": "an artist named The Silver is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 214,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/tellus-10-all-guitars/",
   "title": "Tellus #10 - All Guitars!",
@@ -2738,7 +3320,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 215,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/various-artists/the-end-of-music-as-we-know-it/",
   "title": "The End of Music (As We Know It)",
@@ -2752,7 +3337,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 216,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sun-city-girls/hatchet-rain/",
   "title": "Hatchet Rain",
@@ -2766,7 +3354,10 @@
   "reason": "an artist named Sun City Girls is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 218,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ice_9_f1/ice_9___p_f_l_p_/",
   "title": "Ice 9 - P.F.L.P.",
@@ -2780,7 +3371,10 @@
   "reason": "an artist named Ice 9 is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 219,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/angelhead/eat/",
   "title": "Eat",
@@ -2794,7 +3388,10 @@
   "reason": "an artist named Angelhead is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 220,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/steel-pole-bath-tub/we-own-drrrills/",
   "title": "We Own Drrrills",
@@ -2808,7 +3405,10 @@
   "reason": "an artist named Steel Pole Bath Tub is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 221,
+  "page": 9,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/jabon/as-fess/",
   "title": "As Fess",
@@ -2823,7 +3423,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/2rYiL2mkdHn3yef1ukjGtY"
  },
  {
+  "service": "spotify",
   "position": 222,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/jacinthebox/wipe-the-multis/",
   "title": "Wipe The Multi's",
@@ -2837,7 +3440,10 @@
   "reason": "an artist named Jacinthebox is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 223,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/satans-pharynx/demo-83/",
   "title": "Demo '83",
@@ -2851,7 +3457,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 224,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/boredoms/boretronix-2/",
   "title": "Boretronix 2",
@@ -2865,7 +3474,10 @@
   "reason": "an artist named Boredoms is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 225,
+  "page": 9,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/cosmonauts-hail-satan/apollo-666/",
   "title": "Apollo 666",
@@ -2879,7 +3491,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 226,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ruinzhatova/ruins-hatoba/",
   "title": "Ruins-Hatoba",
@@ -2893,7 +3508,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 228,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sindy_arthur/what_about_/",
   "title": "What About?",
@@ -2907,7 +3525,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 230,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/blowhole-big-joey/blowhole-big-joey/",
   "title": "Blowhole / Big Joey",
@@ -2922,7 +3543,10 @@
   "reason": "an artist named Blowhole is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 231,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/various-artists/corrupt-postman/",
   "title": "Corrupt Postman",
@@ -2936,7 +3560,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 232,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/roovel_oobik/ilu/",
   "title": "Ilu",
@@ -2950,7 +3577,10 @@
   "reason": "an artist named Röövel Ööbik is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 233,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/wreck_small_speakers_on_expensive_stereos/a_childs_guide_to_wreck_small_speakers_on_expensive_stereos/",
   "title": "A Child's Guide to Wreck Small Speakers on Expensive Stereos",
@@ -2964,7 +3594,10 @@
   "reason": "an artist named Wreck Small Speakers On Expensive Stereos is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 234,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/various-artists/somethings-burning-in-paradise/",
   "title": "Something's Burning in Paradise",
@@ -2978,7 +3611,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 235,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/amanda/worship-me/",
   "title": "Worship Me",
@@ -2992,7 +3628,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 238,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-twins-rig-veeda/a-banana-fish-on-the-moon/",
   "title": "A Banana Fish on the Moon",
@@ -3007,7 +3646,10 @@
   "reason": "an artist named The Twins is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 239,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sandra-bell/dreams-of-falling-1/",
   "title": "Dreams of Falling",
@@ -3021,7 +3663,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 240,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/rig-veeda/callous-friends/",
   "title": "Callous Friends",
@@ -3035,7 +3680,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 242,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/少年ナイフ-shonen-knife/みんなたのしく/",
   "title": "みんなたのしく",
@@ -3049,7 +3697,10 @@
   "reason": "an artist named Shonen Knife is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 244,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-triffids/dungeon-tape/",
   "title": "Dungeon Tape",
@@ -3063,7 +3714,10 @@
   "reason": "an artist named The Triffids is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 245,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the_world_f2/seven_songs/",
   "title": "Seven Songs",
@@ -3077,7 +3731,10 @@
   "reason": "an artist named The World is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 246,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the_weeds_f1/pay_it_all_back/",
   "title": "Pay It All Back",
@@ -3091,7 +3748,10 @@
   "reason": "an artist named The Weeds is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 247,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/various-artists/berlincassette-2-86/",
   "title": "Berlincassette 2-86",
@@ -3105,7 +3765,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 248,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-rainyard/icecream-overdrive/",
   "title": "Icecream Overdrive",
@@ -3119,7 +3782,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 249,
+  "page": 10,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-go-team/archer-come-sparrow/",
   "title": "Archer Come Sparrow",
@@ -3133,7 +3799,10 @@
   "reason": "an artist named The Go! Team is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 251,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/emil/s_st_stammer/",
   "title": "S.St..Stammer",
@@ -3147,7 +3816,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 252,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ring/o-de-dun-dun/",
   "title": "O De Dun Dun",
@@ -3161,7 +3833,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 254,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/eskaton/4-visions/",
   "title": "4 visions",
@@ -3175,7 +3850,10 @@
   "reason": "an artist named Eskaton is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 255,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/轟かおる/uncle-calvins-private-life/",
   "title": "Uncle Calvin's Private Life",
@@ -3189,7 +3867,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 256,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/cheer-accident/life-isnt-like-that/",
   "title": "Life Isn't Like That",
@@ -3203,7 +3884,10 @@
   "reason": "an artist named Cheer-Accident is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 257,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/shub-niggurath/shub-niggurath/",
   "title": "Shub-Niggurath",
@@ -3217,7 +3901,10 @@
   "reason": "an artist named Shub Niggurath is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 258,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/цукор-—-біла-смерть-tsukor-—-bila-smert/манірна-музика/",
   "title": "Манірна музика",
@@ -3231,7 +3918,10 @@
   "reason": "an artist named Cukor Bila Smert' is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 259,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/this-heat-albert-marcoeur/this-heat-albert-marcoeur/",
   "title": "This Heat / Albert Marcœur",
@@ -3246,7 +3936,10 @@
   "reason": "an artist named This Heat is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 260,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/gaan/gaan/",
   "title": "Ga'an",
@@ -3260,7 +3953,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 261,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/panzerpappa/hulemysteriet/",
   "title": "Hulemysteriet",
@@ -3274,7 +3970,10 @@
   "reason": "an artist named Panzerpappa is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 262,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ピッキーピクニック/picnic-land/",
   "title": "Picnic Land",
@@ -3288,7 +3987,10 @@
   "reason": "an artist named Picky Picnic is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 263,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/steaming-coils/secret-messages-from-the-schrodinger-house/",
   "title": "Secret Messages from the Schrodinger House",
@@ -3302,7 +4004,10 @@
   "reason": "an artist named Steaming Coils is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 264,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-young-lions/small-world/",
   "title": "Small World",
@@ -3316,7 +4021,10 @@
   "reason": "an artist named The Young Lions is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 265,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/цукор-біла-смерть/selo/",
   "title": "Selo",
@@ -3330,7 +4038,10 @@
   "reason": "an artist named Cukor Bila Smert' is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 266,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/p-model/scuba/",
   "title": "Scuba",
@@ -3344,7 +4055,10 @@
   "reason": "an artist named P-MODEL is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 267,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/thinking-plague/moonsongs/",
   "title": "Moonsongs",
@@ -3358,7 +4072,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 269,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/la-1919-spontaneo/lenorme-tragedia/",
   "title": "L'enorme tragedia",
@@ -3372,7 +4089,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 270,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mordan-jaikel/true-history/",
   "title": "True History",
@@ -3386,7 +4106,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 272,
+  "page": 11,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/rascal-reporters/were-god/",
   "title": "We're God",
@@ -3401,7 +4124,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/6FFPBdGNgo4GTLGdlXfZbZ"
  },
  {
+  "service": "spotify",
   "position": 274,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/有頂天/because/",
   "title": "Because",
@@ -3415,7 +4141,10 @@
   "reason": "an artist named Uchoten is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 275,
+  "page": 11,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-two-felipes/eat-your-fill/",
   "title": "Eat Your Fill",
@@ -3429,7 +4158,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 277,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/bad-heaven/crystal-dagger/",
   "title": "Crystal Dagger",
@@ -3443,7 +4175,10 @@
   "reason": "an artist named BAD HEAVEN is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 278,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/stormbringer/stealer-of-souls/",
   "title": "Stealer of Souls",
@@ -3457,7 +4192,10 @@
   "reason": "an artist named Stormbringer is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 279,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/xandril/perfect-darkness/",
   "title": "Perfect Darkness",
@@ -3471,7 +4209,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 280,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/whetstone/ancient-metal/",
   "title": "Ancient Metal",
@@ -3485,7 +4226,10 @@
   "reason": "an artist named Whetstone is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 281,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/matthias-steele/haunting-tales-of-a-warriors-past/",
   "title": "Haunting Tales of a Warrior's Past",
@@ -3499,7 +4243,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 282,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/genocide/mass-genocide/",
   "title": "Mass Genocide",
@@ -3513,7 +4260,10 @@
   "reason": "an artist named Genocide is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 283,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/ice-age/general-alert/",
   "title": "General Alert",
@@ -3527,7 +4277,10 @@
   "reason": "an artist named Iceage is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 284,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/wotan_f3/welcome_to_the_asgard_kingdom/",
   "title": "Welcome to the Asgard Kingdom",
@@ -3541,7 +4294,10 @@
   "reason": "an artist named Wotan is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 285,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/jonah-quizz/demo-2/",
   "title": "Demo #2",
@@ -3555,7 +4311,10 @@
   "reason": "an artist named Jonah Quizz is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 286,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/iscariot/arisen/",
   "title": "Arisen",
@@ -3569,7 +4328,10 @@
   "reason": "an artist named Iscariot is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 287,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/outlander/demo/",
   "title": "Demo",
@@ -3583,7 +4345,10 @@
   "reason": "an artist named Outlander is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 289,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/stone-dagger/stone-dagger/",
   "title": "Stone Dagger",
@@ -3597,7 +4362,10 @@
   "reason": "an artist named Stone Dagger is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 290,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/black-sword-thunder-attack/in-hells-reign/",
   "title": "In Hell's Reign",
@@ -3611,7 +4379,10 @@
   "reason": "an artist named Black Sword Thunder Attack is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 292,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/forte/dementia-by-design/",
   "title": "Dementia by Design",
@@ -3625,7 +4396,10 @@
   "reason": "an artist named Forte is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 293,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/single/eternal-champion/war-at-the-edge-of-the-end/",
   "title": "War at the Edge of the End",
@@ -3639,7 +4413,10 @@
   "reason": "an artist named Eternal Champion is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 294,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/restless-breed/after-the-holocaust/",
   "title": "After the Holocaust",
@@ -3653,7 +4430,10 @@
   "reason": "an artist named Restless Breed is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 295,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/chalice/one-final-sin/",
   "title": "One Final Sin",
@@ -3667,7 +4447,10 @@
   "reason": "an artist named Chalice is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 296,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/ruthless-horde/ruthless-horde/",
   "title": "Ruthless Horde",
@@ -3681,7 +4464,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 297,
+  "page": 12,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/additional/altered-state/demo/",
   "title": "Demo",
@@ -3696,7 +4482,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/5KdTKJDhc9TO9RD48l460q"
  },
  {
+  "service": "spotify",
   "position": 298,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/barrow-wight/power-from-the-east/",
   "title": "Power From the East",
@@ -3710,7 +4499,10 @@
   "reason": "an artist named Barrow Wight is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 299,
+  "page": 12,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/ep/tribe_f11/tribe/",
   "title": "Tribe",
@@ -3725,7 +4517,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/4mDj2SHWoYPJnxhJldQd0G"
  },
  {
+  "service": "spotify",
   "position": 300,
+  "page": 12,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/tempter/lamentations/",
   "title": "Lamentations",
@@ -3739,7 +4534,10 @@
   "reason": "an artist named Tempter is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 301,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/final_prophecy_f1/beyond_reality/",
   "title": "Beyond Reality",
@@ -3753,7 +4551,10 @@
   "reason": "an artist named Final Prophecy is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 302,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/fulgor/to-be-one-with-the-stars/",
   "title": "To Be One With the Stars...",
@@ -3767,7 +4568,10 @@
   "reason": "an artist named Fulgor is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 304,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/morbid/december-moon/",
   "title": "December Moon",
@@ -3781,7 +4585,10 @@
   "reason": "an artist named Morbid is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 305,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/poison/sons-of-evil/",
   "title": "Sons of Evil",
@@ -3795,7 +4602,10 @@
   "reason": "an artist named Poison is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 306,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/навь/чертоги-смерти/",
   "title": "Чертоги смерти",
@@ -3809,7 +4619,10 @@
   "reason": "an artist named NAV is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 307,
+  "page": 13,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/moonblood/blut-and-krieg/",
   "title": "Blut & Krieg",
@@ -3824,7 +4637,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/58VQWoOHsArZj5pXi42lqz"
  },
  {
+  "service": "spotify",
   "position": 308,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/fullmoon/united-aryan-evil/",
   "title": "United Aryan Evil",
@@ -3838,7 +4654,10 @@
   "reason": "an artist named Fullmoon is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 309,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/ork/through-the-fight-i-ride/",
   "title": "Through the Fight, I Ride",
@@ -3852,7 +4671,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 311,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/belenos/notre-amour-eternel/",
   "title": "Notre amour éternel",
@@ -3866,7 +4688,10 @@
   "reason": "an artist named Belenos is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 312,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/grausamkeit/helveterich/",
   "title": "Helveterich",
@@ -3880,7 +4705,10 @@
   "reason": "an artist named Grausamkeit is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 313,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/blasphemy/blood-upon-the-altar/",
   "title": "Blood Upon the Altar",
@@ -3894,7 +4722,10 @@
   "reason": "an artist named Blasphemy is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 314,
+  "page": 13,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/branikald/рдяндалир/",
   "title": "Рдяндалир",
@@ -3909,7 +4740,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/34cOVzostvWskS5hfChx9d"
  },
  {
+  "service": "spotify",
   "position": 315,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/anubi/mirties-metafora/",
   "title": "Mirties Metafora",
@@ -3923,7 +4757,10 @@
   "reason": "an artist named Anübix is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 316,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/enormity/slaves-of-death/",
   "title": "Slaves of Death",
@@ -3937,7 +4774,10 @@
   "reason": "an artist named Enormity is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 317,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/shadowlore/embers-of-light-dying/",
   "title": "Embers of Light Dying",
@@ -3951,7 +4791,10 @@
   "reason": "an artist named Shadowlore is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 318,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/beelzebub/apotheosis/",
   "title": "Apotheosis",
@@ -3965,7 +4808,10 @@
   "reason": "an artist named Beelzebub is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 320,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/virgins-cunt/reborn-in-the-promethean-flame/",
   "title": "Reborn in the Promethean Flame",
@@ -3979,7 +4825,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 321,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/aurea-aetas/eszak/",
   "title": "Észak",
@@ -3993,7 +4842,10 @@
   "reason": "an artist named Aurea Aetas is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 323,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/malfeitor/pandemonium/",
   "title": "Pandemonium",
@@ -4007,7 +4859,10 @@
   "reason": "an artist named Malfeitor is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 324,
+  "page": 13,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/strid/end-of-life/",
   "title": "End of Life",
@@ -4021,7 +4876,10 @@
   "reason": "an artist named Strid is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 326,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/thy-grief/a-frozen-realm/",
   "title": "A Frozen Realm",
@@ -4035,7 +4893,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 327,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/vorphalack/in-the-sight-of-dragon/",
   "title": "In the Sight of Dragon",
@@ -4049,7 +4910,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 328,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/azhubham-haani/on-a-snowy-winter-night/",
   "title": "On a Snowy Winter Night",
@@ -4063,7 +4927,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 329,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/finsterwald/totaler-winter-und-krieg/",
   "title": "Totaler Winter und Krieg",
@@ -4077,7 +4944,10 @@
   "reason": "an artist named Finsterwald is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 330,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/dodfodd/besvarjelse-for-omvand-rekreation/",
   "title": "Besvärjelse för omvänd rekreation",
@@ -4091,7 +4961,10 @@
   "reason": "an artist named Dödfödd is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 331,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/von/satanic-blood/",
   "title": "Satanic Blood",
@@ -4105,7 +4978,10 @@
   "reason": "an artist named Von is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 332,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/goat-semen/goat-semen/",
   "title": "Goat Semen",
@@ -4119,7 +4995,10 @@
   "reason": "an artist named Goat Semen is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 333,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/lestregus-nosferatus/oh-come-all-ye-faithful-tonight-we-feast/",
   "title": "Oh Come All Ye Faithful... Tonight We Feast",
@@ -4133,7 +5012,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 334,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/marduk/fuck-me-jesus/",
   "title": "Fuck Me Jesus",
@@ -4147,7 +5029,10 @@
   "reason": "an artist named Marduk is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 335,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/winds-of-garden/dusze-martwych-drzew/",
   "title": "Dusze martwych drzew",
@@ -4161,7 +5046,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 336,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/graal/sigullum-naturae/",
   "title": "Sigullum Naturae",
@@ -4175,7 +5063,10 @@
   "reason": "an artist named Graal is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 337,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/wintermoon/rehearsal-demo-1_1995/",
   "title": "Rehearsal Demo 1/1995",
@@ -4189,7 +5080,10 @@
   "reason": "an artist named Wintermoon is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 338,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/murmuure/murmuure/",
   "title": "Murmuüre",
@@ -4203,7 +5097,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 340,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/torture-chain/mutilating-astral-entities/",
   "title": "Mutilating Astral Entities",
@@ -4217,7 +5114,10 @@
   "reason": "an artist named Torture Chain is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 341,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/axeman/arrive/",
   "title": "Arrive",
@@ -4231,7 +5131,10 @@
   "reason": "an artist named Axeman is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 343,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/cirrhus/live-rehearsal-may-2nd-2009/",
   "title": "Live Rehearsal May 2nd, 2009",
@@ -4245,7 +5148,10 @@
   "reason": "an artist named Cirrus is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 345,
+  "page": 14,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/additional/arnaut-pavle/arnaut-pavle/",
   "title": "Arnaut Pavle",
@@ -4260,7 +5166,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/1ehEZI5knKI8SJu8iiuMu5"
  },
  {
+  "service": "spotify",
   "position": 347,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/riviere-du-nord/mon-voyage-parmi-les-vivants/",
   "title": "Mon voyage parmi les vivants",
@@ -4274,7 +5183,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 349,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/yggtyrhyrkkh-hin-dystre/haevnfejde/",
   "title": "Hævnfejde",
@@ -4288,7 +5200,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 350,
+  "page": 14,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/troll/demo-94/",
   "title": "Demo '94",
@@ -4302,7 +5217,10 @@
   "reason": "an artist named Troll is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 351,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/wanderer/surrounded-by-these-firs/",
   "title": "Surrounded by These Firs",
@@ -4316,7 +5234,10 @@
   "reason": "an artist named Wanderer is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 352,
+  "page": 15,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/additional/slaughter/surrender-or-die/",
   "title": "Surrender or Die",
@@ -4331,7 +5252,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/5t3NngqwNpAxM4THPuQ0Xn"
  },
  {
+  "service": "spotify",
   "position": 353,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/sadus/death-to-posers/",
   "title": "Death to Posers",
@@ -4345,7 +5269,10 @@
   "reason": "an artist named Sadus is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 354,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/armoured-angel/communion/",
   "title": "Communion",
@@ -4359,7 +5286,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 355,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/damnation/speed-anarchy/",
   "title": "Speed Anarchy",
@@ -4373,7 +5303,10 @@
   "reason": "an artist named Damnation is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 356,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/antichrist/slaughter-in-hell/",
   "title": "Slaughter in Hell",
@@ -4387,7 +5320,10 @@
   "reason": "an artist named Antichrist is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 357,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/hellwitch/transgressive-sentience/",
   "title": "Transgressive Sentience",
@@ -4401,7 +5337,10 @@
   "reason": "an artist named Hellwitch is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 358,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/demolition-hammer/skull-fracturing-nightmare/",
   "title": "Skull Fracturing Nightmare",
@@ -4415,7 +5354,10 @@
   "reason": "an artist named Demolition Hammer is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 359,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/legacy/demo_1/",
   "title": "Demo:1",
@@ -4429,7 +5371,10 @@
   "reason": "an artist named Legacy is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 360,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/pentagram/demo-1/",
   "title": "Demo #1",
@@ -4443,7 +5388,10 @@
   "reason": "an artist named Pentagram is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 361,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/desecration/psycho/",
   "title": "Psycho",
@@ -4457,7 +5405,10 @@
   "reason": "an artist named Desecration is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 362,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/master-fury/hell-party/",
   "title": "Hell Party",
@@ -4471,7 +5422,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 363,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/voor/evil_metal/",
   "title": "Evil Metal",
@@ -4485,7 +5439,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 364,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/hellias/noc-potepienia/",
   "title": "Noc Potępienia",
@@ -4499,7 +5456,10 @@
   "reason": "an artist named Hellias is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 366,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/shower/brain_piracy/",
   "title": "Brain Piracy",
@@ -4513,7 +5473,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 367,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/treachery/innocent-bystanders/",
   "title": "Innocent Bystanders",
@@ -4527,7 +5490,10 @@
   "reason": "an artist named Treachery is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 368,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/morbid-scream/morbid-scream/",
   "title": "Morbid Scream",
@@ -4541,7 +5507,10 @@
   "reason": "an artist named Morbid Scream is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 369,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/prime-evil/the-manifestation/",
   "title": "The Manifestation",
@@ -4555,7 +5524,10 @@
   "reason": "an artist named Prime Evil is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 370,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/exmortis/descent-into-chaos/",
   "title": "Descent Into Chaos",
@@ -4569,7 +5541,10 @@
   "reason": "an artist named Exmortis is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 371,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/sindrome_f1/into_the_halls_of_extermination/",
   "title": "Into the Halls of Extermination",
@@ -4583,7 +5558,10 @@
   "reason": "an artist named Sindrome is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 372,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/pestilence/infected/",
   "title": "Infected",
@@ -4597,7 +5575,10 @@
   "reason": "an artist named Pestilence is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 373,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/terror/pain-and-suffering/",
   "title": "Pain and Suffering",
@@ -4611,7 +5592,10 @@
   "reason": "an artist named Terror is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 375,
+  "page": 15,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/lastwar/darkness-in-eden/",
   "title": "Darkness in Eden",
@@ -4625,7 +5609,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 376,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/amputation/achieve-the-mutilation/",
   "title": "Achieve the Mutilation",
@@ -4639,7 +5626,10 @@
   "reason": "an artist named Amputation is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 377,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/timeghoul/panaramic-twilight/",
   "title": "Panaramic Twilight",
@@ -4653,7 +5643,10 @@
   "reason": "an artist named Timeghoul is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 378,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/demilich/the-four-instructive-tales-of-decomposition/",
   "title": "The Four Instructive Tales... of Decomposition",
@@ -4667,7 +5660,10 @@
   "reason": "an artist named Demilich is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 379,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/abhoth/forever-to-be-vanished-there-in/",
   "title": "Forever to Be Vanished There In",
@@ -4681,7 +5677,10 @@
   "reason": "an artist named Abhoth is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 380,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/dr-shrinker/wedding-the-grotesque/",
   "title": "Wedding the Grotesque",
@@ -4695,7 +5694,10 @@
   "reason": "an artist named Dr. Shrinker is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 381,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/carnage/the-day-man-lost/",
   "title": "The Day Man Lost...",
@@ -4709,7 +5711,10 @@
   "reason": "an artist named Carnage is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 382,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/dead/musical-abortions/",
   "title": "Musical Abortions",
@@ -4723,7 +5728,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 383,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/arghoslent/arsenal-of-glory/",
   "title": "Arsenal of Glory",
@@ -4737,7 +5745,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 384,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/agonized/gods/",
   "title": "Gods...",
@@ -4751,7 +5762,10 @@
   "reason": "an artist named Agonized is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 385,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/maimed/demo-1-91/",
   "title": "Demo #1 91'",
@@ -4765,7 +5779,10 @@
   "reason": "an artist named Maimed is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 386,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/demigod/unholy-domain/",
   "title": "Unholy Domain",
@@ -4779,7 +5796,10 @@
   "reason": "an artist named Demigod is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 387,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/incubus/incubus/",
   "title": "Incubus",
@@ -4793,7 +5813,10 @@
   "reason": "an artist named Incubus is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 388,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/imprecation/ceremony-of-the-nine-angles/",
   "title": "Ceremony of the Nine Angles",
@@ -4807,7 +5830,10 @@
   "reason": "an artist named Imprecation is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 389,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/nihilist/premature-autopsy/",
   "title": "Premature Autopsy",
@@ -4821,7 +5847,10 @@
   "reason": "an artist named Nihilist is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 390,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/interment/where-death-will-increase/",
   "title": "Where Death Will Increase",
@@ -4835,7 +5864,10 @@
   "reason": "an artist named Interment is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 391,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/morbid-angel/thy-kingdom-come/",
   "title": "Thy Kingdom Come",
@@ -4849,7 +5881,10 @@
   "reason": "an artist named Morbid Angel is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 392,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/nirvana-2002/disembodied-spirits/",
   "title": "Disembodied Spirits",
@@ -4863,7 +5898,10 @@
   "reason": "an artist named Nirvana 2002 is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 393,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/convulse/resuscitation-of-evilness/",
   "title": "Resuscitation of Evilness",
@@ -4877,7 +5915,10 @@
   "reason": "an artist named Convulse is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 394,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/grave/sexual-mutilation/",
   "title": "Sexual Mutilation",
@@ -4891,7 +5932,10 @@
   "reason": "an artist named Gravey is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 396,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/r_a_v_a_g_e/on-we-slay/",
   "title": "On We Slay",
@@ -4905,7 +5949,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 397,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/eructation/eructation/",
   "title": "Eructation",
@@ -4919,7 +5966,10 @@
   "reason": "an artist named Eructation is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 398,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/iron-warrior/thy-deadly-illusion/",
   "title": "Thy Deadly Illusion",
@@ -4933,7 +5983,10 @@
   "reason": "an artist named Iron Warriors is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 399,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/funeral_bitch/funeral_bitch/",
   "title": "Funeral Bitch",
@@ -4947,7 +6000,10 @@
   "reason": "an artist named Funeral Bitch is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 400,
+  "page": 16,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/innsmouth/the-departure-of-shub-niggurath/",
   "title": "The Departure of Shub-Niggurath",
@@ -4961,7 +6017,10 @@
   "reason": "an artist named Innsmouth is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 401,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/majesty_f4/bestial_vomit/",
   "title": "Bestial Vomit",
@@ -4975,7 +6034,10 @@
   "reason": "an artist named Majesty is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 402,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/maggoty-corpse/baptisma/",
   "title": "Baptisma",
@@ -4989,7 +6051,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 403,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/putrefaction/painful-death/",
   "title": "Painful Death",
@@ -5003,7 +6068,10 @@
   "reason": "an artist named Putrefaction is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 406,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/enormity/slaves-of-death/",
   "title": "Slaves of Death",
@@ -5017,7 +6085,10 @@
   "reason": "an artist named Enormity is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 407,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/phlegethon/neutral-forest/",
   "title": "Neutral Forest",
@@ -5031,7 +6102,10 @@
   "reason": "an artist named Phlegethon is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 408,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/revokation/reincarnated-souls-of-hell/",
   "title": "Reincarnated Souls of Hell",
@@ -5045,7 +6119,10 @@
   "reason": "an artist named Revocation is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 409,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/regredior/born-in-the-coffin/",
   "title": "Born in the Coffin",
@@ -5059,7 +6136,10 @@
   "reason": "an artist named Regredior is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 410,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/exmortis/descent-into-chaos/",
   "title": "Descent Into Chaos",
@@ -5073,7 +6153,10 @@
   "reason": "an artist named Exmortis is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 412,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/cartilage/in-godly-flesh/",
   "title": "In Godly Flesh",
@@ -5087,7 +6170,10 @@
   "reason": "an artist named Cartilage is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 413,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/lividity/rejoice-in-morbidity/",
   "title": "Rejoice in Morbidity",
@@ -5101,7 +6187,10 @@
   "reason": "an artist named Lividity is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 414,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/corpse-molestation/descension-of-a-darker-deity/",
   "title": "Descension of a Darker Deity",
@@ -5115,7 +6204,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 415,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/disgrace/inside-the-labyrinth-of-depression/",
   "title": "Inside the Labyrinth of Depression",
@@ -5129,7 +6221,10 @@
   "reason": "an artist named Disgrace is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 416,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/corpsevomit/gathering_chemical_children/",
   "title": "Gathering Chemical Children",
@@ -5143,7 +6238,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 417,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/derketa/the-unholy-ground/",
   "title": "The Unholy Ground",
@@ -5157,7 +6255,10 @@
   "reason": "an artist named Derketa is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 418,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/amputation/achieve-the-mutilation/",
   "title": "Achieve the Mutilation",
@@ -5171,7 +6272,10 @@
   "reason": "an artist named Amputation is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 419,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/swallowed/epitaph_of_nauseation/",
   "title": "Epitaph of Nauseation",
@@ -5185,7 +6289,10 @@
   "reason": "an artist named Swallowed is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 420,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/desultory/death-unfolds/",
   "title": "Death Unfolds",
@@ -5199,7 +6306,10 @@
   "reason": "an artist named Desultory is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 421,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/contagion/subconscious-projection/",
   "title": "Subconscious Projection",
@@ -5213,7 +6323,10 @@
   "reason": "an artist named Contagion is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 422,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/devastation/a-re-creation-of-ripping-death/",
   "title": "A Re-Creation of Ripping Death",
@@ -5227,7 +6340,10 @@
   "reason": "an artist named Devastation is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 423,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/divine-eve/the-last-of-the-sunset-faded/",
   "title": "The Last of the Sunset Faded",
@@ -5241,7 +6357,10 @@
   "reason": "an artist named Divine Eve is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 424,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/dark-abbey/blasphemy/",
   "title": "Blasphemy",
@@ -5255,7 +6374,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 425,
+  "page": 17,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/additional/goreaphobia/morbidious-pathology/",
   "title": "Morbidious Pathology",
@@ -5269,7 +6391,10 @@
   "reason": "an artist named Goreaphobia is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 428,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/big-city-orchestra/daydreams-of-night/",
   "title": "Daydreams of Night",
@@ -5283,7 +6408,10 @@
   "reason": "an artist named Big City Orchestra is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 429,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/kleistwahr/myth/",
   "title": "Myth",
@@ -5297,7 +6425,10 @@
   "reason": "an artist named Kleistwahr is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 430,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/deathranch/a_prisoner/",
   "title": "A Prisoner",
@@ -5311,7 +6442,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 431,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/pure/fetor/",
   "title": "Fetor",
@@ -5325,7 +6459,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 432,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/lxss/twist_and_decease/",
   "title": "Twist and Decease",
@@ -5339,7 +6476,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 433,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/esplendor_geometrico/en_directo__madrid_y_tolosa/",
   "title": "En directo: Madrid y Tolosa",
@@ -5353,7 +6493,10 @@
   "reason": "an artist named Esplendor Geométrico is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 435,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/consumer-electronics/public-attack-3/",
   "title": "Public Attack 3",
@@ -5367,7 +6510,10 @@
   "reason": "an artist named Consumer Electronics is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 436,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/sex-and-bestiality/",
   "title": "Sex & Bestiality",
@@ -5381,7 +6527,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 437,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/music-the-world-does-not-see/",
   "title": "Music the World Does Not See",
@@ -5395,7 +6544,10 @@
   "reason": "an artist named Various Artists is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 438,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/keller/sizzling/",
   "title": "Sizzling!",
@@ -5409,7 +6561,10 @@
   "reason": "an artist named KELLER! is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 439,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/kiilo-radical/denki-noise-dance/",
   "title": "Denki Noise Dance",
@@ -5423,7 +6578,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 440,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/alien_brains/iv/",
   "title": "IV",
@@ -5437,7 +6595,10 @@
   "reason": "an artist named Alien Brains is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 441,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/club-moral/mit-neuen-waffen/",
   "title": "Mit neuen Waffen",
@@ -5451,7 +6612,10 @@
   "reason": "an artist named Club Moral is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 442,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/m__b_/endometrio/",
   "title": "Endometrio",
@@ -5465,7 +6629,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 443,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/brume/accident-de-chasse/",
   "title": "Accident de chasse",
@@ -5479,7 +6646,10 @@
   "reason": "an artist named Brume is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 445,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/doxa-sinistra/conveyer-belt/",
   "title": "Conveyer-Belt",
@@ -5493,7 +6663,10 @@
   "reason": "an artist named Doxa Sinistra is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 446,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/storm_bugs/a_safe_substitute/",
   "title": "A Safe Substitute",
@@ -5507,7 +6680,10 @@
   "reason": "an artist named Storm Bugs is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 447,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/total/hard-low/",
   "title": "Hard + Low",
@@ -5521,7 +6697,10 @@
   "reason": "an artist named Total is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 448,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/maybe-mental/lotuses-on-fire/",
   "title": "Lotuses on Fire",
@@ -5535,7 +6714,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 449,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/schloss-tegal/the-soul-extinguished/",
   "title": "The Soul Extinguished",
@@ -5549,7 +6731,10 @@
   "reason": "an artist named Schloss Tegal is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 450,
+  "page": 18,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/un-departement/un-departement/",
   "title": "Un Département",
@@ -5563,7 +6748,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 451,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mauthausen-orchestra/necrofellatio-1/",
   "title": "Necrofellatio",
@@ -5577,7 +6765,10 @@
   "reason": "an artist named Mauthausen Orchestra is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 452,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/s_m__nurse/s_m__nurse/",
   "title": "S.M. Nurse",
@@ -5591,7 +6782,10 @@
   "reason": "an artist named S.M. Nurse is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 453,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/single/thomas_leer/private_plane___international/",
   "title": "Private Plane / International",
@@ -5605,7 +6799,10 @@
   "reason": "an artist named Thomas Leer is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 454,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/algebra-suicide/big-skin/",
   "title": "Big Skin",
@@ -5619,7 +6816,10 @@
   "reason": "an artist named Algebra Suicide is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 455,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/analyse-logique-folle-coche/one-touch/",
   "title": "One Touch",
@@ -5634,7 +6834,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 457,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-dadacomputer/the-dadacomputer/",
   "title": "The Dadacomputer",
@@ -5648,7 +6851,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 458,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/cyrnai-dan-joseph/hypno-seizure/",
   "title": "Hypno-Seizure",
@@ -5663,7 +6869,10 @@
   "reason": "an artist named Cyrnai is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 459,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/bearburger/the-bearburger/",
   "title": "The Bearburger",
@@ -5677,7 +6886,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 460,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/invivo/b_b_b_/",
   "title": "B.B.B.",
@@ -5691,7 +6903,10 @@
   "reason": "an artist named In Vivo is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 461,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/der-lustige-musikant/huch/",
   "title": "Huch!",
@@ -5705,7 +6920,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 462,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sympathy-nervous/no-more-expo/",
   "title": "No More Expo",
@@ -5719,7 +6937,10 @@
   "reason": "an artist named Sympathy Nervous is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 463,
+  "page": 19,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/atelier-du-mal/noblesse-oblige-2/",
   "title": "Noblesse Oblige",
@@ -5734,7 +6955,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/6JcRw58zeh03fRjxeMUoOp"
  },
  {
+  "service": "spotify",
   "position": 464,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/bodenpersonal/produkt_eines_langweiligen_wochenendes/",
   "title": "Produkt eines langweiligen Wochenendes",
@@ -5748,7 +6972,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 465,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/borghesia/clones/",
   "title": "Clones",
@@ -5762,7 +6989,10 @@
   "reason": "an artist named Borghesia is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 466,
+  "page": 19,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/intolerance/intolerance/",
   "title": "Intolerance",
@@ -5777,7 +7007,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/1uamwThIWlnwB1JWxOKpAh"
  },
  {
+  "service": "spotify",
   "position": 467,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/kiilo-radical/denki-noise-dance/",
   "title": "Denki Noise Dance",
@@ -5791,7 +7024,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 468,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the_klingons/analog___digital/",
   "title": "Analog - Digital",
@@ -5805,7 +7041,10 @@
   "reason": "an artist named The Klingons is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 469,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/nsrd/kuncendorfs-un-osendovskis/",
   "title": "Kuncendorfs un Osendovskis",
@@ -5819,7 +7058,10 @@
   "reason": "an artist named NSRD is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 470,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/van-kaye-ignit/a-slight-delay/",
   "title": "A Slight Delay",
@@ -5833,7 +7075,10 @@
   "reason": "an artist named Van Kaye & Ignit is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 471,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/absolute-body-control/absolute-body-control/",
   "title": "Absolute Body Control",
@@ -5847,7 +7092,10 @@
   "reason": "an artist named Absolute Body Control is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 473,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/co_mix/co_mix/",
   "title": "Co-Mix",
@@ -5861,7 +7109,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 474,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/electrodomesticos/carreras-de-exitos/",
   "title": "Carreras de éxitos",
@@ -5875,7 +7126,10 @@
   "reason": "an artist named Electrodomésticos is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 475,
+  "page": 19,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/incredible_coop/annalogics/",
   "title": "AnnaLogics",
@@ -5889,7 +7143,10 @@
   "reason": "an artist named Incredible Coöp is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 476,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/das-ding/highly-sophisticated-technological-achievement-1/",
   "title": "Highly Sophisticated Technological Achievement",
@@ -5903,7 +7160,10 @@
   "reason": "an artist named Das Ding is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 477,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mo・te/life-in-a-peaceful-new-world-2/",
   "title": "Life in a Peaceful New World",
@@ -5917,7 +7177,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 478,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/torturing-nurse/eerie/",
   "title": "Eerie",
@@ -5931,7 +7194,10 @@
   "reason": "an artist named Torturing Nurse is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 479,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/diamond-catalog/we-are-138-bpm/",
   "title": "We Are 138 BPM",
@@ -5945,7 +7211,10 @@
   "reason": "an artist named Diamond Catalog is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 480,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/m_s_b_r/structured-suicide/",
   "title": "Structured Suicide",
@@ -5959,7 +7228,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 481,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/incapacitants/d_d_d_d-destroy-devastating-and-disgusting-derivatives/",
   "title": "D.D.D.D. (Destroy Devastating and Disgusting Derivatives)",
@@ -5973,7 +7245,10 @@
   "reason": "an artist named Incapacitants is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 482,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/monde-bruits/portuguese-man-of-war/",
   "title": "Portuguese Man-of-War",
@@ -5987,7 +7262,10 @@
   "reason": "an artist named Monde Bruits is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 483,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/k2/autopsy-soundtrakks/",
   "title": "Autopsy Soundtrakks",
@@ -6001,7 +7279,10 @@
   "reason": "an artist named K2 is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 484,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/aaron-dilloway/corpse-on-horseback/",
   "title": "Corpse on Horseback",
@@ -6015,7 +7296,10 @@
   "reason": "an artist named Aaron Dilloway is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 485,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/total/hard-low/",
   "title": "Hard + Low",
@@ -6029,7 +7313,10 @@
   "reason": "an artist named Total is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 486,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/leslie_singer/confessions_of_a_shit_addict/",
   "title": "Confessions of a Shit Addict",
@@ -6043,7 +7330,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 487,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ahlzagailzehguh/black-destination/",
   "title": "Black Destination",
@@ -6057,7 +7347,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 488,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-gero-p/the-gero-p/",
   "title": "The Gero-P",
@@ -6071,7 +7364,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 490,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/grunt/europe-after-storm/",
   "title": "Europe After Storm",
@@ -6085,7 +7381,10 @@
   "reason": "an artist named GRÜNT is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 491,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/wolf-eyes/slicer/",
   "title": "Slicer",
@@ -6099,7 +7398,10 @@
   "reason": "an artist named Wolf Eyes is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 492,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/masonna/like-a-vagina/",
   "title": "Like a Vagina",
@@ -6113,7 +7415,10 @@
   "reason": "an artist named Masonna is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 493,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/male-rape-group/on-to-83/",
   "title": "On to 83",
@@ -6127,7 +7432,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 494,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/navicon-torture-technologies/the-church-of-dead-girls/",
   "title": "The Church of Dead Girls",
@@ -6141,7 +7449,10 @@
   "reason": "an artist named Navicon Torture Technologies is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 495,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mania-the-rita/true-ass-worship/",
   "title": "True Ass Worship",
@@ -6156,7 +7467,10 @@
   "reason": "an artist named Maniac is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 496,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/aube/imagery-resonance/",
   "title": "Imagery Resonance",
@@ -6170,7 +7484,10 @@
   "reason": "an artist named Aube is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 497,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sewer-election/sex-death/",
   "title": "Sex Death",
@@ -6184,7 +7501,10 @@
   "reason": "an artist named Sewer Election is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 498,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/karasyozoku/mischievous-sigyn-1923/",
   "title": "Mischievous Sigyn 1923",
@@ -6198,7 +7518,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 499,
+  "page": 20,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/free-agents/f3_33/",
   "title": "£3.33",
@@ -6213,7 +7536,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/1WpLNlXq1BmHcYLi5EPaeV"
  },
  {
+  "service": "spotify",
   "position": 500,
+  "page": 20,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/black-leather-jesus/torture-machinist/",
   "title": "Torture Machinist",
@@ -6227,7 +7553,10 @@
   "reason": "an artist named Black Leather Jesus is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 501,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/macronympha/grind/",
   "title": "Grind",
@@ -6241,7 +7570,10 @@
   "reason": "an artist named Macronympha is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 504,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ariel-kalma/music-for-dream-and-love/",
   "title": "Music for Dream and Love",
@@ -6255,7 +7587,10 @@
   "reason": "no Spotify candidates passed validation"
  },
  {
+  "service": "spotify",
   "position": 506,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/alice-coltrane-turiyasangitananda/divine-songs/",
   "title": "Divine Songs",
@@ -6269,7 +7604,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 507,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/venn_rain/place_in_world/",
   "title": "Place in World",
@@ -6283,7 +7621,10 @@
   "reason": "an artist named Venn Rain is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 508,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/panabrite/wind-rider/",
   "title": "Wind Rider",
@@ -6297,7 +7638,10 @@
   "reason": "an artist named Panabrite is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 509,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/pospulenn/sun-people-sleepwalker/",
   "title": "Sun People Sleepwalker",
@@ -6311,7 +7655,10 @@
   "reason": "an artist named Pospulenn is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 510,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/25_000_kittens/25_000_kittens/",
   "title": "25,000 kittens",
@@ -6325,7 +7672,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 511,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/thoughts-on-air/lazy-haze/",
   "title": "Lazy Haze",
@@ -6339,7 +7689,10 @@
   "reason": "an artist named Thoughts on Air is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 512,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/don-slepian/sea-of-bliss-3/",
   "title": "Sea of Bliss",
@@ -6353,7 +7706,10 @@
   "reason": "no Spotify candidates passed validation"
  },
  {
+  "service": "spotify",
   "position": 514,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/iasos/jeweled-space/",
   "title": "Jeweled Space",
@@ -6367,7 +7723,10 @@
   "reason": "no Spotify candidates passed validation"
  },
  {
+  "service": "spotify",
   "position": 515,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/michael-trew/dolphin-celebration/",
   "title": "Dolphin Celebration",
@@ -6381,7 +7740,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 516,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/paul-warner/the-interplanetary-voyage-to-arcturus-and-other-compositions/",
   "title": "The Interplanetary Voyage to Arcturus and Other Compositions",
@@ -6395,7 +7757,10 @@
   "reason": "an artist named Paul Werner is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 518,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/joanna-brouk/the-healing-touch/",
   "title": "The Healing Touch",
@@ -6409,7 +7774,10 @@
   "reason": "an artist named Joanna Brouk is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 519,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mirage/crystal-silence/",
   "title": "Crystal Silence",
@@ -6423,7 +7791,10 @@
   "reason": "an artist named Mirage is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 520,
+  "page": 21,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/k-leimer/music-for-land-and-water/",
   "title": "Music for Land and Water",
@@ -6438,7 +7809,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/00S80z2U86OxFW7FuCe1Dk"
  },
  {
+  "service": "spotify",
   "position": 522,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/shining-lotus/mountain-magic/",
   "title": "Mountain Magic",
@@ -6452,7 +7826,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 524,
+  "page": 21,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/robert-slap/aquamarine/",
   "title": "Aquamarine",
@@ -6466,7 +7843,10 @@
   "reason": "an artist named Robert Slap is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 527,
+  "page": 22,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/lashtal/thoum-aesh-neith/",
   "title": "Thoum Aesh Neith",
@@ -6481,7 +7861,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/3dEy0wazRELYcva9DrHcUr"
  },
  {
+  "service": "spotify",
   "position": 528,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/raksha-mancham/the-way-of-dead-indians/",
   "title": "The Way of Dead Indians",
@@ -6495,7 +7878,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 529,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/bernard-c-prince-emile-de-ly-de-magneville/les-chants-revolutionnaires-les-jardins-despagne/",
   "title": "Les chants révolutionnaires / Les jardins d'Espagne",
@@ -6510,7 +7896,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 530,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/minoy/the-art-of-egyptian-bathing/",
   "title": "The Art of Egyptian Bathing",
@@ -6524,7 +7913,10 @@
   "reason": "an artist named Minóy is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 531,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/zero-kama/the-secret-eye-of-l_a_y_l_a_h/",
   "title": "The Secret Eye of L.A.Y.L.A.H.",
@@ -6538,7 +7930,10 @@
   "reason": "an artist named Zero Kama is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 532,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sigillum-s/bardo-thos-grol/",
   "title": "Bardo Thos-Grol",
@@ -6552,7 +7947,10 @@
   "reason": "an artist named Sigillum S is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 533,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/raison-detre-svasti-ayanam/the-ring-of-isvarah/",
   "title": "The Ring of Isvarah",
@@ -6567,7 +7965,10 @@
   "reason": "an artist named Raison D'être is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 534,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/dusa/segermannen/",
   "title": "Segermännen",
@@ -6581,7 +7982,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 535,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/klaus-wiese/maraccaba-3/",
   "title": "Maraccaba",
@@ -6595,7 +7999,10 @@
   "reason": "no Spotify candidates passed validation"
  },
  {
+  "service": "spotify",
   "position": 537,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/life-garden/caught-between-the-tapestry-of-silence-and-beauty/",
   "title": "Caught Between the Tapestry of Silence and Beauty",
@@ -6609,7 +8016,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 538,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/crash-worship/this/",
   "title": "This",
@@ -6623,7 +8033,10 @@
   "reason": "an artist named Crash Worship is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 540,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/metamorphosis/conception-1982/",
   "title": "Conception 1982",
@@ -6637,7 +8050,10 @@
   "reason": "an artist named Metamorphosis is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 541,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/deadline_paranoia/kali/",
   "title": "Kali",
@@ -6651,7 +8067,10 @@
   "reason": "an artist named Deadline Paranoia is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 542,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/halo-manash/par-antra-i-vir/",
   "title": "Par-Antra I: VIR",
@@ -6665,7 +8084,10 @@
   "reason": "an artist named Halo Manash is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 543,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/drahcir-ztiworoh/eros-in-arabia/",
   "title": "Eros in Arabia",
@@ -6679,7 +8101,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 544,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/xiphiidae/natures-mystic-apparition-of-time/",
   "title": "Nature's Mystic Apparition of Time",
@@ -6693,7 +8118,10 @@
   "reason": "an artist named Xiphiidae is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 545,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/voice_of_eye/voice_of_eye/",
   "title": "Voice of Eye",
@@ -6707,7 +8135,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 546,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/atrocious-neighbour-obsidian-pond-komodo-haunts/secondary-efflorescence-on-the-dam-of-the-robert-moses-niagara-hydroelectric-power-station/",
   "title": "Secondary Efflorescence on the Dam of the Robert Moses Niagara Hydroelectric Power Station",
@@ -6723,7 +8154,10 @@
   "reason": "an artist named Obsidian Pond is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 547,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/bear-bones-lay-low/vagaciones-ii/",
   "title": "Vagaciones II",
@@ -6737,7 +8171,10 @@
   "reason": "an artist named Bear Bones, Lay Low is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 550,
+  "page": 22,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/josh_millrod/chasing_ghosts/",
   "title": "Chasing Ghosts",
@@ -6751,7 +8188,10 @@
   "reason": "an artist named Josh Millrod is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 551,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/kano/runes/",
   "title": "Runes",
@@ -6765,7 +8205,10 @@
   "reason": "no Spotify candidates passed validation"
  },
  {
+  "service": "spotify",
   "position": 552,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/omit/quad-2/",
   "title": "Quad",
@@ -6779,7 +8222,10 @@
   "reason": "an artist named Omit is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 553,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/organum/vacant-lights/",
   "title": "Vacant Lights",
@@ -6793,7 +8239,10 @@
   "reason": "an artist named Organum is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 554,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/les-joyaux-de-la-princesse-death-in-june/ostenbraun/",
   "title": "Östenbräun",
@@ -6808,7 +8257,10 @@
   "reason": "an artist named Les Joyaux De La Princesse is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 555,
+  "page": 23,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/vox-populi/half-dead-ganja-music/",
   "title": "Half Dead Ganja Music",
@@ -6823,7 +8275,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/6nagIMBwAF0Lv6T9CpeqEy"
  },
  {
+  "service": "spotify",
   "position": 556,
+  "page": 23,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/action_figures_f1/action_figures/",
   "title": "Action Figures",
@@ -6838,7 +8293,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/1Yzc0Aopw7tjQFY4un76qm"
  },
  {
+  "service": "spotify",
   "position": 557,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/_zoviet_france/gesture-signal-threat/",
   "title": "Gesture Signal Threat",
@@ -6852,7 +8310,10 @@
   "reason": "an artist named :zoviet*france: is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 559,
+  "page": 23,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/ain_soph/ars_regia/",
   "title": "Ars Regia",
@@ -6867,7 +8328,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/6jmB67LnESZ9xJKzLIm8FW"
  },
  {
+  "service": "spotify",
   "position": 560,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/capricorni-pneumatici/nibbas/",
   "title": "Nibbas",
@@ -6881,7 +8345,10 @@
   "reason": "an artist named Capricorni Pneumatici is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 561,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/abraxas_f7/hexe/",
   "title": "Hexe",
@@ -6895,7 +8362,10 @@
   "reason": "an artist named ABRAXAS is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 562,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/the-legendary-pink-dots/four-days/",
   "title": "Four Days",
@@ -6909,7 +8379,10 @@
   "reason": "an artist named The Legendary Pink Dots is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 563,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/maeror-tri/ambient-dreams/",
   "title": "Ambient Dreams",
@@ -6923,7 +8396,10 @@
   "reason": "an artist named Maeror Tri is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 565,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sigillum-s/trance-flexure/",
   "title": "Trance Flexure",
@@ -6937,7 +8413,10 @@
   "reason": "an artist named Sigillum S is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 566,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/thelema/rosa-croce/",
   "title": "Rosa + Croce",
@@ -6951,7 +8430,10 @@
   "reason": "an artist named Thelema is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 567,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/controlled-bleeding/sense-may-come/",
   "title": "Sense May Come",
@@ -6965,7 +8447,10 @@
   "reason": "an artist named Controlled Bleeding is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 568,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/order-1968/il-giardino-delle-rune/",
   "title": "Il giardino delle rune",
@@ -6979,7 +8464,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 569,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/lyke-wake/the-long-last-dream/",
   "title": "The Long Last Dream",
@@ -6993,7 +8481,10 @@
   "reason": "an artist named Lyke Wake is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 570,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/maeror-tri/archaic-states-1/",
   "title": "Archaic States",
@@ -7007,7 +8498,10 @@
   "reason": "an artist named Maeror Tri is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 571,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/jim-orourke/it-takes-time-to-do-nothing/",
   "title": "It Takes Time to Do Nothing",
@@ -7021,7 +8515,10 @@
   "reason": "an artist named Jim O'Rourke is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 572,
+  "page": 23,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/bad-sector/dolmen-factory/",
   "title": "Dolmen Factory",
@@ -7036,7 +8533,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/5Vx2jAhQsgYLX7BjULLAiY"
  },
  {
+  "service": "spotify",
   "position": 573,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/cranioclast/cris_con_tala/",
   "title": "Cris Con Tala",
@@ -7050,7 +8550,10 @@
   "reason": "an artist named Cranioclast is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 574,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/zwickau/vincit_omnia_veritas/",
   "title": "Vincit omnia veritas",
@@ -7064,7 +8567,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 575,
+  "page": 23,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/yen-pox/yen-pox/",
   "title": "Yen Pox",
@@ -7078,7 +8584,10 @@
   "reason": "an artist named Yen Pox is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 576,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/asunta/landscapes-4/",
   "title": "Landscapes",
@@ -7092,7 +8601,10 @@
   "reason": "an artist named Asuntar is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 577,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/dj-yo-yo-dieting/dormant-mirrors-drum/",
   "title": "Dormant Mirrors / Drum",
@@ -7106,7 +8618,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 578,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/c-l-e-a-n-e-r-s/real-raga-shit-vol-1/",
   "title": "Real Raga Shit Vol. 1",
@@ -7120,7 +8635,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 579,
+  "page": 24,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/dem-hunger/caveman-smack/",
   "title": "Caveman Smack",
@@ -7135,7 +8653,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/5u5SY5Xj5281hkaaEV0gDS"
  },
  {
+  "service": "spotify",
   "position": 580,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/pit-piccinelli-fred-gales-walter-maioli/amazonia-6891-sounds-from-jungle-natural-objects-echo-and-electronic-waves/",
   "title": "Amazonia 6891: Sounds From Jungle, Natural Objects, Echo and Electronic Waves",
@@ -7151,7 +8672,10 @@
   "reason": "an artist named Fred Gales is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 581,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/dsip/abduction-of-mind/",
   "title": "Abduction of Mind",
@@ -7165,7 +8689,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 582,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/dinosaurs-with-horns/dinosaurs-with-horns/",
   "title": "Dinosaurs With Horns",
@@ -7179,7 +8706,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 584,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/kot-kot/кунь/",
   "title": "Кунь",
@@ -7193,7 +8723,10 @@
   "reason": "an artist named Kot Kot is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 586,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/position_normal/position_normal/",
   "title": "Position Normal",
@@ -7207,7 +8740,10 @@
   "reason": "an artist named Position Normal is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 587,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/agog/magnetic-phenomena-of-all-kinds/",
   "title": "Magnetic Phenomena of All Kinds",
@@ -7221,7 +8757,10 @@
   "reason": "an artist named Agog is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 588,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/john-cage/roaratorio-an-irish-circus-on-finnegans-wake/",
   "title": "Roaratorio: An Irish Circus on Finnegans Wake",
@@ -7235,7 +8774,10 @@
   "reason": "an artist named John Cage is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 589,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/町田町蔵-from-至福団/どてらい奴ら/",
   "title": "どてらい奴ら",
@@ -7250,7 +8792,10 @@
   "reason": "an artist named Kou Machida is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 590,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/塩見允枝子/requiem-for-george-maciunas/",
   "title": "Requiem for George Maciunas",
@@ -7264,7 +8809,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 591,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/psycodrama/psycodrama/",
   "title": "Psycodrama",
@@ -7278,7 +8826,10 @@
   "reason": "an artist named Psychodrama is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 592,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/negativland/over-the-edge-vol-4-dick-vaughn/",
   "title": "Over the Edge Vol. 4: Dick Vaughn",
@@ -7292,7 +8843,10 @@
   "reason": "an artist named Negativland is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 593,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/christian-heckel-frank-bretschneider/berlin-bei-nacht-eine-elektrische-text-musik-collage/",
   "title": "Berlin bei Nacht - Eine elektrische Text Musik Collage",
@@ -7307,7 +8861,10 @@
   "reason": "an artist named Frank Bretschneider is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 594,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/davy_walklett/sacred_hymns_and_twisted_blues/",
   "title": "Sacred Hymns and Twisted Blues",
@@ -7321,7 +8878,10 @@
   "reason": "an artist named Davy Walklett is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 595,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/etant-donnes/mon-coeur/",
   "title": "Mon cœur",
@@ -7335,7 +8895,10 @@
   "reason": "an artist named Etant Donnés is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 596,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/gus-coma/color-him-coma/",
   "title": "Color Him Coma",
@@ -7349,7 +8912,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 599,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ondness/quase_driven/",
   "title": "Quase Driven",
@@ -7363,7 +8929,10 @@
   "reason": "an artist named Ondness is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 600,
+  "page": 24,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/diamond-black-hearted-boy/father-protect-me/",
   "title": "Father, Protect Me",
@@ -7377,7 +8946,10 @@
   "reason": "an artist named Diamond Black Hearted Boy is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 603,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/llwybr-llaethog/mewn-dyb-in-dub/",
   "title": "Mewn Dyb (In Dub)",
@@ -7391,7 +8963,10 @@
   "reason": "an artist named Llwybr Llaethog is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 604,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/knx/buttrskotch/",
   "title": "Buttrskotch",
@@ -7405,7 +8980,10 @@
   "reason": "an artist named Knx. is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 605,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sleepyeyes/merkaba/",
   "title": "Merkaba",
@@ -7419,7 +8997,10 @@
   "reason": "an artist named Sleepyeyes is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 607,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/paul_hares/blurred/",
   "title": "Blurred",
@@ -7433,7 +9014,10 @@
   "reason": "an artist named Paul Hares is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 609,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/brrd-wodoo-wolcan/brrd-wodoo-wolcan/",
   "title": "Brrd / Wodoo Wolcan",
@@ -7448,7 +9032,10 @@
   "reason": "an artist named Brrd is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 612,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/bun-delofi/bun-delofi/",
   "title": "Bun / Delofi",
@@ -7463,7 +9050,10 @@
   "reason": "an artist named Delofi is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 613,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/cupp-cave/garbage-pail-beats/",
   "title": "Garbage Pail Beats",
@@ -7477,7 +9067,10 @@
   "reason": "an artist named Cupp Cave is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 614,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ahwlee/1991/",
   "title": "1991",
@@ -7491,7 +9084,10 @@
   "reason": "an artist named Ahwlee is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 616,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/yuk/a-d-w-a/",
   "title": "A D W A",
@@ -7505,7 +9101,10 @@
   "reason": "an artist named yuk. is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 617,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/khaki_blazer/moontan_nocturnal/",
   "title": "Moontan Nocturnal",
@@ -7519,7 +9118,10 @@
   "reason": "an artist named Khaki Blazer is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 618,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/inkke/faded-with-da-kittens/",
   "title": "Faded With da Kittens",
@@ -7533,7 +9135,10 @@
   "reason": "an artist named Inkke is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 619,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/vesa_and_bessedof/flvrsss/",
   "title": "Flvrsss",
@@ -7548,7 +9153,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 620,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/luurel_varas/luurel_varas/",
   "title": "Luurel Varas",
@@ -7562,7 +9170,10 @@
   "reason": "an artist named Luurel Varas is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 621,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/vhvl-ras-g/seat-of-the-soul/",
   "title": "Seat of the Soul",
@@ -7577,7 +9188,10 @@
   "reason": "an artist named VHVL is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 623,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/haircuts-for-men/когда-зло-господствует/",
   "title": "Когда зло господствует",
@@ -7591,7 +9205,10 @@
   "reason": "an artist named Haircuts For Men is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 625,
+  "page": 25,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sir-froderick-adamnt/bruuh/",
   "title": "Bruuh.",
@@ -7606,7 +9223,10 @@
   "reason": "an artist named Sir Froderick is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 626,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/hyro/coma_dreams/",
   "title": "coma.dreams",
@@ -7620,7 +9240,10 @@
   "reason": "an artist named Hyro is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 628,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/ал-90/код-915913/",
   "title": "КОД-915913",
@@ -7634,7 +9257,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 631,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/lumigraph/nautically-inclined/",
   "title": "Nautically Inclined",
@@ -7648,7 +9274,10 @@
   "reason": "an artist named Lumigraph is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 634,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/patricia/body-issues/",
   "title": "Body Issues",
@@ -7662,7 +9291,10 @@
   "reason": "an artist named Patricia is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 635,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/oobe_f2/stealth/",
   "title": "Stealth",
@@ -7676,7 +9308,10 @@
   "reason": "no Spotify candidates passed validation"
  },
  {
+  "service": "spotify",
   "position": 636,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/perfume-advert/_200-gamma/",
   "title": "+200 Gamma",
@@ -7690,7 +9325,10 @@
   "reason": "an artist named Perfume Advert is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 637,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/body-boys/hood-spectrum/",
   "title": "Hood Spectrum",
@@ -7704,7 +9342,10 @@
   "reason": "an artist named Body Boys is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 638,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mongo-skato/i-dont-give-it-1/",
   "title": "I Don't Give It",
@@ -7718,7 +9359,10 @@
   "reason": "an artist named Mongo Skato is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 643,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/huerco-s/untitled/",
   "title": "Untitled",
@@ -7732,7 +9376,10 @@
   "reason": "an artist named Huerco S. is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 646,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/project-pablo/i-want-to-believe/",
   "title": "I Want to Believe",
@@ -7746,7 +9393,10 @@
   "reason": "an artist named Project Pablo is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 647,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/wanda-group/piss-fell-out-like-sunlight/",
   "title": "Piss Fell Out Like Sunlight",
@@ -7760,7 +9410,10 @@
   "reason": "an artist named Wanda Group is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 649,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/naka_naka/juan_pestanas/",
   "title": "Juan Pestañas",
@@ -7774,7 +9427,10 @@
   "reason": "an artist named Ñaka Ñaka is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 650,
+  "page": 26,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/lily_f1/modern_malaise/",
   "title": "Modern Malaise",
@@ -7788,7 +9444,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 651,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mind_dynamics/active_supply/",
   "title": "Active Supply",
@@ -7802,7 +9461,10 @@
   "reason": "an artist named Mind Dynamics is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 653,
+  "page": 27,
+  "section": null,
   "status": "uncertain",
   "rym_url": "https://rateyourmusic.com/release/album/xiphiidae/pass-hidingly-seek/",
   "title": "Pass Hidingly Seek",
@@ -7817,7 +9479,10 @@
   "best_spotify_candidate": "https://open.spotify.com/album/1bUoOkQ0kvXLOom1t1ipP0"
  },
  {
+  "service": "spotify",
   "position": 656,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/tuluum-shimmering/in-the-great-swamp-you-were-conceived/",
   "title": "In the Great Swamp You Were Conceived",
@@ -7831,7 +9496,10 @@
   "reason": "an artist named Tuluum Shimmering is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 657,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/robert-rich/drones/",
   "title": "Drones",
@@ -7845,7 +9513,10 @@
   "reason": "an artist named Robert Rich is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 658,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/andrew-chalk/crescent/",
   "title": "Crescent",
@@ -7859,7 +9530,10 @@
   "reason": "an artist named Andrew Chalk is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 659,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/aaron-dilloway/modern-jester/",
   "title": "Modern Jester",
@@ -7873,7 +9547,10 @@
   "reason": "an artist named Aaron Dilloway is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 660,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/コサカイフミオ/earth-calling/",
   "title": "Earth Calling",
@@ -7887,7 +9564,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 661,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/bee-mask/canzoni-dal-laboratorio-del-silenzio-cosmico/",
   "title": "Canzoni dal laboratorio del silenzio cosmico",
@@ -7901,7 +9581,10 @@
   "reason": "an artist named Bee Mask is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 662,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/marble-sky/the-sad-return/",
   "title": "The Sad Return",
@@ -7915,7 +9598,10 @@
   "reason": "an artist named Marble Sky is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 663,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/ep/waterside-gala/composure-and-recreation/",
   "title": "Composure & Recreation",
@@ -7929,7 +9615,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 664,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/gareth-flowers/a-beginners-guide-to-lucid-dreaming/",
   "title": "A Beginner's Guide to Lucid Dreaming",
@@ -7943,7 +9632,10 @@
   "reason": "an artist named Gareth Flowers is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 665,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/je-suis-le-petit-chevalier/a-guide-to-the-sun/",
   "title": "A Guide to the Sun",
@@ -7957,7 +9649,10 @@
   "reason": "an artist named Je Suis Le Petit Chevalier is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 667,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/motion-sickness-of-time-travel/white-candle/",
   "title": "White Candle",
@@ -7971,7 +9666,10 @@
   "reason": "an artist named Motion Sickness Of Time Travel is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 668,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/caen/the-history-of-your-immediate-surroundings/",
   "title": "The History of Your Immediate Surroundings",
@@ -7985,7 +9683,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 669,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/pine_smoke_lodge/el_ahrairah/",
   "title": "El-Ahrairah",
@@ -7999,7 +9700,10 @@
   "reason": "an artist named Pine Smoke Lodge is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 670,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/jim-orourke/it-takes-time-to-do-nothing/",
   "title": "It Takes Time to Do Nothing",
@@ -8013,7 +9717,10 @@
   "reason": "an artist named Jim O'Rourke is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 672,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/softlight-reveries/softlight-reveries/",
   "title": "Softlight Reveries",
@@ -8027,7 +9734,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 673,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/sean-mccann-greg-manata/fair-beginnings/",
   "title": "Fair Beginnings",
@@ -8042,7 +9752,10 @@
   "reason": "an artist named Sean McCann is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 674,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/pierrot_lunaire_f1/dog_chakra/",
   "title": "Dog Chakra",
@@ -8056,7 +9769,10 @@
   "reason": "an artist named Pierrot Lunaire is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 675,
+  "page": 27,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/stitched-vision/fold/",
   "title": "Fold",
@@ -8070,7 +9786,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 676,
+  "page": 28,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/je-suis-le-petit-chevalier/discovering-mathematics-2/",
   "title": "Discovering Mathematics 2",
@@ -8084,7 +9803,10 @@
   "reason": "an artist named Je Suis Le Petit Chevalier is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 680,
+  "page": 28,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/lamborghini-crystal/1992-cool-runnings/",
   "title": "1992 Cool Runnings",
@@ -8098,7 +9820,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 682,
+  "page": 28,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/mohave-triangles/haze-for-daze/",
   "title": "Haze for Daze",
@@ -8112,7 +9837,10 @@
   "reason": "an artist named Mohave Triangles is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 684,
+  "page": 28,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/gem_jones/admiral_frenchkiss/",
   "title": "Admiral Frenchkiss",
@@ -8126,7 +9854,10 @@
   "reason": "an artist named Gem Jones is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 691,
+  "page": 28,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/rangers/scrap/",
   "title": "Scrap",
@@ -8140,7 +9871,10 @@
   "reason": "an artist named The Rangers is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 692,
+  "page": 28,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/moon-b/lifeworld-2-udaya/",
   "title": "Lifeworld 2: Udaya",
@@ -8154,7 +9888,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 694,
+  "page": 28,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/jccg/eje/",
   "title": "Eje",
@@ -8168,7 +9905,10 @@
   "reason": "artist not found on Spotify"
  },
  {
+  "service": "spotify",
   "position": 695,
+  "page": 28,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/teresa-winter/oh-tina-no-tina/",
   "title": "Oh Tina, No Tina",
@@ -8182,7 +9922,10 @@
   "reason": "an artist named Teresa Winter is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 696,
+  "page": 28,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/terror_bird/sociopaths_are_glam/",
   "title": "Sociopaths Are Glam",
@@ -8196,7 +9939,10 @@
   "reason": "an artist named Terror Bird is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 697,
+  "page": 28,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/speculator/lifestyle/",
   "title": "Lifestyle",
@@ -8210,7 +9956,10 @@
   "reason": "an artist named Speculator is on Spotify, but not this release"
  },
  {
+  "service": "spotify",
   "position": 701,
+  "page": 29,
+  "section": null,
   "status": "not_found",
   "rym_url": "https://rateyourmusic.com/release/album/girlseeker/1_800_greed/",
   "title": "1-800-GREED",

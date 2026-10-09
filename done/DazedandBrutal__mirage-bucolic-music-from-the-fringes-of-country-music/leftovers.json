@@ -1,0 +1,1583 @@
+[
+ {
+  "service": "spotify",
+  "position": 1,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/lift-to-experience/the-texas-jerusalem-crossroads-2/",
+  "title": "The Texas-Jerusalem Crossroads",
+  "title_latin": null,
+  "year": 2017,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Lift to Experience"
+  ],
+  "reason": "no Spotify candidates passed validation"
+ },
+ {
+  "service": "spotify",
+  "position": 3,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/captain-beefheart-and-his-magic-band/trout-mask-replica/",
+  "title": "Trout Mask Replica",
+  "title_latin": null,
+  "year": 1969,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Captain Beefheart & His Magic Band"
+  ],
+  "reason": "an artist named Captain Beefheart & His Magic Band is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 4,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne/therell-be-no-tears-tonight-1/",
+  "title": "There'll Be No Tears Tonight",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Eugene Chadbourne"
+  ],
+  "reason": "an artist named Eugene Chadbourne is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 5,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/peter-grudzien/the-unicorn/",
+  "title": "The Unicorn",
+  "title_latin": null,
+  "year": 1974,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Peter Grudzien"
+  ],
+  "reason": "Spotify date 2007-10-26 vs RYM 1974: probably a reissue",
+  "best_spotify_candidate": "https://open.spotify.com/album/6xiqBw76u6lFR7mFBAfX0M"
+ },
+ {
+  "service": "spotify",
+  "position": 6,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/derek-bailey/pieces-for-guitar/",
+  "title": "Pieces for Guitar",
+  "title_latin": null,
+  "year": 2002,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Derek Bailey"
+  ],
+  "reason": "an artist named Derek Bailey is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 7,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/caroliner-rainbow-open-wound-chorale/rise-of-the-common-woodpile/",
+  "title": "Rise of the Common Woodpile",
+  "title_latin": null,
+  "year": 1991,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Caroliner Rainbow Open Wound Chorale"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 8,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/eugene_chadbourne/lsdcandw__the_history_of_the_chadbournes_in_america/",
+  "title": "LSDC&W: The History of the Chadbournes in America",
+  "title_latin": null,
+  "year": 1987,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Eugene Chadbourne"
+  ],
+  "reason": "an artist named Eugene Chadbourne is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 9,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/john-fahey/requia/",
+  "title": "Requia",
+  "title_latin": null,
+  "year": 1967,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "John Fahey"
+  ],
+  "reason": "an artist named John Fahey is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 10,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/the-residents/cube-e/",
+  "title": "Cube-E",
+  "title_latin": null,
+  "year": 1990,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "The Residents"
+  ],
+  "reason": "an artist named The Residents is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 11,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/ralph-gean/boyd-rice-presents-ralph-gean-a-star-unborn/",
+  "title": "Boyd Rice Presents: Ralph Gean - A Star Unborn",
+  "title_latin": null,
+  "year": 1997,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Ralph Gean"
+  ],
+  "reason": "an artist named Ralph Gean is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 12,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/davenport/free-country/",
+  "title": "Free Country",
+  "title_latin": null,
+  "year": 2004,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Davenport"
+  ],
+  "reason": "Spotify date 2007-12-11 vs RYM 2004: probably a reissue",
+  "best_spotify_candidate": "https://open.spotify.com/album/2pDsm7x22XGhwnMnyZDukG"
+ },
+ {
+  "service": "spotify",
+  "position": 13,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/charlie-tweddle/fantastic-greatest-hits/",
+  "title": "Fantastic Greatest Hits",
+  "title_latin": null,
+  "year": 1974,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Charlie Tweddle"
+  ],
+  "reason": "Spotify date 2016-06-23 vs RYM 1974: probably a reissue",
+  "best_spotify_candidate": "https://open.spotify.com/album/6xiSN6h0XBhLSj41yIgrgr"
+ },
+ {
+  "service": "spotify",
+  "position": 15,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/william-r-strickland/william-r-strickland-is-only-the-name/",
+  "title": "William R. Strickland, Is Only the Name",
+  "title_latin": null,
+  "year": 1969,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "William R. Strickland"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 16,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/speedy-west-and-jimmy-bryant/swingin-on-the-strings-the-speedy-west-and-jimmy-bryant-collection-volume-2/",
+  "title": "Swingin' on the Strings: The Speedy West & Jimmy Bryant Collection Volume 2",
+  "title_latin": null,
+  "year": 1999,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Speedy West and Jimmy Bryant"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 18,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/various-artists/victrola-favorites-artifacts-from-bygone-days/",
+  "title": "Victrola Favorites: Artifacts From Bygone Days",
+  "title_latin": null,
+  "year": 2008,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Various Artists"
+  ],
+  "reason": "an artist named Various Artists is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 19,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/mar-tie/the-avant-garde-grandpa/",
+  "title": "The Avant-Garde Grandpa",
+  "title_latin": null,
+  "year": 2004,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Mar-Tie"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 20,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/michael-finnissy/english-country-tunes/",
+  "title": "English Country-Tunes",
+  "title_latin": null,
+  "year": 1990,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Michael Finnissy"
+  ],
+  "reason": "an artist named Michael Finnissy is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 22,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/the-legendary-stardust-cowboy/rock-it-to-stardom/",
+  "title": "Rock-It to Stardom",
+  "title_latin": null,
+  "year": 1984,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "The Legendary Stardust Cowboy"
+  ],
+  "reason": "an artist named The Legendary Stardust Cowboy is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 23,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/shel_silverstein/freakin_at_the_freakers_ball_f1/",
+  "title": "Freakin' at the Freakers Ball",
+  "title_latin": null,
+  "year": 1999,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Shel Silverstein"
+  ],
+  "reason": "no Spotify candidates passed validation"
+ },
+ {
+  "service": "spotify",
+  "position": 24,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/arthur-miles/lonely-cowboy-parts-1-and-2/",
+  "title": "Lonely Cowboy (Parts 1 & 2)",
+  "title_latin": null,
+  "year": 1929,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Arthur Miles"
+  ],
+  "reason": "an artist named Arthur Miles is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 25,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/porter-wagoner/the-rubber-room/",
+  "title": "The Rubber Room",
+  "title_latin": null,
+  "year": 2006,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Porter Wagoner"
+  ],
+  "reason": "an artist named Porter Wagoner is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 26,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/3-bar-ranch/cattle-callin/",
+  "title": "Cattle Callin",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "3 Bar Ranch"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 28,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne-elliott-sharp-sun-city-girls/country-music-in-the-world-of-islam/",
+  "title": "Country Music in the World of Islam",
+  "title_latin": null,
+  "year": 1990,
+  "type_label": "Album",
+  "credited_as": "Eugene Chadbourne / Elliott Sharp / Sun City Girls",
+  "artists": [
+   "Eugene Chadbourne",
+   "Elliott Sharp",
+   "Sun City Girls"
+  ],
+  "reason": "an artist named Eugene Chadbourne is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 29,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/jim_white/the_mysterious_tale_of_how_i_shouted_wrong_eyed_jesus_/",
+  "title": "The Mysterious Tale of How I Shouted Wrong-Eyed Jesus!",
+  "title_latin": null,
+  "year": 1997,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Jim White"
+  ],
+  "reason": "an artist named Jim White is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 31,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/dragging_an_ox_through_water/the_tropics_of_phenomenon/",
+  "title": "The Tropics of Phenomenon",
+  "title_latin": null,
+  "year": 2008,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Dragging an Ox Through Water"
+  ],
+  "reason": "an artist named Dragging An Ox Through Water is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 32,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/bob_nelson/vaqueiro_alegre/",
+  "title": "Vaqueiro alegre",
+  "title_latin": null,
+  "year": 1996,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Bob Nelson"
+  ],
+  "reason": "an artist named Bob Nelson is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 33,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/david-grisman/hot-dawg/",
+  "title": "Hot Dawg",
+  "title_latin": null,
+  "year": 1979,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "David Grisman"
+  ],
+  "reason": "an artist named David Grisman is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 35,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/floyd_ming_and_his_pep_steppers/indian_war_whoop___old_red/",
+  "title": "Indian War Whoop / Old Red",
+  "title_latin": null,
+  "year": 1928,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Floyd Ming and His Pep Steppers"
+  ],
+  "reason": "an artist named Floyd Ming and His Pep Steppers is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 36,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/various-artists/people-take-warning-murder-ballads-and-disaster-songs-1913-1938/",
+  "title": "People Take Warning! Murder Ballads & Disaster Songs, 1913-1938",
+  "title_latin": null,
+  "year": 2007,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Various Artists"
+  ],
+  "reason": "an artist named Various Artists is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 38,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/jim-orourke/bad-timing/",
+  "title": "Bad Timing",
+  "title_latin": null,
+  "year": 1997,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Jim O'Rourke"
+  ],
+  "reason": "an artist named Jim O'Rourke is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 39,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/robbie-basho/zarthus/",
+  "title": "Zarthus",
+  "title_latin": null,
+  "year": 1974,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Robbie Basho"
+  ],
+  "reason": "an artist named Robbie Basho is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 41,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/various-artists/i-listen-to-the-wind-that-obliterates-my-traces-music-in-vernacular-photographs-1880-1955/",
+  "title": "I Listen to the Wind That Obliterates My Traces: Music in Vernacular Photographs 1880-1955",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Various Artists"
+  ],
+  "reason": "an artist named Various Artists is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 43,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/scott_tuma/not_for_nobody/",
+  "title": "Not for Nobody",
+  "title_latin": null,
+  "year": 2008,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Scott Tuma"
+  ],
+  "reason": "an artist named Scott Tuma is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 44,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/roger_aubry/beau_jour_de_fete___sublime_amour/",
+  "title": "Beau jour de fete / Sublime amour",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Roger Aubry"
+  ],
+  "reason": "an artist named Roger Aubry is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 45,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/hoosier-hot-shots/rural-rhythm-1935-1942/",
+  "title": "Rural Rhythm 1935-1942",
+  "title_latin": null,
+  "year": 1992,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Hoosier Hot Shots"
+  ],
+  "reason": "an artist named Hoosier Hot Shots is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 48,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/world-standard/country-gazette/",
+  "title": "Country Gazette",
+  "title_latin": null,
+  "year": 1998,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "World Standard"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 51,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/sir-douglas-quintet/sir-douglas-quintet-2-honkey-blues/",
+  "title": "Sir Douglas Quintet + 2 = Honkey Blues",
+  "title_latin": null,
+  "year": 1968,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Sir Douglas Quintet"
+  ],
+  "reason": "an artist named Sir Douglas Quintet is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 54,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/bob-joe/vaqueiro-solitario/",
+  "title": "Vaqueiro solitário",
+  "title_latin": null,
+  "year": 1973,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Bob Joe"
+  ],
+  "reason": "an artist named Bob Joe is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 55,
+  "page": 3,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/the-holy-modal-rounders/the-moray-eels-eat-the-holy-modal-rounders/",
+  "title": "The Moray Eels Eat The Holy Modal Rounders",
+  "title_latin": null,
+  "year": 1968,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "The Holy Modal Rounders"
+  ],
+  "reason": "Spotify date 2006-05-23 vs RYM 1968: probably a reissue",
+  "best_spotify_candidate": "https://open.spotify.com/album/32k936pERAnNLWxmNxWgET"
+ },
+ {
+  "service": "spotify",
+  "position": 56,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/ウイリー沖山/スイスの娘-anthology-king-of-yodel-vol-1/",
+  "title": "スイスの娘 - Anthology: King of Yodel, Vol. 1",
+  "title_latin": null,
+  "year": 2003,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "ウイリー沖山 [Willy Okiyama]"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 63,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/henry-flynt-and-novabilly/henry-flynt-and-novabilly/",
+  "title": "Henry Flynt & Nova'Billy",
+  "title_latin": null,
+  "year": 2007,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Henry Flynt & Nova'Billy"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 69,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/mekons/the-mekons-honky-tonkin/",
+  "title": "The Mekons Honky Tonkin'",
+  "title_latin": null,
+  "year": 1987,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Mekons"
+  ],
+  "reason": "an artist named Mekons is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 75,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/world-standard/country-gazette/",
+  "title": "Country Gazette",
+  "title_latin": null,
+  "year": 1998,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "World Standard"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "youtube",
+  "position": 2,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/henry-flynt/you-are-my-everlovin-celestial-power/",
+  "title": "You Are My Everlovin / Celestial Power",
+  "title_latin": null,
+  "year": 1986,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Henry Flynt"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 4,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne/therell-be-no-tears-tonight-1/",
+  "title": "There'll Be No Tears Tonight",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Eugene Chadbourne"
+  ],
+  "reason": "15 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 5,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/peter-grudzien/the-unicorn/",
+  "title": "The Unicorn",
+  "title_latin": null,
+  "year": 1974,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Peter Grudzien"
+  ],
+  "reason": "7 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 6,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/derek-bailey/pieces-for-guitar/",
+  "title": "Pieces for Guitar",
+  "title_latin": null,
+  "year": 2002,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Derek Bailey"
+  ],
+  "reason": "3 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 9,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/john-fahey/requia/",
+  "title": "Requia",
+  "title_latin": null,
+  "year": 1967,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "John Fahey"
+  ],
+  "reason": "6 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 10,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/the-residents/cube-e/",
+  "title": "Cube-E",
+  "title_latin": null,
+  "year": 1990,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "The Residents"
+  ],
+  "reason": "duration off: 1:01:29 vs 1:12:08 expected (Discogs)",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=1uJcsSScRCI"
+ },
+ {
+  "service": "youtube",
+  "position": 11,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/ralph-gean/boyd-rice-presents-ralph-gean-a-star-unborn/",
+  "title": "Boyd Rice Presents: Ralph Gean - A Star Unborn",
+  "title_latin": null,
+  "year": 1997,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Ralph Gean"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 12,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/davenport/free-country/",
+  "title": "Free Country",
+  "title_latin": null,
+  "year": 2004,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Davenport"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 13,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/charlie-tweddle/fantastic-greatest-hits/",
+  "title": "Fantastic Greatest Hits",
+  "title_latin": null,
+  "year": 1974,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Charlie Tweddle"
+  ],
+  "reason": "5 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 14,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/michael-hurley-the-unholy-modal-rounders-jeffrey-fredericks-and-the-clamtones/have-moicy/",
+  "title": "Have Moicy!",
+  "title_latin": null,
+  "year": 1976,
+  "type_label": "Album",
+  "credited_as": "Michael Hurley, The Unholy Modal Rounders, Jeffrey Fredericks & The Clamtones",
+  "artists": [
+   "Michael Hurley",
+   "The Holy Modal Rounders",
+   "Jeffrey Frederick"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 16,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/speedy-west-and-jimmy-bryant/swingin-on-the-strings-the-speedy-west-and-jimmy-bryant-collection-volume-2/",
+  "title": "Swingin' on the Strings: The Speedy West & Jimmy Bryant Collection Volume 2",
+  "title_latin": null,
+  "year": 1999,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Speedy West and Jimmy Bryant"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 17,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/dan-hicks-and-his-hot-licks/striking-it-rich/",
+  "title": "Striking It Rich",
+  "title_latin": null,
+  "year": 1972,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Dan Hicks and His Hot Licks"
+  ],
+  "reason": "3 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 21,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/the-everly-brothers/stories-we-could-tell/",
+  "title": "Stories We Could Tell",
+  "title_latin": null,
+  "year": 1972,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "The Everly Brothers"
+  ],
+  "reason": "10 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 22,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/the-legendary-stardust-cowboy/rock-it-to-stardom/",
+  "title": "Rock-It to Stardom",
+  "title_latin": null,
+  "year": 1984,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "The Legendary Stardust Cowboy"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=PxYajGS2hWg"
+ },
+ {
+  "service": "youtube",
+  "position": 23,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/shel_silverstein/freakin_at_the_freakers_ball_f1/",
+  "title": "Freakin' at the Freakers Ball",
+  "title_latin": null,
+  "year": 1999,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Shel Silverstein"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 24,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/single/arthur-miles/lonely-cowboy-parts-1-and-2/",
+  "title": "Lonely Cowboy (Parts 1 & 2)",
+  "title_latin": null,
+  "year": 1929,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Arthur Miles"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=DpAFZnMyC7o"
+ },
+ {
+  "service": "youtube",
+  "position": 25,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/porter-wagoner/the-rubber-room/",
+  "title": "The Rubber Room",
+  "title_latin": null,
+  "year": 2006,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Porter Wagoner"
+  ],
+  "reason": "11 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 26,
+  "page": 2,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/3-bar-ranch/cattle-callin/",
+  "title": "Cattle Callin",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "3 Bar Ranch"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=hTYLERJMC0U"
+ },
+ {
+  "service": "youtube",
+  "position": 27,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/johnny-dowd/a-drunkards-masterpiece/",
+  "title": "A Drunkard's Masterpiece",
+  "title_latin": null,
+  "year": 2008,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Johnny Dowd"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 28,
+  "page": 2,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne-elliott-sharp-sun-city-girls/country-music-in-the-world-of-islam/",
+  "title": "Country Music in the World of Islam",
+  "title_latin": null,
+  "year": 1990,
+  "type_label": "Album",
+  "credited_as": "Eugene Chadbourne / Elliott Sharp / Sun City Girls",
+  "artists": [
+   "Eugene Chadbourne",
+   "Elliott Sharp",
+   "Sun City Girls"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=d_4_3WUeELU"
+ },
+ {
+  "service": "youtube",
+  "position": 29,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/jim_white/the_mysterious_tale_of_how_i_shouted_wrong_eyed_jesus_/",
+  "title": "The Mysterious Tale of How I Shouted Wrong-Eyed Jesus!",
+  "title_latin": null,
+  "year": 1997,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Jim White"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 31,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/dragging_an_ox_through_water/the_tropics_of_phenomenon/",
+  "title": "The Tropics of Phenomenon",
+  "title_latin": null,
+  "year": 2008,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Dragging an Ox Through Water"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 33,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/david-grisman/hot-dawg/",
+  "title": "Hot Dawg",
+  "title_latin": null,
+  "year": 1979,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "David Grisman"
+  ],
+  "reason": "2 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 35,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/floyd_ming_and_his_pep_steppers/indian_war_whoop___old_red/",
+  "title": "Indian War Whoop / Old Red",
+  "title_latin": null,
+  "year": 1928,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Floyd Ming and His Pep Steppers"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 36,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/various-artists/people-take-warning-murder-ballads-and-disaster-songs-1913-1938/",
+  "title": "People Take Warning! Murder Ballads & Disaster Songs, 1913-1938",
+  "title_latin": null,
+  "year": 2007,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Various Artists"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 37,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/bad-livers/delusions-of-banjer/",
+  "title": "Delusions of Banjer",
+  "title_latin": null,
+  "year": 1992,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Bad Livers"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 40,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/speedy-west/steel-guitar/",
+  "title": "Steel Guitar",
+  "title_latin": null,
+  "year": 1960,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Speedy West"
+  ],
+  "reason": "2 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 41,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/various-artists/i-listen-to-the-wind-that-obliterates-my-traces-music-in-vernacular-photographs-1880-1955/",
+  "title": "I Listen to the Wind That Obliterates My Traces: Music in Vernacular Photographs 1880-1955",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Various Artists"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 42,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/various-artists/native-north-america-vol-1-aboriginal-folk-rock-and-country-1966–1985/",
+  "title": "Native North America (Vol. 1): Aboriginal Folk, Rock, and Country 1966–1985",
+  "title_latin": null,
+  "year": 2014,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Various Artists"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 43,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/scott_tuma/not_for_nobody/",
+  "title": "Not for Nobody",
+  "title_latin": null,
+  "year": 2008,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Scott Tuma"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 44,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/roger_aubry/beau_jour_de_fete___sublime_amour/",
+  "title": "Beau jour de fete / Sublime amour",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Roger Aubry"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 45,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/hoosier-hot-shots/rural-rhythm-1935-1942/",
+  "title": "Rural Rhythm 1935-1942",
+  "title_latin": null,
+  "year": 1992,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Hoosier Hot Shots"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 46,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/souled-american/flubber/",
+  "title": "Flubber",
+  "title_latin": null,
+  "year": 1989,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Souled American"
+  ],
+  "reason": "3 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 47,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/friends-of-dean-martinez/the-shadow-of-your-smile/",
+  "title": "The Shadow of Your Smile",
+  "title_latin": null,
+  "year": 1995,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Friends of Dean Martinez"
+  ],
+  "reason": "3 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 49,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/fire-on-fire/fire-on-fire/",
+  "title": "Fire on Fire",
+  "title_latin": null,
+  "year": 2007,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Fire on Fire"
+  ],
+  "reason": "19 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 50,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/harry_choates/fiddle_king_of_cajun_swing/",
+  "title": "Fiddle King of Cajun Swing",
+  "title_latin": null,
+  "year": 1993,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Harry Choates"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 51,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/sir-douglas-quintet/sir-douglas-quintet-2-honkey-blues/",
+  "title": "Sir Douglas Quintet + 2 = Honkey Blues",
+  "title_latin": null,
+  "year": 1968,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Sir Douglas Quintet"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 52,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/califone/roomsound/",
+  "title": "Roomsound",
+  "title_latin": null,
+  "year": 2001,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Califone"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 54,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/bob-joe/vaqueiro-solitario/",
+  "title": "Vaqueiro solitário",
+  "title_latin": null,
+  "year": 1973,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Bob Joe"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 56,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/ウイリー沖山/スイスの娘-anthology-king-of-yodel-vol-1/",
+  "title": "スイスの娘 - Anthology: King of Yodel, Vol. 1",
+  "title_latin": null,
+  "year": 2003,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "ウイリー沖山 [Willy Okiyama]"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 60,
+  "page": 3,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/lavender-country/lavender-country/",
+  "title": "Lavender Country",
+  "title_latin": null,
+  "year": 1973,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Lavender Country"
+  ],
+  "reason": "duration off: 42:26 vs 37:42 expected (Spotify)",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=QAVTEHY7R2E"
+ },
+ {
+  "service": "youtube",
+  "position": 62,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/the-louvin-brothers/satan-is-real/",
+  "title": "Satan Is Real",
+  "title_latin": null,
+  "year": 1959,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "The Louvin Brothers"
+  ],
+  "reason": "9 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 63,
+  "page": 3,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/henry-flynt-and-novabilly/henry-flynt-and-novabilly/",
+  "title": "Henry Flynt & Nova'Billy",
+  "title_latin": null,
+  "year": 2007,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Henry Flynt & Nova'Billy"
+  ],
+  "reason": "short for a full album (5:52): fine for punk/grind, check it",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=zvnFUJnp36k"
+ },
+ {
+  "service": "youtube",
+  "position": 64,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/wovenhand/consider-the-birds/",
+  "title": "Consider the Birds",
+  "title_latin": null,
+  "year": 2004,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Wovenhand"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 69,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/mekons/the-mekons-honky-tonkin/",
+  "title": "The Mekons Honky Tonkin'",
+  "title_latin": null,
+  "year": 1987,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Mekons"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 70,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/james-luther-dickinson/dixie-fried/",
+  "title": "Dixie Fried",
+  "title_latin": null,
+  "year": 1972,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "James Luther Dickinson"
+  ],
+  "reason": "4 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 72,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/bela_fleck/drive/",
+  "title": "Drive",
+  "title_latin": null,
+  "year": 1988,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Béla Fleck"
+  ],
+  "reason": "4 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 73,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/jonny-fritz/sweet-creep/",
+  "title": "Sweet Creep",
+  "title_latin": null,
+  "year": 2016,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Jonny Fritz"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 74,
+  "page": 3,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/a-small-good-thing/slim-westerns/",
+  "title": "Slim Westerns",
+  "title_latin": null,
+  "year": 1994,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "A Small Good Thing"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ }
+]

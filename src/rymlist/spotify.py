@@ -1,8 +1,10 @@
 """Spotify access. Searching uses app credentials; playlists need a user login."""
 import os
 import re
+import sys
 
 import spotipy
+from spotipy.exceptions import SpotifyException
 from spotipy.cache_handler import CacheFileHandler, MemoryCacheHandler
 from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 
@@ -10,6 +12,8 @@ from .cache import DiskCache
 from .paths import CACHE
 
 SCOPES = 'playlist-modify-private playlist-modify-public playlist-read-private'
+MAX_QUERY = 250  # spotify rejects longer search queries with a 400
+CREDIT_SPLIT = re.compile(r'\s+/\s+|\s*;\s*|,\s+|\s+&\s+|\s+(?:and|with|feat\.?|ft\.?|x)\s+', re.I)
 ALBUM_ID = re.compile(r'(?:open\.spotify\.com/album/|spotify:album:)([A-Za-z0-9]{22})')
 
 
@@ -33,6 +37,44 @@ def album_id_from(value):
 def _clean(value):
     # spotify's field filters choke on quotes and colons
     return ' '.join(re.sub(r'["“”:]', ' ', value).split())
+
+
+def _shorten(text, limit):
+    """Cut at a word boundary so the query stays a sensible search."""
+    if len(text) <= limit:
+        return text
+    cut = text[:limit].rsplit(' ', 1)[0]
+    return cut if cut else text[:limit]
+
+
+def album_query(title=None, artist=None):
+    """Spotify search query for an album, kept under MAX_QUERY. A long multi-artist credit
+    ("Studio A / Studio B / ...") is cut to its first artist before anything is trimmed."""
+    title = _clean(title) if title else None
+    artist = _clean(artist) if artist else None
+    if title and artist:
+        q = f'album:{title} artist:{artist}'
+        if len(q) > MAX_QUERY:
+            artist = CREDIT_SPLIT.split(artist)[0].strip() or artist
+            room = MAX_QUERY - len('album: artist:')
+            artist = _shorten(artist, max(room // 3, room - len(title)))
+            title = _shorten(title, room - len(artist))
+            q = f'album:{title} artist:{artist}'
+        return q
+    if artist:
+        if len('artist:' + artist) > MAX_QUERY:
+            artist = _shorten(CREDIT_SPLIT.split(artist)[0], MAX_QUERY - len('artist:'))
+        return 'artist:' + artist
+    return _shorten(title, MAX_QUERY)
+
+
+def _bad_query(err, q):
+    """A 400 is about this one query (too long, odd characters): no result, keep going.
+    Anything else (auth, rate limit after retries, outage) is raised."""
+    if isinstance(err, SpotifyException) and err.http_status == 400:
+        print(f'  spotify rejected the search {q[:80]!r}…: {err.msg.splitlines()[-1].strip()}', file=sys.stderr, flush=True)
+        return True
+    return False
 
 
 class Spotify:
@@ -63,27 +105,33 @@ class Spotify:
                 'release_date': a.get('release_date'),
             } for a in res['albums']['items'] if a]
 
-        return self.search_cache.get_or_fetch(q, fetch)
+        try:
+            return self.search_cache.get_or_fetch(q, fetch)
+        except SpotifyException as err:
+            if _bad_query(err, q):
+                return []  # not cached, so a fixed query gets a real try next time
+            raise
 
     def search_albums(self, title=None, artist=None):
         """Lightweight album hits (no upc/tracks) for pre-filtering."""
-        if title and artist:
-            return self._search(f'album:{_clean(title)} artist:{_clean(artist)}')
-        if artist:
-            return self._search(f'artist:{_clean(artist)}')
-        return self._search(_clean(title))
+        return self._search(album_query(title, artist))
 
     def search_artists(self, name):
-        q = _clean(name)
+        q = _shorten(_clean(name), MAX_QUERY)
 
         def fetch():
             res = self.sp.search(q=q, type='artist', limit=10)
             return [{'id': a['id'], 'name': a['name'], 'url': a['external_urls']['spotify']}
                     for a in res['artists']['items'] if a]
 
-        return self.search_cache.get_or_fetch('artist-search:' + q, fetch)
+        try:
+            return self.search_cache.get_or_fetch('artist-search:' + q, fetch)
+        except SpotifyException as err:
+            if _bad_query(err, q):
+                return []
+            raise
 
-    def album(self, album_id):
+    def album(self, album_id, need_duration=False):
         def fetch():
             album = self.sp.album(album_id)
             tracks = album['tracks']['items']
@@ -102,6 +150,9 @@ class Spotify:
                 'upc': (album.get('external_ids') or {}).get('upc'),
                 'label': album.get('label'),
                 'track_uris': [t['uri'] for t in tracks if t and t.get('uri')],
+                'duration_s': round(sum(t.get('duration_ms') or 0 for t in tracks if t) / 1000),
             }
 
-        return self.album_cache.get_or_fetch(album_id, fetch)
+        # entries cached before durations were kept are fetched again, but only when asked for
+        valid = (lambda a: 'duration_s' in a) if need_duration else None
+        return self.album_cache.get_or_fetch(album_id, fetch, valid=valid)

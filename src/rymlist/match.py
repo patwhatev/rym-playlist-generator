@@ -9,6 +9,7 @@ Statuses, strongest first:
   uncertain  names match but something is off (reissue date, no year, ambiguous artist
              name, near-miss spelling) - needs a human look
   not_found  nothing on spotify passed, rejected candidates are kept with the reason
+  error      the lookup itself failed (see reason); `rymlist reset <list>` + `run` retries it
 """
 from .normalize import best_similarity, item_artist_names, item_titles, norm, norm_title
 
@@ -131,9 +132,33 @@ def artist_on_spotify(spotify, item):
     return None
 
 
-def match_item(item, spotify, mb_client=None, override=None):
-    base = {k: item[k] for k in ('position', 'rym_url', 'rym_type', 'type_label', 'title', 'title_latin', 'year', 'credited_as')}
+def _base(item):
+    base = {k: item.get(k) for k in ('position', 'page', 'rym_url', 'rym_type', 'type_label', 'title', 'title_latin', 'year', 'credited_as')}
     base['artists'] = [a['name'] + (f' [{a["name_latin"]}]' if a['name_latin'] else '') for a in item['artists']]
+    return base
+
+
+def error_result(item, err):
+    """Stand-in for a release whose lookup blew up: left out of playlists, listed in leftovers."""
+    msg = ' '.join(str(err).split())
+    msg = msg if len(msg) <= 200 else msg[:200] + '…'
+    return _base(item) | {'status': 'error', 'reason': f'lookup failed: {type(err).__name__}: {msg}',
+                          'evidence': [], 'warnings': [], 'rejected': []}
+
+
+def _discogs_upgrade(item, album, verdict, discogs):
+    """Only for an uncertain match: a Discogs pressing with the Spotify UPC confirms the release."""
+    from .discogs import _digits
+    upc = _digits(album.get('upc'))
+    if verdict['status'] != 'uncertain' or not discogs or not upc:
+        return verdict
+    if upc in discogs.barcodes(item):
+        return verdict | {'status': 'verified', 'evidence': verdict['evidence'] + [f'barcode {album["upc"]} matches a Discogs pressing']}
+    return verdict
+
+
+def match_item(item, spotify, mb_client=None, override=None, discogs=None):
+    base = _base(item)
 
     if override and override.get('skip'):
         return base | {'status': 'skipped', 'evidence': ['skipped in overrides.toml'], 'warnings': [], 'rejected': []}
@@ -179,6 +204,7 @@ def match_item(item, spotify, mb_client=None, override=None):
                        'rejected': rejected, 'musicbrainz': mb_out}
 
     _, album, verdict = best
+    verdict = _discogs_upgrade(item, album, verdict, discogs)
     return base | {
         'status': verdict['status'],
         'spotify': _summary(album),

@@ -1,0 +1,2991 @@
+{
+ "list": {
+  "id": "DazedandBrutal__mirage-bucolic-music-from-the-fringes-of-country-music",
+  "title": "Mirage: Bucolic Music From The Fringes Of Country Music",
+  "url": "https://rateyourmusic.com/list/DazedandBrutal/mirage-bucolic-music-from-the-fringes-of-country-music/",
+  "user": "DazedandBrutal",
+  "captured_at": "2026-10-09T11:21:50.690Z"
+ },
+ "results": [
+  {
+   "position": 1,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/lift-to-experience/the-texas-jerusalem-crossroads-2/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Texas-Jerusalem Crossroads",
+   "title_latin": null,
+   "year": 2017,
+   "credited_as": null,
+   "artists": [
+    "Lift to Experience"
+   ],
+   "status": "not_found",
+   "reason": "no Spotify candidates passed validation",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "062SIuYHTCmS3gAsOupCdA",
+     "url": "https://open.spotify.com/album/062SIuYHTCmS3gAsOupCdA",
+     "name": "The Texas-Jerusalem Crossroads",
+     "album_type": "album",
+     "release_date": "2001-05-20",
+     "total_tracks": 11,
+     "upc": "724596965351",
+     "label": "Mute",
+     "artists": [
+      "Lift To Experience"
+     ],
+     "reason": "Spotify release (2001) predates the RYM release (2017)"
+    }
+   ],
+   "musicbrainz": null
+  },
+  {
+   "position": 2,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/henry-flynt/you-are-my-everlovin-celestial-power/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "You Are My Everlovin / Celestial Power",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "Henry Flynt"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "0M8fLojUcxFf0u0f2c2hHO",
+    "url": "https://open.spotify.com/album/0M8fLojUcxFf0u0f2c2hHO",
+    "name": "You Are My Everlovin' / Celestial Power",
+    "album_type": "album",
+    "release_date": "2011-01-01",
+    "total_tracks": 2,
+    "upc": "656605808925",
+    "label": "Recorded, LLC.",
+    "artists": [
+     "Henry Flynt"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:3IE5wpMc1k7DcGIfQ6TJmO",
+    "spotify:track:52YublFJ2AWpsDKBL3OhW0"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 656605808925 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 2 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2011-01-01 vs RYM 1986: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/67fb031b-019d-4560-bf8b-d911ffe80d99",
+    "first_release_date": "1986",
+    "linked_spotify_artists": [
+     "6i3Yo9ue1f6ib9i02zORrE"
+    ]
+   }
+  },
+  {
+   "position": 3,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/captain-beefheart-and-his-magic-band/trout-mask-replica/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Trout Mask Replica",
+   "title_latin": null,
+   "year": 1969,
+   "credited_as": null,
+   "artists": [
+    "Captain Beefheart & His Magic Band"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Captain Beefheart & His Magic Band is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/e6a580bd-5d29-3acd-a959-0bfab002ee6f",
+    "first_release_date": "1969-11",
+    "linked_spotify_artists": [
+     "2k8kY9zHUWxuTtwV4UutHw"
+    ]
+   }
+  },
+  {
+   "position": 4,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne/therell-be-no-tears-tonight-1/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "There'll Be No Tears Tonight",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Eugene Chadbourne"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Eugene Chadbourne is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/e20dbbd6-fed4-3680-ba29-5dc5f6164cfe",
+    "first_release_date": "1980",
+    "linked_spotify_artists": [
+     "3VWsCRWk23WloHRP9ilRsw"
+    ]
+   }
+  },
+  {
+   "position": 5,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/peter-grudzien/the-unicorn/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Unicorn",
+   "title_latin": null,
+   "year": 1974,
+   "credited_as": null,
+   "artists": [
+    "Peter Grudzien"
+   ],
+   "status": "uncertain",
+   "spotify": {
+    "id": "6xiqBw76u6lFR7mFBAfX0M",
+    "url": "https://open.spotify.com/album/6xiqBw76u6lFR7mFBAfX0M",
+    "name": "The Unicorn",
+    "album_type": "album",
+    "release_date": "2007-10-26",
+    "total_tracks": 14,
+    "upc": "7071245053390",
+    "label": "Subliminal Sounds",
+    "artists": [
+     "Peter Grudzien"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:7bs9SnqrP0llMvm2nqZFLM",
+    "spotify:track:42TxDIBWU1RWcm6r8yBEmK",
+    "spotify:track:4koCneFYo2edTf3pry81j1",
+    "spotify:track:5bAatDXp7Q3lZMzvM6Wv3o",
+    "spotify:track:0Y520SF7Qm3WCM5m0kLpmy",
+    "spotify:track:2ZMeNDFfIPdtG0ukzoXGXi",
+    "spotify:track:0eiM31ONsSvDqHcD8BvkkI",
+    "spotify:track:3fRDiUuBwswNi1KOqCNTmt",
+    "spotify:track:24yy6cgYD5AFS3p25iSMGO",
+    "spotify:track:5nW6vGrlW50jh0Yg4FNaVC",
+    "spotify:track:2cHWpczrWmyyPxIKo1gaK6",
+    "spotify:track:2GhlKZkPCHOXdi20yWqpA4",
+    "spotify:track:0KG3xMON6o4WldsTI2qhZG",
+    "spotify:track:3Mg2Bgrcw3lM0U2d5C7a52"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100"
+   ],
+   "warnings": [
+    "Spotify date 2007-10-26 vs RYM 1974: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 6,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/derek-bailey/pieces-for-guitar/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Pieces for Guitar",
+   "title_latin": null,
+   "year": 2002,
+   "credited_as": null,
+   "artists": [
+    "Derek Bailey"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Derek Bailey is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/0f1c065c-3911-315c-a006-19897a1bec5e",
+    "first_release_date": "2002",
+    "linked_spotify_artists": [
+     "0NiVnzdZVyaHThgTofobW2"
+    ]
+   }
+  },
+  {
+   "position": 7,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/caroliner-rainbow-open-wound-chorale/rise-of-the-common-woodpile/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Rise of the Common Woodpile",
+   "title_latin": null,
+   "year": 1991,
+   "credited_as": null,
+   "artists": [
+    "Caroliner Rainbow Open Wound Chorale"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/206c9c18-3119-44ad-b702-74cc5430b4b0",
+    "first_release_date": "1991",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 8,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/eugene_chadbourne/lsdcandw__the_history_of_the_chadbournes_in_america/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "LSDC&W: The History of the Chadbournes in America",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Eugene Chadbourne"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Eugene Chadbourne is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/48f82f41-360d-3b6c-b4fc-e9ec7ead5065",
+    "first_release_date": "1987",
+    "linked_spotify_artists": [
+     "3VWsCRWk23WloHRP9ilRsw"
+    ]
+   }
+  },
+  {
+   "position": 9,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/john-fahey/requia/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Requia",
+   "title_latin": null,
+   "year": 1967,
+   "credited_as": null,
+   "artists": [
+    "John Fahey"
+   ],
+   "status": "not_found",
+   "reason": "an artist named John Fahey is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/ad33a2fd-206a-3f5e-8cd0-8b264c22a37f",
+    "first_release_date": "1967",
+    "linked_spotify_artists": [
+     "4js8BDiQwnHLlDmT1shPH7"
+    ]
+   }
+  },
+  {
+   "position": 10,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/the-residents/cube-e/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Cube-E",
+   "title_latin": null,
+   "year": 1990,
+   "credited_as": null,
+   "artists": [
+    "The Residents"
+   ],
+   "status": "not_found",
+   "reason": "an artist named The Residents is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 11,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/ralph-gean/boyd-rice-presents-ralph-gean-a-star-unborn/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Boyd Rice Presents: Ralph Gean - A Star Unborn",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "Ralph Gean"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Ralph Gean is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/6cec10f9-6580-36ce-82c2-06e3500816c8",
+    "first_release_date": null,
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 12,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/davenport/free-country/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Free Country",
+   "title_latin": null,
+   "year": 2004,
+   "credited_as": null,
+   "artists": [
+    "Davenport"
+   ],
+   "status": "uncertain",
+   "spotify": {
+    "id": "2pDsm7x22XGhwnMnyZDukG",
+    "url": "https://open.spotify.com/album/2pDsm7x22XGhwnMnyZDukG",
+    "name": "Free Country",
+    "album_type": "album",
+    "release_date": "2007-12-11",
+    "total_tracks": 11,
+    "upc": "844185009683",
+    "label": "Last Visible Dog Records",
+    "artists": [
+     "Davenport"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:7aAfHMwcmCYrC4CBMehEOF",
+    "spotify:track:6NrirGBSNGnPrHKNfZErNd",
+    "spotify:track:7iz7mOuraZwU2lACyzMnr1",
+    "spotify:track:4GbihVX86M9VqViQ8playV",
+    "spotify:track:0puGKjfchH8KV6xDpbVhKO",
+    "spotify:track:52bnSxJ6lPLLOZMUOomuFQ",
+    "spotify:track:0X1xTHQ7AWDJh8NbjZ8SjQ",
+    "spotify:track:6tzhi6rIYtCKEFeA4sKUD4",
+    "spotify:track:3FuPTx2lcEDgUhB0cTCgHj",
+    "spotify:track:7IL0Z0XwbmaGBBuUg4zZGS",
+    "spotify:track:412LiSeAntEEZP8HHBg7H8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 11 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2007-12-11 vs RYM 2004: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/82fc587a-851a-3916-8fd6-9dbf2f20cdb6",
+    "first_release_date": "2004",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 13,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/charlie-tweddle/fantastic-greatest-hits/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Fantastic Greatest Hits",
+   "title_latin": null,
+   "year": 1974,
+   "credited_as": null,
+   "artists": [
+    "Charlie Tweddle"
+   ],
+   "status": "uncertain",
+   "spotify": {
+    "id": "6xiSN6h0XBhLSj41yIgrgr",
+    "url": "https://open.spotify.com/album/6xiSN6h0XBhLSj41yIgrgr",
+    "name": "Fantastic Greatest Hits",
+    "album_type": "compilation",
+    "release_date": "2016-06-23",
+    "total_tracks": 8,
+    "upc": "793283499950",
+    "label": "Mighty Mouth Music",
+    "artists": [
+     "Charlie Tweddle"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0nSja4uEOQ803QjuZSu1Pi",
+    "spotify:track:3zwtjUT7l3BGsQLOC1FPZk",
+    "spotify:track:2OMlJankBLvXWudfayrKHK",
+    "spotify:track:4Zc8jMg88gwK9EyQmmJJjq",
+    "spotify:track:1rbIIXqVGi51FXyEgkFIR8",
+    "spotify:track:0TFJNszQ8suuDyXGRCgLMk",
+    "spotify:track:4i6DZpOttrzZNpMwo6Zg10",
+    "spotify:track:4dlD7AcevBZuvlWIZctvMo"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100"
+   ],
+   "warnings": [
+    "Spotify date 2016-06-23 vs RYM 1974: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/751c38f2-6868-3c1a-99ec-d5dce77439f4",
+    "first_release_date": "1974",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 14,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/michael-hurley-the-unholy-modal-rounders-jeffrey-fredericks-and-the-clamtones/have-moicy/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Have Moicy!",
+   "title_latin": null,
+   "year": 1976,
+   "credited_as": "Michael Hurley, The Unholy Modal Rounders, Jeffrey Fredericks & The Clamtones",
+   "artists": [
+    "Michael Hurley",
+    "The Holy Modal Rounders",
+    "Jeffrey Frederick"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "3r512B1IHua0oDxxN3ndcd",
+    "url": "https://open.spotify.com/album/3r512B1IHua0oDxxN3ndcd",
+    "name": "Have Moicy!",
+    "album_type": "album",
+    "release_date": "1976-01-01",
+    "total_tracks": 13,
+    "upc": "00888072090286",
+    "label": "Rounder",
+    "artists": [
+     "Michael Hurley",
+     "Unholy Modal Rounders",
+     "Jeffrey Frederick & The Clamtones"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:6ymzeC4hAANuO98puy82eA",
+    "spotify:track:6DWwBCQLklmaBw6dPD8pv5",
+    "spotify:track:1ooF2rRqaDVAZqtkmt53qq",
+    "spotify:track:4hEMP0cKDJVBSipTDVnrct",
+    "spotify:track:4rcISWvgMQYVgSu8ZfdZHb",
+    "spotify:track:3dHOVDCfsBcg0jvd6Z5XcG",
+    "spotify:track:5YDODfjbJKrI7QhUWbFhHE",
+    "spotify:track:1KWouABXhPkk5Nf7swGQuj",
+    "spotify:track:6p19AVBHjgF8xpNMMnLUtM",
+    "spotify:track:306xUQVXmJt1M2tJxadg6P",
+    "spotify:track:4FIQjUtqSjF1csbW3S2wWZ",
+    "spotify:track:2fNaVQCJWhkoR1u82ymhIg",
+    "spotify:track:1r0EIE7MBPiK9SWrjGqAbb"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 00888072090286 matches a MusicBrainz release",
+    "track count 13 matches MusicBrainz",
+    "year 1976 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/b794625a-9dfd-3d43-9aab-17b72366543e",
+    "first_release_date": "1976",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 15,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/william-r-strickland/william-r-strickland-is-only-the-name/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "William R. Strickland, Is Only the Name",
+   "title_latin": null,
+   "year": 1969,
+   "credited_as": null,
+   "artists": [
+    "William R. Strickland"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/fc4ca0cb-7bf2-45e7-abea-75b7972b529d",
+    "first_release_date": "1969-07",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 16,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/speedy-west-and-jimmy-bryant/swingin-on-the-strings-the-speedy-west-and-jimmy-bryant-collection-volume-2/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Swingin' on the Strings: The Speedy West & Jimmy Bryant Collection Volume 2",
+   "title_latin": null,
+   "year": 1999,
+   "credited_as": null,
+   "artists": [
+    "Speedy West and Jimmy Bryant"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/b9bfb450-f8e6-359f-b660-a09390757909",
+    "first_release_date": "1999-03-09",
+    "linked_spotify_artists": [
+     "5O6DkdFuZFvISHeiYAQAVZ"
+    ]
+   }
+  },
+  {
+   "position": 17,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/dan-hicks-and-his-hot-licks/striking-it-rich/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Striking It Rich",
+   "title_latin": null,
+   "year": 1972,
+   "credited_as": null,
+   "artists": [
+    "Dan Hicks and His Hot Licks"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "1qfczFJEHX9vPqxj9McgMN",
+    "url": "https://open.spotify.com/album/1qfczFJEHX9vPqxj9McgMN",
+    "name": "Striking It Rich",
+    "album_type": "album",
+    "release_date": "1972-01-01",
+    "total_tracks": 14,
+    "upc": "00602508163692",
+    "label": "Geffen",
+    "artists": [
+     "Dan Hicks & His Hot Licks"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:5sZFLhACgnu0mR7K5vBxe5",
+    "spotify:track:6rQ2VKxTPqrOzdMKIkIhPQ",
+    "spotify:track:5Si6MfeIX8Xn5cW8IAw5eD",
+    "spotify:track:1K7jWotkOqErKuckO6J8D0",
+    "spotify:track:2VqMzd14NngA7wxqItxMY5",
+    "spotify:track:39XGUM42LGewpWWtvYaCfX",
+    "spotify:track:6TMgXRL9VFyOpmZpQ9DLzp",
+    "spotify:track:7wGPu1tzjlVxissGZ5DiA1",
+    "spotify:track:09kBA8D2PkQG0goeYTpHl5",
+    "spotify:track:1fvqt1a32B1SIIDPxDFs21",
+    "spotify:track:2hm3XsSWAMYM1anRzkm5FF",
+    "spotify:track:6QVKluvK2PnCzCiJw79iij",
+    "spotify:track:0aBddayWsyW5zQxQSEs22b",
+    "spotify:track:6I5tVcuJqZnYfN4Ejfos5w"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 14 matches MusicBrainz",
+    "year 1972 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/efb22084-efce-38bf-b5d4-241c07834098",
+    "first_release_date": "1972",
+    "linked_spotify_artists": [
+     "0hh1N707d2q6xRvhnvraIK"
+    ]
+   }
+  },
+  {
+   "position": 18,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/victrola-favorites-artifacts-from-bygone-days/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Victrola Favorites: Artifacts From Bygone Days",
+   "title_latin": null,
+   "year": 2008,
+   "credited_as": null,
+   "artists": [
+    "Various Artists"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Various Artists is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/c540102f-1b56-3fd4-811f-e32e7195f92c",
+    "first_release_date": "2007-12",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 19,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/mar-tie/the-avant-garde-grandpa/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Avant-Garde Grandpa",
+   "title_latin": null,
+   "year": 2004,
+   "credited_as": null,
+   "artists": [
+    "Mar-Tie"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/9c296a1a-9a80-4bd8-a8d3-b5086f3c9855",
+    "first_release_date": "2004-05-12",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 20,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/michael-finnissy/english-country-tunes/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "English Country-Tunes",
+   "title_latin": null,
+   "year": 1990,
+   "credited_as": null,
+   "artists": [
+    "Michael Finnissy"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Michael Finnissy is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/5af593db-8dbf-41ef-ac7a-89c60a280e34",
+    "first_release_date": "1990",
+    "linked_spotify_artists": [
+     "2tsOm9CPRD4SbZagsqAhj4"
+    ]
+   }
+  },
+  {
+   "position": 21,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/the-everly-brothers/stories-we-could-tell/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Stories We Could Tell",
+   "title_latin": null,
+   "year": 1972,
+   "credited_as": null,
+   "artists": [
+    "The Everly Brothers"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "5ucnCsHTkWKXCcCjrSEdw0",
+    "url": "https://open.spotify.com/album/5ucnCsHTkWKXCcCjrSEdw0",
+    "name": "Stories We Could Tell",
+    "album_type": "album",
+    "release_date": "1972-07-26",
+    "total_tracks": 12,
+    "upc": "884977664249",
+    "label": "RCA/Legacy",
+    "artists": [
+     "The Everly Brothers"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:3X9aTj1yzHQdsTVLKvi03N",
+    "spotify:track:5kF6Hk6XsRZfWH7AgEGRS3",
+    "spotify:track:2uM9JVh1WW8V9BwWzwt1vC",
+    "spotify:track:6YKYMMXgr01pmHaELJEseH",
+    "spotify:track:5p10aAgpGUGtvClJomIFpg",
+    "spotify:track:5yhmEBn8sfF99gIFdd0ZMA",
+    "spotify:track:3yJoeb5li1toZ7xdbEtMV4",
+    "spotify:track:6siVeocuKKnuynQK4PV7AE",
+    "spotify:track:3Itdo5qCIdSsWB5Y2fJBRg",
+    "spotify:track:0nuTn6jSSvsBQo7eRpJwel",
+    "spotify:track:1OlTGpsPrpEtiXD6pzQ60k",
+    "spotify:track:7rBHgJosY0f2CwHA8ONory"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 884977664249 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 12 matches MusicBrainz",
+    "year 1972 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/9a37beed-f876-4262-8b6c-db9b91e58bd3",
+    "first_release_date": "1972-03",
+    "linked_spotify_artists": [
+     "4ACplpEqD6JIVgKrafauzs"
+    ]
+   }
+  },
+  {
+   "position": 22,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/the-legendary-stardust-cowboy/rock-it-to-stardom/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Rock-It to Stardom",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "The Legendary Stardust Cowboy"
+   ],
+   "status": "not_found",
+   "reason": "an artist named The Legendary Stardust Cowboy is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/5c177cb1-1a23-3fc6-9269-849c23568e57",
+    "first_release_date": "1985",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 23,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/shel_silverstein/freakin_at_the_freakers_ball_f1/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Freakin' at the Freakers Ball",
+   "title_latin": null,
+   "year": 1999,
+   "credited_as": null,
+   "artists": [
+    "Shel Silverstein"
+   ],
+   "status": "not_found",
+   "reason": "no Spotify candidates passed validation",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "3LSBL9kLRUayJBIn4XyO3P",
+     "url": "https://open.spotify.com/album/3LSBL9kLRUayJBIn4XyO3P",
+     "name": "Freakin' At The Freakers Ball (Expanded Edition)",
+     "album_type": "album",
+     "release_date": "1972-11-15",
+     "total_tracks": 15,
+     "upc": "886449890347",
+     "label": "SMSP",
+     "artists": [
+      "Shel Silverstein"
+     ],
+     "reason": "Spotify release (1972) predates the RYM release (1999)"
+    }
+   ],
+   "musicbrainz": null
+  },
+  {
+   "position": 24,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/arthur-miles/lonely-cowboy-parts-1-and-2/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Lonely Cowboy (Parts 1 & 2)",
+   "title_latin": null,
+   "year": 1929,
+   "credited_as": null,
+   "artists": [
+    "Arthur Miles"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Arthur Miles is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 25,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/porter-wagoner/the-rubber-room/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "The Rubber Room",
+   "title_latin": null,
+   "year": 2006,
+   "credited_as": null,
+   "artists": [
+    "Porter Wagoner"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Porter Wagoner is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/ce9eb4b2-d414-4dc5-92f0-cd7da6c54970",
+    "first_release_date": "2006",
+    "linked_spotify_artists": [
+     "4PcLkq6IefIYiRWLXOfwKA"
+    ]
+   }
+  },
+  {
+   "position": 26,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/3-bar-ranch/cattle-callin/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Cattle Callin",
+   "title_latin": null,
+   "year": 2011,
+   "credited_as": null,
+   "artists": [
+    "3 Bar Ranch"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 27,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/johnny-dowd/a-drunkards-masterpiece/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "A Drunkard's Masterpiece",
+   "title_latin": null,
+   "year": 2008,
+   "credited_as": null,
+   "artists": [
+    "Johnny Dowd"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "3Jjzjm3RxJPYRHQg9zgf3N",
+    "url": "https://open.spotify.com/album/3Jjzjm3RxJPYRHQg9zgf3N",
+    "name": "A Drunkard's Masterpiece",
+    "album_type": "album",
+    "release_date": "2008-01-01",
+    "total_tracks": 17,
+    "upc": "742451029024",
+    "label": "Bongo Beat Records",
+    "artists": [
+     "Johnny Dowd"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:3P3uyQc5ufQNjBL8k0P8Fw",
+    "spotify:track:3aK4eUJUmAt6GBrao0VeXX",
+    "spotify:track:0Kysd6iCjKu3vjQGWwaCj7",
+    "spotify:track:4bimHkX8ZW9UOFCg6lqMAp",
+    "spotify:track:4gXHDasY0r3KRxiPaXJuzT",
+    "spotify:track:28Dl1QSnDTlEFIEu7kl6Nz",
+    "spotify:track:6fOiOquWgDyjQUcMjf0HHn",
+    "spotify:track:48Hr6xZnsjQ5WeCWaH53tg",
+    "spotify:track:7m6X2hxlYv2lVdciPfgMZY",
+    "spotify:track:2MgSLxEKMBs8wgloZnO2Bn",
+    "spotify:track:1bhP5L9eYtJ3l2NimHfLhy",
+    "spotify:track:1TS9BTuNH0AmmQb2oLXvzN",
+    "spotify:track:4FPOdwJkKollMjDsypU4iY",
+    "spotify:track:0ofosoD3u1FuADX0JFCEci",
+    "spotify:track:2wcnT0kbiwjsjOQeFg84mR",
+    "spotify:track:6kDv4Ci8QUxvDOS56EEhGp",
+    "spotify:track:5rPRbSUduJWRSYuAoFbWZL"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 17 matches MusicBrainz",
+    "year 2008 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/082ffc80-ba9e-4f04-a211-039170445ed0",
+    "first_release_date": "2008-04-01",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 28,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne-elliott-sharp-sun-city-girls/country-music-in-the-world-of-islam/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Country Music in the World of Islam",
+   "title_latin": null,
+   "year": 1990,
+   "credited_as": "Eugene Chadbourne / Elliott Sharp / Sun City Girls",
+   "artists": [
+    "Eugene Chadbourne",
+    "Elliott Sharp",
+    "Sun City Girls"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Eugene Chadbourne is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 29,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/jim_white/the_mysterious_tale_of_how_i_shouted_wrong_eyed_jesus_/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Mysterious Tale of How I Shouted Wrong-Eyed Jesus!",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "Jim White"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Jim White is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 30,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/mary-margaret-ohara/miss-america/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Miss America",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Mary Margaret O'Hara"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "7EorEag88teTV1CevBYuMV",
+    "url": "https://open.spotify.com/album/7EorEag88teTV1CevBYuMV",
+    "name": "Miss America",
+    "album_type": "album",
+    "release_date": "1988",
+    "total_tracks": 11,
+    "upc": "884502842999",
+    "label": "Mary Margaret O'Hara",
+    "artists": [
+     "Mary Margaret O'Hara"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:421zak2z7xyAiOxcxycfiJ",
+    "spotify:track:5izKdNHWaImvy4mbvqijF7",
+    "spotify:track:15Edy9um1W2jrCb9MVaIBV",
+    "spotify:track:1vUivO07XJUxzgfDGyeoOI",
+    "spotify:track:6rRIcbfZB4rIZSDMJrFwJn",
+    "spotify:track:2B9VdKTqF9drVyCG5xQAzn",
+    "spotify:track:32ryi5sXAWlxpf6YwUn9NO",
+    "spotify:track:2IPeWqh5BgCqlIsZQ1tymD",
+    "spotify:track:2evGms9aARxDz5Zla8umu0",
+    "spotify:track:6RUGE0erBfoJMGCadbQdnx",
+    "spotify:track:7vaprIh2rZx7WVamt1eqHW"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 11 matches MusicBrainz",
+    "year 1988 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/226bf1e6-48b7-3da0-abe8-fbb31c77f1e9",
+    "first_release_date": "1988-11",
+    "linked_spotify_artists": [
+     "7d4LXGxrBM99Ayu2MkcMWo"
+    ]
+   }
+  },
+  {
+   "position": 31,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/dragging_an_ox_through_water/the_tropics_of_phenomenon/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Tropics of Phenomenon",
+   "title_latin": null,
+   "year": 2008,
+   "credited_as": null,
+   "artists": [
+    "Dragging an Ox Through Water"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Dragging An Ox Through Water is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/ad527921-5d29-3987-8ac4-fcfd49506a61",
+    "first_release_date": "2009-04-15",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 32,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/bob_nelson/vaqueiro_alegre/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Vaqueiro alegre",
+   "title_latin": null,
+   "year": 1996,
+   "credited_as": null,
+   "artists": [
+    "Bob Nelson"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Bob Nelson is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 33,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/david-grisman/hot-dawg/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Hot Dawg",
+   "title_latin": null,
+   "year": 1979,
+   "credited_as": null,
+   "artists": [
+    "David Grisman"
+   ],
+   "status": "not_found",
+   "reason": "an artist named David Grisman is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/d9264251-947f-308b-be05-4dc841ba8b1d",
+    "first_release_date": "1979",
+    "linked_spotify_artists": [
+     "5udgy2xk333j33hKnwDz8O"
+    ]
+   }
+  },
+  {
+   "position": 34,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/jack-rose/kensington-blues/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Kensington Blues",
+   "title_latin": null,
+   "year": 2005,
+   "credited_as": null,
+   "artists": [
+    "Jack Rose"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "0BZx5tEmE14vaIUxXjkNHg",
+    "url": "https://open.spotify.com/album/0BZx5tEmE14vaIUxXjkNHg",
+    "name": "Kensington Blues",
+    "album_type": "album",
+    "release_date": "2005-08-30",
+    "total_tracks": 8,
+    "upc": "783881009224",
+    "label": "VHF",
+    "artists": [
+     "Jack Rose"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0YcUYpaooEcSNpZc6rrpMN",
+    "spotify:track:7DGslokW6NYufitTMsYLOS",
+    "spotify:track:6tAOuuVEsSBEOj1E5PohU5",
+    "spotify:track:7x0w28cTttksA70gYvOVF2",
+    "spotify:track:0kJFRbW5xTEuiYEKPaP8q3",
+    "spotify:track:1PmYUUS7sz3x6hZY9RvBy6",
+    "spotify:track:3glCDTOHzauoOTnYnvOG76",
+    "spotify:track:4iT1Sngge5lJIKS5vuJydm"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 783881009224 matches a MusicBrainz release",
+    "track count 8 matches MusicBrainz",
+    "year 2005 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/b01e6350-9414-34ef-93f0-6e1125bfbd15",
+    "first_release_date": "2005-08-30",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 35,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/floyd_ming_and_his_pep_steppers/indian_war_whoop___old_red/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Indian War Whoop / Old Red",
+   "title_latin": null,
+   "year": 1928,
+   "credited_as": null,
+   "artists": [
+    "Floyd Ming and His Pep Steppers"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Floyd Ming and His Pep Steppers is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/3971fbc1-f640-4c8e-8e11-bc363dd4c06d",
+    "first_release_date": "1928-05-18",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 36,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/people-take-warning-murder-ballads-and-disaster-songs-1913-1938/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "People Take Warning! Murder Ballads & Disaster Songs, 1913-1938",
+   "title_latin": null,
+   "year": 2007,
+   "credited_as": null,
+   "artists": [
+    "Various Artists"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Various Artists is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/987faba7-b7f8-3f1c-b99a-ad391f6a7a72",
+    "first_release_date": "2007-09-25",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 37,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/bad-livers/delusions-of-banjer/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Delusions of Banjer",
+   "title_latin": null,
+   "year": 1992,
+   "credited_as": null,
+   "artists": [
+    "Bad Livers"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "7yYBM8XmoGhlSFhOXPrx57",
+    "url": "https://open.spotify.com/album/7yYBM8XmoGhlSFhOXPrx57",
+    "name": "Delusions of Banjer",
+    "album_type": "album",
+    "release_date": "1992-09-15",
+    "total_tracks": 14,
+    "upc": "036172001460",
+    "label": "Quarterstick Records",
+    "artists": [
+     "Bad Livers"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:2HfbL1FlbW13O95anMbCXh",
+    "spotify:track:6FzCscWhKO64D096QNCcI0",
+    "spotify:track:7eRdUpyfNaV3qmHLuzR3Jr",
+    "spotify:track:3coNafRVT0cXOWO3IO3e7L",
+    "spotify:track:1kHORdpPGBFSmgfpKDfequ",
+    "spotify:track:5pMOY9qw3DwwM13jHydyU3",
+    "spotify:track:6tbbaTB7MtIfuZfAGpXg5G",
+    "spotify:track:1GbKqAdahzibDaCgNqi3SV",
+    "spotify:track:6RnIu5KNZjdgqDZYimszXi",
+    "spotify:track:0cIyzMO8TzS5154Jk10ux3",
+    "spotify:track:7JBBSlqrxeXb6u79LXCEa4",
+    "spotify:track:0TzNXWXmG9jSJK16F9frrj",
+    "spotify:track:1lfABcpFAezEOgrU0Ifyps",
+    "spotify:track:21xaEWMJbeb4lf7ZQuBT98"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 036172001460 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 14 matches MusicBrainz",
+    "year 1992 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/cc9b1b72-babc-366c-ab82-1f9f8be05051",
+    "first_release_date": "1992",
+    "linked_spotify_artists": [
+     "1vPiDJD75MrDmqQw3Jj6oV"
+    ]
+   }
+  },
+  {
+   "position": 38,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/jim-orourke/bad-timing/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Bad Timing",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "Jim O'Rourke"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Jim O'Rourke is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/83f720e1-dbd1-3813-971e-96a7c3ceeb01",
+    "first_release_date": "1997-08-25",
+    "linked_spotify_artists": [
+     "46urSPEzIrRVqKqciwOq2f"
+    ]
+   }
+  },
+  {
+   "position": 39,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/robbie-basho/zarthus/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Zarthus",
+   "title_latin": null,
+   "year": 1974,
+   "credited_as": null,
+   "artists": [
+    "Robbie Basho"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Robbie Basho is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/c75c9338-ab9d-3db4-b1f2-477e6b4755d4",
+    "first_release_date": "1974",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 40,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/speedy-west/steel-guitar/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Steel Guitar",
+   "title_latin": null,
+   "year": 1960,
+   "credited_as": null,
+   "artists": [
+    "Speedy West"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "5Gv5lcvdHr08tZDp80EKl7",
+    "url": "https://open.spotify.com/album/5Gv5lcvdHr08tZDp80EKl7",
+    "name": "Steel Guitar",
+    "album_type": "album",
+    "release_date": "1960",
+    "total_tracks": 12,
+    "upc": "00724357167352",
+    "label": "Capitol Nashville",
+    "artists": [
+     "Speedy West"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:58hhRCgZGA8cY1HWch5NL8",
+    "spotify:track:3LDK8UC8kb2choD6TMgHtq",
+    "spotify:track:6UtAZWcMKQdehuKLql1Xh8",
+    "spotify:track:4H09swWXTuI7j6SUVmIliC",
+    "spotify:track:5okx68TVUO3Rq0QSWyHRfc",
+    "spotify:track:30KCL0yzUBjfvBsBX0NeIR",
+    "spotify:track:31nUpazaJoaN4Bax6J9CRC",
+    "spotify:track:1vbmvxTFTjwrtnBcIul5kR",
+    "spotify:track:2sZQ0P4zFzLrzxddbzuMyz",
+    "spotify:track:3KPd5MNQm3KbhWwc2sL6ZK",
+    "spotify:track:1bIvJMXdUDbJipRiAvXdVS",
+    "spotify:track:3zFsUoVIysvW7Qs6VeaveK"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "year 1960 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 41,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/i-listen-to-the-wind-that-obliterates-my-traces-music-in-vernacular-photographs-1880-1955/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "I Listen to the Wind That Obliterates My Traces: Music in Vernacular Photographs 1880-1955",
+   "title_latin": null,
+   "year": 2011,
+   "credited_as": null,
+   "artists": [
+    "Various Artists"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Various Artists is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/b4326162-268b-4086-8e84-403b6d3742f0",
+    "first_release_date": "2011",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 42,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/native-north-america-vol-1-aboriginal-folk-rock-and-country-1966–1985/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Native North America (Vol. 1): Aboriginal Folk, Rock, and Country 1966–1985",
+   "title_latin": null,
+   "year": 2014,
+   "credited_as": null,
+   "artists": [
+    "Various Artists"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "305eIp6qJ0g5vdYoNaaERr",
+    "url": "https://open.spotify.com/album/305eIp6qJ0g5vdYoNaaERr",
+    "name": "Native North America (Vol. 1) : Aboriginal Folk, Rock, And Country 1966-1985",
+    "album_type": "compilation",
+    "release_date": "2014-11-11",
+    "total_tracks": 34,
+    "upc": "826853010320",
+    "label": "Light in the Attic",
+    "artists": [
+     "Various Artists"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:1GyAagsfqUSPf5DdO3bBBe",
+    "spotify:track:6b6tPKnbNGvcgxSIR74PO2",
+    "spotify:track:1WFJiLyych55oP9swFkufs",
+    "spotify:track:2A4l93DA22zAK4IdxBwApe",
+    "spotify:track:7FTPWCkop7nCMiM15c1fGy",
+    "spotify:track:2jUqCNk1sn8MRcAC2lFVDo",
+    "spotify:track:1ySfkvzF5B8hok8ovC58O5",
+    "spotify:track:1ZgkhuwVajGAa7NSHv4l94",
+    "spotify:track:2TzYpam0HlSkJaQVXFSDfO",
+    "spotify:track:36Ew9Taml4Jf9RDf3B8Y2E",
+    "spotify:track:02UITXd7fHkIha1HmuUTw5",
+    "spotify:track:71H49yQ7737xGAVtEgGcy1",
+    "spotify:track:1Vj3t4BARVeM2iV35i9Oij",
+    "spotify:track:60NZOFIvCwfe8YFpSwiax5",
+    "spotify:track:6rYKG8xeiixNve80caBWMA",
+    "spotify:track:1eqy6eFHqTxSKwc30e59Hp",
+    "spotify:track:5JvjpAJ12gKlCXjeqixsP9",
+    "spotify:track:2LegerNdPuhW7n2y9Bt0e1",
+    "spotify:track:0b9TaDl6hK8X4X6P8JGq2w",
+    "spotify:track:57Je9zNKnbiZMkM4X56SPX",
+    "spotify:track:7oRZIe21yHSXgSwPXo0Afj",
+    "spotify:track:5VKIXWFKyPfVfQUIBzWRvC",
+    "spotify:track:7aacbqv72dyitNGZVy8Jy1",
+    "spotify:track:0xw0VELtVF8DICeMf2kGXl",
+    "spotify:track:1q6JbTypkyWUhPMm6DCKa3",
+    "spotify:track:77tBrW4HzEzCHvgt8hGfTG",
+    "spotify:track:3PW0jUZlcKmmfVJRSbb7i6",
+    "spotify:track:5Y4qkcfJlDuHOCuhwTvvbT",
+    "spotify:track:5e1krI7f7WgvUwnVsOM8pI",
+    "spotify:track:1kxIPAwBw5mcuM6emAHq2M",
+    "spotify:track:0bQdEpeaGJzoaKlrbKVkfe",
+    "spotify:track:5d5gQAXrgWxERdEUM7L9e1",
+    "spotify:track:5yX7XexfpJ0GIsccLUysnF",
+    "spotify:track:2y5tcJETkBWicnjvJePNja"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 826853010320 matches a MusicBrainz release",
+    "track count 34 matches MusicBrainz",
+    "year 2014 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/f21f246a-029d-4ab7-bb51-5b891163d360",
+    "first_release_date": "2014-11-11",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 43,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/scott_tuma/not_for_nobody/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Not for Nobody",
+   "title_latin": null,
+   "year": 2008,
+   "credited_as": null,
+   "artists": [
+    "Scott Tuma"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Scott Tuma is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/45c0aff0-dc86-3328-bc9f-1ff092b8074a",
+    "first_release_date": "2008",
+    "linked_spotify_artists": [
+     "36dCfwdorBypZDdh4Zlcbg"
+    ]
+   }
+  },
+  {
+   "position": 44,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/roger_aubry/beau_jour_de_fete___sublime_amour/",
+   "rym_type": "single",
+   "type_label": "Album",
+   "title": "Beau jour de fete / Sublime amour",
+   "title_latin": null,
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "Roger Aubry"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Roger Aubry is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 45,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/hoosier-hot-shots/rural-rhythm-1935-1942/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Rural Rhythm 1935-1942",
+   "title_latin": null,
+   "year": 1992,
+   "credited_as": null,
+   "artists": [
+    "Hoosier Hot Shots"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Hoosier Hot Shots is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/24ec5d8e-7b40-3660-ab0a-75fb12de241a",
+    "first_release_date": "1992",
+    "linked_spotify_artists": [
+     "48DbQNUj1qitHuw2cLgNph"
+    ]
+   }
+  },
+  {
+   "position": 46,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/souled-american/flubber/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Flubber",
+   "title_latin": null,
+   "year": 1989,
+   "credited_as": null,
+   "artists": [
+    "Souled American"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "4qDtyjbIirBZs6XILCewFV",
+    "url": "https://open.spotify.com/album/4qDtyjbIirBZs6XILCewFV",
+    "name": "Flubber",
+    "album_type": "album",
+    "release_date": "1989-04-14",
+    "total_tracks": 13,
+    "upc": "198471223810",
+    "label": "Souled American Records",
+    "artists": [
+     "Souled American"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:3bj3opQEsM6sifkP1wJaxl",
+    "spotify:track:0ULPqGefxz36DTg3V0iSJt",
+    "spotify:track:1l9NHGvga5Pb4bDLzU2cXF",
+    "spotify:track:2k8NheZOwluyjHZb85emYR",
+    "spotify:track:6ydsR2Q0otz6JueWxdom30",
+    "spotify:track:3U0P9RRHiKSMfJb1RL1dHT",
+    "spotify:track:7mI2J6to9WIgVpVNuyxpab",
+    "spotify:track:4Ep40bEe5OMyIloWGfp087",
+    "spotify:track:3biKlKYYhkDVXOO3MgDVNi",
+    "spotify:track:3OO9FMPpFj0gXsmvf7PPlb",
+    "spotify:track:5gwSYR6D6xD3P5OV4q84HI",
+    "spotify:track:5LsyLZd6ULxygvO3nTugeN",
+    "spotify:track:0tSWk7YfjcCTB3iUAZfVBT"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 13 matches MusicBrainz",
+    "year 1989 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/0fce0945-391a-3119-aeaf-f72a802968de",
+    "first_release_date": "1989",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 47,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/friends-of-dean-martinez/the-shadow-of-your-smile/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Shadow of Your Smile",
+   "title_latin": null,
+   "year": 1995,
+   "credited_as": null,
+   "artists": [
+    "Friends of Dean Martinez"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "1c0blVVPxQbkAk9jFcGUoB",
+    "url": "https://open.spotify.com/album/1c0blVVPxQbkAk9jFcGUoB",
+    "name": "The Shadow Of Your Smile",
+    "album_type": "album",
+    "release_date": "1995-08-22",
+    "total_tracks": 13,
+    "upc": "098787030662",
+    "label": "Sub Pop Records",
+    "artists": [
+     "Friends of Dean Martinez"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0HyRy5YQAp32gMM56DuoZM",
+    "spotify:track:4wmWvEtLLEWp6i0a0i2C6B",
+    "spotify:track:1drKJiGbdqYmH1w3acFTV2",
+    "spotify:track:4A2OgQb5AlL3rE0RhhQXXo",
+    "spotify:track:5uzB9oNaQiMUIFT1n7xnqp",
+    "spotify:track:2dfvTeF1FjEPQot7VCvA5w",
+    "spotify:track:3RNAPVYFGHYXfSby68Wqua",
+    "spotify:track:4GyYoo8Dxay21oD4ZvbUNF",
+    "spotify:track:5Un5uh2oBreDxeLy6NEhGu",
+    "spotify:track:3jZDXh8XPLoEF8dXGzObaO",
+    "spotify:track:7p0oAA64Y7y3fmCfKZhf23",
+    "spotify:track:3zyTqqeQopcUTS8BEA4qkL",
+    "spotify:track:3zvu45sQroSxQJ3Q2Q9Kf6"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 13 matches MusicBrainz",
+    "year 1995 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/3aa29b34-bfea-3ce4-8ed2-079704fa97cf",
+    "first_release_date": "1995-08-22",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 48,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/world-standard/country-gazette/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Country Gazette",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "World Standard"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/50b2a568-92f4-3035-94bb-7b6ad9b9bf76",
+    "first_release_date": "1997-08-21",
+    "linked_spotify_artists": [
+     "0Ylh0U9X2NUzMV5qzWpuwm"
+    ]
+   }
+  },
+  {
+   "position": 49,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/ep/fire-on-fire/fire-on-fire/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Fire on Fire",
+   "title_latin": null,
+   "year": 2007,
+   "credited_as": null,
+   "artists": [
+    "Fire on Fire"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "1bvlovcgetcXorR09J4CJh",
+    "url": "https://open.spotify.com/album/1bvlovcgetcXorR09J4CJh",
+    "name": "Fire on Fire",
+    "album_type": "album",
+    "release_date": "2008-02-26",
+    "total_tracks": 5,
+    "upc": "655035005126",
+    "label": "Young God Records",
+    "artists": [
+     "Fire on Fire"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:2HB7b6JrlNUnRe8I5l3P2L",
+    "spotify:track:0AFb2Y4TNFzvbybpnfzP9H",
+    "spotify:track:3g4CEOXoIEYndKZtEVUzgA",
+    "spotify:track:6aBAyJtLwW6yRHMghOExff",
+    "spotify:track:2gMWqowdEIrDGRotiaWZTu"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 5 matches MusicBrainz",
+    "year 2008 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/dc313180-8868-4422-8a65-8a6f0274cb89",
+    "first_release_date": "2007-10-05",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 50,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/harry_choates/fiddle_king_of_cajun_swing/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Fiddle King of Cajun Swing",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "Harry Choates"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "0C35HlppuOybi80iNXZYr7",
+    "url": "https://open.spotify.com/album/0C35HlppuOybi80iNXZYr7",
+    "name": "The Fiddle King of Cajun Swing",
+    "album_type": "album",
+    "release_date": "1993-01-01",
+    "total_tracks": 26,
+    "upc": "0096297038062",
+    "label": "Arhoolie Records",
+    "artists": [
+     "Harry Choates"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:56iWeYVrhKoLNqipWc849A",
+    "spotify:track:7lXvc2CpTPsPoJAYMxLPm5",
+    "spotify:track:0FoRlhnjOg0aO6xZLFNGUC",
+    "spotify:track:5okD4Yo0pt5zK9nbiutiSH",
+    "spotify:track:2WJknc8Ozri9uOPyxk2Kep",
+    "spotify:track:26BJ6o2Hw7aPQFUOqdoOBj",
+    "spotify:track:2QPI9PRFtDiX3atCplUkO6",
+    "spotify:track:37qRqOSp2RLCBRySr3frac",
+    "spotify:track:7lYQ1AvAf4DPeeD72d9pLf",
+    "spotify:track:5y5ozNv6c9wwYeHNrACj8F",
+    "spotify:track:0bXaRqtseSKn1P4mrxgdF2",
+    "spotify:track:4vEkipXVhJWqpNFhVNg2uV",
+    "spotify:track:4hWMJr47D7miV159VUXi0E",
+    "spotify:track:3usHP7FiTZHP086h16cV3L",
+    "spotify:track:4g20wCMSdsmIqmP5a2Xczi",
+    "spotify:track:6SznET9TRczagrBVt61Pb5",
+    "spotify:track:75Nsv2bEJLNAGVzrASPO2r",
+    "spotify:track:6IfumCHZE7s5RUXYFyzUr7",
+    "spotify:track:14Lb2euOhzZq4ieI3lKPLt",
+    "spotify:track:2zDqhFSkOM7gl0SddBG7Fu",
+    "spotify:track:2bq0SC0F6srW0br5Qh5bfu",
+    "spotify:track:6P3RDb6fEp9LB2nWItHeMK",
+    "spotify:track:7l7CBhd57s6sGK0Z7feQDH",
+    "spotify:track:7blVwTYL5p6WXLkEmB97xZ",
+    "spotify:track:4ylNLBOd2gInBUzgZemb5B",
+    "spotify:track:17G0XyFR0x0fy2k3mxZFuc"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 26 matches MusicBrainz",
+    "year 1993 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/5b003247-ce7a-432f-ac31-c5a9bc015b1b",
+    "first_release_date": "1993",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 51,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/sir-douglas-quintet/sir-douglas-quintet-2-honkey-blues/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Sir Douglas Quintet + 2 = Honkey Blues",
+   "title_latin": null,
+   "year": 1968,
+   "credited_as": null,
+   "artists": [
+    "Sir Douglas Quintet"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Sir Douglas Quintet is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 52,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/califone/roomsound/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Roomsound",
+   "title_latin": null,
+   "year": 2001,
+   "credited_as": null,
+   "artists": [
+    "Califone"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "7q0KgyDLqQVOaR6YFLlY0x",
+    "url": "https://open.spotify.com/album/7q0KgyDLqQVOaR6YFLlY0x",
+    "name": "Roomsound (Deluxe Reissue)",
+    "album_type": "album",
+    "release_date": "2001-04-10",
+    "total_tracks": 15,
+    "upc": "656605141848",
+    "label": "Dead Oceans",
+    "artists": [
+     "Califone"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:4pWlYKpzQBJseOA7i9elES",
+    "spotify:track:2gv7FaPoTqGuY5DWIgF9ma",
+    "spotify:track:7ov7ZngQ85BW1RhkcE1mzg",
+    "spotify:track:4qYsxAZtvmjq3HQC06j6aw",
+    "spotify:track:3c5rB7SOT2I9WGeZZr3elc",
+    "spotify:track:3ieAXP725gmrcfde3Cu14U",
+    "spotify:track:6Z5dtnJrfQZoyUYBroNDIV",
+    "spotify:track:4LkfNjM3l6hRtVt637s6PO",
+    "spotify:track:2dgkwvQvCU53Epxx7tWeHd",
+    "spotify:track:57M3coorI2JQNRrYYLFtbW",
+    "spotify:track:2sL790bOJiX4STwjqtHnqE",
+    "spotify:track:1fKSpT3H2b1YmX8PErE5xJ",
+    "spotify:track:66wPWKuaTYTlaNFJld8Uj8",
+    "spotify:track:5BHYNJYz37gnZkrZOXPik8",
+    "spotify:track:1bv2woOqkekZyC3kJZBpL0"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 15 matches MusicBrainz",
+    "year 2001 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/92d01b5b-da35-32e6-85f6-5dc0e79407db",
+    "first_release_date": "2001-04-10",
+    "linked_spotify_artists": [
+     "3mv2eHwrIONSkviASDMRMa"
+    ]
+   }
+  },
+  {
+   "position": 53,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/mixtape/young-thug/beautiful-thugger-girls/",
+   "rym_type": "mixtape",
+   "type_label": "Mixtape",
+   "title": "Beautiful Thugger Girls",
+   "title_latin": null,
+   "year": 2017,
+   "credited_as": null,
+   "artists": [
+    "Young Thug"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "51KZKzPd3OQT1r46a55VTt",
+    "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt",
+    "name": "Beautiful Thugger Girls",
+    "album_type": "album",
+    "release_date": "2017-06-16",
+    "total_tracks": 14,
+    "upc": "075679892409",
+    "label": "Atlantic Records",
+    "artists": [
+     "Young Thug"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:445YTBOjx9kYThBepGA9au",
+    "spotify:track:6Zm6fxOVPzyArjrNPx9LRe",
+    "spotify:track:3WL6yCfh0zw2MxVSWSe0G1",
+    "spotify:track:347hgqCHnL4GfgVX5hZfNv",
+    "spotify:track:0whCNZKidgBNhuPW41vYpg",
+    "spotify:track:25oOaleife6E2MIKmFkPvg",
+    "spotify:track:1gUakci7HwPcImtp0i79N3",
+    "spotify:track:07YlTLGFG2LsTkqGFwY5jC",
+    "spotify:track:1X4PsdScsMExfuNFPLNcTT",
+    "spotify:track:2BAmF6QyK5IYEOp1TFmt0u",
+    "spotify:track:0JaN65P0DapRjboDEv2g08",
+    "spotify:track:7FjxdLxJkOV5cHOrttx5Ft",
+    "spotify:track:5e5LyZy3k83xTQKnerVrif",
+    "spotify:track:1mB1N8BVAN3BeyOes2uj1E"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 075679892409 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 14 matches MusicBrainz",
+    "year 2017 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/257e2fba-928c-4c04-8d3f-be9f0208ef7e",
+    "first_release_date": "2017-06-16",
+    "linked_spotify_artists": [
+     "50co4Is1HCEo8bhOyUWKpn"
+    ]
+   }
+  },
+  {
+   "position": 54,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/bob-joe/vaqueiro-solitario/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Vaqueiro solitário",
+   "title_latin": null,
+   "year": 1973,
+   "credited_as": null,
+   "artists": [
+    "Bob Joe"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Bob Joe is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 55,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/the-holy-modal-rounders/the-moray-eels-eat-the-holy-modal-rounders/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Moray Eels Eat The Holy Modal Rounders",
+   "title_latin": null,
+   "year": 1968,
+   "credited_as": null,
+   "artists": [
+    "The Holy Modal Rounders"
+   ],
+   "status": "uncertain",
+   "spotify": {
+    "id": "32k936pERAnNLWxmNxWgET",
+    "url": "https://open.spotify.com/album/32k936pERAnNLWxmNxWgET",
+    "name": "Moray Eels Eat The Holy Modal Rounders",
+    "album_type": "album",
+    "release_date": "2006-05-23",
+    "total_tracks": 13,
+    "upc": "603497069361",
+    "label": "Rhino/Elektra",
+    "artists": [
+     "The Holy Modal Rounders"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:6GKfydRsRiBIlmBOFNrH5Q",
+    "spotify:track:0KGwuaWEasbsMnlQ5jP79y",
+    "spotify:track:2hTfqQpcQ7TDWf6xRCGBQB",
+    "spotify:track:3t2TCNXzdNzFkCLD9evbPQ",
+    "spotify:track:3cRw5VPqHclVtF0NQetChj",
+    "spotify:track:7EE2HGt86D4Q54AGhBBC9C",
+    "spotify:track:1SevEc372bdGfV8DqowwM5",
+    "spotify:track:1E9TsVAWRPqMZ3TvY94XT1",
+    "spotify:track:5SN87qJVO2PjVIlBGNAmzB",
+    "spotify:track:71911AuXVWGCtnClKLEvH7",
+    "spotify:track:5TXoKEtJZxVby7qiP3iIgi",
+    "spotify:track:0lxinq1tQiD3b7IDHyUgmt",
+    "spotify:track:5eBllBmzgbuognta7eOtze"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 13 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2006-05-23 vs RYM 1968: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/13112274-26a8-3063-a666-b41894d365d1",
+    "first_release_date": "1968",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 56,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/comp/ウイリー沖山/スイスの娘-anthology-king-of-yodel-vol-1/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "スイスの娘 - Anthology: King of Yodel, Vol. 1",
+   "title_latin": null,
+   "year": 2003,
+   "credited_as": null,
+   "artists": [
+    "ウイリー沖山 [Willy Okiyama]"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 57,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/those-poor-bastards/satan-is-watching/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Satan Is Watching",
+   "title_latin": null,
+   "year": 2008,
+   "credited_as": null,
+   "artists": [
+    "Those Poor Bastards"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "6bNsfIGHf09tMQzBsm74Lb",
+    "url": "https://open.spotify.com/album/6bNsfIGHf09tMQzBsm74Lb",
+    "name": "Satan Is Watching",
+    "album_type": "album",
+    "release_date": "2008-11-05",
+    "total_tracks": 12,
+    "upc": "634479843945",
+    "label": "Tribulation Recording Company",
+    "artists": [
+     "Those Poor Bastards"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:76OJlO76OrJ3bRQwItVq65",
+    "spotify:track:4sEh1GVe0jfMwSvD5BaImX",
+    "spotify:track:1jBLoglfLf6PESeHTYtNsN",
+    "spotify:track:02DaPT9guNMsvwEV6fgtWG",
+    "spotify:track:38ZrYD74FELOLETWDsz09w",
+    "spotify:track:57iZ8hoUl9PBnbNCC9PMF5",
+    "spotify:track:20DbTJezJ2A4EvZjdHaird",
+    "spotify:track:1JkkXCADMjnHvNwwOq0C4e",
+    "spotify:track:6rdKd3rvxEbFO6ZSsC9mPs",
+    "spotify:track:72chN6J1elVtcOVJvezjVO",
+    "spotify:track:2CEF1f1O7oJ97m8y0SBvcZ",
+    "spotify:track:4tmSLjM2dDLEJGonYrxYKR"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 634479843945 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 12 matches MusicBrainz",
+    "year 2008 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/d3bb7f2d-433e-30d7-b6e5-a8485043d43e",
+    "first_release_date": "2008-10-31",
+    "linked_spotify_artists": [
+     "0qwWMVIcy32f3sw0OfvP9f"
+    ]
+   }
+  },
+  {
+   "position": 58,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/sturgill-simpson/metamodern-sounds-in-country-music/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Metamodern Sounds in Country Music",
+   "title_latin": null,
+   "year": 2014,
+   "credited_as": null,
+   "artists": [
+    "Sturgill Simpson"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "5N1kfa3omZENLwlVhEgqHF",
+    "url": "https://open.spotify.com/album/5N1kfa3omZENLwlVhEgqHF",
+    "name": "Metamodern Sounds in Country Music",
+    "album_type": "album",
+    "release_date": "2014-05-13",
+    "total_tracks": 10,
+    "upc": "886444551298",
+    "label": "Atlantic Outpost",
+    "artists": [
+     "Sturgill Simpson"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:1KtDYUcgs25O2SoBTaWsLE",
+    "spotify:track:7h4o1jMKrCdh5pZUGtOGlU",
+    "spotify:track:5QWCAA46QPczllv7BkF5tj",
+    "spotify:track:4fy24AROteNtNjSSienxob",
+    "spotify:track:5JT14Or1FWUDQq4danqHs5",
+    "spotify:track:2dU4GdjgWcAZCUzMtAlqQm",
+    "spotify:track:3U1Ggplez0QWxvAP6i1X9I",
+    "spotify:track:4jQedbzJPjy0moyeJcAyLr",
+    "spotify:track:0PQjecD11MJMsEZ8JmJMBR",
+    "spotify:track:0u9vTQC8S116B34ftis1pa"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 886444551298 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 10 matches MusicBrainz",
+    "year 2014 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/32984f66-0224-4ab3-bd77-9f6bc3dfd33f",
+    "first_release_date": "2014-05-12",
+    "linked_spotify_artists": [
+     "3vDpQbGnzRbRVirXlfQagB"
+    ]
+   }
+  },
+  {
+   "position": 59,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/sir-richard-bishop/salvador-kali/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Salvador Kali",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "Sir Richard Bishop"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "0iaGHX6KYdVY62E6TJQIMa",
+    "url": "https://open.spotify.com/album/0iaGHX6KYdVY62E6TJQIMa",
+    "name": "Salvador Kali",
+    "album_type": "album",
+    "release_date": "1998-04-21",
+    "total_tracks": 9,
+    "upc": "630814010225",
+    "label": "Revenant",
+    "artists": [
+     "Sir Richard Bishop"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:7D9lnzXlgdMm5bI8lq75lf",
+    "spotify:track:7cAmdFYxo0bMFQvTM6pnyu",
+    "spotify:track:1scjLGdENQnPaDQ59Y64s9",
+    "spotify:track:5IKNXchLbvqa4yxd8e1rNw",
+    "spotify:track:4eIqyh3sEQmnn1u6pRXrds",
+    "spotify:track:0rMnGgvZsHzS89aHZPTAJv",
+    "spotify:track:7Cf3zkbOzlPsa4tLqVGyli",
+    "spotify:track:3GNcyR04fKOPZasxEaNsmm",
+    "spotify:track:1rCWsPl1FzYX0ejWW2At1i"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 630814010225 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 9 matches MusicBrainz",
+    "year 1998 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/f112ed95-4a0c-39cc-9e06-07e768ee71a8",
+    "first_release_date": "1998",
+    "linked_spotify_artists": [
+     "36GbLKvZbVebDmu6hS6Zfa"
+    ]
+   }
+  },
+  {
+   "position": 60,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/lavender-country/lavender-country/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Lavender Country",
+   "title_latin": null,
+   "year": 1973,
+   "credited_as": null,
+   "artists": [
+    "Lavender Country"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "4Tw0CuP1RixX0fDBZx3Cvq",
+    "url": "https://open.spotify.com/album/4Tw0CuP1RixX0fDBZx3Cvq",
+    "name": "Lavender Country",
+    "album_type": "album",
+    "release_date": "1973-01-01",
+    "total_tracks": 10,
+    "upc": "616892185048",
+    "label": "Paradise of Bachelors",
+    "artists": [
+     "Lavender Country"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0ezvdmGhcMrDARcK9J6sGa",
+    "spotify:track:7LOkEQy2QGmy27K24EmR4h",
+    "spotify:track:3Psjfxm5vc4hqXqD7V9rDz",
+    "spotify:track:1LlvQtUbDp7kuGxVxXBC4f",
+    "spotify:track:3xuYC3SWU0wNHh8Onac72Q",
+    "spotify:track:579kBAY6bflazrUeic8EBF",
+    "spotify:track:6YbMyIVPgdjomWFLuFxk9C",
+    "spotify:track:4vxPyF2g7nR1vBVVZfGkVs",
+    "spotify:track:1ijs5aVU705W8VfSLTmNRc",
+    "spotify:track:69n0K9GlRBkTFkB1VZ4bbe"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 616892185048 matches a MusicBrainz release",
+    "track count 10 matches MusicBrainz",
+    "year 1973 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/c3bc2b3a-7cbf-48f6-80c3-93ba265b68c4",
+    "first_release_date": "1973",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 61,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/earth/hex-or-printing-in-the-infernal-method/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Hex; or Printing in the Infernal Method",
+   "title_latin": null,
+   "year": 2005,
+   "credited_as": null,
+   "artists": [
+    "Earth"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "14m2sGv2Ezs9fdUdOJEvDG",
+    "url": "https://open.spotify.com/album/14m2sGv2Ezs9fdUdOJEvDG",
+    "name": "Hex: Or Printing in the Infernal Method",
+    "album_type": "album",
+    "release_date": "2005-10-23",
+    "total_tracks": 9,
+    "upc": "886446441931",
+    "label": "Southern Lord",
+    "artists": [
+     "Earth"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:2o1Zak2QRgL7hn9UL7prNU",
+    "spotify:track:2AYEyEGXwZJ4pbG7jlAGyw",
+    "spotify:track:0Ctipx8vxT2OEDStzhx2V2",
+    "spotify:track:1qqtHT07JoNVvmir4HULCf",
+    "spotify:track:250fb1KGEGF0uovNGrsMdv",
+    "spotify:track:77cgc07OFLOPohnhfspILp",
+    "spotify:track:33Lsj7uS17z8DFcUyvAFMf",
+    "spotify:track:3l81MuE7oMBZJsutpNYmrg",
+    "spotify:track:6n3opcWjC5HhElOUOkI0U2"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 9 matches MusicBrainz",
+    "year 2005 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/82343fc7-9b2c-35e8-a992-b35058dfab27",
+    "first_release_date": "2005-09-20",
+    "linked_spotify_artists": [
+     "4mTFQE6aiehScgvreB9llC"
+    ]
+   }
+  },
+  {
+   "position": 62,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/the-louvin-brothers/satan-is-real/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Satan Is Real",
+   "title_latin": null,
+   "year": 1959,
+   "credited_as": null,
+   "artists": [
+    "The Louvin Brothers"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "0CluD7Nl9LuRCn0kSUysBK",
+    "url": "https://open.spotify.com/album/0CluD7Nl9LuRCn0kSUysBK",
+    "name": "Satan Is Real",
+    "album_type": "album",
+    "release_date": "1960",
+    "total_tracks": 12,
+    "upc": "00724383737857",
+    "label": "Capitol Nashville",
+    "artists": [
+     "The Louvin Brothers"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:7oXP56aUNn7ofMyLhvPhEK",
+    "spotify:track:6f7Y8w46jed9OVbXWKYY6N",
+    "spotify:track:50eEiYTtmRTXG9kEkK05zA",
+    "spotify:track:7EnAADL0Y3Z9qir3xQBlyK",
+    "spotify:track:1D403LgpMsSbJ1GGx7MHLy",
+    "spotify:track:2JdXoenOxVO975w9YXnElK",
+    "spotify:track:0ZpfSlcTnVdqC22anp1eg2",
+    "spotify:track:2IPX4W0uYDFDsPnW9TgOhM",
+    "spotify:track:5bozEdb0TmHWm2l3WycChm",
+    "spotify:track:1v605qqS8BQhRxIzCJmHy7",
+    "spotify:track:1iKyvYnHYcjAH93Hizvy99",
+    "spotify:track:4l7xaxculFBTPEtjRyivYi"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 12 matches MusicBrainz",
+    "year 1960 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/364ce2c8-46eb-3214-91c8-9278597d3430",
+    "first_release_date": "1959-11-16",
+    "linked_spotify_artists": [
+     "3TUYqYNCqgqeqkBZVyxEi6"
+    ]
+   }
+  },
+  {
+   "position": 63,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/henry-flynt-and-novabilly/henry-flynt-and-novabilly/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Henry Flynt & Nova'Billy",
+   "title_latin": null,
+   "year": 2007,
+   "credited_as": null,
+   "artists": [
+    "Henry Flynt & Nova'Billy"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 64,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/wovenhand/consider-the-birds/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Consider the Birds",
+   "title_latin": null,
+   "year": 2004,
+   "credited_as": null,
+   "artists": [
+    "Wovenhand"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "73G3OKNz2vNUffQprSJ5tp",
+    "url": "https://open.spotify.com/album/73G3OKNz2vNUffQprSJ5tp",
+    "name": "Consider the Birds",
+    "album_type": "album",
+    "release_date": "2004-11-02",
+    "total_tracks": 10,
+    "upc": "634457246355",
+    "label": "Sargent House",
+    "artists": [
+     "Wovenhand"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:5sj11IM2EQzHoErK6qJOPS",
+    "spotify:track:1MjGEBA0vPrhatHqYQTsgW",
+    "spotify:track:1BKJnpruOJsZS1wIVO0KAa",
+    "spotify:track:4pEBqtAC2FGjiwhO2n4X3f",
+    "spotify:track:19xs9NBs3D1LZUNp94fFFJ",
+    "spotify:track:1o39s2aibwRxESPvMgnyTD",
+    "spotify:track:51dxfx4HNum3Br7SaEBmWJ",
+    "spotify:track:27Eog3Taxco8ip8zvfycfk",
+    "spotify:track:5ulIGHn99sWWjmfh0ueWPv",
+    "spotify:track:5aXNkvJIww6JN5f9WPm6Kh"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 10 matches MusicBrainz",
+    "year 2004 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/ba8d3bf0-01e0-35ac-9089-a72f1ecac43d",
+    "first_release_date": "2004-09-20",
+    "linked_spotify_artists": [
+     "0dpglhdTlof5BS5LX7uJmg"
+    ]
+   }
+  },
+  {
+   "position": 65,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/jackie-o-motherfucker/fig-5/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Fig. 5",
+   "title_latin": null,
+   "year": 2000,
+   "credited_as": null,
+   "artists": [
+    "Jackie-O Motherfucker"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "1eoY0OgIzlpwsUxmHQsEYC",
+    "url": "https://open.spotify.com/album/1eoY0OgIzlpwsUxmHQsEYC",
+    "name": "Fig. 5 (Reissue)",
+    "album_type": "album",
+    "release_date": "2000-01-01",
+    "total_tracks": 9,
+    "upc": "884385013752",
+    "label": "Fire Records",
+    "artists": [
+     "Jackie O Motherfucker"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:7K0IdBcJIF8Ppp80xtqV2S",
+    "spotify:track:6BN4hMywYMQjFVjGn8fR4O",
+    "spotify:track:1pFTcn8pXRGIarJFTmk2EP",
+    "spotify:track:6NO1W1KoS1mEKDjV2ZrCul",
+    "spotify:track:1XqlxklOGeyWksxkg60qHU",
+    "spotify:track:3at8FsJfWg7ZBTtXBPd9II",
+    "spotify:track:4hBVNSBrk1eQq1XvYkydFU",
+    "spotify:track:79GvcftDo4nBVIrgTDQ6jJ",
+    "spotify:track:1Ibaj6qJnaF45XTyMWtsvO"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 9 matches MusicBrainz",
+    "year 2000 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/0a421a22-cbe2-3a3d-a8d4-117d5e328adf",
+    "first_release_date": "2000-02-21",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 66,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/bill-frisell/good-dog-happy-man/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Good Dog, Happy Man",
+   "title_latin": null,
+   "year": 1999,
+   "credited_as": null,
+   "artists": [
+    "Bill Frisell"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "4ICZxA4JmNgkrjT9d30TJX",
+    "url": "https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX",
+    "name": "Good Dog, Happy Man",
+    "album_type": "album",
+    "release_date": "1999-05-14",
+    "total_tracks": 12,
+    "upc": "075597953664",
+    "label": "Nonesuch",
+    "artists": [
+     "Bill Frisell"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:4Dvyyfa93OpZeJ3XgvS84I",
+    "spotify:track:5z3eGVwb6nw1F7V8GcS3S2",
+    "spotify:track:6UBW5HjoTx3CuNGgY3lPsS",
+    "spotify:track:4YMcWMr5CIfgTj1Z9HloHT",
+    "spotify:track:1WDOzVi6U8H4JEeYNg3eOQ",
+    "spotify:track:19F7OZVDaZX1eHAWd8lQg2",
+    "spotify:track:4dUJ8MeumIo5KF6ZD5p9in",
+    "spotify:track:3VSUoFwWypcLEiPk4mIKZf",
+    "spotify:track:1KikijTf8WCggOaNplt7BM",
+    "spotify:track:3N51pIlDDV5JEwmxTU11h9",
+    "spotify:track:5MlqRPszPS4KQPuCcNgyQF",
+    "spotify:track:3yfM13IQAzwppxIRqpPdpl"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 075597953664 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 12 matches MusicBrainz",
+    "year 1999 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/9644378f-312e-348d-9692-761e020d59cc",
+    "first_release_date": "1999",
+    "linked_spotify_artists": [
+     "3SONlwqLIP2GtaMh9pLYe5"
+    ]
+   }
+  },
+  {
+   "position": 67,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/meat-puppets/huevos/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Huevos",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Meat Puppets"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "3YQBupuImH0sIeJ63yNxrQ",
+    "url": "https://open.spotify.com/album/3YQBupuImH0sIeJ63yNxrQ",
+    "name": "Huevos",
+    "album_type": "album",
+    "release_date": "1987",
+    "total_tracks": 14,
+    "upc": "886443099180",
+    "label": "MRI",
+    "artists": [
+     "Meat Puppets"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:64bxT7GLsfqGkzTQL7UKFs",
+    "spotify:track:3JoOpC5exZpj5GHdNOnrLk",
+    "spotify:track:4UKRjz4kJecCFv6qOePZiF",
+    "spotify:track:779r54IIErkpAjjYGN3xv6",
+    "spotify:track:69XjD0PTBgUl09yiYLROqr",
+    "spotify:track:0jwqFD3UlWKAH4zbDP5k0h",
+    "spotify:track:49CUq5HZQmD7rpOTyx5S4I",
+    "spotify:track:0z3dPXlzeM5NMZDOrLPkJe",
+    "spotify:track:6MzfNgIeEUqpckN2ZfxOJS",
+    "spotify:track:67gSTLU4SWU8iWXt3mdhET",
+    "spotify:track:7apbCkyixLUByWawrg6Vtq",
+    "spotify:track:7qukSIrQqB4lBVYZkF6sGk",
+    "spotify:track:5aEL2ipZOCIkcc6TAg5oyD",
+    "spotify:track:1CE05mKOG5vi1Ta9ebgWim"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 14 matches MusicBrainz",
+    "year 1987 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/d1079026-1190-3a2a-a63f-2bf0c607702e",
+    "first_release_date": "1987-10",
+    "linked_spotify_artists": [
+     "2h9yQhKyqOMex3QFMVeq7F"
+    ]
+   }
+  },
+  {
+   "position": 68,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/daughn_gibson/all_hell/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "All Hell",
+   "title_latin": null,
+   "year": 2012,
+   "credited_as": null,
+   "artists": [
+    "Daughn Gibson"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "4SbiRDHbbQsP2SzAjk6rFw",
+    "url": "https://open.spotify.com/album/4SbiRDHbbQsP2SzAjk6rFw",
+    "name": "All Hell",
+    "album_type": "album",
+    "release_date": "2026-03-04",
+    "total_tracks": 10,
+    "upc": "859733032143",
+    "label": "White Denim",
+    "artists": [
+     "Daughn Gibson"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0jOZLZHVp9DlIMBr89SsEh",
+    "spotify:track:3G7QYUXb3IJOjNKdALX1nh",
+    "spotify:track:3RpIovdy1mmU9QHtqTOjKO",
+    "spotify:track:4E5IW9eR8dRhemZbnD7Aqc",
+    "spotify:track:2asBzimzyL54FkAFW68Qjo",
+    "spotify:track:68J2xNzWUIBJWg2EGGCJeI",
+    "spotify:track:4tLCOsyjxPtg4kt1mqh1ze",
+    "spotify:track:5x7EQvuhGEDCqHykfR5kFO",
+    "spotify:track:4qBAslMhE3205CUNmCKLVT",
+    "spotify:track:6EYaHWRFo8Wgv2zt7zVeH9"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 10 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2026-03-04 vs RYM 2012: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/c48a3c77-a62c-42ac-9032-f3a756c96aa5",
+    "first_release_date": "2012-03-26",
+    "linked_spotify_artists": [
+     "2Pm0VNnBPhl9Ew0f6JKcFh"
+    ]
+   }
+  },
+  {
+   "position": 69,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/mekons/the-mekons-honky-tonkin/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Mekons Honky Tonkin'",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Mekons"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Mekons is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 70,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/james-luther-dickinson/dixie-fried/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Dixie Fried",
+   "title_latin": null,
+   "year": 1972,
+   "credited_as": null,
+   "artists": [
+    "James Luther Dickinson"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "4WNqrzRcPoQmmhjAUnqmsz",
+    "url": "https://open.spotify.com/album/4WNqrzRcPoQmmhjAUnqmsz",
+    "name": "Dixie Fried",
+    "album_type": "album",
+    "release_date": "2005-07-26",
+    "total_tracks": 9,
+    "upc": "081227772864",
+    "label": "Rhino Atlantic",
+    "artists": [
+     "James Luther Dickinson"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:7jGbJn4A4jNUoSju23MrCf",
+    "spotify:track:4w2Mr3eh2pzBUAcu8rAPbl",
+    "spotify:track:0Eg6zJO0aJ3yVFLCrZL1Oh",
+    "spotify:track:6KA1sB8l0Vbj9ioAJewa12",
+    "spotify:track:4gmCehWKTYmnkg4oR05Vmq",
+    "spotify:track:6digxuHRLbb3Oera9h6aFm",
+    "spotify:track:2KKuS4A3pxuTHE98c5TIQb",
+    "spotify:track:4k47FWVLo9uIWxeYpgqhGp",
+    "spotify:track:6yVY1O0kmBgpUgXzUM5MHC"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 9 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2005-07-26 vs RYM 1972: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/bfd40e62-67e6-4ff1-b128-86f8ad5fce37",
+    "first_release_date": "1972",
+    "linked_spotify_artists": [
+     "5DNw5rE0RG621HtZF10EDI"
+    ]
+   }
+  },
+  {
+   "position": 71,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/mixtape/young-thug/beautiful-thugger-girls/",
+   "rym_type": "mixtape",
+   "type_label": "Mixtape",
+   "title": "Beautiful Thugger Girls",
+   "title_latin": null,
+   "year": 2017,
+   "credited_as": null,
+   "artists": [
+    "Young Thug"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "51KZKzPd3OQT1r46a55VTt",
+    "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt",
+    "name": "Beautiful Thugger Girls",
+    "album_type": "album",
+    "release_date": "2017-06-16",
+    "total_tracks": 14,
+    "upc": "075679892409",
+    "label": "Atlantic Records",
+    "artists": [
+     "Young Thug"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:445YTBOjx9kYThBepGA9au",
+    "spotify:track:6Zm6fxOVPzyArjrNPx9LRe",
+    "spotify:track:3WL6yCfh0zw2MxVSWSe0G1",
+    "spotify:track:347hgqCHnL4GfgVX5hZfNv",
+    "spotify:track:0whCNZKidgBNhuPW41vYpg",
+    "spotify:track:25oOaleife6E2MIKmFkPvg",
+    "spotify:track:1gUakci7HwPcImtp0i79N3",
+    "spotify:track:07YlTLGFG2LsTkqGFwY5jC",
+    "spotify:track:1X4PsdScsMExfuNFPLNcTT",
+    "spotify:track:2BAmF6QyK5IYEOp1TFmt0u",
+    "spotify:track:0JaN65P0DapRjboDEv2g08",
+    "spotify:track:7FjxdLxJkOV5cHOrttx5Ft",
+    "spotify:track:5e5LyZy3k83xTQKnerVrif",
+    "spotify:track:1mB1N8BVAN3BeyOes2uj1E"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 075679892409 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 14 matches MusicBrainz",
+    "year 2017 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/257e2fba-928c-4c04-8d3f-be9f0208ef7e",
+    "first_release_date": "2017-06-16",
+    "linked_spotify_artists": [
+     "50co4Is1HCEo8bhOyUWKpn"
+    ]
+   }
+  },
+  {
+   "position": 72,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/bela_fleck/drive/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Drive",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Béla Fleck"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "0KclPgeyUzBKU4pic1to9z",
+    "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z",
+    "name": "Drive",
+    "album_type": "album",
+    "release_date": "1988-01-01",
+    "total_tracks": 11,
+    "upc": "00888072376571",
+    "label": "Rounder Records",
+    "artists": [
+     "Béla Fleck"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:2YUF30ewdgPzTTzzsb5jxr",
+    "spotify:track:27BOwGu2oLvxAduu8ImpfQ",
+    "spotify:track:1iWTVRWdJyf3ItEbuAPsmo",
+    "spotify:track:7hc2MVLezWm8ObKsZoW80I",
+    "spotify:track:7k0NSUvHpFNcAaMff6ZdXu",
+    "spotify:track:1uuuDoJo0tH9cUJQ1UPxwB",
+    "spotify:track:7wAf66z57VYrq7BjIx3eWK",
+    "spotify:track:0pWvEM7FARfOlE7sgK2l2w",
+    "spotify:track:3DwlNfiCQSdj0GOxYkR9Rq",
+    "spotify:track:7CWGM8QvHSrVp6eQaqyHy0",
+    "spotify:track:4hWplX5nt18SSDCcl3SFuS"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 00888072376571 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 11 matches MusicBrainz",
+    "year 1988 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/43b15d67-04a7-3519-8932-77fb93ccb96a",
+    "first_release_date": "1988",
+    "linked_spotify_artists": [
+     "1haZ0LvuavlDJUa1A7hEKY",
+     "2ka8z2lwkcp13fG8Wyv3xU"
+    ]
+   }
+  },
+  {
+   "position": 73,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/jonny-fritz/sweet-creep/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Sweet Creep",
+   "title_latin": null,
+   "year": 2016,
+   "credited_as": null,
+   "artists": [
+    "Jonny Fritz"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "5Y1qqXiM5cPep3XeKAOaOu",
+    "url": "https://open.spotify.com/album/5Y1qqXiM5cPep3XeKAOaOu",
+    "name": "Sweet Creep",
+    "album_type": "album",
+    "release_date": "2016-10-14",
+    "total_tracks": 11,
+    "upc": "880882270759",
+    "label": "ATO Records",
+    "artists": [
+     "Jonny Fritz"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:3Tz4o1wlXe1SKm1UQRvrsP",
+    "spotify:track:7nXovx1BQZzmMNx1giN7Wp",
+    "spotify:track:5vPcklg71p6fqqKqumliap",
+    "spotify:track:4BdpPQBGwjPkd4x069rT6E",
+    "spotify:track:6xJNTiiItSr2xAkrax1taO",
+    "spotify:track:4tFXb62iqMEjmDqWCqTbGL",
+    "spotify:track:0IHLE1KPCIMkcBHp3ZuOBv",
+    "spotify:track:3WYtVCk73aL3e7aoq1ZKWS",
+    "spotify:track:1CcP7NUqdW5XGszMHYcGe5",
+    "spotify:track:4EfqwHfJQSP6uLRVNAQ3vD",
+    "spotify:track:2wH7dOWRTchPyn7ZeNgR1r"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 11 matches MusicBrainz",
+    "year 2016 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/fac26bfa-733a-4641-8213-d924ff3ba108",
+    "first_release_date": "2016-10-14",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 74,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/a-small-good-thing/slim-westerns/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Slim Westerns",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "A Small Good Thing"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "4bou79tnXBeOTThQ5P2A3h",
+    "url": "https://open.spotify.com/album/4bou79tnXBeOTThQ5P2A3h",
+    "name": "Slim Westerns",
+    "album_type": "album",
+    "release_date": "1994-07-05",
+    "total_tracks": 13,
+    "upc": "887396897854",
+    "label": "Soleilmoon Recordings",
+    "artists": [
+     "A Small Good Thing"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:719YKxhXKimRG5hV4ldLTm",
+    "spotify:track:6RtRfxbsYxkg1L1kMewzbT",
+    "spotify:track:5RY5t1qFnNHgBORevzWmTd",
+    "spotify:track:7FVKfqt3E49Cx9ZVWnQmPn",
+    "spotify:track:54RUnqI6xq1weSaf9CspRT",
+    "spotify:track:17xlCnbdSsnToeqGpyewnf",
+    "spotify:track:094e1Rqcb3cQiIZHMhU2TT",
+    "spotify:track:1RV9JbatjnhtlL1lckGVwB",
+    "spotify:track:34VFjX6GTbEwPaAEhKnyZy",
+    "spotify:track:6R582C22LIlnUIqQuOqP2b",
+    "spotify:track:22jUnlKhKbaqhWxkhYHXmd",
+    "spotify:track:2OeftD85XiRMPetwyfOSKU",
+    "spotify:track:5R404dJgwjTLvCkWIKbGKk"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 13 matches MusicBrainz",
+    "year 1994 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/b2eff6a9-09e8-3320-ac76-f7aac14a8cb1",
+    "first_release_date": "1994",
+    "linked_spotify_artists": [
+     "7xCagAcIotdm0N9Jn3zpQ4"
+    ]
+   }
+  },
+  {
+   "position": 75,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/world-standard/country-gazette/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Country Gazette",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "World Standard"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/50b2a568-92f4-3035-94bb-7b6ad9b9bf76",
+    "first_release_date": "1997-08-21",
+    "linked_spotify_artists": [
+     "0Ylh0U9X2NUzMV5qzWpuwm"
+    ]
+   }
+  }
+ ]
+}

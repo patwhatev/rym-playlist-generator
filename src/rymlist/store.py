@@ -8,6 +8,7 @@
 """
 import json
 import shutil
+import unicodedata
 
 from . import paths
 
@@ -53,7 +54,8 @@ def resolve(selector, state=None):
         return ids
     if selector in ids:
         return [selector]
-    hits = [i for i in ids if selector.lower() in i.lower()]
+    fold = lambda text: unicodedata.normalize('NFKC', text).casefold()  # "broken" finds "ｂｒｏｋｅｎ"
+    hits = [i for i in ids if fold(selector) in fold(i)]
     if len(hits) == 1:
         return hits
     if not hits:
@@ -66,9 +68,29 @@ def load(list_id):
     if not folder:
         raise SystemExit(f'Unknown list {list_id}')
     lst = read_json(folder / 'list.json')
-    lst.setdefault('status', {})
-    lst['status']['state'] = state
+    status = lst.setdefault('status', {})
+    status['state'] = state
+    if 'playlist' in status:  # older single-playlist format
+        old = status.pop('playlist')
+        status['playlists'] = [old | {'section': None, 'pages': []}] if old else []
+    for p in status.get('playlists') or []:
+        p.setdefault('service', 'spotify')
+    if 'counts' in status:  # older spotify-only format: move match stats under services.spotify
+        spotify = status.setdefault('services', {}).setdefault('spotify', {})
+        for k in ('matched_at', 'musicbrainz', 'counts'):
+            if k in status:
+                spotify[k] = status.pop(k)
+        lo = status.get('leftovers') or {}
+        spotify['leftovers'] = {k: v for k, v in lo.items() if k != 'file'}
+        status['leftovers'] = {'file': lo['file']} if lo.get('file') else {}
     return lst, folder
+
+
+SERVICES = ('spotify', 'youtube')
+
+
+def results_file(folder, service):
+    return folder / ('results.json' if service == 'spotify' else f'results.{service}.json')
 
 
 def save(list_id, lst):

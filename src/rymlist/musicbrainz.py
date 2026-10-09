@@ -96,10 +96,12 @@ class MusicBrainz:
             'spotify_album_ids': set(),
             'spotify_artist_ids': set(),
             'various_artists': False,
+            'release_ids': [],
         }
 
         releases = self._get('release', **{'release-group': rg['id'], 'inc': 'url-rels+media', 'limit': 100}) or {}
         for release in releases.get('releases', []):
+            info['release_ids'].append(release['id'])
             if release.get('barcode'):
                 info['barcodes'].add(release['barcode'].lstrip('0'))
             tracks = sum(m.get('track-count', 0) for m in release.get('media', []))
@@ -121,3 +123,18 @@ class MusicBrainz:
                 if m and m.group(1) == 'artist':
                     info['spotify_artist_ids'].add(m.group(2))
         return info
+
+    def runtime(self, item, max_lookups=2):
+        """{'seconds', 'tracks', 'url'} from the first release in the group with every track
+        length known, or None. Reuses evidence_for's cached lookups plus up to max_lookups."""
+        info = self.evidence_for(item)
+        if not info:
+            return None
+        for release_id in info['release_ids'][:max_lookups]:
+            release = self._get(f'release/{release_id}', inc='recordings') or {}
+            lengths = [t.get('length') or (t.get('recording') or {}).get('length')
+                       for m in release.get('media', []) for t in m.get('tracks') or []]
+            if lengths and all(lengths):
+                return {'seconds': round(sum(lengths) / 1000), 'tracks': len(lengths),
+                        'url': f'https://musicbrainz.org/release/{release_id}'}
+        return None

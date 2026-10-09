@@ -1,0 +1,4724 @@
+{
+ "list": {
+  "id": "DazedandBrutal__now-is-never-on-thyme-records-yall-been-sleepin-on-so-far-50-ratings",
+  "title": "Now is Never On Thyme: Records Y'all Been sleepin' on So Far (>50 Ratings)",
+  "url": "https://rateyourmusic.com/list/DazedandBrutal/now-is-never-on-thyme-records-yall-been-sleepin-on-so-far-50-ratings/",
+  "user": "DazedandBrutal",
+  "captured_at": "2026-10-09T11:21:31.436Z"
+ },
+ "service": "youtube",
+ "results": [
+  {
+   "position": 1,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/amy-denio/no-elevators/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "No Elevators",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Amy Denio"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "L5SMIqzcznM",
+    "url": "https://www.youtube.com/watch?v=L5SMIqzcznM",
+    "title": "Amy Denio - No Elevators",
+    "channel": "Eigengrau Monitor",
+    "duration": 3396,
+    "views": 232
+   },
+   "video_ids": [
+    "L5SMIqzcznM"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 56:36 vs 55:47 expected (Discogs)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 3347,
+    "tracks": 15,
+    "url": "https://www.discogs.com/release/15521736-Amy-Denio-No-Elevators",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 2,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/unauth/feminist_improvising_group/live_in_hamburg__ndr_funkhaus_studio_10_/",
+   "rym_type": "unauth",
+   "type_label": "Bootleg / Unauthorized",
+   "title": "Live in Hamburg (NDR Funkhaus Studio 10)",
+   "title_latin": null,
+   "year": 2011,
+   "credited_as": null,
+   "artists": [
+    "Feminist Improvising Group"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 3,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/owen-marshall/captain-puff-in-the-naked-truth-1/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Captain Puff in the Naked Truth",
+   "title_latin": null,
+   "year": 2012,
+   "credited_as": null,
+   "artists": [
+    "Owen Marshall"
+   ],
+   "status": "not_found",
+   "reason": "2 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "3Z223rXoOS0",
+     "url": "https://www.youtube.com/watch?v=3Z223rXoOS0",
+     "title": "1  Owen Marshall - Nanas' Sleeping - Captain Puff In The Naked Truth, 1974",
+     "channel": "10Gems - Music Library",
+     "duration": 232,
+     "views": 335,
+     "reason": "3:52 is too short for a full album"
+    },
+    {
+     "id": "zCg9u6NwukE",
+     "url": "https://www.youtube.com/watch?v=zCg9u6NwukE",
+     "title": "Owen Marshall as Captain Puff - In the Naked Truth - Casa Del Soul 1975",
+     "channel": "ZouConsort",
+     "duration": 218,
+     "views": 8712,
+     "reason": "3:38 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 4,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/ojo-sembrono/jathilan-jaranan-vol_1/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Jathilan / Jaranan Vol.1",
+   "title_latin": null,
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "Ojo Sembrono"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "lDTYuN2Dx9A",
+    "url": "https://www.youtube.com/watch?v=lDTYuN2Dx9A",
+    "title": "Ojo Sembrono-Jathilan / Jaranan Vol.1",
+    "channel": "that is not wrong",
+    "duration": 3499,
+    "views": 22364
+   },
+   "video_ids": [
+    "lDTYuN2Dx9A"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "58:19 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 5,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/eric-lou-root/dont-worry/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Don't Worry",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Eric Lou Root"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "aRkAvsJYHNQ",
+    "url": "https://www.youtube.com/watch?v=aRkAvsJYHNQ",
+    "title": "Eric Lou Root - Don't Worry FULL ALBUM",
+    "channel": "Hoe Productions",
+    "duration": 3502,
+    "views": 12485
+   },
+   "video_ids": [
+    "aRkAvsJYHNQ"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 58:22 vs 58:30 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "rFy14d2UTS8",
+     "url": "https://www.youtube.com/watch?v=rFy14d2UTS8",
+     "title": "Eric Lou Root — Don't Worry Side B",
+     "channel": "Ughh McCain",
+     "duration": 1755,
+     "views": 6423,
+     "reason": "wrong length: 29:15 vs 58:30 expected (MusicBrainz)"
+    },
+    {
+     "id": "Pq4mrUS-k_s",
+     "url": "https://www.youtube.com/watch?v=Pq4mrUS-k_s",
+     "title": "Eric Lou Root — Don't Worry Side A",
+     "channel": "Ughh McCain",
+     "duration": 1765,
+     "views": 9145,
+     "reason": "wrong length: 29:25 vs 58:30 expected (MusicBrainz)"
+    },
+    {
+     "id": "cnHyiUCKpIk",
+     "url": "https://www.youtube.com/watch?v=cnHyiUCKpIk",
+     "title": "Eric Lou Root ‎– Don't Worry (1987) (audio sample, excerpt)",
+     "channel": "WHAT IS WRONG WITH GROOVING",
+     "duration": 594,
+     "views": 428,
+     "reason": "wrong length: 9:54 vs 58:30 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3510,
+    "tracks": 2,
+    "url": "https://musicbrainz.org/release/bc541156-c22e-4845-8d77-b2d1b0c0edfe",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 6,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/sigridur-nielsdottir/grandma-lo-fi-the-basement-tapes-of-sigridur-nielsdottir-1/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Grandma Lo-Fi: The Basement Tapes of Sigríður Níelsdóttir",
+   "title_latin": null,
+   "year": 2014,
+   "credited_as": null,
+   "artists": [
+    "Sigríður Níelsdóttir"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "tINWo6Ulyhs",
+    "url": "https://www.youtube.com/watch?v=tINWo6Ulyhs",
+    "title": "Sigríður Níelsdóttir - Grandma Lo-Fi: The Basement Tapes Of Sigríður Níelsdóttir (1995) (FULL ALBUM)",
+    "channel": "Pupilas Solidas",
+    "duration": 3222,
+    "views": 1019
+   },
+   "video_ids": [
+    "tINWo6Ulyhs"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "53:42 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 7,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/the-ullulators/beyond-the-gates-of-ull/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Beyond the Gates of Ull",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "The Ullulators"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "mZwV0RfDTx4",
+    "url": "https://www.youtube.com/watch?v=mZwV0RfDTx4",
+    "title": "The Ullulators - Beyond The Gates Of Ull [Full Album]",
+    "channel": "safe_image",
+    "duration": 3959,
+    "views": 11682
+   },
+   "video_ids": [
+    "mZwV0RfDTx4"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "1:05:59 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 8,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/porter-wagoner/the-rubber-room-the-late-love-of-mine/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "The Rubber Room / The Late Love of Mine",
+   "title_latin": null,
+   "year": 1971,
+   "credited_as": null,
+   "artists": [
+    "Porter Wagoner"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 9,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/ida-widawati/tilam-sono/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Tilam sono",
+   "title_latin": null,
+   "year": 1975,
+   "credited_as": null,
+   "artists": [
+    "Ida Widawati"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "rlA4dP8pBfM",
+    "url": "https://www.youtube.com/watch?v=rlA4dP8pBfM",
+    "title": "Degung - Tilam Sono - Ida Widawati",
+    "channel": "kangkarman",
+    "duration": 337,
+    "views": 595233
+   },
+   "video_ids": [
+    "rlA4dP8pBfM"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "5:37 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "short for a full album (5:37): fine for punk/grind, check it"
+   ],
+   "rejected": [
+    {
+     "id": "vhJY_8U61cU",
+     "url": "https://www.youtube.com/watch?v=vhJY_8U61cU",
+     "title": "Ida Widawati Degung Tilam Sono   B1   Nyoreang Katukang",
+     "channel": "Musika Bandung",
+     "duration": 250,
+     "views": 8753,
+     "reason": "4:10 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 10,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/ep/zadkiel/hells-bomber/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Hell's Bomber",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "Zadkiel"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "pOYnHkA2kUM",
+    "url": "https://www.youtube.com/watch?v=pOYnHkA2kUM",
+    "title": "Zadkiel - Hell's Bomber (Full EP)",
+    "channel": "Black Metal Forest",
+    "duration": 693,
+    "views": 10369
+   },
+   "video_ids": [
+    "pOYnHkA2kUM"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 11:33 vs 11:33 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "HmXzrZ747G4",
+     "url": "https://www.youtube.com/watch?v=HmXzrZ747G4",
+     "title": "Zadkiel - Hell's Bomber [Full EP]",
+     "channel": "Vertigo 163",
+     "duration": 1038,
+     "views": 2581,
+     "reason": "wrong length: 17:18 vs 11:33 expected (MusicBrainz)"
+    },
+    {
+     "id": "Rrn1zyGKAGE",
+     "url": "https://www.youtube.com/watch?v=Rrn1zyGKAGE",
+     "title": "Zadkiel - Hell's Bomber",
+     "channel": "demiphoenix",
+     "duration": 187,
+     "views": 10839,
+     "reason": "wrong length: 3:07 vs 11:33 expected (MusicBrainz)"
+    },
+    {
+     "id": "ZDISzekEAkI",
+     "url": "https://www.youtube.com/watch?v=ZDISzekEAkI",
+     "title": "zadkiel (hell's bomber) 01 miss satan",
+     "channel": "licena666",
+     "duration": 140,
+     "views": 1118,
+     "reason": "wrong length: 2:20 vs 11:33 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 693,
+    "tracks": 4,
+    "url": "https://musicbrainz.org/release/6ddf67d6-07a4-437b-8769-5a131a0a4ea9",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 11,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/စိုင်းဆိုင်မောဝ်/အမှတ်တရ-သျှမ်းတေးစုများ-အမှတ်-2/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "အမှတ်တရ သျှမ်းတေးစုများ အမှတ် 2",
+   "title_latin": "Amanat taya Shan taysu mya amanat 2",
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "စိုင်းဆိုင်မောဝ် [Sai Sai Mou]"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "6OZCyzojWgw",
+    "url": "https://www.youtube.com/watch?v=6OZCyzojWgw",
+    "title": "ၸၢႆးသၢႆမၢဝ်း (Sai Sai Mao) - အမှတ်တရ သျှမ်းတေးစုများ အမှတ် (Vol. 1-4)",
+    "channel": "Esoteric",
+    "duration": 14358,
+    "views": 57666
+   },
+   "video_ids": [
+    "6OZCyzojWgw"
+   ],
+   "evidence": [
+    "artist similarity 91, title similarity 96",
+    "3:59:18 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "3:59:18 is long for one album: maybe a discography or compilation upload"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 12,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/candidate-gangrene/candidate-gangrene/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Candidate / Gangrène",
+   "title_latin": null,
+   "year": 1985,
+   "credited_as": "Candidate / Gangrène",
+   "artists": [
+    "Candidate",
+    "Gangrène"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 13,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/ၼၢင်းၼၢင်း/လိူၵ်ႈသဵင်ၵႂၢမ်း/",
+   "rym_type": "comp",
+   "type_label": "Album",
+   "title": "လိူၵ်ႈသဵင်ၵႂၢမ်း",
+   "title_latin": null,
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "ၼၢင်းၼၢင်း [Nang Nang]"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "2pq7jEIWO60",
+    "url": "https://www.youtube.com/watch?v=2pq7jEIWO60",
+    "title": "ၼၢင်းၼၢင်း=လိူၵ်ႈသဵင်ၵႂၢမ်း           เลือกเสียงกวาม=นางนาง",
+    "channel": "Mus ck",
+    "duration": 3351,
+    "views": 73351
+   },
+   "video_ids": [
+    "2pq7jEIWO60"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "55:51 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 14,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/agony-bag/rabies-is-a-killer-never-never-land/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Rabies Is a Killer / Never Never Land",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Agony Bag"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 15,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/kamuran-akkor/ikimiz-bir-fidaniz-dogru-mu-dogru-mu/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "İkimiz Bir Fidanız / Doğru Mu Doğru Mu",
+   "title_latin": null,
+   "year": 1975,
+   "credited_as": null,
+   "artists": [
+    "Kamuran Akkor"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 16,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/jim_brown/see_him_deh___version/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "See Him Deh / Version",
+   "title_latin": null,
+   "year": 1979,
+   "credited_as": null,
+   "artists": [
+    "Jim Brown"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "Sc7I7-Yng28",
+    "url": "https://www.youtube.com/watch?v=Sc7I7-Yng28",
+    "title": "Rahtid Dubz! Jim Brown - See Him Deh Version",
+    "channel": "Reggae45s",
+    "duration": 133,
+    "views": 8745
+   },
+   "video_ids": [
+    "Sc7I7-Yng28"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "2:13 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 17,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/bernard-c-prince-emile-de-ly-de-magneville/les-chants-revolutionnaires-les-jardins-despagne/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Les chants révolutionnaires / Les jardins d'Espagne",
+   "title_latin": null,
+   "year": 1983,
+   "credited_as": "Bernard C / Prince Emile de Ly de Magneville",
+   "artists": [
+    "Bernard C",
+    "Prince Emile de Ly de Magneville"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 18,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/croiners/music_to_listen_to_other_tapes_by/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Music to Listen to Other Tapes By",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Croiners"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "JlnB15VpYHg",
+    "url": "https://www.youtube.com/watch?v=JlnB15VpYHg",
+    "title": "Croiners - Music To Listen To Other Tapes By (1987 / 2025 Remaster)",
+    "channel": "Tribe Tapes",
+    "duration": 3782,
+    "views": 1424
+   },
+   "video_ids": [
+    "JlnB15VpYHg"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 1:03:02 vs 1:03:01 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "rXHHENQM6jw",
+     "url": "https://www.youtube.com/watch?v=rXHHENQM6jw",
+     "title": "Croiners - Music to Listen to Other Tapes By (Side B) (Jim Tapes)",
+     "channel": "Tribe Tapes",
+     "duration": 1979,
+     "views": 340,
+     "reason": "wrong length: 32:59 vs 1:03:01 expected (Spotify)"
+    },
+    {
+     "id": "DMIBZ2AtsIw",
+     "url": "https://www.youtube.com/watch?v=DMIBZ2AtsIw",
+     "title": "Croiners - Music to Listen to Other Tapes By (Side A) (Jim Tapes)",
+     "channel": "Tribe Tapes",
+     "duration": 1820,
+     "views": 559,
+     "reason": "wrong length: 30:20 vs 1:03:01 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3781,
+    "tracks": 16,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/7tEXz8rEUetypXsKmqVFVF"
+   }
+  },
+  {
+   "position": 19,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/demontage/the_principal_extinction/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Principal Extinction",
+   "title_latin": null,
+   "year": 2010,
+   "credited_as": null,
+   "artists": [
+    "Demontage"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "UB1iLmoF-MY",
+    "url": "https://www.youtube.com/watch?v=UB1iLmoF-MY",
+    "title": "Demontage - The Principal Extinction (Full Album) (2010)",
+    "channel": "dreeg",
+    "duration": 2781,
+    "views": 574
+   },
+   "video_ids": [
+    "UB1iLmoF-MY"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 46:21 vs 46:20 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "gqL3kOKPsB8",
+     "url": "https://www.youtube.com/watch?v=gqL3kOKPsB8",
+     "title": "The Principal Extinction",
+     "channel": "Demontage - Topic",
+     "duration": 566,
+     "views": 149,
+     "reason": "wrong length: 9:26 vs 46:20 expected (Spotify)"
+    },
+    {
+     "id": "eXICx_ECy7o",
+     "url": "https://www.youtube.com/watch?v=eXICx_ECy7o",
+     "title": "Demontage - The Principal Extinction - 2010",
+     "channel": "HMD Heavy Metal Digest",
+     "duration": 566,
+     "views": 47,
+     "reason": "wrong length: 9:26 vs 46:20 expected (Spotify)"
+    },
+    {
+     "id": "-lmDNwEGXaI",
+     "url": "https://www.youtube.com/watch?v=-lmDNwEGXaI",
+     "title": "Demontage - The Principal Extinction",
+     "channel": "ladecimavictima",
+     "duration": 564,
+     "views": 457,
+     "reason": "wrong length: 9:24 vs 46:20 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2780,
+    "tracks": 6,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/5r1qXMgvqC8UnRquLJr9Q2"
+   }
+  },
+  {
+   "position": 20,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/amy-denio/no-bones/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "No Bones",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "Amy Denio"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "WV5Fobb20O8",
+     "url": "https://www.youtube.com/watch?v=WV5Fobb20O8",
+     "title": "No Bones",
+     "channel": "Amy Denio - Topic",
+     "duration": 207,
+     "views": 447,
+     "reason": "wrong length: 3:27 vs 56:47 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3407,
+    "tracks": 20,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/1skNARVMgTsBSQwYHptczJ"
+   }
+  },
+  {
+   "position": 21,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/the-donald-knaack-percussion-ensemble-jay-clayton/three-constructions/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Three Constructions",
+   "title_latin": null,
+   "year": 1989,
+   "credited_as": "The Donald Knaack Percussion Ensemble / Jay Clayton",
+   "artists": [
+    "The Donald Knaack Percussion Ensemble",
+    "Jay Clayton"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 22,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/grudge/when-christine-comes-around-im-gonna-smash-your-face-in/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "When Christine Comes Around / I'm Gonna Smash Your Face In",
+   "title_latin": null,
+   "year": 1973,
+   "credited_as": null,
+   "artists": [
+    "Grudge"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 23,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/helen-love/beat-him-up-super-boy-super-girl/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Beat Him Up / Super Boy Super Girl",
+   "title_latin": null,
+   "year": 1995,
+   "credited_as": null,
+   "artists": [
+    "Helen Love"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 24,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/hidden-agenda/the-sun-12-seconds/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "The Sun / 12 Seconds",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "Hidden Agenda"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 25,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/chris_hulsbeck/turrican/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Turrican",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "Chris Hülsbeck"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "r4b_1B5J1jw",
+    "url": "https://www.youtube.com/watch?v=r4b_1B5J1jw",
+    "title": "Turrican Medley",
+    "channel": "Chris Huelsbeck - Topic",
+    "duration": 938,
+    "views": 25059
+   },
+   "video_ids": [
+    "r4b_1B5J1jw"
+   ],
+   "evidence": [
+    "artist similarity 93, title similarity 100",
+    "uploaded by the artist's channel (Chris Huelsbeck - Topic)",
+    "15:38 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "3hAlJ0sBKEA",
+     "url": "https://www.youtube.com/watch?v=3hAlJ0sBKEA",
+     "title": "Welcome (Turrican 1)",
+     "channel": "Chris Huelsbeck - Topic",
+     "duration": 6,
+     "views": 10056,
+     "reason": "0:06 is too short for a full album"
+    },
+    {
+     "id": "CKkDJlxb2eM",
+     "url": "https://www.youtube.com/watch?v=CKkDJlxb2eM",
+     "title": "Traps (Turrican 2)",
+     "channel": "Chris Huelsbeck - Topic",
+     "duration": 238,
+     "views": 24458,
+     "reason": "3:58 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 26,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/susan-justin/forbidden-world/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Forbidden World",
+   "title_latin": null,
+   "year": 1982,
+   "credited_as": null,
+   "artists": [
+    "Susan Justin"
+   ],
+   "status": "not_found",
+   "reason": "6 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "3IdNDodXxKo",
+     "url": "https://www.youtube.com/watch?v=3IdNDodXxKo",
+     "title": "Grindhouse Suite #24: Forbidden World [1982] - Susan Justin",
+     "channel": "Grindhouse Grooves Exploitation Soundtracks",
+     "duration": 921,
+     "views": 1022,
+     "reason": "wrong length: 15:21 vs 24:07 expected (Spotify)"
+    },
+    {
+     "id": "aYRwBQZRnKE",
+     "url": "https://www.youtube.com/watch?v=aYRwBQZRnKE",
+     "title": "Susan Justin   Forbidden World LIVE",
+     "channel": "Deathwaltzrecs",
+     "duration": 212,
+     "views": 7782,
+     "reason": "a live recording, RYM lists a studio release"
+    },
+    {
+     "id": "t_vHJpQQvdg",
+     "url": "https://www.youtube.com/watch?v=t_vHJpQQvdg",
+     "title": "Susan Justin - Theme From Forbidden World [Forbidden World OST 1982]",
+     "channel": "Grindhouse Grooves Exploitation Soundtracks",
+     "duration": 159,
+     "views": 2320,
+     "reason": "wrong length: 2:39 vs 24:07 expected (Spotify)"
+    },
+    {
+     "id": "1wNCN7l5JFA",
+     "url": "https://www.youtube.com/watch?v=1wNCN7l5JFA",
+     "title": "Susan Justin  - Forbidden World (live)",
+     "channel": "The Beautiful Puffin",
+     "duration": 212,
+     "views": 118,
+     "reason": "a live recording, RYM lists a studio release"
+    },
+    {
+     "id": "kCIYhqx4hSs",
+     "url": "https://www.youtube.com/watch?v=kCIYhqx4hSs",
+     "title": "Susan Justin  Forbidden World",
+     "channel": "Deathwaltzrecs",
+     "duration": 83,
+     "views": 2141,
+     "reason": "wrong length: 1:23 vs 24:07 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1447,
+    "tracks": 12,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/4rqhUGyrVKNLXsioqTwpiQ"
+   }
+  },
+  {
+   "position": 27,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/tim-krog/the-boogey-man/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Boogey Man",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Tim Krog"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "LDma43wVNi4",
+    "url": "https://www.youtube.com/watch?v=LDma43wVNi4",
+    "title": "The Boogeyman (1980) full soundtrack Composed by Tim Krog",
+    "channel": "MJCSD1",
+    "duration": 1738,
+    "views": 138030
+   },
+   "video_ids": [
+    "LDma43wVNi4"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 95",
+    "labelled as the full release",
+    "duration 28:58 vs 28:45 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "6_6t7lP0fUM",
+     "url": "https://www.youtube.com/watch?v=6_6t7lP0fUM",
+     "title": "Tim Krog: The Boogey Man Theme [Extended by Gilles Nuytens]",
+     "channel": "Gilles Nuytens",
+     "duration": 529,
+     "views": 5041,
+     "reason": "wrong length: 8:49 vs 28:45 expected (MusicBrainz)"
+    },
+    {
+     "id": "kc76KstelPQ",
+     "url": "https://www.youtube.com/watch?v=kc76KstelPQ",
+     "title": "Grindhouse Suite #5: The Boogey Man OST 1980 - Tim Krog",
+     "channel": "Grindhouse Grooves Exploitation Soundtracks",
+     "duration": 811,
+     "views": 728,
+     "reason": "wrong length: 13:31 vs 28:45 expected (MusicBrainz)"
+    },
+    {
+     "id": "TWIbc1Dclsw",
+     "url": "https://www.youtube.com/watch?v=TWIbc1Dclsw",
+     "title": "Tim Krog-The Boogey Man OST-SST-Theme Version 2",
+     "channel": "Starving Daughters",
+     "duration": 236,
+     "views": 12946,
+     "reason": "wrong length: 3:56 vs 28:45 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1725,
+    "tracks": 12,
+    "url": "https://musicbrainz.org/release/0da3badf-bf20-431b-a7f5-da2317004f83",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 28,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/lugubrum-trio/wakar-cartel-1/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Wakar Cartel",
+   "title_latin": null,
+   "year": 2017,
+   "credited_as": null,
+   "artists": [
+    "Lugubrum Trio"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 29,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/lsd/karen-nash-jast-last-憎悪戦争～lsd/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Karen Nash / Jast Last / 憎悪戦争～LSD",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "LSD"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 30,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/meek-mill/tupac-back/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Tupac Back",
+   "title_latin": null,
+   "year": 2011,
+   "credited_as": null,
+   "artists": [
+    "Meek Mill"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "m5spMjy8uhc",
+    "url": "https://www.youtube.com/watch?v=m5spMjy8uhc",
+    "title": "Tupac Back - Meek Mill feat. Rick Ross (Official Video)",
+    "channel": "MMG",
+    "duration": 234,
+    "views": 19826987
+   },
+   "video_ids": [
+    "m5spMjy8uhc"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "3:54 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [
+    {
+     "id": "zWi7KeFEWyc",
+     "url": "https://www.youtube.com/watch?v=zWi7KeFEWyc",
+     "title": "Tupac Back - Meek Mill feat. Rick Ross (Official Video) VICIOUS COVER",
+     "channel": "CruzProductions123",
+     "duration": 263,
+     "views": 246190,
+     "reason": "looks like a cover, not the release"
+    },
+    {
+     "id": "XLKPNjcOVoM",
+     "url": "https://www.youtube.com/watch?v=XLKPNjcOVoM",
+     "title": "Meek Mill  - Tupac Back (Mega Remix ft. Rick Ross, Lil' Wayne, Tyga, Chris Brown)",
+     "channel": "DeeJayTee89",
+     "duration": 383,
+     "views": 4536,
+     "reason": "looks like a remix, not the release"
+    },
+    {
+     "id": "49uEcxAZ32U",
+     "url": "https://www.youtube.com/watch?v=49uEcxAZ32U",
+     "title": "Meek Mill - Tupac Back ft. Rick Ross (APB Theme)",
+     "channel": "Twyx",
+     "duration": 6,
+     "views": 1890,
+     "reason": "0:06 is too short for a full single"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 31,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/monks-of-the-sourian-monastery/midnight-praises/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Midnight Praises",
+   "title_latin": null,
+   "year": 2000,
+   "credited_as": null,
+   "artists": [
+    "Monks of the Sourian Monastery"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 32,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/mr__ghetto/walmart/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Walmart",
+   "title_latin": null,
+   "year": 2011,
+   "credited_as": null,
+   "artists": [
+    "Mr. Ghetto"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "eTK3To990F8",
+    "url": "https://www.youtube.com/watch?v=eTK3To990F8",
+    "title": "Walmart / Wally Wally World",
+    "channel": "Mr. Ghetto - Topic",
+    "duration": 272,
+    "views": 532905
+   },
+   "video_ids": [
+    "eTK3To990F8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "uploaded by the artist's channel (Mr. Ghetto - Topic)",
+    "4:32 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "CTuV5RPxeNw",
+     "url": "https://www.youtube.com/watch?v=CTuV5RPxeNw",
+     "title": "American Dad Cartoon Dances too MR.Ghetto Walmart Wally Wally World Bounce Song",
+     "channel": "mr. ghetto",
+     "duration": 19,
+     "views": 14373,
+     "reason": "0:19 is too short for a full single"
+    },
+    {
+     "id": "7HUzH9aXaJE",
+     "url": "https://www.youtube.com/watch?v=7HUzH9aXaJE",
+     "title": "MR.Ghetto Walmart Bounce ⚜️🌎⚜️ ( Live In Concert)",
+     "channel": "mr. ghetto",
+     "duration": 88,
+     "views": 102,
+     "reason": "a live recording, RYM lists a studio release"
+    },
+    {
+     "id": "-asBnNyRYMM",
+     "url": "https://www.youtube.com/watch?v=-asBnNyRYMM",
+     "title": "MR.Ghetto Walmart Live!!",
+     "channel": "mr. ghetto",
+     "duration": 285,
+     "views": 218,
+     "reason": "a live recording, RYM lists a studio release"
+    },
+    {
+     "id": "__ZckGhZ0dU",
+     "url": "https://www.youtube.com/watch?v=__ZckGhZ0dU",
+     "title": "MR.Ghetto - Walmart Bounce  (Nick Cannon sings and dances )",
+     "channel": "mr. ghetto",
+     "duration": 36,
+     "views": 118,
+     "reason": "0:36 is too short for a full single"
+    },
+    {
+     "id": "I5DYIopB0JM",
+     "url": "https://www.youtube.com/watch?v=I5DYIopB0JM",
+     "title": "MR.Ghetto Walmart Bounce (Reaction Video)🎶⚜️✨🌎",
+     "channel": "mr. ghetto",
+     "duration": 173,
+     "views": 81,
+     "reason": "looks like a reaction, not the release"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 33,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/dick_nolan/truck_driving_man/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Truck Driving Man",
+   "title_latin": null,
+   "year": 1965,
+   "credited_as": null,
+   "artists": [
+    "Dick Nolan"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "VOmRm_9BULQ",
+    "url": "https://www.youtube.com/watch?v=VOmRm_9BULQ",
+    "title": "Truck Driving Man - Dick Nolan",
+    "channel": "CB Radio Way Back.",
+    "duration": 1631,
+    "views": 7771
+   },
+   "video_ids": [
+    "VOmRm_9BULQ"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 27:11 vs 27:27 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "74mCjauxfqM",
+     "url": "https://www.youtube.com/watch?v=74mCjauxfqM",
+     "title": "Dick Nolan Truck Driving Man Arc Records AS-633 - Side 1",
+     "channel": "Bargain Bin Records",
+     "duration": 855,
+     "views": 71,
+     "reason": "wrong length: 14:15 vs 27:27 expected (MusicBrainz)"
+    },
+    {
+     "id": "27UWV35uC8Y",
+     "url": "https://www.youtube.com/watch?v=27UWV35uC8Y",
+     "title": "Dick Nolan Truck Driving Man Arc Records AS-633 - Side 2",
+     "channel": "Bargain Bin Records",
+     "duration": 894,
+     "views": 108,
+     "reason": "wrong length: 14:54 vs 27:27 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1647,
+    "tracks": 12,
+    "url": "https://musicbrainz.org/release/02e090ba-d256-47aa-bda3-723e975e1b93",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 34,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/ep/ovenmen/rock-against-racism/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Rock Against Racism",
+   "title_latin": null,
+   "year": 1981,
+   "credited_as": null,
+   "artists": [
+    "Ovenmen"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "mxL9ItRg5P8",
+    "url": "https://www.youtube.com/watch?v=mxL9ItRg5P8",
+    "title": "Rock Against Racism [Full EP] (Ovenmen, 1981)",
+    "channel": "Javier & the 80's",
+    "duration": 365,
+    "views": 821
+   },
+   "video_ids": [
+    "mxL9ItRg5P8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 6:05 vs 5:57 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "xGYcnNir3Yw",
+     "url": "https://www.youtube.com/watch?v=xGYcnNir3Yw",
+     "title": "Rock Against Racism - Ovenmen",
+     "channel": "jefesuperpista",
+     "duration": 99,
+     "views": 885,
+     "reason": "wrong length: 1:39 vs 5:57 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 357,
+    "tracks": 3,
+    "url": "https://musicbrainz.org/release/bc652fe8-5c40-4dea-a80b-b401596092ed",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 35,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/hasan-pardede/gondang-batak-toba-vol-8/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Gondang Batak Toba: Vol. 8",
+   "title_latin": null,
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "Hasan Pardede"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 36,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/prince-charles-and-the-city-beat-band/stone-killers/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Stone Killers!",
+   "title_latin": null,
+   "year": 1982,
+   "credited_as": null,
+   "artists": [
+    "Prince Charles & The City Beat Band"
+   ],
+   "status": "not_found",
+   "reason": "3 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "rPVZJNdbgnY",
+     "url": "https://www.youtube.com/watch?v=rPVZJNdbgnY",
+     "title": "Cash (Cash Money) - Prince Charles And The City Beat Band - From the 1982 Album - 'Stone Killers'",
+     "channel": "SoulOfLondon - Jazz, Funk, Soul & Latin Music",
+     "duration": 367,
+     "views": 133,
+     "reason": "wrong length: 6:07 vs 1:17:06 expected (Spotify)"
+    },
+    {
+     "id": "_N7e6coAKEw",
+     "url": "https://www.youtube.com/watch?v=_N7e6coAKEw",
+     "title": "Prince Charles & the City Beat Band - Stone Killers! ROIR cassette side 1 (1982)",
+     "channel": "Ed Negrete",
+     "duration": 1691,
+     "views": 193,
+     "reason": "wrong length: 28:11 vs 1:17:06 expected (Spotify)"
+    },
+    {
+     "id": "88ROkaX7hl4",
+     "url": "https://www.youtube.com/watch?v=88ROkaX7hl4",
+     "title": "Prince Charles & the City Beat Band - Stone Killers! ROIR cassette side 2 (1982}",
+     "channel": "Ed Negrete",
+     "duration": 1553,
+     "views": 284,
+     "reason": "wrong length: 25:53 vs 1:17:06 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 4626,
+    "tracks": 12,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/0aJ0mz4GEk1e8P6UTMN7vQ"
+   }
+  },
+  {
+   "position": 37,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/raksha-mancham/the-way-of-dead-indians/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Way of Dead Indians",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Raksha Mancham"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "sGKph8e3Eno",
+    "url": "https://www.youtube.com/watch?v=sGKph8e3Eno",
+    "title": "Raksha Mancham — The Way of Dead Indians (1987) [Full Album]",
+    "channel": "Guerrilla Radio 📻 Радіо Львівського метрополітену",
+    "duration": 5233,
+    "views": 240
+   },
+   "video_ids": [
+    "sGKph8e3Eno"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 1:27:13 vs 1:27:52 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 5272,
+    "tracks": 30,
+    "url": "https://musicbrainz.org/release/f43e8299-b245-461b-93e1-a85e34870dac",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 38,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/die-synthetische-republik/faktor-d/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Faktor D",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Die Synthetische Republik"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "_Tn1l_q8CFs",
+    "url": "https://www.youtube.com/watch?v=_Tn1l_q8CFs",
+    "title": "Die Synthetische Republik - Faktor D (Full Album 1984)",
+    "channel": "Tweenka",
+    "duration": 2027,
+    "views": 3613
+   },
+   "video_ids": [
+    "_Tn1l_q8CFs"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "33:47 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "G0gYM4qXVfs",
+     "url": "https://www.youtube.com/watch?v=G0gYM4qXVfs",
+     "title": "NDW: Die Synthetische Republik - Faktor D (1983 / HQ)",
+     "channel": "NDW MIX",
+     "duration": 170,
+     "views": 859,
+     "reason": "2:50 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 39,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/team-dresch-longstocking/its-a-conversation-never-nowhere/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "It's a Conversation / Never Nowhere",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": "Team Dresch / Longstocking",
+   "artists": [
+    "Team Dresch",
+    "Longstocking"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 40,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/tronics/whats-the-hubub-bub/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "What's the Hubub Bub",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Tronics"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "MEKloSb3aJI",
+     "url": "https://www.youtube.com/watch?v=MEKloSb3aJI",
+     "title": "TRONICS, HOW DO YOU DO AGAIN, WHATS THE HUBUB BUB",
+     "channel": "harleancarpenter",
+     "duration": 222,
+     "views": 2119,
+     "reason": "3:42 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 41,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/klaus-wiese/maraccaba/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Maraccaba",
+   "title_latin": null,
+   "year": 1982,
+   "credited_as": null,
+   "artists": [
+    "Klaus Wiese"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "9XnxNHSQLLk",
+    "url": "https://www.youtube.com/watch?v=9XnxNHSQLLk",
+    "title": "Klaus Wiese - Maraccaba (Full Album)",
+    "channel": "Orca",
+    "duration": 3579,
+    "views": 1263
+   },
+   "video_ids": [
+    "9XnxNHSQLLk"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 59:39 vs 58:20 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 3500,
+    "tracks": 2,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/5kiv49hGvJkBimBrQeEfPo"
+   }
+  },
+  {
+   "position": 42,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/steam-kodok-17-a-go-go-ultrararities-from-the-60s-singapore-and-south-east-asia-underground/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Steam Kodok - 17 A-Go-Go Ultrararities From the 60's Singapore and South-East Asia Underground",
+   "title_latin": null,
+   "year": 2003,
+   "credited_as": null,
+   "artists": [
+    "Various Artists"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 43,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/ጌታቸው-መኩሪያ/በመሣሪያ-ብቻ-የተቀነባበሩ-ባህላዊና-ዘመናዊ-ሙዚቃ/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "በመሣሪያ ብቻ የተቀነባበሩ ባህላዊና ዘመናዊ ሙዚቃ",
+   "title_latin": null,
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "ጌታቸው መኩሪያ [Gétatchèw Mèkurya]"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "c8xlK0bJ2k8",
+    "url": "https://www.youtube.com/watch?v=c8xlK0bJ2k8",
+    "title": "ጌታቸው መኩሪያ - በመሣሪያ ብቻ የተቀነባበሩ ባህላዊና ዘመናዊ ሙዚቃ",
+    "channel": "varietyizspice",
+    "duration": 3525,
+    "views": 205972
+   },
+   "video_ids": [
+    "c8xlK0bJ2k8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "58:45 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 44,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/サイケアウツ/classics-1994-1999/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Classics 1994-1999",
+   "title_latin": null,
+   "year": 2006,
+   "credited_as": null,
+   "artists": [
+    "サイケアウツ [Cycheouts]"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "JBP2bs51_P4",
+    "url": "https://www.youtube.com/watch?v=JBP2bs51_P4",
+    "title": "[2001] サイケアウツ (Cycheouts) - CLASSICS 1994-1999",
+    "channel": "Byte",
+    "duration": 3978,
+    "views": 899
+   },
+   "video_ids": [
+    "JBP2bs51_P4"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 1:06:18 vs 1:04:21 expected (Discogs)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 3861,
+    "tracks": 17,
+    "url": "https://www.discogs.com/release/1095156-サイケアウツ-Classics-1994-1999",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 45,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/ep/24hr-experience/the-test-press-e_p/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "The Test Press E.P.",
+   "title_latin": null,
+   "year": 1995,
+   "credited_as": null,
+   "artists": [
+    "24hr Experience"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "cCaZgrcO4Qs",
+    "url": "https://www.youtube.com/watch?v=cCaZgrcO4Qs",
+    "title": "Not Gonna Let Ya - 24hr Experience - The Test Press E.P - Nice N Ripe",
+    "channel": "superskunkrabbit Rabbitts",
+    "duration": 301,
+    "views": 7333
+   },
+   "video_ids": [
+    "cCaZgrcO4Qs"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "5:01 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "short for a full ep (5:01): fine for punk/grind, check it"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 46,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/abel/katharsis/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Katharsis",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Abel"
+   ],
+   "status": "not_found",
+   "reason": "3 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "M4dYuN1g2BU",
+     "url": "https://www.youtube.com/watch?v=M4dYuN1g2BU",
+     "title": "Abel (Jpn) - La Fille De Oreanaise [From \"Katharsis\" Demo 1984]",
+     "channel": "Heavy Metal 80s Rarities HQ",
+     "duration": 241,
+     "views": 94,
+     "reason": "wrong length: 4:01 vs 26:36 expected (MusicBrainz)"
+    },
+    {
+     "id": "qQ42f70KrhY",
+     "url": "https://www.youtube.com/watch?v=qQ42f70KrhY",
+     "title": "Abel (Jpn) - 13th Guillotine [From \"Katharsis\" Demo 1984]",
+     "channel": "Heavy Metal 80s Rarities HQ",
+     "duration": 261,
+     "views": 117,
+     "reason": "wrong length: 4:21 vs 26:36 expected (MusicBrainz)"
+    },
+    {
+     "id": "fzT9hGe9pCY",
+     "url": "https://www.youtube.com/watch?v=fzT9hGe9pCY",
+     "title": "Katharsis - Guess God Thinks I'm Abel",
+     "channel": "Ricardo García",
+     "duration": 205,
+     "views": 33,
+     "reason": "wrong length: 3:25 vs 26:36 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1596,
+    "tracks": 6,
+    "url": "https://musicbrainz.org/release/9bf44289-f7d9-46f1-843b-728298aaba61",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 47,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/ampnoise/beyond-the-spectacle/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Beyond the Spectacle",
+   "title_latin": null,
+   "year": 1983,
+   "credited_as": null,
+   "artists": [
+    "Ampnoise"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "So6jCuSyXjQ",
+     "url": "https://www.youtube.com/watch?v=So6jCuSyXjQ",
+     "title": "Ampnoise  - Beyond the Spectacle [1983]",
+     "channel": "Cesar Aguirre",
+     "duration": 65,
+     "views": 265,
+     "reason": "1:05 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 48,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/asmodaeus/lies-and-logic/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Lies & Logic",
+   "title_latin": null,
+   "year": 1985,
+   "credited_as": null,
+   "artists": [
+    "Asmodaeus"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "pfimehfnPT8",
+    "url": "https://www.youtube.com/watch?v=pfimehfnPT8",
+    "title": "Asmodaeus - Lies & Logic [Full Album]",
+    "channel": "CANNED",
+    "duration": 3348,
+    "views": 2036
+   },
+   "video_ids": [
+    "pfimehfnPT8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "55:48 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "PkrhHJSVflE",
+     "url": "https://www.youtube.com/watch?v=PkrhHJSVflE",
+     "title": "Walhalla Records - Asmodaeus - Lies and Logic (Promo Trailer)",
+     "channel": "Purple People Park",
+     "duration": 67,
+     "views": 1659,
+     "reason": "looks like a trailer, not the release"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 49,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/mariam-bogayogo/vol-2/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Vol. 2",
+   "title_latin": null,
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "Mariam Bogayogo"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 50,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/beastiality/worshippers-of-unearthly-perversions/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Worshippers of Unearthly Perversions",
+   "title_latin": null,
+   "year": 2017,
+   "credited_as": null,
+   "artists": [
+    "Beastiality"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 51,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/carrion-commandos/i-hear-america-frying/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "I Hear America Frying!",
+   "title_latin": null,
+   "year": 1983,
+   "credited_as": null,
+   "artists": [
+    "Carrion Commandos"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "qKuxFS1HpuU",
+    "url": "https://www.youtube.com/watch?v=qKuxFS1HpuU",
+    "title": "carrion commandos - i hear america frying (full)",
+    "channel": "aaron's music archive",
+    "duration": 1883,
+    "views": 921
+   },
+   "video_ids": [
+    "qKuxFS1HpuU"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 31:23 vs 31:15 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 1875,
+    "tracks": 17,
+    "url": "https://musicbrainz.org/release/282dd644-1ea7-4eab-8efa-2a19e5dbf790",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 52,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne/therell-be-no-tears-tonight-1/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "There'll Be No Tears Tonight",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Eugene Chadbourne"
+   ],
+   "status": "not_found",
+   "reason": "15 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "H4fnEgRkcc4",
+     "url": "https://www.youtube.com/watch?v=H4fnEgRkcc4",
+     "title": "Eugene Chadbourne-There'll Be No Tears Tonight (full album)",
+     "channel": "ulysses broch",
+     "duration": 4448,
+     "views": 11820,
+     "reason": "wrong length: 1:14:08 vs 44:37 expected (MusicBrainz)"
+    },
+    {
+     "id": "gzHFUIKlPaM",
+     "url": "https://www.youtube.com/watch?v=gzHFUIKlPaM",
+     "title": "Eugene Chadbourne - There'll Be No Tears Tonight (1980) - 03 The Last Word in Lonesome Is Me",
+     "channel": "Status Quo",
+     "duration": 348,
+     "views": 429,
+     "reason": "wrong length: 5:48 vs 44:37 expected (MusicBrainz)"
+    },
+    {
+     "id": "bp4nmsO8XXU",
+     "url": "https://www.youtube.com/watch?v=bp4nmsO8XXU",
+     "title": "Eugene Chadbourne - There'll Be No Tears Tonight (1980) - 02 Dang Me",
+     "channel": "Status Quo",
+     "duration": 154,
+     "views": 711,
+     "reason": "wrong length: 2:34 vs 44:37 expected (MusicBrainz)"
+    },
+    {
+     "id": "xsFdyzsIwVE",
+     "url": "https://www.youtube.com/watch?v=xsFdyzsIwVE",
+     "title": "Eugene Chadbourne - There'll Be No Tears Tonight (1980) - 01 Honey Don't",
+     "channel": "Status Quo",
+     "duration": 168,
+     "views": 974,
+     "reason": "wrong length: 2:48 vs 44:37 expected (MusicBrainz)"
+    },
+    {
+     "id": "HweIfX77YUk",
+     "url": "https://www.youtube.com/watch?v=HweIfX77YUk",
+     "title": "Eugene Chadbourne - There'll Be No Tears Tonight (1980) - 04 I'm the Only Hell My Mama Raised",
+     "channel": "Status Quo",
+     "duration": 214,
+     "views": 344,
+     "reason": "wrong length: 3:34 vs 44:37 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2677,
+    "tracks": 13,
+    "url": "https://musicbrainz.org/release/500bc656-271c-4d9a-8145-a630a402cdf9",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 53,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/ep/chevalier/a-call-to-arms/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "A Call to Arms",
+   "title_latin": null,
+   "year": 2017,
+   "credited_as": null,
+   "artists": [
+    "Chevalier"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "KRn3QAjUkDs",
+    "url": "https://www.youtube.com/watch?v=KRn3QAjUkDs",
+    "title": "Chevalier - A Call to Arms (Full Album)",
+    "channel": "Cult Metal",
+    "duration": 1945,
+    "views": 771
+   },
+   "video_ids": [
+    "KRn3QAjUkDs"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 32:25 vs 32:25 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "SvvBEXuEC0o",
+     "url": "https://www.youtube.com/watch?v=SvvBEXuEC0o",
+     "title": "A Call to Arms",
+     "channel": "Chevalier - Topic",
+     "duration": 390,
+     "views": 20777,
+     "reason": "wrong length: 6:30 vs 32:25 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1945,
+    "tracks": 6,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/4eDVbC4DztQXbehEMxYttz"
+   }
+  },
+  {
+   "position": 54,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/company/fables/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Fables",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Company"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "RjkNMMzpmrM",
+    "url": "https://www.youtube.com/watch?v=RjkNMMzpmrM",
+    "title": "Company - Fables",
+    "channel": "Infernal Machine",
+    "duration": 2775,
+    "views": 216
+   },
+   "video_ids": [
+    "RjkNMMzpmrM"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 46:15 vs 44:13 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 2653,
+    "tracks": 6,
+    "url": "https://musicbrainz.org/release/6dafea9a-139d-4358-ada9-8de84d3eb25f",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 55,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/controlled-bleeding/trailer-fuck/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Trailer Fuck",
+   "title_latin": null,
+   "year": 1985,
+   "credited_as": null,
+   "artists": [
+    "Controlled Bleeding"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 56,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/crime/nucler-blood/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Nucler Blood",
+   "title_latin": null,
+   "year": 1985,
+   "credited_as": null,
+   "artists": [
+    "Crime"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "DXnJVELe-WM",
+    "url": "https://www.youtube.com/watch?v=DXnJVELe-WM",
+    "title": "Crime - Nucler Blood  (Flexi, 7\", EP)",
+    "channel": "LAbean Distort",
+    "duration": 462,
+    "views": 971
+   },
+   "video_ids": [
+    "DXnJVELe-WM"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 7:42 vs 7:40 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "Qx9m9Mxq9Yw",
+     "url": "https://www.youtube.com/watch?v=Qx9m9Mxq9Yw",
+     "title": "Crime - Nucler Blood (hardcore punk Japan)",
+     "channel": "dule klc",
+     "duration": 208,
+     "views": 4016,
+     "reason": "wrong length: 3:28 vs 7:40 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 460,
+    "tracks": 3,
+    "url": "https://musicbrainz.org/release/503d133a-3598-4509-b71d-c4a61cc2e934",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 57,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/ep/current_obsessions/current_obsessions/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Current Obsessions",
+   "title_latin": null,
+   "year": 1982,
+   "credited_as": null,
+   "artists": [
+    "Current Obsessions"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "8QD4NScVhEA",
+    "url": "https://www.youtube.com/watch?v=8QD4NScVhEA",
+    "title": "Current Obsessions Podcast episode 1",
+    "channel": "Current Obsessions Podcast",
+    "duration": 2091,
+    "views": 13
+   },
+   "video_ids": [
+    "8QD4NScVhEA"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "uploaded by the artist's channel (Current Obsessions Podcast)",
+    "34:51 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "iuFSnKoF0-U",
+     "url": "https://www.youtube.com/watch?v=iuFSnKoF0-U",
+     "title": "Current Obsessions - Spike Like",
+     "channel": "Benjamin White",
+     "duration": 113,
+     "views": 2160,
+     "reason": "1:53 is too short for a full ep"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 58,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/dj-fokus/vexxed-chill-out/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Vexxed / Chill Out",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "DJ Fokus"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 59,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/djmix/dj-jeno/inside-the-mind/",
+   "rym_type": "djmix",
+   "type_label": "DJ Mix",
+   "title": "Inside the Mind",
+   "title_latin": null,
+   "year": 1991,
+   "credited_as": null,
+   "artists": [
+    "DJ Jeno"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 60,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/drakkar/x-rated/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "X-Rated",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Drakkar"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 61,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/d_r_s/gangsta-lean/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Gangsta Lean",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "D.R.S."
+   ],
+   "status": "not_found",
+   "reason": "6 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "dVSiv8-ugu0",
+     "url": "https://www.youtube.com/watch?v=dVSiv8-ugu0",
+     "title": "D.R.S Gangsta Lean",
+     "channel": "DreaminEyezEnt",
+     "duration": 291,
+     "views": 27835785,
+     "reason": "wrong length: 4:51 vs 52:35 expected (Spotify)"
+    },
+    {
+     "id": "yLI_u5z7T5o",
+     "url": "https://www.youtube.com/watch?v=yLI_u5z7T5o",
+     "title": "Gangsta Lean",
+     "channel": "D.R.S. - Topic",
+     "duration": 327,
+     "views": 10217409,
+     "reason": "wrong length: 5:27 vs 52:35 expected (Spotify)"
+    },
+    {
+     "id": "QAnTdLP9VZI",
+     "url": "https://www.youtube.com/watch?v=QAnTdLP9VZI",
+     "title": "D.R.S. - Gangsta Lean | 1993",
+     "channel": "westsidetillidie OG",
+     "duration": 330,
+     "views": 5622,
+     "reason": "wrong length: 5:30 vs 52:35 expected (Spotify)"
+    },
+    {
+     "id": "lDaput0tSvs",
+     "url": "https://www.youtube.com/watch?v=lDaput0tSvs",
+     "title": "Gangsta Lean",
+     "channel": "D.R.S. - Topic",
+     "duration": 323,
+     "views": 2831119,
+     "reason": "wrong length: 5:23 vs 52:35 expected (Spotify)"
+    },
+    {
+     "id": "OaD0yuFEoH4",
+     "url": "https://www.youtube.com/watch?v=OaD0yuFEoH4",
+     "title": "D.R.S. - Gangsta lean",
+     "channel": "ladygirl99",
+     "duration": 324,
+     "views": 99557,
+     "reason": "wrong length: 5:24 vs 52:35 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3155,
+    "tracks": 14,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/0ilejAxS20wJ7TpaQR0Vfz"
+   }
+  },
+  {
+   "position": 62,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/additional/dr-shrinker/wedding-the-grotesque/",
+   "rym_type": "additional",
+   "type_label": "Additional release",
+   "title": "Wedding the Grotesque",
+   "title_latin": null,
+   "year": 1989,
+   "credited_as": null,
+   "artists": [
+    "Dr. Shrinker"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "v4GLA1QfydU",
+    "url": "https://www.youtube.com/watch?v=v4GLA1QfydU",
+    "title": "Dr.Shrinker \"Wedding the Grotesque\" (full demo)",
+    "channel": "TheLorDark666",
+    "duration": 2848,
+    "views": 16175
+   },
+   "video_ids": [
+    "v4GLA1QfydU"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 47:28 vs 47:13 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "cckn_RZ-_2o",
+     "url": "https://www.youtube.com/watch?v=cckn_RZ-_2o",
+     "title": "Dr.Shrinker 12. Wedding The Grotesque",
+     "channel": "LordPutrephaghoul",
+     "duration": 114,
+     "views": 741,
+     "reason": "wrong length: 1:54 vs 47:13 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2833,
+    "tracks": 12,
+    "url": "https://musicbrainz.org/release/6a4f7a39-87ad-4e21-8a1f-698e353174cb",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 63,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/dux-content/lifestyle/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Lifestyle",
+   "title_latin": null,
+   "year": 2012,
+   "credited_as": null,
+   "artists": [
+    "Dux Content"
+   ],
+   "status": "not_found",
+   "reason": "4 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "ppERqwkTgpg",
+     "url": "https://www.youtube.com/watch?v=ppERqwkTgpg",
+     "title": "Dux Content - Lifestyle",
+     "channel": "PC Music",
+     "duration": 259,
+     "views": 17844,
+     "reason": "wrong length: 4:19 vs 37:07 expected (Spotify)"
+    },
+    {
+     "id": "DV-GhhHJhZs",
+     "url": "https://www.youtube.com/watch?v=DV-GhhHJhZs",
+     "title": "Dux Content - Lifestyle (Album Version)",
+     "channel": "PC Music",
+     "duration": 258,
+     "views": 27978,
+     "reason": "wrong length: 4:18 vs 37:07 expected (Spotify)"
+    },
+    {
+     "id": "-vZ0qey86sw",
+     "url": "https://www.youtube.com/watch?v=-vZ0qey86sw",
+     "title": "Dux Content - Lifestyle",
+     "channel": "daniel swan",
+     "duration": 95,
+     "views": 14458,
+     "reason": "wrong length: 1:35 vs 37:07 expected (Spotify)"
+    },
+    {
+     "id": "xpfnQOryzMg",
+     "url": "https://www.youtube.com/watch?v=xpfnQOryzMg",
+     "title": "Lifestyle",
+     "channel": "Dux Content - Topic",
+     "duration": 258,
+     "views": 902,
+     "reason": "wrong length: 4:18 vs 37:07 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2227,
+    "tracks": 10,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/5NIwhqucJpoFjkU2gSclNe"
+   }
+  },
+  {
+   "position": 64,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/druadan-forest/mirkwood/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Mirkwood",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "Druadan Forest"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "AFjSk4zhIHo",
+    "url": "https://www.youtube.com/watch?v=AFjSk4zhIHo",
+    "title": "Druadan Forest - Mirkwood (Full Demo)",
+    "channel": "Atmospheric Black Metal Music",
+    "duration": 1442,
+    "views": 4002
+   },
+   "video_ids": [
+    "AFjSk4zhIHo"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 24:02 vs 24:05 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "O8rUN0Nr1aY",
+     "url": "https://www.youtube.com/watch?v=O8rUN0Nr1aY",
+     "title": "Druadan Forest - Mirkwood (1998)",
+     "channel": "Black Metal Updates",
+     "duration": 185,
+     "views": 2099,
+     "reason": "wrong length: 3:05 vs 24:05 expected (MusicBrainz)"
+    },
+    {
+     "id": "U_1-Rgs-GxY",
+     "url": "https://www.youtube.com/watch?v=U_1-Rgs-GxY",
+     "title": "Druadan Forest - Mirkwood",
+     "channel": "BLACK METAL HISTORY",
+     "duration": 185,
+     "views": 128,
+     "reason": "wrong length: 3:05 vs 24:05 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1445,
+    "tracks": 6,
+    "url": "https://musicbrainz.org/release/0337b65c-54b6-452b-83a7-2a9bfa60508f",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 65,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/tom-ellard/80s-cheesecake/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "80s Cheesecake",
+   "title_latin": null,
+   "year": 1982,
+   "credited_as": null,
+   "artists": [
+    "Tom Ellard"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "cUSA5urxPlY",
+     "url": "https://www.youtube.com/watch?v=cUSA5urxPlY",
+     "title": "Tom Ellard - Anthem 82 [80s Cheesecake, 1982]",
+     "channel": "treena's strobe light party",
+     "duration": 266,
+     "views": 3789,
+     "reason": "wrong length: 4:26 vs 50:54 expected (Discogs)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3054,
+    "tracks": 12,
+    "url": "https://www.discogs.com/master/254328-Tom-Ellard-80s-Cheesecake",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 66,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/anthony-ellis-sound-dimension/i-am-the-ruler-version/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "I Am the Ruler / Version",
+   "title_latin": null,
+   "year": 1979,
+   "credited_as": "Anthony Ellis / Sound Dimension",
+   "artists": [
+    "Anthony Rocky Ellis",
+    "Sound Dimension"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "0X4xhuEXUyk",
+    "url": "https://www.youtube.com/watch?v=0X4xhuEXUyk",
+    "title": "Anthony Ellis & Sound Dimension - I'm the ruler version.",
+    "channel": "Koko roots",
+    "duration": 142,
+    "views": 1868
+   },
+   "video_ids": [
+    "0X4xhuEXUyk"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 98",
+    "2:22 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 67,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/eurich/discography/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Discography",
+   "title_latin": null,
+   "year": 2003,
+   "credited_as": null,
+   "artists": [
+    "Eurich"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "BtWVvUmMLv8",
+    "url": "https://www.youtube.com/watch?v=BtWVvUmMLv8",
+    "title": "Eurich - Discography (1994-1996) Album",
+    "channel": "thisisaproxychannel",
+    "duration": 1659,
+    "views": 1921
+   },
+   "video_ids": [
+    "BtWVvUmMLv8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "27:39 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 68,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/evil-ednas-horror-toilet/too-much-gristle-in-the-blancmange/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Too Much Gristle in the Blancmange",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "Evil Edna's Horror Toilet!"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "dBCM7KCcZEA",
+    "url": "https://www.youtube.com/watch?v=dBCM7KCcZEA",
+    "title": "Evil Edna's Horror Toilet! - Too Much Gristle in the Blancmange (1986)",
+    "channel": "jazz joyce",
+    "duration": 3788,
+    "views": 188
+   },
+   "video_ids": [
+    "dBCM7KCcZEA"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration close: 1:03:08 vs 58:44 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 3524,
+    "tracks": 10,
+    "url": "https://musicbrainz.org/release/c578d295-9c3e-4a0d-8947-f33d44f7c363",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 69,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/additional/evil-priest/pretention-is-no-excuse/",
+   "rym_type": "additional",
+   "type_label": "Additional release",
+   "title": "Pretention Is No Excuse",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Evil Priest"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 70,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/fabio-fabor-armando-sciascia/n-38-infini/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "N° 38 - Infini",
+   "title_latin": null,
+   "year": 1972,
+   "credited_as": "Fabio Fabor / Armando Sciascia",
+   "artists": [
+    "Fabio Fabor",
+    "Armando Sciascia"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "z2opc4ScjGc",
+    "url": "https://www.youtube.com/watch?v=z2opc4ScjGc",
+    "title": "Fabio Fabor / Armando Sciascia - N° 38 - Infini (1972)",
+    "channel": "dovic",
+    "duration": 1815,
+    "views": 1792
+   },
+   "video_ids": [
+    "z2opc4ScjGc"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "30:15 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 71,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/felicita/climb-up-eh-bring-it/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Climb Up Eh / Bring It",
+   "title_latin": null,
+   "year": 2013,
+   "credited_as": null,
+   "artists": [
+    "felicita"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 72,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/marky-and-bungle/back-like-that-marky-and-bungle-remix/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Back Like That (Marky & Bungle Remix)",
+   "title_latin": null,
+   "year": 2007,
+   "credited_as": "Marky & Bungle",
+   "artists": [
+    "DJ Marky",
+    "Bungle"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "jCMK31vVAWw",
+    "url": "https://www.youtube.com/watch?v=jCMK31vVAWw",
+    "title": "Ghostface feat NeYo Back Like That Marky & Bungle remix",
+    "channel": "Richard Longhurst (Assassinonline)",
+    "duration": 379,
+    "views": 227730
+   },
+   "video_ids": [
+    "jCMK31vVAWw"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "6:19 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [
+    {
+     "id": "eS2Ll2DGBb8",
+     "url": "https://www.youtube.com/watch?v=eS2Ll2DGBb8",
+     "title": "Back Like That Marky and Bungle remix - live mix",
+     "channel": "Luke Simmons",
+     "duration": 93,
+     "views": 89,
+     "reason": "a live recording, RYM lists a studio release"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 73,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/peter-gutteridge/pure/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Pure",
+   "title_latin": null,
+   "year": 1989,
+   "credited_as": null,
+   "artists": [
+    "Peter Gutteridge"
+   ],
+   "status": "not_found",
+   "reason": "2 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "20RFYf8zWH0",
+     "url": "https://www.youtube.com/watch?v=20RFYf8zWH0",
+     "title": "Pure (No. 1)",
+     "channel": "Peter Gutteridge - Topic",
+     "duration": 287,
+     "views": 410,
+     "reason": "wrong length: 4:47 vs 55:02 expected (Spotify)"
+    },
+    {
+     "id": "TN8HY6DLjVw",
+     "url": "https://www.youtube.com/watch?v=TN8HY6DLjVw",
+     "title": "Peter Gutteridge - Pure (No. 2)",
+     "channel": "Cye",
+     "duration": 217,
+     "views": 2670,
+     "reason": "wrong length: 3:37 vs 55:02 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3302,
+    "tracks": 21,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/3pARss5TE38TC12h4wHPVO"
+   }
+  },
+  {
+   "position": 74,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/unauth/the-hanatarashi/we-are-hardcore/",
+   "rym_type": "unauth",
+   "type_label": "Bootleg / Unauthorized",
+   "title": "We Are Hardcore!!",
+   "title_latin": null,
+   "year": 2001,
+   "credited_as": null,
+   "artists": [
+    "The Hanatarashi"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "rqW-N7IcXPE",
+    "url": "https://www.youtube.com/watch?v=rqW-N7IcXPE",
+    "title": "Hanatarash - We Are Hardcore (Full Album)",
+    "channel": "FunnyStoneMan",
+    "duration": 19727,
+    "views": 15834
+   },
+   "video_ids": [
+    "rqW-N7IcXPE"
+   ],
+   "evidence": [
+    "artist similarity 95, title similarity 100",
+    "labelled as the full release",
+    "5:28:47 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "5:28:47 is long for one album: maybe a discography or compilation upload"
+   ],
+   "rejected": [
+    {
+     "id": "KKxsFPXQBa8",
+     "url": "https://www.youtube.com/watch?v=KKxsFPXQBa8",
+     "title": "THE HANATARASHI First Recording (Alt Version) exclusive to Black Operations We Are Hardcore! reissue",
+     "channel": "blackoperations",
+     "duration": 240,
+     "views": 757,
+     "reason": "4:00 is too short for a full album"
+    },
+    {
+     "id": "sJ_5HaZjaU4",
+     "url": "https://www.youtube.com/watch?v=sJ_5HaZjaU4",
+     "title": "Hanatarash - House Dust (we are hardcore version)",
+     "channel": "Bored",
+     "duration": 285,
+     "views": 2067,
+     "reason": "4:45 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 75,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/ronnie-hawkins/bo-diddley-who-do-you-love/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Bo Diddley / Who Do You Love",
+   "title_latin": null,
+   "year": 1963,
+   "credited_as": null,
+   "artists": [
+    "Ronnie Hawkins"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "-CdBjBvEfy8",
+    "url": "https://www.youtube.com/watch?v=-CdBjBvEfy8",
+    "title": "RONNIE HAWKINS -  BO DIDDLEY  - WHO DO YOU LOVE -   ROULETTE 4483",
+    "channel": "d pascalini (209Memphis)",
+    "duration": 336,
+    "views": 8799
+   },
+   "video_ids": [
+    "-CdBjBvEfy8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 5:36 vs 5:35 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 335,
+    "tracks": 2,
+    "url": "https://musicbrainz.org/release/df380aef-e59c-4366-892c-7b4c8ca89e87",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 76,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/ep/hellias/revenge_of_hellias/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Revenge of Hellias",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Hellias"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 77,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/jack-ruby/for-adults-only-the-shadow/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "For Adults Only / The Shadow",
+   "title_latin": null,
+   "year": 1995,
+   "credited_as": null,
+   "artists": [
+    "Jack Ruby"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "A06OySpChNY",
+    "url": "https://www.youtube.com/watch?v=A06OySpChNY",
+    "title": "Jack Ruby – For Adults Only / The Shadow",
+    "channel": "romulofbp",
+    "duration": 936,
+    "views": 2598
+   },
+   "video_ids": [
+    "A06OySpChNY"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "15:36 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 78,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/milt-jackson-joe-pass-ray-brown/the-big-three/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Big Three",
+   "title_latin": null,
+   "year": 1975,
+   "credited_as": "Milt Jackson, Joe Pass & Ray Brown",
+   "artists": [
+    "Milt Jackson",
+    "Joe Pass",
+    "Ray Brown"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 79,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/toshiki-kadomatsu/girl-in-the-box/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Girl in the Box",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Toshiki Kadomatsu"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "iDZPJELWUEU",
+    "url": "https://www.youtube.com/watch?v=iDZPJELWUEU",
+    "title": "toshiki kadomatsu - girl in the box 〜22時までの君は…",
+    "channel": "pingu87",
+    "duration": 401,
+    "views": 485135
+   },
+   "video_ids": [
+    "iDZPJELWUEU"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "6:41 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [
+    {
+     "id": "aEJCd8yHcGs",
+     "url": "https://www.youtube.com/watch?v=aEJCd8yHcGs",
+     "title": "If You... ~ Tokyo Tower ~ Girl in the Box - Toshiki Kadomatsu NHK FM Live Special 1985",
+     "channel": "TheMaractwoMan",
+     "duration": 1185,
+     "views": 158,
+     "reason": "a live recording, RYM lists a studio release"
+    },
+    {
+     "id": "1hIquV6Jaj0",
+     "url": "https://www.youtube.com/watch?v=1hIquV6Jaj0",
+     "title": "Toshiki Kadomatsu - Girl in the box Live",
+     "channel": "Jorge Laloth",
+     "duration": 751,
+     "views": 5357,
+     "reason": "a live recording, RYM lists a studio release"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 80,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/ep/komprex/trance-hates-me-e_p/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Trance Hates Me E.P.",
+   "title_latin": null,
+   "year": 2006,
+   "credited_as": null,
+   "artists": [
+    "Komprex"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "uXgmpbZODNo",
+    "url": "https://www.youtube.com/watch?v=uXgmpbZODNo",
+    "title": "Trance Hates Me E.P. - Komprex (Full Album)",
+    "channel": "4zTaroTh",
+    "duration": 1170,
+    "views": 426
+   },
+   "video_ids": [
+    "uXgmpbZODNo"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 19:30 vs 19:27 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "MkymTaDhK3g",
+     "url": "https://www.youtube.com/watch?v=MkymTaDhK3g",
+     "title": "Komprex - Lifeforce Mysteria (765 Bpm Live Mix) - Trance Hates Me EP",
+     "channel": "Techno Autopsy",
+     "duration": 155,
+     "views": 28,
+     "reason": "a live recording, RYM lists a studio release"
+    }
+   ],
+   "runtime": {
+    "seconds": 1167,
+    "tracks": 8,
+    "url": "https://musicbrainz.org/release/0087f125-2413-4933-8434-2a26600affff",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 81,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/konstruktivits_nkvd_f2_vagina_dentata_organ/nkvd_compilation/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "NKVD Compilation",
+   "title_latin": null,
+   "year": 1989,
+   "credited_as": "Konstruktivits / NKVD / Vagina Dentata Organ",
+   "artists": [
+    "Konstruktivits",
+    "NKVD",
+    "Vagina Dentata Organ"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "bmQLsrVuHBM",
+    "url": "https://www.youtube.com/watch?v=bmQLsrVuHBM",
+    "title": "Konstruktivits ‎– N.K.V.D. Compilation",
+    "channel": "DEE",
+    "duration": 5408,
+    "views": 548
+   },
+   "video_ids": [
+    "bmQLsrVuHBM"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 90",
+    "1:30:08 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 82,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/rolf-kuhn-quintett/solarius/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Solarius",
+   "title_latin": null,
+   "year": 1965,
+   "credited_as": null,
+   "artists": [
+    "Rolf Kühn Quintett"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "hxYejExNdbU",
+    "url": "https://www.youtube.com/watch?v=hxYejExNdbU",
+    "title": "Rolf Kühn Quintett ‎– Solarius (FULL ALBUM, jazz, DDR, 1965)",
+    "channel": "Funked Up East",
+    "duration": 2424,
+    "views": 52411
+   },
+   "video_ids": [
+    "hxYejExNdbU"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "40:24 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 83,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/lord_litter/space_age/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Space Age",
+   "title_latin": null,
+   "year": 1989,
+   "credited_as": null,
+   "artists": [
+    "Lord Litter"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "DQiTouL9d6Y",
+    "url": "https://www.youtube.com/watch?v=DQiTouL9d6Y",
+    "title": "Lord Litter - Space Age (1989)",
+    "channel": "girlwantsboy's archive",
+    "duration": 3477,
+    "views": 44
+   },
+   "video_ids": [
+    "DQiTouL9d6Y"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 57:57 vs 58:25 expected (Discogs)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 3505,
+    "tracks": 13,
+    "url": "https://www.discogs.com/release/2231263-Lord-Litter-Space-Age",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 84,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/lou_champagne_system/no_visible_means/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "No Visible Means",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Lou Champagne System"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 85,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/additional/maimed/demo-1-91/",
+   "rym_type": "additional",
+   "type_label": "Additional release",
+   "title": "Demo #1 91'",
+   "title_latin": null,
+   "year": 1991,
+   "credited_as": null,
+   "artists": [
+    "Maimed"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "XgWK4JepycQ",
+    "url": "https://www.youtube.com/watch?v=XgWK4JepycQ",
+    "title": "Maimed - Demo #1 '91 - (1991) - [Full Demo]",
+    "channel": "Nucktmeron 1982",
+    "duration": 953,
+    "views": 2702
+   },
+   "video_ids": [
+    "XgWK4JepycQ"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 15:53 vs 15:35 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 935,
+    "tracks": 5,
+    "url": "https://musicbrainz.org/release/59bfb8af-d638-45f2-af3f-68274bf9576e",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 86,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/ep/malignus-youth/malignus-youth/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Malignus Youth",
+   "title_latin": null,
+   "year": 1990,
+   "credited_as": null,
+   "artists": [
+    "Malignus Youth"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "NFLPrUCWvgs",
+    "url": "https://www.youtube.com/watch?v=NFLPrUCWvgs",
+    "title": "Malignus Youth - Crisis (1991) [FULL EP]",
+    "channel": "Matheus",
+    "duration": 715,
+    "views": 2493
+   },
+   "video_ids": [
+    "NFLPrUCWvgs"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 11:55 vs 10:27 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "Db6Q4kw8kjo",
+     "url": "https://www.youtube.com/watch?v=Db6Q4kw8kjo",
+     "title": "Malignus Youth   Vinyl CD Full Album",
+     "channel": "Ab H",
+     "duration": 2986,
+     "views": 344,
+     "reason": "wrong length: 49:46 vs 10:27 expected (MusicBrainz)"
+    },
+    {
+     "id": "DYh4QzzD8j4",
+     "url": "https://www.youtube.com/watch?v=DYh4QzzD8j4",
+     "title": "Malignus Youth - Malignus Youth 1/8",
+     "channel": "amital",
+     "duration": 59,
+     "views": 2268,
+     "reason": "wrong length: 0:59 vs 10:27 expected (MusicBrainz)"
+    },
+    {
+     "id": "OYij2m0Y8Vc",
+     "url": "https://www.youtube.com/watch?v=OYij2m0Y8Vc",
+     "title": "MALIGNUS YOUTH - \"EPHEMERAL\" CD - 1 of 17 \"I.U.T.Y (It's Up To You)\"",
+     "channel": "Malignus Youth",
+     "duration": 124,
+     "views": 374,
+     "reason": "wrong length: 2:04 vs 10:27 expected (MusicBrainz)"
+    },
+    {
+     "id": "EofSXut8QVo",
+     "url": "https://www.youtube.com/watch?v=EofSXut8QVo",
+     "title": "MALIGNUS YOUTH   \"Charlie\"   Live ca. 1994",
+     "channel": "Malignus Youth",
+     "duration": 101,
+     "views": 350,
+     "reason": "a live recording, RYM lists a studio release"
+    },
+    {
+     "id": "OLMcQsYKd7M",
+     "url": "https://www.youtube.com/watch?v=OLMcQsYKd7M",
+     "title": "Malignus Youth - Life, Lies, Truth",
+     "channel": "TheEggdogg",
+     "duration": 63,
+     "views": 2359,
+     "reason": "wrong length: 1:03 vs 10:27 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 627,
+    "tracks": 8,
+    "url": "https://musicbrainz.org/release/b1651f7f-0e4a-41a2-b9fb-61b887865d96",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 87,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/ep/mass-psychosis-exterminance/goremachine-vomiting-the-trinity/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Goremachine / Vomiting the Trinity",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": "Mass Psychosis / Exterminance",
+   "artists": [
+    "Mass Psychosis",
+    "Exterminance"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 88,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/gwen-mccrae/all-this-love-that-im-giving-90-of-me-is-you-1/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "All This Love That I'm Giving / 90% of Me Is You",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Gwen McCrae"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 89,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/sugar-minott-horace-andy/wicked-ah-go-feel-it-musical-episode-1/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Wicked Ah Go Feel It / Musical Episode",
+   "title_latin": null,
+   "year": 2002,
+   "credited_as": "Sugar Minott / Horace Andy",
+   "artists": [
+    "Sugar Minott",
+    "Horace Andy"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 90,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/victor-nubla/dance-music/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Dance Music",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "Víctor Nubla"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 91,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/panphage/storm/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Storm",
+   "title_latin": null,
+   "year": 2015,
+   "credited_as": null,
+   "artists": [
+    "Panphage"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "N_dF19Na7cc",
+    "url": "https://www.youtube.com/watch?v=N_dF19Na7cc",
+    "title": "Panphage -Storm (Full Length 2015)",
+    "channel": "WereRiff: A Wrath of Reccs",
+    "duration": 2281,
+    "views": 506
+   },
+   "video_ids": [
+    "N_dF19Na7cc"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 38:01 vs 38:00 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "F3hVASgC0ZM",
+     "url": "https://www.youtube.com/watch?v=F3hVASgC0ZM",
+     "title": "Panphage- Storm",
+     "channel": "Tempestuous Might",
+     "duration": 359,
+     "views": 571,
+     "reason": "wrong length: 5:59 vs 38:00 expected (Spotify)"
+    },
+    {
+     "id": "xbkH-nY8TzU",
+     "url": "https://www.youtube.com/watch?v=xbkH-nY8TzU",
+     "title": "Panphage - Storm",
+     "channel": "Carlos Artefinalista",
+     "duration": 367,
+     "views": 193,
+     "reason": "wrong length: 6:07 vs 38:00 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2280,
+    "tracks": 8,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/0dlXGxEPiuZAX5EjqmFMJk"
+   }
+  },
+  {
+   "position": 92,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/the-peppers/pepper-box-pinch-of-salt/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Pepper Box / Pinch of Salt",
+   "title_latin": null,
+   "year": 1973,
+   "credited_as": null,
+   "artists": [
+    "The Peppers"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "5xEfJnjvGtY",
+    "url": "https://www.youtube.com/watch?v=5xEfJnjvGtY",
+    "title": "The Peppers: Pepper Box/Pinch of Salt (1973) (7'') (Side A/Side B)",
+    "channel": "Paul Greenwood",
+    "duration": 359,
+    "views": 12511
+   },
+   "video_ids": [
+    "5xEfJnjvGtY"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 5:59 vs 5:56 expected (Discogs)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "EXrHOk2L4lI",
+     "url": "https://www.youtube.com/watch?v=EXrHOk2L4lI",
+     "title": "The Peppers - Pepper Box Pinch of Salt (1973) ReEdit Hq",
+     "channel": "Roberto Bruno - Oldies",
+     "duration": 239,
+     "views": 4111,
+     "reason": "looks like a reedit, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 356,
+    "tracks": 2,
+    "url": "https://www.discogs.com/master/148898-The-Peppers-Pepper-Box",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 93,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/the_pipkins/gimme_dat_ding_/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Gimme Dat Ding!",
+   "title_latin": null,
+   "year": 1970,
+   "credited_as": null,
+   "artists": [
+    "The Pipkins"
+   ],
+   "status": "not_found",
+   "reason": "16 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "x3035ZghcqI",
+     "url": "https://www.youtube.com/watch?v=x3035ZghcqI",
+     "title": "The Pipkins   Gimme Dat Ding",
+     "channel": "PAULO CAFARO",
+     "duration": 131,
+     "views": 28378,
+     "reason": "wrong length: 2:11 vs 22:07 expected (Spotify)"
+    },
+    {
+     "id": "eWdXGXp6WNI",
+     "url": "https://www.youtube.com/watch?v=eWdXGXp6WNI",
+     "title": "The Pipkins - Gimme Dat Ding // #83 Top 100 Songs of the 1970s",
+     "channel": "DAFT FM",
+     "duration": 135,
+     "views": 352,
+     "reason": "looks like a top 100, not the release"
+    },
+    {
+     "id": "RnpgEuJFpkk",
+     "url": "https://www.youtube.com/watch?v=RnpgEuJFpkk",
+     "title": "The Pipkins - Gimme Dat Ding",
+     "channel": "TheWhiteCat1965",
+     "duration": 129,
+     "views": 789,
+     "reason": "wrong length: 2:09 vs 22:07 expected (Spotify)"
+    },
+    {
+     "id": "BMzAK6LrL9E",
+     "url": "https://www.youtube.com/watch?v=BMzAK6LrL9E",
+     "title": "1970 HITS ARCHIVE: Gimme Dat Ding - Pipkins (mono 45)",
+     "channel": "AnotherProf",
+     "duration": 132,
+     "views": 20609,
+     "reason": "wrong length: 2:12 vs 22:07 expected (Spotify)"
+    },
+    {
+     "id": "Vs6gnsAtjXw",
+     "url": "https://www.youtube.com/watch?v=Vs6gnsAtjXw",
+     "title": "The Pipkins - Gimme Dat Ding  (HQ)",
+     "channel": "TheOldrecordclub",
+     "duration": 129,
+     "views": 301610,
+     "reason": "wrong length: 2:09 vs 22:07 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1327,
+    "tracks": 8,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/4YitQkE5tqbWdtyhIphtfR"
+   }
+  },
+  {
+   "position": 94,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/pompidoo/synthesizer_voice___version/",
+   "rym_type": "single",
+   "type_label": "Album",
+   "title": "Synthesizer Voice / Version",
+   "title_latin": null,
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "Pompidoo"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 95,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/prince-fatty/insane-in-the-brain-insane-in-the-brain-dub-mix/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Insane in the Brain / Insane in the Brain (dub mix)",
+   "title_latin": null,
+   "year": 2010,
+   "credited_as": null,
+   "artists": [
+    "Prince Fatty"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 96,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/the-ragga-twins/ragga-trip-hooligan-69/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Ragga Trip / Hooligan 69",
+   "title_latin": null,
+   "year": 1990,
+   "credited_as": null,
+   "artists": [
+    "The Ragga Twins"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 97,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/unauth/visarad-srima-ratnayaka/pali-devotional-hymns/",
+   "rym_type": "unauth",
+   "type_label": "Album",
+   "title": "Pāli Devotional Hymns",
+   "title_latin": null,
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "Visarad Srima Ratnayaka"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 98,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/richie-rich/seasoned-veteran/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Seasoned Veteran",
+   "title_latin": null,
+   "year": 1996,
+   "credited_as": null,
+   "artists": [
+    "Richie Rich"
+   ],
+   "status": "not_found",
+   "reason": "2 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "JXAV4BcuTmI",
+     "url": "https://www.youtube.com/watch?v=JXAV4BcuTmI",
+     "title": "Richie Rich - Niggaz Done Changed [ft.2Pac] Seasoned Veteran",
+     "channel": "TRUMP MasterShop",
+     "duration": 296,
+     "views": 4377,
+     "reason": "wrong length: 4:56 vs 1:07:17 expected (Spotify)"
+    },
+    {
+     "id": "iUc1A-etmJ0",
+     "url": "https://www.youtube.com/watch?v=iUc1A-etmJ0",
+     "title": "Richie Rich – Niggas Done Changed (ft. 2Pac) (Explicit) | Seasoned Veteran (1996)",
+     "channel": "RTHLSS Ent.",
+     "duration": 294,
+     "views": 1273,
+     "reason": "wrong length: 4:54 vs 1:07:17 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 4037,
+    "tracks": 16,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/2ATbVDabS4omLZ4DWfCzpZ"
+   }
+  },
+  {
+   "position": 99,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/harry-rusli/titik-api/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Titik Api",
+   "title_latin": null,
+   "year": 1976,
+   "credited_as": null,
+   "artists": [
+    "Harry Rusli"
+   ],
+   "status": "not_found",
+   "reason": "2 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "a-juzovzgpQ",
+     "url": "https://www.youtube.com/watch?v=a-juzovzgpQ",
+     "title": "KASET LANGKA : TITIK API — HARRY RUSLI ( Si Bengal Dari Bandung )",
+     "channel": "Manusia Kamar",
+     "duration": 447,
+     "views": 445,
+     "reason": "wrong length: 7:27 vs 1:01:12 expected (MusicBrainz)"
+    },
+    {
+     "id": "g-DupcRAa-g",
+     "url": "https://www.youtube.com/watch?v=g-DupcRAa-g",
+     "title": "Harry Rusli - Titik Api - Vunga Surga - 1976 Indonesia Cassete (Shanti edit +)",
+     "channel": "🎶Psy-Op Music🎶",
+     "duration": 180,
+     "views": 99,
+     "reason": "looks like a edit, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 3672,
+    "tracks": 12,
+    "url": "https://musicbrainz.org/release/1adecaa4-b956-47b0-bd64-17b7601c3332",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 100,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/umaru-sanda/dariya-da-makiya/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Dariya da makiya",
+   "title_latin": null,
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "Umaru Sanda"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "FuBq0C0GJpI",
+    "url": "https://www.youtube.com/watch?v=FuBq0C0GJpI",
+    "title": "Umaru Sanda - Dariya Da Makiya",
+    "channel": "Kingdagmarius",
+    "duration": 399,
+    "views": 7756
+   },
+   "video_ids": [
+    "FuBq0C0GJpI"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "6:39 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "short for a full album (6:39): fine for punk/grind, check it"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 101,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/dj-scot-project/o/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "O",
+   "title_latin": null,
+   "year": 2001,
+   "credited_as": null,
+   "artists": [
+    "DJ Scot Project"
+   ],
+   "status": "not_found",
+   "reason": "12 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "X8nSAnJkRX8",
+     "url": "https://www.youtube.com/watch?v=X8nSAnJkRX8",
+     "title": "DJ Scot Project - O (Overdrive) Original Video",
+     "channel": "SneakX2006",
+     "duration": 203,
+     "views": 242283,
+     "reason": "wrong length: 3:23 vs 21:08 expected (Discogs)"
+    },
+    {
+     "id": "gBVuAI2_-lM",
+     "url": "https://www.youtube.com/watch?v=gBVuAI2_-lM",
+     "title": "Dj Scot Project - O-Overdrive (Original Mix)",
+     "channel": "TinnitusGehoerschade",
+     "duration": 579,
+     "views": 85051,
+     "reason": "wrong length: 9:39 vs 21:08 expected (Discogs)"
+    },
+    {
+     "id": "T0kdqhhV23M",
+     "url": "https://www.youtube.com/watch?v=T0kdqhhV23M",
+     "title": "DJ Scot Project - O (Overdrive)",
+     "channel": "qtasiorro",
+     "duration": 443,
+     "views": 100232,
+     "reason": "wrong length: 7:23 vs 21:08 expected (Discogs)"
+    },
+    {
+     "id": "QQWnjyskMv8",
+     "url": "https://www.youtube.com/watch?v=QQWnjyskMv8",
+     "title": "DJ Scot Project - O [Overdrive] (Original Mix) [HQ]",
+     "channel": "ConnecteD {Hard Dance Music}",
+     "duration": 578,
+     "views": 13004,
+     "reason": "wrong length: 9:38 vs 21:08 expected (Discogs)"
+    },
+    {
+     "id": "fKMcjfD6cWk",
+     "url": "https://www.youtube.com/watch?v=fKMcjfD6cWk",
+     "title": "Dj Scot Project - O (Overdrive)",
+     "channel": "ScotProjectMusic",
+     "duration": 581,
+     "views": 39118,
+     "reason": "wrong length: 9:41 vs 21:08 expected (Discogs)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1268,
+    "tracks": 3,
+    "url": "https://www.discogs.com/release/102140-DJ-Scot-Project-O",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 102,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/sensate-focus/sensate-focus-1_666666666/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Sensate Focus 1.666666666",
+   "title_latin": null,
+   "year": 2013,
+   "credited_as": null,
+   "artists": [
+    "Sensate Focus"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 103,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/shoes/too-late-now-and-then/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Too Late / Now and Then",
+   "title_latin": null,
+   "year": 1979,
+   "credited_as": null,
+   "artists": [
+    "Shoes"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 104,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/sindy_arthur/what_about_/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "What About?",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Sindy Arthur"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "Z5A_v8nwMAA",
+    "url": "https://www.youtube.com/watch?v=Z5A_v8nwMAA",
+    "title": "Sindy Arthur - What About (Album, 1987)",
+    "channel": "ottokar_toffel",
+    "duration": 1024,
+    "views": 674
+   },
+   "video_ids": [
+    "Z5A_v8nwMAA"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "17:04 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 105,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/the_solitaires_f1/i_dont_stand_a_ghost_of_a_chance___girl_of_mine/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "I Don't Stand a Ghost of a Chance / Girl of Mine",
+   "title_latin": null,
+   "year": 1955,
+   "credited_as": null,
+   "artists": [
+    "The Solitaires"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "ARXOHbTYqEM",
+    "url": "https://www.youtube.com/watch?v=ARXOHbTYqEM",
+    "title": "SOLITAIRES - I Don't Stand A Ghost Of A Chance / Girl Of Mine - Old Town 1010 - 1954",
+    "channel": "4JUKEBOXSATURDAYNITE",
+    "duration": 350,
+    "views": 1585
+   },
+   "video_ids": [
+    "ARXOHbTYqEM"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 5:50 vs 5:50 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 350,
+    "tracks": 2,
+    "url": "https://musicbrainz.org/release/8f8c6cc5-d47e-4424-9908-a8dcf3e2728a",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 106,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/sonntag_f1/le_tambour/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Le tambour",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Sønntag"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "l4L1ztZnaxI",
+    "url": "https://www.youtube.com/watch?v=l4L1ztZnaxI",
+    "title": "Sønntag ‎– Le Tambour [Full Album]",
+    "channel": "Romented",
+    "duration": 1836,
+    "views": 867
+   },
+   "video_ids": [
+    "l4L1ztZnaxI"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 30:36 vs 30:34 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "jN8mzsm66ZI",
+     "url": "https://www.youtube.com/watch?v=jN8mzsm66ZI",
+     "title": "Sønntag - Le Tambour (1987, Coldwave / Ethereal)",
+     "channel": "OBSCURED Radio",
+     "duration": 173,
+     "views": 1222,
+     "reason": "wrong length: 2:53 vs 30:34 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1834,
+    "tracks": 7,
+    "url": "https://musicbrainz.org/release/023a265a-d2a5-439c-b543-a48d24911c50",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 107,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/super_11/super_onze/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Super Onze",
+   "title_latin": null,
+   "year": 2011,
+   "credited_as": null,
+   "artists": [
+    "Super 11"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 108,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/ep/tar_babies/face_the_music/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Face the Music",
+   "title_latin": null,
+   "year": 1983,
+   "credited_as": null,
+   "artists": [
+    "Tar Babies"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "WDjR6oN3nPA",
+    "url": "https://www.youtube.com/watch?v=WDjR6oN3nPA",
+    "title": "Tar Babies - 'Face the Music' 12\" ep",
+    "channel": "Sacramento Punkshows",
+    "duration": 511,
+    "views": 20548
+   },
+   "video_ids": [
+    "WDjR6oN3nPA"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 8:31 vs 8:36 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "5n0l4EamulM",
+     "url": "https://www.youtube.com/watch?v=5n0l4EamulM",
+     "title": "TAR BABIES 'Punch' from 'Face The Music' 12\" (1983) Hardcore Punk USA",
+     "channel": "blackoperations",
+     "duration": 95,
+     "views": 780,
+     "reason": "wrong length: 1:35 vs 8:36 expected (MusicBrainz)"
+    },
+    {
+     "id": "kB5oP4A3vwU",
+     "url": "https://www.youtube.com/watch?v=kB5oP4A3vwU",
+     "title": "Tar Babies-Be Humble-Face the Music",
+     "channel": "Robert Vienneau",
+     "duration": 48,
+     "views": 1572,
+     "reason": "wrong length: 0:48 vs 8:36 expected (MusicBrainz)"
+    },
+    {
+     "id": "LPAGsqW18EE",
+     "url": "https://www.youtube.com/watch?v=LPAGsqW18EE",
+     "title": "TAR BABIES - Face The Music / Respect Your Nightmares + Early Years, Rare & Unreleased 1983/85",
+     "channel": "Raw'N'Proud77",
+     "duration": 2834,
+     "views": 1162,
+     "reason": "wrong length: 47:14 vs 8:36 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 516,
+    "tracks": 8,
+    "url": "https://musicbrainz.org/release/63bcb55b-f9d2-4612-b1fd-e551bd908c88",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 109,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/theatre-of-ice/beyond-the-graves-of-passion/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Beyond the Graves of Passion",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Theatre of Ice"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "xac-S_ViUy0",
+    "url": "https://www.youtube.com/watch?v=xac-S_ViUy0",
+    "title": "Theater Of Ice - Beyond The Graves Of Passion (Full CS 1984)",
+    "channel": "Nicole Rosas",
+    "duration": 3942,
+    "views": 15801
+   },
+   "video_ids": [
+    "xac-S_ViUy0"
+   ],
+   "evidence": [
+    "artist similarity 93, title similarity 100",
+    "labelled as the full release",
+    "1:05:42 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 110,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/thor/aliens-dont-boogie/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Aliens Don't Boogie",
+   "title_latin": null,
+   "year": 1999,
+   "credited_as": null,
+   "artists": [
+    "Thor"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "pE9H4AyAjqo",
+    "url": "https://www.youtube.com/watch?v=pE9H4AyAjqo",
+    "title": "Thor – Aliens Don't Boogie",
+    "channel": "LostWax",
+    "duration": 887,
+    "views": 1556
+   },
+   "video_ids": [
+    "pE9H4AyAjqo"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 14:47 vs 14:23 expected (Discogs)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "93Y1hpysOws",
+     "url": "https://www.youtube.com/watch?v=93Y1hpysOws",
+     "title": "Thor - Aliens Don't Boogie",
+     "channel": "MrHouseVinyl",
+     "duration": 554,
+     "views": 149727,
+     "reason": "wrong length: 9:14 vs 14:23 expected (Discogs)"
+    },
+    {
+     "id": "gIv8Gb2rrzI",
+     "url": "https://www.youtube.com/watch?v=gIv8Gb2rrzI",
+     "title": "Thor – Aliens Don't Boogie (1999)",
+     "channel": "Techno Classics",
+     "duration": 560,
+     "views": 1190,
+     "reason": "wrong length: 9:20 vs 14:23 expected (Discogs)"
+    },
+    {
+     "id": "9H6rCmRKX18",
+     "url": "https://www.youtube.com/watch?v=9H6rCmRKX18",
+     "title": "Thor - Find Out Why (Aliens Don't Boogie - AE Recordings/1999)",
+     "channel": "Mixed Up Music48",
+     "duration": 256,
+     "views": 887,
+     "reason": "wrong length: 4:16 vs 14:23 expected (Discogs)"
+    },
+    {
+     "id": "IPLjF882Yu8",
+     "url": "https://www.youtube.com/watch?v=IPLjF882Yu8",
+     "title": "Thor - Aliens Don't Boogie (Original Mix)",
+     "channel": "Lukas Marciniak",
+     "duration": 555,
+     "views": 627,
+     "reason": "wrong length: 9:15 vs 14:23 expected (Discogs)"
+    },
+    {
+     "id": "hdEARcK0aS4",
+     "url": "https://www.youtube.com/watch?v=hdEARcK0aS4",
+     "title": "Aliens Don't Boogie (Mark & Matt Thibideau Remix)",
+     "channel": "Thor - Topic",
+     "duration": 466,
+     "views": 1514,
+     "reason": "looks like a remix, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 863,
+    "tracks": 2,
+    "url": "https://www.discogs.com/master/423089-Thor-Aliens-Dont-Boogie",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 111,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/ep/torn-hawk/tarifa/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Tarifa",
+   "title_latin": null,
+   "year": 2012,
+   "credited_as": null,
+   "artists": [
+    "Torn Hawk"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "f2Z6yHCLPi8",
+    "url": "https://www.youtube.com/watch?v=f2Z6yHCLPi8",
+    "title": "Tarifa",
+    "channel": "Torn Hawk - Topic",
+    "duration": 283,
+    "views": 2163
+   },
+   "video_ids": [
+    "f2Z6yHCLPi8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "uploaded by the artist's channel (Torn Hawk - Topic)",
+    "4:43 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "short for a full ep (4:43): fine for punk/grind, check it"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 112,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/additional/torture/torture/",
+   "rym_type": "additional",
+   "type_label": "Additional release",
+   "title": "Torture",
+   "title_latin": null,
+   "year": 1996,
+   "credited_as": null,
+   "artists": [
+    "Torture"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "pokuRBLjYb4",
+    "url": "https://www.youtube.com/watch?v=pokuRBLjYb4",
+    "title": "Torture - Torture (1996) Full Demo [Les Légions Noires]",
+    "channel": "Underground Black Tapes",
+    "duration": 1436,
+    "views": 43781
+   },
+   "video_ids": [
+    "pokuRBLjYb4"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 23:56 vs 23:53 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "6EDY4f7VVa8",
+     "url": "https://www.youtube.com/watch?v=6EDY4f7VVa8",
+     "title": "CANNIBAL CORPSE Torture (Full Album)",
+     "channel": "Death Metal Backup",
+     "duration": 2639,
+     "views": 7034,
+     "reason": "wrong length: 43:59 vs 23:53 expected (MusicBrainz)"
+    },
+    {
+     "id": "AiYVBf5du0g",
+     "url": "https://www.youtube.com/watch?v=AiYVBf5du0g",
+     "title": "Torture Krypt - Rotted Remnants (1995) [FULL EP] (HQ)",
+     "channel": "TheLastAndOnlySon",
+     "duration": 956,
+     "views": 81710,
+     "reason": "wrong length: 15:56 vs 23:53 expected (MusicBrainz)"
+    },
+    {
+     "id": "AONWRhestCo",
+     "url": "https://www.youtube.com/watch?v=AONWRhestCo",
+     "title": "GUT  - Odour of Torture (Full Album) 1995",
+     "channel": "Bleach Metal Musick",
+     "duration": 2699,
+     "views": 34413,
+     "reason": "wrong length: 44:59 vs 23:53 expected (MusicBrainz)"
+    },
+    {
+     "id": "UTW-TzwNbgQ",
+     "url": "https://www.youtube.com/watch?v=UTW-TzwNbgQ",
+     "title": "Torture Killer - Sewers (2009)(Full Album)",
+     "channel": "Descuartizador de Comunachos",
+     "duration": 1753,
+     "views": 23892,
+     "reason": "wrong length: 29:13 vs 23:53 expected (MusicBrainz)"
+    },
+    {
+     "id": "eU27ZISZFqo",
+     "url": "https://www.youtube.com/watch?v=eU27ZISZFqo",
+     "title": "TORTURE - 'Enduring Freedom' (Full Album)",
+     "channel": "Galeri Musik Metal",
+     "duration": 4386,
+     "views": 2039,
+     "reason": "wrong length: 1:13:06 vs 23:53 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1433,
+    "tracks": 6,
+    "url": "https://musicbrainz.org/release/8f22a739-4e99-47a0-89e6-e6bc729db272",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 113,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/twice-a-man/the-sound-of-a-goat-in-a-room-1/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Sound of a Goat in a Room",
+   "title_latin": null,
+   "year": 1983,
+   "credited_as": null,
+   "artists": [
+    "Twice a Man"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "ytXZTavWxbg",
+    "url": "https://www.youtube.com/watch?v=ytXZTavWxbg",
+    "title": "Twice A Man – The Sound Of A Goat In A Room [CD, Album,  Germany /1983, remastered 1997]",
+    "channel": "Martin Minimalwave",
+    "duration": 3193,
+    "views": 565
+   },
+   "video_ids": [
+    "ytXZTavWxbg"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 53:13 vs 53:16 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "DeGgqTL_RhQ",
+     "url": "https://www.youtube.com/watch?v=DeGgqTL_RhQ",
+     "title": "Twice A Man‎ - Intro Room I  Goat I II III  (The Sound Of A Goat In A Room) 1997",
+     "channel": "Robertpere2",
+     "duration": 603,
+     "views": 4562,
+     "reason": "wrong length: 10:03 vs 53:16 expected (Spotify)"
+    },
+    {
+     "id": "SLjNM-O1rPA",
+     "url": "https://www.youtube.com/watch?v=SLjNM-O1rPA",
+     "title": "Twice a Man - The Sound Of a Goat In a Room II",
+     "channel": "Luistertips",
+     "duration": 1158,
+     "views": 8,
+     "reason": "wrong length: 19:18 vs 53:16 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3196,
+    "tracks": 12,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/3GrpsATZ9l063u4jTg9H1i"
+   }
+  },
+  {
+   "position": 114,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/two-daughters/two-daughters/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Two Daughters",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Two Daughters"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "anNAl0A1GRk",
+    "url": "https://www.youtube.com/watch?v=anNAl0A1GRk",
+    "title": "Bill Cosby - Bill's Two Daughters",
+    "channel": "andrewf1",
+    "duration": 440,
+    "views": 24467
+   },
+   "video_ids": [
+    "anNAl0A1GRk"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "7:20 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "short for a full album (7:20): fine for punk/grind, check it"
+   ],
+   "rejected": [
+    {
+     "id": "zjeKrsIzT10",
+     "url": "https://www.youtube.com/watch?v=zjeKrsIzT10",
+     "title": "Two Daughters - So I",
+     "channel": "heliae",
+     "duration": 132,
+     "views": 8927,
+     "reason": "2:12 is too short for a full album"
+    },
+    {
+     "id": "7hN2362Y7yg",
+     "url": "https://www.youtube.com/watch?v=7hN2362Y7yg",
+     "title": "King Arthur, Z.628, Act IV: \"Two Daughters of This Aged Stream\"",
+     "channel": "Stefanie True - Topic",
+     "duration": 127,
+     "views": 2697,
+     "reason": "2:07 is too short for a full album"
+    },
+    {
+     "id": "TrJuglk0myA",
+     "url": "https://www.youtube.com/watch?v=TrJuglk0myA",
+     "title": "Two Daughters",
+     "channel": "The Looking - Topic",
+     "duration": 262,
+     "views": 36,
+     "reason": "4:22 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 115,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/vast-majority/i-wanna-be-a-number-gods-groin-throwdown/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "I Wanna Be a Number / God's Groin / Throwdown",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Vast Majority"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 116,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/josey_wales/let_go_mi_hand/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Let Go Mi Hand",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "Josey Wales"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "Dpn7A27hX30",
+    "url": "https://www.youtube.com/watch?v=Dpn7A27hX30",
+    "title": "Let Go Mi Hand",
+    "channel": "Josey Wales - Topic",
+    "duration": 237,
+    "views": 307503
+   },
+   "video_ids": [
+    "Dpn7A27hX30"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "uploaded by the artist's channel (Josey Wales - Topic)",
+    "3:57 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 117,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/y_n_richkids/hot_cheetos_and_takis/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Hot Cheetos & Takis",
+   "title_latin": null,
+   "year": 2012,
+   "credited_as": null,
+   "artists": [
+    "Y.N.RichKids"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "NLs4e_WCpBU",
+    "url": "https://www.youtube.com/watch?v=NLs4e_WCpBU",
+    "title": "Hot Cheetos & Takis",
+    "channel": "Y.N.Richkids - Topic",
+    "duration": 277,
+    "views": 165150
+   },
+   "video_ids": [
+    "NLs4e_WCpBU"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "uploaded by the artist's channel (Y.N.Richkids - Topic)",
+    "duration 4:37 vs 4:37 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "z_ubyTKEhsA",
+     "url": "https://www.youtube.com/watch?v=z_ubyTKEhsA",
+     "title": "Y.N.RichKids performing \"Hot Cheetos & Takis\" live at First",
+     "channel": "mrfangmeier",
+     "duration": 387,
+     "views": 40778,
+     "reason": "a live recording, RYM lists a studio release"
+    },
+    {
+     "id": "fLAcxjfIX3I",
+     "url": "https://www.youtube.com/watch?v=fLAcxjfIX3I",
+     "title": "Y.N.RichKids - Hot Cheetos & Takis (Chopped & Screwed)",
+     "channel": "Scobed & Robed",
+     "duration": 454,
+     "views": 2692,
+     "reason": "wrong length: 7:34 vs 4:37 expected (Spotify)"
+    },
+    {
+     "id": "4FG9sZCqTds",
+     "url": "https://www.youtube.com/watch?v=4FG9sZCqTds",
+     "title": "Hot Cheetos & Takis - Y.N.Richkids | Jason Magsuci Choreography | Monday Night Workshop",
+     "channel": "On One Studios",
+     "duration": 54,
+     "views": 1368,
+     "reason": "wrong length: 0:54 vs 4:37 expected (Spotify)"
+    },
+    {
+     "id": "FnPUTogL5kw",
+     "url": "https://www.youtube.com/watch?v=FnPUTogL5kw",
+     "title": "Y.N.RichKids - \"Hot Cheetos & Takis\" live at Day Of Dignity 10/7/2012",
+     "channel": "Mildew Beats",
+     "duration": 292,
+     "views": 7723,
+     "reason": "a live recording, RYM lists a studio release"
+    }
+   ],
+   "runtime": {
+    "seconds": 277,
+    "tracks": 1,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/12IZjtGFvTrjzjflzd8UKX"
+   }
+  },
+  {
+   "position": 118,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/youandewan/1988/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "1988",
+   "title_latin": null,
+   "year": 2011,
+   "credited_as": null,
+   "artists": [
+    "Youandewan"
+   ],
+   "status": "not_found",
+   "reason": "15 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "x9MvwF9sob8",
+     "url": "https://www.youtube.com/watch?v=x9MvwF9sob8",
+     "title": "Youandewan '1988'",
+     "channel": "Defected Records",
+     "duration": 633,
+     "views": 35249,
+     "reason": "wrong length: 10:33 vs 19:18 expected (Spotify)"
+    },
+    {
+     "id": "yDiEUWu97_E",
+     "url": "https://www.youtube.com/watch?v=yDiEUWu97_E",
+     "title": "Youandewan - 1988 (Original Mix) 2008",
+     "channel": "kostpapas",
+     "duration": 634,
+     "views": 339849,
+     "reason": "wrong length: 10:34 vs 19:18 expected (Spotify)"
+    },
+    {
+     "id": "rgawmdkfiDM",
+     "url": "https://www.youtube.com/watch?v=rgawmdkfiDM",
+     "title": "1988",
+     "channel": "Youandewan - Topic",
+     "duration": 633,
+     "views": 10628,
+     "reason": "wrong length: 10:33 vs 19:18 expected (Spotify)"
+    },
+    {
+     "id": "DrVVcbIsXq4",
+     "url": "https://www.youtube.com/watch?v=DrVVcbIsXq4",
+     "title": "Youandewan - 1988 (Original Mix)",
+     "channel": "KafesEntertainment",
+     "duration": 630,
+     "views": 8930,
+     "reason": "wrong length: 10:30 vs 19:18 expected (Spotify)"
+    },
+    {
+     "id": "D3-YjTTnQ4g",
+     "url": "https://www.youtube.com/watch?v=D3-YjTTnQ4g",
+     "title": "1988 (Original Mix)",
+     "channel": "Youandewan - Topic",
+     "duration": 627,
+     "views": 6853,
+     "reason": "wrong length: 10:27 vs 19:18 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1158,
+    "tracks": 2,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/3NT7gnwbMgXH96xPreMZX1"
+   }
+  },
+  {
+   "position": 119,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/навь/чертоги-смерти/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Чертоги смерти",
+   "title_latin": "Halls of Death",
+   "year": 2004,
+   "credited_as": null,
+   "artists": [
+    "Навь [Nav']"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "LH9ufvWIs_0",
+    "url": "https://www.youtube.com/watch?v=LH9ufvWIs_0",
+    "title": "Навь (Nav) - Чертоги Cмерти (Chertogi Smerti / Halls of Death) - full album",
+    "channel": "SilesianWoods Promotions",
+    "duration": 1933,
+    "views": 3103
+   },
+   "video_ids": [
+    "LH9ufvWIs_0"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 32:13 vs 32:11 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 1931,
+    "tracks": 8,
+    "url": "https://musicbrainz.org/release/4b9f66c8-3bd3-415a-b2ab-849a5990a00e",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 120,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/葛蘭/曼波女郎回來了/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "曼波女郎回來了",
+   "title_latin": "Man bo nu lang hui lai le",
+   "year": 2010,
+   "credited_as": null,
+   "artists": [
+    "葛蘭 [Grace Chang]"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  }
+ ]
+}

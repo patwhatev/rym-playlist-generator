@@ -2,22 +2,29 @@
 
 [RYM list](https://rateyourmusic.com/list/DazedandBrutal/tapestry-compliments-to-walkman/) by DazedandBrutal, captured 2026-10-08, 701 releases.
 
-**118 matched** (16%), **25 need review**, **558 not found**.
+## Coverage
+
+| service | included | not included | not found | needs review | failed |
+| --- | --- | --- | --- | --- | --- |
+| Spotify | **118** (16%) | **583** (83%) | 558 | 25 | 0 |
+
+| service | playlist | tracks / videos | releases |
+| --- | --- | --- | --- |
+| Spotify | [RYM Tapestry; Compliments to Walkman](https://open.spotify.com/playlist/2C8d0ugAFK2zEsdps6aNPk) | 1174 | 118 |
+
+Everything that needs a manual search is also in [leftovers.md](leftovers.md).
+Fix a match by pinning or skipping it in `overrides.toml`, then rerun `rymlist match`.
+
+## Spotify
 
 | status | count | meaning |
 | --- | --- | --- |
-| verified | 60 | confirmed by MusicBrainz (linked album, barcode, or linked artist + year/track count) |
+| verified | 60 | confirmed by MusicBrainz (linked album, barcode, or linked artist + year/track count) or a Discogs barcode |
 | likely | 58 | artist, title and year all match; no other Spotify artist with that name |
 | needs review | 25 | names match but date, ambiguity or spelling is off |
 | not found | 558 | nothing on Spotify passed validation |
 
-Playlist: [RYM Tapestry; Compliments to Walkman](https://open.spotify.com/playlist/2C8d0ugAFK2zEsdps6aNPk) (1174 tracks from 118 releases).
-
-Everything that needs a manual search is also in [leftovers.md](leftovers.md).
-
-Fix a match by pinning or skipping it in `overrides.toml`, then rerun `rymlist match`.
-
-## Verified (60)
+### Verified (60)
 
 | # | RYM | Spotify | evidence |
 | --- | --- | --- | --- |
@@ -82,7 +89,7 @@ Fix a match by pinning or skipping it in `overrides.toml`, then rerun `rymlist m
 | 699 | Matrix Metals — [Flamingo Breeze](https://rateyourmusic.com/release/album/matrix-metals/flamingo-breeze/) (2009, Album) | [Flamingo Breeze](https://open.spotify.com/album/1O7Y70gXUGAOrOnbo8TqRS) — Matrix Metals (2009) | artist similarity 100, title similarity 100; Spotify artist is the one MusicBrainz links; track count 8 matches MusicBrainz; year 2009 matches |
 | 700 | Maria Minerva — [Tallinn at Dawn](https://rateyourmusic.com/release/album/maria-minerva/tallinn-at-dawn/) (2011, Album) | [Tallinn At Dawn](https://open.spotify.com/album/3UsVUl0ZgIcAFZvza6T6Oy) — Maria Minerva (2011) | artist similarity 100, title similarity 100; Spotify artist is the one MusicBrainz links; track count 10 matches MusicBrainz; year 2011 matches |
 
-## Likely (58)
+### Likely (58)
 
 | # | RYM | Spotify | evidence |
 | --- | --- | --- | --- |
@@ -145,39 +152,39 @@ Fix a match by pinning or skipping it in `overrides.toml`, then rerun `rymlist m
 | 688 | Gobby — [No Mercy Bad Poet](https://rateyourmusic.com/release/album/gobby/no_mercy_bad_poet/) (2016, Album) | [No Mercy Bad Poet](https://open.spotify.com/album/3FHZOtdwwI5NMQS33AW8Ip) — Gobby (2016) | artist similarity 100, title similarity 100; track count 11 matches MusicBrainz; year 2016 matches |
 | 689 | Fluorescent Heights — [Vendetta in Paradise](https://rateyourmusic.com/release/album/fluorescent-heights/vendetta-in-paradise/) (2013, Album) | [Vendetta In Paradise](https://open.spotify.com/album/3McmIsn56dJfUKpMxGUaYO) — Fluorescent Heights (2013) | artist similarity 100, title similarity 100; track count 7 matches MusicBrainz; year 2013 matches |
 
-## Needs review (25)
+### Needs review (25)
 
 Not added to playlists unless you pass `--include-uncertain` or pin them.
 
 | # | RYM | best Spotify candidate | why it needs review |
 | --- | --- | --- | --- |
-| 103 | Ігор Цимбровський [Ihor Tsymbrovsky] — [Прийди янголе [Come, Angel]](https://rateyourmusic.com/release/album/ігор-цимбровський/прийди-янголе/) (1996, Album) | [Come Angel](https://open.spotify.com/album/0FS2EcWR4WWvhiRXd4MVCd) — Ihor Tsymbrovsky (2016, 3 tracks) | Spotify date 2016 vs RYM 1996: probably a reissue |
-| 132 | The Legendary Pink Dots — [Prayer for Aradia](https://rateyourmusic.com/release/album/the-legendary-pink-dots/prayer-for-aradia-1/) (1985, Album) | [Prayer for Aradia](https://open.spotify.com/album/3GFU7au6YQZZQkSs1Sj7XL) — The Legendary Pink Dots (1996-05-20, 13 tracks) | Spotify date 1996-05-20 vs RYM 1985: probably a reissue |
-| 148 | High Tide — [Interesting Times](https://rateyourmusic.com/release/album/high-tide/interesting-times/) (1986, Album) | [Interesting Times](https://open.spotify.com/album/5FWdAqsIFMfJFRKJizn5e8) — High Tide (2010-08-24, 10 tracks) | Spotify date 2010-08-24 vs RYM 1986: probably a reissue |
-| 180 | Achwghâ Ney Wodeï — [Achwghâ Ney Wodei](https://rateyourmusic.com/release/album/achwgha_ney_wodei/achwgha_ney_wodei/) (1986, Album) | [Achwghâ Ney Wodeï](https://open.spotify.com/album/4XRhYUnvTyPeLXUuEsnxfL) — Achwghâ Ney Wodeï (2017-10-31, 19 tracks) | Spotify date 2017-10-31 vs RYM 1986: probably a reissue |
-| 183 | Godsend — [Godsend](https://rateyourmusic.com/release/ep/godsend/godsend/) (1992, EP) | [Godsend](https://open.spotify.com/album/2jHg2ovQDw3GhM7JZoHtEK) — Godsend (2011-12-09, 9 tracks) | Spotify date 2011-12-09 vs RYM 1992: probably a reissue; 1 other Spotify artist(s) share this name |
-| 198 | Altercation — [Altercation](https://rateyourmusic.com/release/ep/altercation/altercation/) (1987, EP) | [The Altercation](https://open.spotify.com/album/1l74PugleG59tYDYnz0wVt) — The Altercation (2020-01-04, 8 tracks) | Spotify date 2020-01-04 vs RYM 1987: probably a reissue |
-| 221 | Jabon — [As Fess](https://rateyourmusic.com/release/album/jabon/as-fess/) (1986, Album) | [As Fess](https://open.spotify.com/album/2rYiL2mkdHn3yef1ukjGtY) — Jabon (1989, 14 tracks) | Spotify date 1989 vs RYM 1986: probably a reissue |
-| 272 | Rascal Reporters — [We're God](https://rateyourmusic.com/release/album/rascal-reporters/were-god/) (1980, Album) | [We're God](https://open.spotify.com/album/6FFPBdGNgo4GTLGdlXfZbZ) — Rascal Reporters (2010-01-05, 20 tracks) | Spotify date 2010-01-05 vs RYM 1980: probably a reissue |
-| 297 | Altered State — [Demo](https://rateyourmusic.com/release/additional/altered-state/demo/) (1991, Additional release) | [Demon](https://open.spotify.com/album/5KdTKJDhc9TO9RD48l460q) — Altered State (2024-07-25, 1 tracks) | Spotify date 2024-07-25 vs RYM 1991: probably a reissue; 4 other Spotify artist(s) share this name; name is a near-miss, check spelling/edition |
-| 299 | Tribe — [Tribe](https://rateyourmusic.com/release/ep/tribe_f11/tribe/) (1987, EP) | [Tribe](https://open.spotify.com/album/4mDj2SHWoYPJnxhJldQd0G) — Tribe (1999, 8 tracks) | Spotify date 1999 vs RYM 1987: probably a reissue; 1 other Spotify artist(s) share this name |
-| 307 | Moonblood — [Blut & Krieg](https://rateyourmusic.com/release/album/moonblood/blut-and-krieg/) (1996, Album) | [Blut & Krieg](https://open.spotify.com/album/58VQWoOHsArZj5pXi42lqz) — Moonblood (2025-02-01, 8 tracks) | Spotify date 2025-02-01 vs RYM 1996: probably a reissue |
-| 314 | Branikald — [Рдяндалир [Rdyandalir]](https://rateyourmusic.com/release/album/branikald/рдяндалир/) (1997, Album) | [Rdyandalir](https://open.spotify.com/album/34cOVzostvWskS5hfChx9d) — Branikald (2008-10-03, 4 tracks) | Spotify date 2008-10-03 vs RYM 1997: probably a reissue |
-| 345 | Arnaut Pavle — [Arnaut Pavle](https://rateyourmusic.com/release/additional/arnaut-pavle/arnaut-pavle/) (2013, Additional release) | [Arnaut Pavle](https://open.spotify.com/album/1ehEZI5knKI8SJu8iiuMu5) — Arnaut Pavle (2022-01-20, 10 tracks) | Spotify date 2022-01-20 vs RYM 2013: probably a reissue |
-| 352 | Slaughter — [Surrender or Die](https://rateyourmusic.com/release/additional/slaughter/surrender-or-die/) (1985, Additional release) | [Surrender or Die](https://open.spotify.com/album/5t3NngqwNpAxM4THPuQ0Xn) — Slaughter (2026-03-28, 13 tracks) | Spotify date 2026-03-28 vs RYM 1985: probably a reissue |
-| 463 | Atelier du mal — [Noblesse Oblige](https://rateyourmusic.com/release/album/atelier-du-mal/noblesse-oblige-2/) (1984, Album) | [Noblesse Oblige](https://open.spotify.com/album/6JcRw58zeh03fRjxeMUoOp) — Atelier Du Mal (2017-06-26, 10 tracks) | Spotify date 2017-06-26 vs RYM 1984: probably a reissue |
-| 466 | Intolerance — [Intolerance](https://rateyourmusic.com/release/album/intolerance/intolerance/) (1985, Album) | [Intolerance](https://open.spotify.com/album/1uamwThIWlnwB1JWxOKpAh) — Intolerance (1999-12-05, 14 tracks) | Spotify date 1999-12-05 vs RYM 1985: probably a reissue |
-| 499 | Free Agents — [£3.33](https://rateyourmusic.com/release/album/free-agents/f3_33/) (1980, Album) | [£3.33](https://open.spotify.com/album/1WpLNlXq1BmHcYLi5EPaeV) — Free Agents (2011-12-06, 4 tracks) | Spotify date 2011-12-06 vs RYM 1980: probably a reissue |
-| 520 | K. Leimer — [Music for Land and Water](https://rateyourmusic.com/release/album/k-leimer/music-for-land-and-water/) (1983, Album) | [Music for Land and Water](https://open.spotify.com/album/00S80z2U86OxFW7FuCe1Dk) — K. Leimer (2022-08-26, 7 tracks) | Spotify date 2022-08-26 vs RYM 1983: probably a reissue |
-| 527 | LAShTAL — [Thoum Aesh Neith](https://rateyourmusic.com/release/album/lashtal/thoum-aesh-neith/) (1986, Album) | [Thoum Aesh Neith](https://open.spotify.com/album/3dEy0wazRELYcva9DrHcUr) — Lashtal (2017-04-21, 9 tracks) | Spotify date 2017-04-21 vs RYM 1986: probably a reissue |
-| 555 | VOX Populi! — [Half Dead Ganja Music](https://rateyourmusic.com/release/album/vox-populi/half-dead-ganja-music/) (1987, Album) | [Half Dead Ganja Music](https://open.spotify.com/album/6nagIMBwAF0Lv6T9CpeqEy) — Vox Populi (2024-02-07, 9 tracks) | Spotify date 2024-02-07 vs RYM 1987: probably a reissue |
-| 556 | Action Figures — [Action Figures](https://rateyourmusic.com/release/album/action_figures_f1/action_figures/) (2015, Album) | [Action Figures](https://open.spotify.com/album/1Yzc0Aopw7tjQFY4un76qm) — The Action Figures (2015-03-14, 7 tracks) | 3 other Spotify artist(s) share this name |
-| 559 | Ain Soph — [Ars Regia](https://rateyourmusic.com/release/album/ain_soph/ars_regia/) (1986, Album) | [Ars Regia](https://open.spotify.com/album/6jmB67LnESZ9xJKzLIm8FW) — Ain Soph (2017-04-21, 6 tracks) | Spotify date 2017-04-21 vs RYM 1986: probably a reissue |
-| 572 | Bad Sector — [Dolmen Factory](https://rateyourmusic.com/release/album/bad-sector/dolmen-factory/) (1998, Album) | [Dolmen Factory](https://open.spotify.com/album/5Vx2jAhQsgYLX7BjULLAiY) — Bad Sector (2016-03-09, 11 tracks) | Spotify date 2016-03-09 vs RYM 1998: probably a reissue |
-| 579 | Dem Hunger — [Caveman Smack](https://rateyourmusic.com/release/album/dem-hunger/caveman-smack/) (2010, Album) | [Caveman Smack](https://open.spotify.com/album/5u5SY5Xj5281hkaaEV0gDS) — Dem Hunger (2015-10-23, 7 tracks) | Spotify date 2015-10-23 vs RYM 2010: probably a reissue |
-| 653 | Xiphiidae — [Pass Hidingly Seek](https://rateyourmusic.com/release/album/xiphiidae/pass-hidingly-seek/) (2009, Album) | [Pass Hidingly Seek](https://open.spotify.com/album/1bUoOkQ0kvXLOom1t1ipP0) — Xiphiidae (2014-03-13, 2 tracks) | Spotify date 2014-03-13 vs RYM 2009: probably a reissue |
+| 103 | Ігор Цимбровський [Ihor Tsymbrovsky] — [Прийди янголе [Come, Angel]](https://rateyourmusic.com/release/album/ігор-цимбровський/прийди-янголе/) (1996, Album) | [Come Angel](https://open.spotify.com/album/0FS2EcWR4WWvhiRXd4MVCd) — Ihor Tsymbrovsky (2016), 3 tracks | Spotify date 2016 vs RYM 1996: probably a reissue |
+| 132 | The Legendary Pink Dots — [Prayer for Aradia](https://rateyourmusic.com/release/album/the-legendary-pink-dots/prayer-for-aradia-1/) (1985, Album) | [Prayer for Aradia](https://open.spotify.com/album/3GFU7au6YQZZQkSs1Sj7XL) — The Legendary Pink Dots (1996), 13 tracks | Spotify date 1996-05-20 vs RYM 1985: probably a reissue |
+| 148 | High Tide — [Interesting Times](https://rateyourmusic.com/release/album/high-tide/interesting-times/) (1986, Album) | [Interesting Times](https://open.spotify.com/album/5FWdAqsIFMfJFRKJizn5e8) — High Tide (2010), 10 tracks | Spotify date 2010-08-24 vs RYM 1986: probably a reissue |
+| 180 | Achwghâ Ney Wodeï — [Achwghâ Ney Wodei](https://rateyourmusic.com/release/album/achwgha_ney_wodei/achwgha_ney_wodei/) (1986, Album) | [Achwghâ Ney Wodeï](https://open.spotify.com/album/4XRhYUnvTyPeLXUuEsnxfL) — Achwghâ Ney Wodeï (2017), 19 tracks | Spotify date 2017-10-31 vs RYM 1986: probably a reissue |
+| 183 | Godsend — [Godsend](https://rateyourmusic.com/release/ep/godsend/godsend/) (1992, EP) | [Godsend](https://open.spotify.com/album/2jHg2ovQDw3GhM7JZoHtEK) — Godsend (2011), 9 tracks | Spotify date 2011-12-09 vs RYM 1992: probably a reissue; 1 other Spotify artist(s) share this name |
+| 198 | Altercation — [Altercation](https://rateyourmusic.com/release/ep/altercation/altercation/) (1987, EP) | [The Altercation](https://open.spotify.com/album/1l74PugleG59tYDYnz0wVt) — The Altercation (2020), 8 tracks | Spotify date 2020-01-04 vs RYM 1987: probably a reissue |
+| 221 | Jabon — [As Fess](https://rateyourmusic.com/release/album/jabon/as-fess/) (1986, Album) | [As Fess](https://open.spotify.com/album/2rYiL2mkdHn3yef1ukjGtY) — Jabon (1989), 14 tracks | Spotify date 1989 vs RYM 1986: probably a reissue |
+| 272 | Rascal Reporters — [We're God](https://rateyourmusic.com/release/album/rascal-reporters/were-god/) (1980, Album) | [We're God](https://open.spotify.com/album/6FFPBdGNgo4GTLGdlXfZbZ) — Rascal Reporters (2010), 20 tracks | Spotify date 2010-01-05 vs RYM 1980: probably a reissue |
+| 297 | Altered State — [Demo](https://rateyourmusic.com/release/additional/altered-state/demo/) (1991, Additional release) | [Demon](https://open.spotify.com/album/5KdTKJDhc9TO9RD48l460q) — Altered State (2024), 1 tracks | Spotify date 2024-07-25 vs RYM 1991: probably a reissue; 4 other Spotify artist(s) share this name; name is a near-miss, check spelling/edition |
+| 299 | Tribe — [Tribe](https://rateyourmusic.com/release/ep/tribe_f11/tribe/) (1987, EP) | [Tribe](https://open.spotify.com/album/4mDj2SHWoYPJnxhJldQd0G) — Tribe (1999), 8 tracks | Spotify date 1999 vs RYM 1987: probably a reissue; 1 other Spotify artist(s) share this name |
+| 307 | Moonblood — [Blut & Krieg](https://rateyourmusic.com/release/album/moonblood/blut-and-krieg/) (1996, Album) | [Blut & Krieg](https://open.spotify.com/album/58VQWoOHsArZj5pXi42lqz) — Moonblood (2025), 8 tracks | Spotify date 2025-02-01 vs RYM 1996: probably a reissue |
+| 314 | Branikald — [Рдяндалир [Rdyandalir]](https://rateyourmusic.com/release/album/branikald/рдяндалир/) (1997, Album) | [Rdyandalir](https://open.spotify.com/album/34cOVzostvWskS5hfChx9d) — Branikald (2008), 4 tracks | Spotify date 2008-10-03 vs RYM 1997: probably a reissue |
+| 345 | Arnaut Pavle — [Arnaut Pavle](https://rateyourmusic.com/release/additional/arnaut-pavle/arnaut-pavle/) (2013, Additional release) | [Arnaut Pavle](https://open.spotify.com/album/1ehEZI5knKI8SJu8iiuMu5) — Arnaut Pavle (2022), 10 tracks | Spotify date 2022-01-20 vs RYM 2013: probably a reissue |
+| 352 | Slaughter — [Surrender or Die](https://rateyourmusic.com/release/additional/slaughter/surrender-or-die/) (1985, Additional release) | [Surrender or Die](https://open.spotify.com/album/5t3NngqwNpAxM4THPuQ0Xn) — Slaughter (2026), 13 tracks | Spotify date 2026-03-28 vs RYM 1985: probably a reissue |
+| 463 | Atelier du mal — [Noblesse Oblige](https://rateyourmusic.com/release/album/atelier-du-mal/noblesse-oblige-2/) (1984, Album) | [Noblesse Oblige](https://open.spotify.com/album/6JcRw58zeh03fRjxeMUoOp) — Atelier Du Mal (2017), 10 tracks | Spotify date 2017-06-26 vs RYM 1984: probably a reissue |
+| 466 | Intolerance — [Intolerance](https://rateyourmusic.com/release/album/intolerance/intolerance/) (1985, Album) | [Intolerance](https://open.spotify.com/album/1uamwThIWlnwB1JWxOKpAh) — Intolerance (1999), 14 tracks | Spotify date 1999-12-05 vs RYM 1985: probably a reissue |
+| 499 | Free Agents — [£3.33](https://rateyourmusic.com/release/album/free-agents/f3_33/) (1980, Album) | [£3.33](https://open.spotify.com/album/1WpLNlXq1BmHcYLi5EPaeV) — Free Agents (2011), 4 tracks | Spotify date 2011-12-06 vs RYM 1980: probably a reissue |
+| 520 | K. Leimer — [Music for Land and Water](https://rateyourmusic.com/release/album/k-leimer/music-for-land-and-water/) (1983, Album) | [Music for Land and Water](https://open.spotify.com/album/00S80z2U86OxFW7FuCe1Dk) — K. Leimer (2022), 7 tracks | Spotify date 2022-08-26 vs RYM 1983: probably a reissue |
+| 527 | LAShTAL — [Thoum Aesh Neith](https://rateyourmusic.com/release/album/lashtal/thoum-aesh-neith/) (1986, Album) | [Thoum Aesh Neith](https://open.spotify.com/album/3dEy0wazRELYcva9DrHcUr) — Lashtal (2017), 9 tracks | Spotify date 2017-04-21 vs RYM 1986: probably a reissue |
+| 555 | VOX Populi! — [Half Dead Ganja Music](https://rateyourmusic.com/release/album/vox-populi/half-dead-ganja-music/) (1987, Album) | [Half Dead Ganja Music](https://open.spotify.com/album/6nagIMBwAF0Lv6T9CpeqEy) — Vox Populi (2024), 9 tracks | Spotify date 2024-02-07 vs RYM 1987: probably a reissue |
+| 556 | Action Figures — [Action Figures](https://rateyourmusic.com/release/album/action_figures_f1/action_figures/) (2015, Album) | [Action Figures](https://open.spotify.com/album/1Yzc0Aopw7tjQFY4un76qm) — The Action Figures (2015), 7 tracks | 3 other Spotify artist(s) share this name |
+| 559 | Ain Soph — [Ars Regia](https://rateyourmusic.com/release/album/ain_soph/ars_regia/) (1986, Album) | [Ars Regia](https://open.spotify.com/album/6jmB67LnESZ9xJKzLIm8FW) — Ain Soph (2017), 6 tracks | Spotify date 2017-04-21 vs RYM 1986: probably a reissue |
+| 572 | Bad Sector — [Dolmen Factory](https://rateyourmusic.com/release/album/bad-sector/dolmen-factory/) (1998, Album) | [Dolmen Factory](https://open.spotify.com/album/5Vx2jAhQsgYLX7BjULLAiY) — Bad Sector (2016), 11 tracks | Spotify date 2016-03-09 vs RYM 1998: probably a reissue |
+| 579 | Dem Hunger — [Caveman Smack](https://rateyourmusic.com/release/album/dem-hunger/caveman-smack/) (2010, Album) | [Caveman Smack](https://open.spotify.com/album/5u5SY5Xj5281hkaaEV0gDS) — Dem Hunger (2015), 7 tracks | Spotify date 2015-10-23 vs RYM 2010: probably a reissue |
+| 653 | Xiphiidae — [Pass Hidingly Seek](https://rateyourmusic.com/release/album/xiphiidae/pass-hidingly-seek/) (2009, Album) | [Pass Hidingly Seek](https://open.spotify.com/album/1bUoOkQ0kvXLOom1t1ipP0) — Xiphiidae (2014), 2 tracks | Spotify date 2014-03-13 vs RYM 2009: probably a reissue |
 
-## Not found (558)
+### Not found (558)
 
 | # | RYM | why | look elsewhere |
 | --- | --- | --- | --- |

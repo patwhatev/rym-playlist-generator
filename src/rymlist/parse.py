@@ -89,6 +89,7 @@ def parse_capture(capture):
         for tr in soup.select('tr'):
             item = parse_row(tr)
             if item:
+                item['page'] = page['page']
                 items.append(item)
 
     for position, item in enumerate(items, 1):
@@ -102,5 +103,7 @@ def parse_capture(capture):
         'url': capture['url'],
         'captured_at': capture['captured_at'],
         'pages': len(capture['pages']),
+        'page_numbers': sorted(p['page'] for p in capture['pages']),
+        'capture_mode': capture.get('mode', 'full'),  # 'manual': only the pages you browsed while recording
         'items': items,
     }

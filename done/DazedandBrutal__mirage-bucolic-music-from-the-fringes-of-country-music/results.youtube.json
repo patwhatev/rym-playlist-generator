@@ -1,0 +1,3525 @@
+{
+ "list": {
+  "id": "DazedandBrutal__mirage-bucolic-music-from-the-fringes-of-country-music",
+  "title": "Mirage: Bucolic Music From The Fringes Of Country Music",
+  "url": "https://rateyourmusic.com/list/DazedandBrutal/mirage-bucolic-music-from-the-fringes-of-country-music/",
+  "user": "DazedandBrutal",
+  "captured_at": "2026-10-09T11:21:50.690Z"
+ },
+ "service": "youtube",
+ "results": [
+  {
+   "position": 1,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/lift-to-experience/the-texas-jerusalem-crossroads-2/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Texas-Jerusalem Crossroads",
+   "title_latin": null,
+   "year": 2017,
+   "credited_as": null,
+   "artists": [
+    "Lift to Experience"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "szjiiMAVQeo",
+    "url": "https://www.youtube.com/watch?v=szjiiMAVQeo",
+    "title": "Lift To Experience - The Texas Jerusalem Crossroads [2001] (Full Album)",
+    "channel": "PicklePack",
+    "duration": 5610,
+    "views": 3146
+   },
+   "video_ids": [
+    "szjiiMAVQeo"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 1:33:30 vs 1:33:23 expected (Discogs)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "sgHVm3GLwWw",
+     "url": "https://www.youtube.com/watch?v=sgHVm3GLwWw",
+     "title": "The Christian Shoegaze Cult Classic (Lift to Experience - The Texas Jerusalem Crossroads review)",
+     "channel": "August Riley",
+     "duration": 1250,
+     "views": 21188,
+     "reason": "looks like a review, not the release"
+    },
+    {
+     "id": "FE1dLenYLC0",
+     "url": "https://www.youtube.com/watch?v=FE1dLenYLC0",
+     "title": "The Texas-Jerusalem Crossroads by Lift to Experience Review",
+     "channel": "ben and andy album reviews",
+     "duration": 6,
+     "views": 653,
+     "reason": "looks like a review, not the release"
+    },
+    {
+     "id": "WIhp-TmHx1s",
+     "url": "https://www.youtube.com/watch?v=WIhp-TmHx1s",
+     "title": "Lift To Experience - The Texas-Jerusalem Crossroads REACTION/REVIEW",
+     "channel": "Smags",
+     "duration": 2025,
+     "views": 10820,
+     "reason": "looks like a reaction, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 5603,
+    "tracks": 13,
+    "url": "https://www.discogs.com/master/119433-Lift-To-Experience-The-Texas-Jerusalem-Crossroads",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 2,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/henry-flynt/you-are-my-everlovin-celestial-power/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "You Are My Everlovin / Celestial Power",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "Henry Flynt"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 3,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/captain-beefheart-and-his-magic-band/trout-mask-replica/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Trout Mask Replica",
+   "title_latin": null,
+   "year": 1969,
+   "credited_as": null,
+   "artists": [
+    "Captain Beefheart & His Magic Band"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "aF0g-2SeoMM",
+    "url": "https://www.youtube.com/watch?v=aF0g-2SeoMM",
+    "title": "Captain Beefheart & His Magic Band - Trout Mask Replica [Full Album]",
+    "channel": "BDPAPMEJM",
+    "duration": 4738,
+    "views": 1304717
+   },
+   "video_ids": [
+    "aF0g-2SeoMM"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 1:18:58 vs 1:19:06 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 4746,
+    "tracks": 28,
+    "url": "https://musicbrainz.org/release/1032ed01-dd86-49e8-9e1a-b2b6fc6f08de",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 4,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne/therell-be-no-tears-tonight-1/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "There'll Be No Tears Tonight",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Eugene Chadbourne"
+   ],
+   "status": "not_found",
+   "reason": "15 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "H4fnEgRkcc4",
+     "url": "https://www.youtube.com/watch?v=H4fnEgRkcc4",
+     "title": "Eugene Chadbourne-There'll Be No Tears Tonight (full album)",
+     "channel": "ulysses broch",
+     "duration": 4448,
+     "views": 11820,
+     "reason": "wrong length: 1:14:08 vs 44:37 expected (MusicBrainz)"
+    },
+    {
+     "id": "gzHFUIKlPaM",
+     "url": "https://www.youtube.com/watch?v=gzHFUIKlPaM",
+     "title": "Eugene Chadbourne - There'll Be No Tears Tonight (1980) - 03 The Last Word in Lonesome Is Me",
+     "channel": "Status Quo",
+     "duration": 348,
+     "views": 429,
+     "reason": "wrong length: 5:48 vs 44:37 expected (MusicBrainz)"
+    },
+    {
+     "id": "bp4nmsO8XXU",
+     "url": "https://www.youtube.com/watch?v=bp4nmsO8XXU",
+     "title": "Eugene Chadbourne - There'll Be No Tears Tonight (1980) - 02 Dang Me",
+     "channel": "Status Quo",
+     "duration": 154,
+     "views": 711,
+     "reason": "wrong length: 2:34 vs 44:37 expected (MusicBrainz)"
+    },
+    {
+     "id": "xsFdyzsIwVE",
+     "url": "https://www.youtube.com/watch?v=xsFdyzsIwVE",
+     "title": "Eugene Chadbourne - There'll Be No Tears Tonight (1980) - 01 Honey Don't",
+     "channel": "Status Quo",
+     "duration": 168,
+     "views": 974,
+     "reason": "wrong length: 2:48 vs 44:37 expected (MusicBrainz)"
+    },
+    {
+     "id": "HweIfX77YUk",
+     "url": "https://www.youtube.com/watch?v=HweIfX77YUk",
+     "title": "Eugene Chadbourne - There'll Be No Tears Tonight (1980) - 04 I'm the Only Hell My Mama Raised",
+     "channel": "Status Quo",
+     "duration": 214,
+     "views": 344,
+     "reason": "wrong length: 3:34 vs 44:37 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2677,
+    "tracks": 13,
+    "url": "https://musicbrainz.org/release/500bc656-271c-4d9a-8145-a630a402cdf9",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 5,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/peter-grudzien/the-unicorn/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Unicorn",
+   "title_latin": null,
+   "year": 1974,
+   "credited_as": null,
+   "artists": [
+    "Peter Grudzien"
+   ],
+   "status": "not_found",
+   "reason": "7 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "Ymvgh-tcobs",
+     "url": "https://www.youtube.com/watch?v=Ymvgh-tcobs",
+     "title": "Peter Grudzien - The Unicorn",
+     "channel": "jm neilson",
+     "duration": 225,
+     "views": 67274,
+     "reason": "wrong length: 3:45 vs 39:10 expected (Discogs)"
+    },
+    {
+     "id": "k0lS5tzgTSg",
+     "url": "https://www.youtube.com/watch?v=k0lS5tzgTSg",
+     "title": "The Unicorn",
+     "channel": "Peter Grudzien - Topic",
+     "duration": 224,
+     "views": 9556,
+     "reason": "wrong length: 3:44 vs 39:10 expected (Discogs)"
+    },
+    {
+     "id": "VTArOE35waw",
+     "url": "https://www.youtube.com/watch?v=VTArOE35waw",
+     "title": "Peter Grudzien \"The Unicorn\" 1974 *The Unicorn*",
+     "channel": "ahones",
+     "duration": 225,
+     "views": 1426,
+     "reason": "wrong length: 3:45 vs 39:10 expected (Discogs)"
+    },
+    {
+     "id": "-cylRL7Y4MM",
+     "url": "https://www.youtube.com/watch?v=-cylRL7Y4MM",
+     "title": "Peter Grudzien - The Unicorn (Cassette Version)",
+     "channel": "Mei Clover",
+     "duration": 226,
+     "views": 159,
+     "reason": "wrong length: 3:46 vs 39:10 expected (Discogs)"
+    },
+    {
+     "id": "-SmK04u_bWw",
+     "url": "https://www.youtube.com/watch?v=-SmK04u_bWw",
+     "title": "Peter Grudzien \"The Unicorn\" 1974 *Queen Of All The Blue-Eyed*",
+     "channel": "ahones",
+     "duration": 169,
+     "views": 740,
+     "reason": "wrong length: 2:49 vs 39:10 expected (Discogs)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2350,
+    "tracks": 14,
+    "url": "https://www.discogs.com/release/2806812-Peter-Grudzien-The-Unicorn",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 6,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/derek-bailey/pieces-for-guitar/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Pieces for Guitar",
+   "title_latin": null,
+   "year": 2002,
+   "credited_as": null,
+   "artists": [
+    "Derek Bailey"
+   ],
+   "status": "not_found",
+   "reason": "3 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "NZr3BOCSq88",
+     "url": "https://www.youtube.com/watch?v=NZr3BOCSq88",
+     "title": "Derek Bailey Piece for Guitar 1",
+     "channel": "Juan Hernandez",
+     "duration": 69,
+     "views": 3811,
+     "reason": "wrong length: 1:09 vs 38:45 expected (MusicBrainz)"
+    },
+    {
+     "id": "rSHsQl1tNnI",
+     "url": "https://www.youtube.com/watch?v=rSHsQl1tNnI",
+     "title": "Derek Bailey- Three Pieces For Guitar",
+     "channel": "tatum ennis",
+     "duration": 195,
+     "views": 361,
+     "reason": "wrong length: 3:15 vs 38:45 expected (MusicBrainz)"
+    },
+    {
+     "id": "VS35OY6gC5g",
+     "url": "https://www.youtube.com/watch?v=VS35OY6gC5g",
+     "title": "Three Pieces For Guitar",
+     "channel": "Derek Bailey - Topic",
+     "duration": 192,
+     "views": 3197,
+     "reason": "wrong length: 3:12 vs 38:45 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2325,
+    "tracks": 7,
+    "url": "https://musicbrainz.org/release/08545b3a-12b5-49fa-b29c-3cecaaf9ca50",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 7,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/caroliner-rainbow-open-wound-chorale/rise-of-the-common-woodpile/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Rise of the Common Woodpile",
+   "title_latin": null,
+   "year": 1991,
+   "credited_as": null,
+   "artists": [
+    "Caroliner Rainbow Open Wound Chorale"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "iunySDCWO-o",
+    "url": "https://www.youtube.com/watch?v=iunySDCWO-o",
+    "title": "Caroliner Rainbow Open Wound Chorale - Rise of the Common Woodpile (Full Album)",
+    "channel": "Joseph Of Arimathea",
+    "duration": 2822,
+    "views": 32596
+   },
+   "video_ids": [
+    "iunySDCWO-o"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration close: 47:02 vs 50:47 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "7LujrNW_0JI",
+     "url": "https://www.youtube.com/watch?v=7LujrNW_0JI",
+     "title": "\"Rise of the Common Woodpile\" by Caroliner Rainbow Open Wound Chorale #reaction #firsttimehearing",
+     "channel": "Papa Squat",
+     "duration": 668,
+     "views": 88,
+     "reason": "looks like a reaction, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 3047,
+    "tracks": 12,
+    "url": "https://musicbrainz.org/release/51bec5ec-bb37-461c-a38b-ce3c361e58a9",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 8,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/eugene_chadbourne/lsdcandw__the_history_of_the_chadbournes_in_america/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "LSDC&W: The History of the Chadbournes in America",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Eugene Chadbourne"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "3BB3-9cq9KE",
+    "url": "https://www.youtube.com/watch?v=3BB3-9cq9KE",
+    "title": "Eugene Chadbourne - LSD C & W  The History of the Chadbournes In America",
+    "channel": "ErrorIsProgress",
+    "duration": 5524,
+    "views": 1367
+   },
+   "video_ids": [
+    "3BB3-9cq9KE"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 98",
+    "duration 1:32:04 vs 1:32:03 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 5523,
+    "tracks": 20,
+    "url": "https://musicbrainz.org/release/6c75b4e9-2c24-45f5-ba0a-fc8e9bb88506",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 9,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/john-fahey/requia/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Requia",
+   "title_latin": null,
+   "year": 1967,
+   "credited_as": null,
+   "artists": [
+    "John Fahey"
+   ],
+   "status": "not_found",
+   "reason": "6 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "3XddOIbMONk",
+     "url": "https://www.youtube.com/watch?v=3XddOIbMONk",
+     "title": "Requiem For John Hurt",
+     "channel": "John Fahey",
+     "duration": 308,
+     "views": 42083,
+     "reason": "wrong length: 5:08 vs 44:44 expected (MusicBrainz)"
+    },
+    {
+     "id": "fKTZGCZov84",
+     "url": "https://www.youtube.com/watch?v=fKTZGCZov84",
+     "title": "Requiem For Russelll Blaine Cooper",
+     "channel": "John Fahey",
+     "duration": 536,
+     "views": 2709,
+     "reason": "wrong length: 8:56 vs 44:44 expected (MusicBrainz)"
+    },
+    {
+     "id": "8PnwY1qlAPE",
+     "url": "https://www.youtube.com/watch?v=8PnwY1qlAPE",
+     "title": "Requiem For Molly",
+     "channel": "John Fahey",
+     "duration": 460,
+     "views": 3385,
+     "reason": "wrong length: 7:40 vs 44:44 expected (MusicBrainz)"
+    },
+    {
+     "id": "MS-74hfmSig",
+     "url": "https://www.youtube.com/watch?v=MS-74hfmSig",
+     "title": "Requiem For Molly (Pt. 3)",
+     "channel": "John Fahey",
+     "duration": 153,
+     "views": 1632,
+     "reason": "wrong length: 2:33 vs 44:44 expected (MusicBrainz)"
+    },
+    {
+     "id": "J_Nycp-AbHM",
+     "url": "https://www.youtube.com/watch?v=J_Nycp-AbHM",
+     "title": "Requiem For Molly (Pt. 4)",
+     "channel": "John Fahey",
+     "duration": 180,
+     "views": 1274,
+     "reason": "wrong length: 3:00 vs 44:44 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2684,
+    "tracks": 8,
+    "url": "https://musicbrainz.org/release/292d59be-2e31-4ef6-b028-cb7d378b1694",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 10,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/the-residents/cube-e/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Cube-E",
+   "title_latin": null,
+   "year": 1990,
+   "credited_as": null,
+   "artists": [
+    "The Residents"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "1uJcsSScRCI",
+    "url": "https://www.youtube.com/watch?v=1uJcsSScRCI",
+    "title": "The Residents - Cube E",
+    "channel": "diomidis tsakiris",
+    "duration": 3689,
+    "views": 420
+   },
+   "video_ids": [
+    "1uJcsSScRCI"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100"
+   ],
+   "warnings": [
+    "duration off: 1:01:29 vs 1:12:08 expected (Discogs)"
+   ],
+   "rejected": [
+    {
+     "id": "s5sXoo0N_0I",
+     "url": "https://www.youtube.com/watch?v=s5sXoo0N_0I",
+     "title": "The Residents - Cube E - Jambalaya",
+     "channel": "brainphreak",
+     "duration": 446,
+     "views": 116863,
+     "reason": "wrong length: 7:26 vs 1:12:08 expected (Discogs)"
+    },
+    {
+     "id": "-P6BZXh3wTs",
+     "url": "https://www.youtube.com/watch?v=-P6BZXh3wTs",
+     "title": "The Residents  Cube E Live e",
+     "channel": "Video Quilter",
+     "duration": 6146,
+     "views": 802,
+     "reason": "a live recording, RYM lists a studio release"
+    },
+    {
+     "id": "u94fXosLMUU",
+     "url": "https://www.youtube.com/watch?v=u94fXosLMUU",
+     "title": "The Residents: Cube-E Live",
+     "channel": "He did That",
+     "duration": 6177,
+     "views": 3629,
+     "reason": "a live recording, RYM lists a studio release"
+    },
+    {
+     "id": "3rMookEM3DY",
+     "url": "https://www.youtube.com/watch?v=3rMookEM3DY",
+     "title": "The Residents: Cube-E Box – The History Of American Music In 3 E-Z Pieces pREServed [7CD Boxset]",
+     "channel": "Cherry Red Records",
+     "duration": 54,
+     "views": 1844,
+     "reason": "wrong length: 0:54 vs 1:12:08 expected (Discogs)"
+    }
+   ],
+   "runtime": {
+    "seconds": 4328,
+    "tracks": 26,
+    "url": "https://www.discogs.com/master/21234-The-Residents-Cube-E-The-History-Of-American-Music-In-3-E-Z-Pieces-Live-In-Holland",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 11,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/ralph-gean/boyd-rice-presents-ralph-gean-a-star-unborn/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Boyd Rice Presents: Ralph Gean - A Star Unborn",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "Ralph Gean"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 12,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/davenport/free-country/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Free Country",
+   "title_latin": null,
+   "year": 2004,
+   "credited_as": null,
+   "artists": [
+    "Davenport"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "gdrDvpdLIRs",
+     "url": "https://www.youtube.com/watch?v=gdrDvpdLIRs",
+     "title": "Free Country",
+     "channel": "Davenport - Topic",
+     "duration": 595,
+     "views": 190,
+     "reason": "wrong length: 9:55 vs 1:14:10 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 4450,
+    "tracks": 11,
+    "url": "https://musicbrainz.org/release/37e06a96-3ab6-4feb-8296-96273803f7c0",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 13,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/charlie-tweddle/fantastic-greatest-hits/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Fantastic Greatest Hits",
+   "title_latin": null,
+   "year": 1974,
+   "credited_as": null,
+   "artists": [
+    "Charlie Tweddle"
+   ],
+   "status": "not_found",
+   "reason": "5 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "uWIS1RTjVSs",
+     "url": "https://www.youtube.com/watch?v=uWIS1RTjVSs",
+     "title": "Charlie Tweddle \"Fantastic Greatest Hits\" 1974 *A-1*",
+     "channel": "ahones",
+     "duration": 420,
+     "views": 401,
+     "reason": "wrong length: 7:00 vs 1:01:41 expected (MusicBrainz)"
+    },
+    {
+     "id": "Iqz2k13Y5xE",
+     "url": "https://www.youtube.com/watch?v=Iqz2k13Y5xE",
+     "title": "Charlie Tweddle \"Fantastic Greatest Hits\" 1974 *B-2*",
+     "channel": "ahones",
+     "duration": 715,
+     "views": 129,
+     "reason": "wrong length: 11:55 vs 1:01:41 expected (MusicBrainz)"
+    },
+    {
+     "id": "CiqoyDfJpiE",
+     "url": "https://www.youtube.com/watch?v=CiqoyDfJpiE",
+     "title": "Charlie Tweddle \"Fantastic Greatest Hits\" 1974 *A-2*",
+     "channel": "ahones",
+     "duration": 185,
+     "views": 173,
+     "reason": "wrong length: 3:05 vs 1:01:41 expected (MusicBrainz)"
+    },
+    {
+     "id": "xu4y73_IHmU",
+     "url": "https://www.youtube.com/watch?v=xu4y73_IHmU",
+     "title": "Charlie Tweddle \"Fantastic Greatest Hits\" 1974 *A-3*",
+     "channel": "ahones",
+     "duration": 313,
+     "views": 148,
+     "reason": "wrong length: 5:13 vs 1:01:41 expected (MusicBrainz)"
+    },
+    {
+     "id": "NTuV3qgdeUg",
+     "url": "https://www.youtube.com/watch?v=NTuV3qgdeUg",
+     "title": "Acid archives diaries #4 - Charlie Tweddle fantastic greatest hits, euphoria a gift & Ellie Pop",
+     "channel": "Crazy Jimmy’s vinyl",
+     "duration": 805,
+     "views": 376,
+     "reason": "wrong length: 13:25 vs 1:01:41 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3701,
+    "tracks": 14,
+    "url": "https://musicbrainz.org/release/e852ff2d-015a-40fa-94c2-153903ba52a6",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 14,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/michael-hurley-the-unholy-modal-rounders-jeffrey-fredericks-and-the-clamtones/have-moicy/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Have Moicy!",
+   "title_latin": null,
+   "year": 1976,
+   "credited_as": "Michael Hurley, The Unholy Modal Rounders, Jeffrey Fredericks & The Clamtones",
+   "artists": [
+    "Michael Hurley",
+    "The Holy Modal Rounders",
+    "Jeffrey Frederick"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "0NoaGM6HTj4",
+     "url": "https://www.youtube.com/watch?v=0NoaGM6HTj4",
+     "title": "3000 Albums [2120] Michael Hurley/Unholy Modal Rounders/Jeffrey Frederick-Have Moicy! (1976) Review",
+     "channel": "Dan's Mini Album Reviews",
+     "duration": 404,
+     "views": 300,
+     "reason": "looks like a review, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 2450,
+    "tracks": 13,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/3r512B1IHua0oDxxN3ndcd"
+   }
+  },
+  {
+   "position": 15,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/william-r-strickland/william-r-strickland-is-only-the-name/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "William R. Strickland, Is Only the Name",
+   "title_latin": null,
+   "year": 1969,
+   "credited_as": null,
+   "artists": [
+    "William R. Strickland"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "YdpuUeKL0uA",
+    "url": "https://www.youtube.com/watch?v=YdpuUeKL0uA",
+    "title": "William R. Strickland -- Is Only The Name Full Vinyl Album",
+    "channel": "itching4vinyl",
+    "duration": 2487,
+    "views": 2153
+   },
+   "video_ids": [
+    "YdpuUeKL0uA"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 41:27 vs 40:26 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 2426,
+    "tracks": 7,
+    "url": "https://musicbrainz.org/release/90f6851b-adbd-4e82-9fc2-d50f8f200d48",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 16,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/speedy-west-and-jimmy-bryant/swingin-on-the-strings-the-speedy-west-and-jimmy-bryant-collection-volume-2/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Swingin' on the Strings: The Speedy West & Jimmy Bryant Collection Volume 2",
+   "title_latin": null,
+   "year": 1999,
+   "credited_as": null,
+   "artists": [
+    "Speedy West and Jimmy Bryant"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 17,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/dan-hicks-and-his-hot-licks/striking-it-rich/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Striking It Rich",
+   "title_latin": null,
+   "year": 1972,
+   "credited_as": null,
+   "artists": [
+    "Dan Hicks and His Hot Licks"
+   ],
+   "status": "not_found",
+   "reason": "3 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "FJznQzJoF7I",
+     "url": "https://www.youtube.com/watch?v=FJznQzJoF7I",
+     "title": "Dan Hicks and his Hot Licks Striking it Rich 1972 Side B",
+     "channel": "NeedleDrops",
+     "duration": 1200,
+     "views": 535,
+     "reason": "wrong length: 20:00 vs 41:06 expected (Spotify)"
+    },
+    {
+     "id": "oS6kJ3CeiR4",
+     "url": "https://www.youtube.com/watch?v=oS6kJ3CeiR4",
+     "title": "Dan Hicks And His Hot Licks (Striking It Rich!) - Side 2",
+     "channel": "Dusty Grooves 69",
+     "duration": 1183,
+     "views": 123,
+     "reason": "wrong length: 19:43 vs 41:06 expected (Spotify)"
+    },
+    {
+     "id": "p3HzyIayCXs",
+     "url": "https://www.youtube.com/watch?v=p3HzyIayCXs",
+     "title": "Dan Hicks & His Hot Licks - Striking It Rich LP (1972) side 2 of 2",
+     "channel": "Bob Holtzmann",
+     "duration": 1185,
+     "views": 134,
+     "reason": "wrong length: 19:45 vs 41:06 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2466,
+    "tracks": 14,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/1qfczFJEHX9vPqxj9McgMN"
+   }
+  },
+  {
+   "position": 18,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/victrola-favorites-artifacts-from-bygone-days/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Victrola Favorites: Artifacts From Bygone Days",
+   "title_latin": null,
+   "year": 2008,
+   "credited_as": null,
+   "artists": [
+    "Various Artists"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "E5NAuRJ3bzw",
+    "url": "https://www.youtube.com/watch?v=E5NAuRJ3bzw",
+    "title": "Various Artists - Victrola Favorites: Artifacts From Bygone Days (Full Album)",
+    "channel": "ej",
+    "duration": 7650,
+    "views": 219
+   },
+   "video_ids": [
+    "E5NAuRJ3bzw"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 2:07:30 vs 2:07:25 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 7645,
+    "tracks": 48,
+    "url": "https://musicbrainz.org/release/5919c4dd-59a8-4cc2-bf03-5a610f5884f6",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 19,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/mar-tie/the-avant-garde-grandpa/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Avant-Garde Grandpa",
+   "title_latin": null,
+   "year": 2004,
+   "credited_as": null,
+   "artists": [
+    "Mar-Tie"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "0awIOw_6xLY",
+    "url": "https://www.youtube.com/watch?v=0awIOw_6xLY",
+    "title": "Mar-Tie — The Avant-Garde Grandpa (2004)",
+    "channel": "roseau pensant",
+    "duration": 11651,
+    "views": 1572
+   },
+   "video_ids": [
+    "0awIOw_6xLY"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 3:14:11 vs 3:13:52 expected (Discogs)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 11632,
+    "tracks": 38,
+    "url": "https://www.discogs.com/release/1777688-Mar-Tie-The-Avant-Garde-Grandpa",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 20,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/michael-finnissy/english-country-tunes/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "English Country-Tunes",
+   "title_latin": null,
+   "year": 1990,
+   "credited_as": null,
+   "artists": [
+    "Michael Finnissy"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "O8VSRTl9tfw",
+    "url": "https://www.youtube.com/watch?v=O8VSRTl9tfw",
+    "title": "Michael Finnissy - English Country Tunes (Sheet+Audio)",
+    "channel": "Feinbird",
+    "duration": 3160,
+    "views": 36705
+   },
+   "video_ids": [
+    "O8VSRTl9tfw"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 52:40 vs 52:53 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "_n00Z-Rv80c",
+     "url": "https://www.youtube.com/watch?v=_n00Z-Rv80c",
+     "title": "Michael Finnissy,English country tunes,Nika Shirocorad",
+     "channel": "c0ntemp0",
+     "duration": 645,
+     "views": 184800,
+     "reason": "wrong length: 10:45 vs 52:53 expected (MusicBrainz)"
+    },
+    {
+     "id": "G5kSKfdKe0A",
+     "url": "https://www.youtube.com/watch?v=G5kSKfdKe0A",
+     "title": "Michael Finnissy - English Country-Tunes (1/3)",
+     "channel": "Mark Knoop",
+     "duration": 672,
+     "views": 11652,
+     "reason": "wrong length: 11:12 vs 52:53 expected (MusicBrainz)"
+    },
+    {
+     "id": "kXBR0JcFO48",
+     "url": "https://www.youtube.com/watch?v=kXBR0JcFO48",
+     "title": "Michael Finnissy plays English Country Tunes (1 of 3) Rare Film",
+     "channel": "Andrew Toovey",
+     "duration": 597,
+     "views": 14675,
+     "reason": "wrong length: 9:57 vs 52:53 expected (MusicBrainz)"
+    },
+    {
+     "id": "HTll0JGX_dQ",
+     "url": "https://www.youtube.com/watch?v=HTll0JGX_dQ",
+     "title": "Michael Finnissy: English Country Tunes no.5 (James Clapperton)",
+     "channel": "James Clapperton",
+     "duration": 289,
+     "views": 814,
+     "reason": "wrong length: 4:49 vs 52:53 expected (MusicBrainz)"
+    },
+    {
+     "id": "a-q_JlVuR08",
+     "url": "https://www.youtube.com/watch?v=a-q_JlVuR08",
+     "title": "Michael Finnissy - English Country-Tunes, ii. Midsummer morn",
+     "channel": "newpianoroll",
+     "duration": 346,
+     "views": 1014,
+     "reason": "wrong length: 5:46 vs 52:53 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3173,
+    "tracks": 8,
+    "url": "https://musicbrainz.org/release/000208f9-d6cf-401e-b915-f8b00b6b6b25",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 21,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/the-everly-brothers/stories-we-could-tell/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Stories We Could Tell",
+   "title_latin": null,
+   "year": 1972,
+   "credited_as": null,
+   "artists": [
+    "The Everly Brothers"
+   ],
+   "status": "not_found",
+   "reason": "10 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "CB-6w5v_9Os",
+     "url": "https://www.youtube.com/watch?v=CB-6w5v_9Os",
+     "title": "Stories We Could Tell",
+     "channel": "The Everly Brothers",
+     "duration": 202,
+     "views": 41726,
+     "reason": "wrong length: 3:22 vs 39:15 expected (Spotify)"
+    },
+    {
+     "id": "H94jL4f75w0",
+     "url": "https://www.youtube.com/watch?v=H94jL4f75w0",
+     "title": "The Everly Brothers - Stories We Could Tell (1972)",
+     "channel": "Beat-Club",
+     "duration": 169,
+     "views": 25526,
+     "reason": "wrong length: 2:49 vs 39:15 expected (Spotify)"
+    },
+    {
+     "id": "ZL0zK6OXY2I",
+     "url": "https://www.youtube.com/watch?v=ZL0zK6OXY2I",
+     "title": "The Everly Brothers - 1973-02-02 \"Stories We Could Tell\" (Midnight Special)",
+     "channel": "GSMSTASH",
+     "duration": 180,
+     "views": 344,
+     "reason": "wrong length: 3:00 vs 39:15 expected (Spotify)"
+    },
+    {
+     "id": "XuqK4otxTig",
+     "url": "https://www.youtube.com/watch?v=XuqK4otxTig",
+     "title": "The Everly Brothers - 1972-09-19 Stories We Could Tell (Old Grey Whistle Test)",
+     "channel": "GSMSTASH",
+     "duration": 236,
+     "views": 3261,
+     "reason": "wrong length: 3:56 vs 39:15 expected (Spotify)"
+    },
+    {
+     "id": "w91g9fHEpUE",
+     "url": "https://www.youtube.com/watch?v=w91g9fHEpUE",
+     "title": "The Everly Brothers - Stories We Could Tell 'Vinyl'",
+     "channel": "Dimitris 004 & daughter - New channel",
+     "duration": 205,
+     "views": 827,
+     "reason": "wrong length: 3:25 vs 39:15 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2355,
+    "tracks": 12,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/5ucnCsHTkWKXCcCjrSEdw0"
+   }
+  },
+  {
+   "position": 22,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/the-legendary-stardust-cowboy/rock-it-to-stardom/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Rock-It to Stardom",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "The Legendary Stardust Cowboy"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "PxYajGS2hWg",
+    "url": "https://www.youtube.com/watch?v=PxYajGS2hWg",
+    "title": "Legendary Stardust Cowboy Rock It To Stardom 1",
+    "channel": "Catherine & Brian",
+    "duration": 1130,
+    "views": 110
+   },
+   "video_ids": [
+    "PxYajGS2hWg"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "18:50 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [
+    {
+     "id": "SvUmkVIOR_M",
+     "url": "https://www.youtube.com/watch?v=SvUmkVIOR_M",
+     "title": "Legendary Stardust Cowboy    Rock it To Stardom",
+     "channel": "genecrazed",
+     "duration": 69,
+     "views": 2477,
+     "reason": "1:09 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 23,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/album/shel_silverstein/freakin_at_the_freakers_ball_f1/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Freakin' at the Freakers Ball",
+   "title_latin": null,
+   "year": 1999,
+   "credited_as": null,
+   "artists": [
+    "Shel Silverstein"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "hZnjxfm5I3Y",
+     "url": "https://www.youtube.com/watch?v=hZnjxfm5I3Y",
+     "title": "Freakin' at the Freakers Ball",
+     "channel": "Shel Silverstein - Topic",
+     "duration": 200,
+     "views": 24264,
+     "reason": "wrong length: 3:20 vs 37:57 expected (Discogs)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2277,
+    "tracks": 12,
+    "url": "https://www.discogs.com/master/105157-Shel-Silverstein-Freakin-At-The-Freakers-Ball",
+    "source": "Discogs"
+   }
+  },
+  {
+   "position": 24,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/single/arthur-miles/lonely-cowboy-parts-1-and-2/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Lonely Cowboy (Parts 1 & 2)",
+   "title_latin": null,
+   "year": 1929,
+   "credited_as": null,
+   "artists": [
+    "Arthur Miles"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "DpAFZnMyC7o",
+    "url": "https://www.youtube.com/watch?v=DpAFZnMyC7o",
+    "title": "Arthur Miles \"Lonely Cowboy\" Parts 1 & 2 (Dallas, Texas, 1929) cowboy throat signing = Tuvan khoomei",
+    "channel": "Tim Gracyk",
+    "duration": 364,
+    "views": 42707
+   },
+   "video_ids": [
+    "DpAFZnMyC7o"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "6:04 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 25,
+   "page": 1,
+   "rym_url": "https://rateyourmusic.com/release/comp/porter-wagoner/the-rubber-room/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "The Rubber Room",
+   "title_latin": null,
+   "year": 2006,
+   "credited_as": null,
+   "artists": [
+    "Porter Wagoner"
+   ],
+   "status": "not_found",
+   "reason": "11 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "jxc42xyo3_w",
+     "url": "https://www.youtube.com/watch?v=jxc42xyo3_w",
+     "title": "The Rubber Room (Single (Remaster))",
+     "channel": "Porter Wagoner - Topic",
+     "duration": 162,
+     "views": 23356,
+     "reason": "wrong length: 2:42 vs 1:17:49 expected (MusicBrainz)"
+    },
+    {
+     "id": "zCAITGO3V8g",
+     "url": "https://www.youtube.com/watch?v=zCAITGO3V8g",
+     "title": "The Rubber Room",
+     "channel": "Porter Wagoner - Topic",
+     "duration": 160,
+     "views": 38066,
+     "reason": "wrong length: 2:40 vs 1:17:49 expected (MusicBrainz)"
+    },
+    {
+     "id": "Q5eP2W3fLu4",
+     "url": "https://www.youtube.com/watch?v=Q5eP2W3fLu4",
+     "title": "The Rubber Room - Porter Wagoner",
+     "channel": "Kolbgil",
+     "duration": 162,
+     "views": 97251,
+     "reason": "wrong length: 2:42 vs 1:17:49 expected (MusicBrainz)"
+    },
+    {
+     "id": "L73Z5cDRZAg",
+     "url": "https://www.youtube.com/watch?v=L73Z5cDRZAg",
+     "title": "The Rubber Room , Porter Wagoner , 1971",
+     "channel": "Wicker Bill",
+     "duration": 161,
+     "views": 852,
+     "reason": "wrong length: 2:41 vs 1:17:49 expected (MusicBrainz)"
+    },
+    {
+     "id": "-07zOlatscM",
+     "url": "https://www.youtube.com/watch?v=-07zOlatscM",
+     "title": "Porter Wagoner - The Rubber Room",
+     "channel": "Vintage Country Jukebox",
+     "duration": 161,
+     "views": 1223,
+     "reason": "wrong length: 2:41 vs 1:17:49 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 4669,
+    "tracks": 29,
+    "url": "https://musicbrainz.org/release/d82f9cf2-1d6f-4430-8b65-d344021155dd",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 26,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/3-bar-ranch/cattle-callin/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Cattle Callin",
+   "title_latin": null,
+   "year": 2011,
+   "credited_as": null,
+   "artists": [
+    "3 Bar Ranch"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "hTYLERJMC0U",
+    "url": "https://www.youtube.com/watch?v=hTYLERJMC0U",
+    "title": "HANK3   \"3 Bar Ranch - Cattle Callin\"   (2011 Hank 3 Records)",
+    "channel": "VINTAGEQUEEN54",
+    "duration": 1971,
+    "views": 16880
+   },
+   "video_ids": [
+    "hTYLERJMC0U"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "32:51 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [
+    {
+     "id": "ovJyD-Q48mA",
+     "url": "https://www.youtube.com/watch?v=ovJyD-Q48mA",
+     "title": "III = Lot 53 (Dominic Herrera) = Cattle Callin (CD) = by \"Hank 3's 3 Bar Ranch\" = III",
+     "channel": "lalalaaalaaaaa",
+     "duration": 100,
+     "views": 1411,
+     "reason": "1:40 is too short for a full album"
+    },
+    {
+     "id": "cwL9f8iEVK4",
+     "url": "https://www.youtube.com/watch?v=cwL9f8iEVK4",
+     "title": "Hank III 3 Bar Ranch Cattle Calling NYC Gramercy",
+     "channel": "1filthyfarmer",
+     "duration": 71,
+     "views": 381,
+     "reason": "1:11 is too short for a full album"
+    },
+    {
+     "id": "KGN9phN-JTE",
+     "url": "https://www.youtube.com/watch?v=KGN9phN-JTE",
+     "title": "Hank 3 (more 3 Bar Ranch: Cattle Callin') - video 11",
+     "channel": "Lennox Meldrum",
+     "duration": 51,
+     "views": 55,
+     "reason": "0:51 is too short for a full album"
+    },
+    {
+     "id": "zzxW86tZaos",
+     "url": "https://www.youtube.com/watch?v=zzxW86tZaos",
+     "title": "Now Theres A Bull - Hank 3's 3 Bar Ranch Cattle Callin'",
+     "channel": "DisturbedAsylum666",
+     "duration": 60,
+     "views": 6610,
+     "reason": "1:00 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 27,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/johnny-dowd/a-drunkards-masterpiece/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "A Drunkard's Masterpiece",
+   "title_latin": null,
+   "year": 2008,
+   "credited_as": null,
+   "artists": [
+    "Johnny Dowd"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 28,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne-elliott-sharp-sun-city-girls/country-music-in-the-world-of-islam/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Country Music in the World of Islam",
+   "title_latin": null,
+   "year": 1990,
+   "credited_as": "Eugene Chadbourne / Elliott Sharp / Sun City Girls",
+   "artists": [
+    "Eugene Chadbourne",
+    "Elliott Sharp",
+    "Sun City Girls"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "d_4_3WUeELU",
+    "url": "https://www.youtube.com/watch?v=d_4_3WUeELU",
+    "title": "Eugene Chadbourne / Elliott Sharp / Sun City Girls - Country Music in the World of Islam (1990)",
+    "channel": "thisisaproxychannel",
+    "duration": 3254,
+    "views": 2909
+   },
+   "video_ids": [
+    "d_4_3WUeELU"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "54:14 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "not labelled as a full release, from a channel that isn't the artist's"
+   ],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 29,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/jim_white/the_mysterious_tale_of_how_i_shouted_wrong_eyed_jesus_/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Mysterious Tale of How I Shouted Wrong-Eyed Jesus!",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "Jim White"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 30,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/mary-margaret-ohara/miss-america/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Miss America",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Mary Margaret O'Hara"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "rnjQDmJQ7p4",
+    "url": "https://www.youtube.com/watch?v=rnjQDmJQ7p4",
+    "title": "Mary Margaret O´Hara  - Miss America  -1988- FULL ALBUM",
+    "channel": "DISCOS REDONDOS  ( FULL ALBUMS )",
+    "duration": 2668,
+    "views": 1730
+   },
+   "video_ids": [
+    "rnjQDmJQ7p4"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 44:28 vs 45:03 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 2703,
+    "tracks": 11,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/7EorEag88teTV1CevBYuMV"
+   }
+  },
+  {
+   "position": 31,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/dragging_an_ox_through_water/the_tropics_of_phenomenon/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Tropics of Phenomenon",
+   "title_latin": null,
+   "year": 2008,
+   "credited_as": null,
+   "artists": [
+    "Dragging an Ox Through Water"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 32,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/bob_nelson/vaqueiro_alegre/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Vaqueiro alegre",
+   "title_latin": null,
+   "year": 1996,
+   "credited_as": null,
+   "artists": [
+    "Bob Nelson"
+   ],
+   "status": "likely",
+   "youtube": {
+    "id": "lTOwh1mYDlg",
+    "url": "https://www.youtube.com/watch?v=lTOwh1mYDlg",
+    "title": "Vaqueiro Alegre - Albúm Bob Nelson I 1996 [CD]",
+    "channel": "Acervo Bob Nelson",
+    "duration": 3471,
+    "views": 533
+   },
+   "video_ids": [
+    "lTOwh1mYDlg"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "uploaded by the artist's channel (Acervo Bob Nelson)",
+    "57:51 long, no known runtime to compare"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "3KzS8cKFfdI",
+     "url": "https://www.youtube.com/watch?v=3KzS8cKFfdI",
+     "title": "Bob Nelson - Vaqueiro Alegre",
+     "channel": "TvMagrao",
+     "duration": 186,
+     "views": 6911,
+     "reason": "3:06 is too short for a full album"
+    },
+    {
+     "id": "NS3LFJXQukg",
+     "url": "https://www.youtube.com/watch?v=NS3LFJXQukg",
+     "title": "Vaqueiro Alegre",
+     "channel": "Bob Nelson - Topic",
+     "duration": 174,
+     "views": 4419,
+     "reason": "2:54 is too short for a full album"
+    },
+    {
+     "id": "M4gGfydijEw",
+     "url": "https://www.youtube.com/watch?v=M4gGfydijEw",
+     "title": "Bob Nelson - Vaqueiro Alegre I 1944",
+     "channel": "Acervo Bob Nelson",
+     "duration": 176,
+     "views": 3722,
+     "reason": "2:56 is too short for a full album"
+    },
+    {
+     "id": "2G5lPT4Z4oI",
+     "url": "https://www.youtube.com/watch?v=2G5lPT4Z4oI",
+     "title": "Bob Nelson & Seus Rancheiros - Vaqueiro Alegre I 1959",
+     "channel": "Acervo Bob Nelson",
+     "duration": 185,
+     "views": 241,
+     "reason": "3:05 is too short for a full album"
+    },
+    {
+     "id": "byD1AVYgJnA",
+     "url": "https://www.youtube.com/watch?v=byD1AVYgJnA",
+     "title": "Bob Nelson - Vaqueiro Alegre (valsa)",
+     "channel": "Agulha de Vitrola",
+     "duration": 172,
+     "views": 5182,
+     "reason": "2:52 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 33,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/david-grisman/hot-dawg/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Hot Dawg",
+   "title_latin": null,
+   "year": 1979,
+   "credited_as": null,
+   "artists": [
+    "David Grisman"
+   ],
+   "status": "not_found",
+   "reason": "2 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "M3phDoZLkOc",
+     "url": "https://www.youtube.com/watch?v=M3phDoZLkOc",
+     "title": "David Grisman Quintet - Hot Dawg Outtakes - Devlin",
+     "channel": "Jan Johansson Acoustic Music",
+     "duration": 315,
+     "views": 613,
+     "reason": "wrong length: 5:15 vs 40:05 expected (MusicBrainz)"
+    },
+    {
+     "id": "ghuWyAtVLvw",
+     "url": "https://www.youtube.com/watch?v=ghuWyAtVLvw",
+     "title": "Hot Dawg by David Grisman Quintet - Favorite Albums - Day 5",
+     "channel": "Jan Johansson Acoustic Music",
+     "duration": 350,
+     "views": 1835,
+     "reason": "wrong length: 5:50 vs 40:05 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2405,
+    "tracks": 8,
+    "url": "https://musicbrainz.org/release/196502b9-b8e8-44f1-b7c7-e0d8cd875999",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 34,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/jack-rose/kensington-blues/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Kensington Blues",
+   "title_latin": null,
+   "year": 2005,
+   "credited_as": null,
+   "artists": [
+    "Jack Rose"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "Bfe9J0iiPU8",
+    "url": "https://www.youtube.com/watch?v=Bfe9J0iiPU8",
+    "title": "Jack Rose - Kensington Blues (Full Album)",
+    "channel": "you doin okay, boo?",
+    "duration": 2703,
+    "views": 52245
+   },
+   "video_ids": [
+    "Bfe9J0iiPU8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 45:03 vs 45:01 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "_drsJq_p0yU",
+     "url": "https://www.youtube.com/watch?v=_drsJq_p0yU",
+     "title": "Jack Rose \"Kensington Blues\"",
+     "channel": "bcfaulkner",
+     "duration": 196,
+     "views": 139172,
+     "reason": "wrong length: 3:16 vs 45:01 expected (Spotify)"
+    },
+    {
+     "id": "Yd_bMPwunRE",
+     "url": "https://www.youtube.com/watch?v=Yd_bMPwunRE",
+     "title": "Kensington Blues",
+     "channel": "Jack Rose - Topic",
+     "duration": 216,
+     "views": 34826,
+     "reason": "wrong length: 3:36 vs 45:01 expected (Spotify)"
+    },
+    {
+     "id": "qylnkKw54GM",
+     "url": "https://www.youtube.com/watch?v=qylnkKw54GM",
+     "title": "Jack Rose - Kensington Blues",
+     "channel": "james mccaig",
+     "duration": 216,
+     "views": 1404,
+     "reason": "wrong length: 3:36 vs 45:01 expected (Spotify)"
+    },
+    {
+     "id": "jc5j9uXCUSE",
+     "url": "https://www.youtube.com/watch?v=jc5j9uXCUSE",
+     "title": "Jack Rose - Kensington Blues",
+     "channel": "Dan Phillips",
+     "duration": 214,
+     "views": 42766,
+     "reason": "wrong length: 3:34 vs 45:01 expected (Spotify)"
+    },
+    {
+     "id": "SxMRASFxs-s",
+     "url": "https://www.youtube.com/watch?v=SxMRASFxs-s",
+     "title": "Kensington Blues",
+     "channel": "Jack Rose - Topic",
+     "duration": 199,
+     "views": 870,
+     "reason": "wrong length: 3:19 vs 45:01 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2701,
+    "tracks": 8,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/0BZx5tEmE14vaIUxXjkNHg"
+   }
+  },
+  {
+   "position": 35,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/floyd_ming_and_his_pep_steppers/indian_war_whoop___old_red/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Indian War Whoop / Old Red",
+   "title_latin": null,
+   "year": 1928,
+   "credited_as": null,
+   "artists": [
+    "Floyd Ming and His Pep Steppers"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 36,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/people-take-warning-murder-ballads-and-disaster-songs-1913-1938/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "People Take Warning! Murder Ballads & Disaster Songs, 1913-1938",
+   "title_latin": null,
+   "year": 2007,
+   "credited_as": null,
+   "artists": [
+    "Various Artists"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "w4TQl_HOeAI",
+     "url": "https://www.youtube.com/watch?v=w4TQl_HOeAI",
+     "title": "People Take Warning! Murder Ballads & Disaster Songs, 1913-1938",
+     "channel": "Tompkins Square Label",
+     "duration": 229,
+     "views": 4055,
+     "reason": "wrong length: 3:49 vs 3:39:02 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 13142,
+    "tracks": 70,
+    "url": "https://musicbrainz.org/release/90c2b010-5554-4ef8-a9a6-4cdbf134654f",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 37,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/bad-livers/delusions-of-banjer/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Delusions of Banjer",
+   "title_latin": null,
+   "year": 1992,
+   "credited_as": null,
+   "artists": [
+    "Bad Livers"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "3L4POPv2ScA",
+     "url": "https://www.youtube.com/watch?v=3L4POPv2ScA",
+     "title": "My tribute for the album \"Delusions of Banjer\" (Bad Livers)",
+     "channel": "Gigito",
+     "duration": 509,
+     "views": 159,
+     "reason": "looks like a tribute, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 2406,
+    "tracks": 14,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/7yYBM8XmoGhlSFhOXPrx57"
+   }
+  },
+  {
+   "position": 38,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/jim-orourke/bad-timing/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Bad Timing",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "Jim O'Rourke"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "g4KSE4oo9d8",
+    "url": "https://www.youtube.com/watch?v=g4KSE4oo9d8",
+    "title": "Jim O'Rourke /////// Bad timing ///// álbum completo",
+    "channel": "con ojos de videotape",
+    "duration": 2650,
+    "views": 180738
+   },
+   "video_ids": [
+    "g4KSE4oo9d8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 44:10 vs 44:10 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "AOUMRXo9T-Q",
+     "url": "https://www.youtube.com/watch?v=AOUMRXo9T-Q",
+     "title": "Jim O'Rourke - Bad Timing",
+     "channel": "close your eyes and look around",
+     "duration": 606,
+     "views": 4950,
+     "reason": "wrong length: 10:06 vs 44:10 expected (MusicBrainz)"
+    },
+    {
+     "id": "tl-Dexcd-eQ",
+     "url": "https://www.youtube.com/watch?v=tl-Dexcd-eQ",
+     "title": "Bad Timing - Jim O'Rourke",
+     "channel": "bikethroughlife",
+     "duration": 600,
+     "views": 52643,
+     "reason": "wrong length: 10:00 vs 44:10 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2650,
+    "tracks": 4,
+    "url": "https://musicbrainz.org/release/00d2b89f-86c8-4690-926d-e5b7ebb6362d",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 39,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/robbie-basho/zarthus/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Zarthus",
+   "title_latin": null,
+   "year": 1974,
+   "credited_as": null,
+   "artists": [
+    "Robbie Basho"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "NWeX55jrjUg",
+    "url": "https://www.youtube.com/watch?v=NWeX55jrjUg",
+    "title": "Robbie Basho - Zarthus (1974) (Full Album) [VINYL RIP]",
+    "channel": "Rivmic ",
+    "duration": 2738,
+    "views": 891
+   },
+   "video_ids": [
+    "NWeX55jrjUg"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 45:38 vs 45:13 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "IB4f7XijUp4",
+     "url": "https://www.youtube.com/watch?v=IB4f7XijUp4",
+     "title": "Robbie Basho - Zarthus",
+     "channel": "jm neilson",
+     "duration": 178,
+     "views": 20645,
+     "reason": "wrong length: 2:58 vs 45:13 expected (MusicBrainz)"
+    },
+    {
+     "id": "3jRSmgEgNyg",
+     "url": "https://www.youtube.com/watch?v=3jRSmgEgNyg",
+     "title": "Robbie Basho - Zarthus",
+     "channel": "Ace Records",
+     "duration": 50,
+     "views": 462,
+     "reason": "wrong length: 0:50 vs 45:13 expected (MusicBrainz)"
+    },
+    {
+     "id": "IQKC16zAF_c",
+     "url": "https://www.youtube.com/watch?v=IQKC16zAF_c",
+     "title": "Robbie Basho ► Khalil Gibran [HQ Audio] Zarthus, 1974",
+     "channel": "Suha Önder",
+     "duration": 425,
+     "views": 9997,
+     "reason": "wrong length: 7:05 vs 45:13 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2713,
+    "tracks": 6,
+    "url": "https://musicbrainz.org/release/0bc0096f-5494-4ba8-a308-51028da0f9f5",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 40,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/speedy-west/steel-guitar/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Steel Guitar",
+   "title_latin": null,
+   "year": 1960,
+   "credited_as": null,
+   "artists": [
+    "Speedy West"
+   ],
+   "status": "not_found",
+   "reason": "2 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "7L6CYgCTSFw",
+     "url": "https://www.youtube.com/watch?v=7L6CYgCTSFw",
+     "title": "Water Baby Blues - Speedy West Steel Guitar",
+     "channel": "45rippin78",
+     "duration": 134,
+     "views": 31,
+     "reason": "wrong length: 2:14 vs 26:59 expected (Spotify)"
+    },
+    {
+     "id": "NYGux8HVH1w",
+     "url": "https://www.youtube.com/watch?v=NYGux8HVH1w",
+     "title": "On The Alamo - Speedy West Steel Guitar",
+     "channel": "45rippin78",
+     "duration": 140,
+     "views": 49,
+     "reason": "wrong length: 2:20 vs 26:59 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1619,
+    "tracks": 12,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/5Gv5lcvdHr08tZDp80EKl7"
+   }
+  },
+  {
+   "position": 41,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/i-listen-to-the-wind-that-obliterates-my-traces-music-in-vernacular-photographs-1880-1955/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "I Listen to the Wind That Obliterates My Traces: Music in Vernacular Photographs 1880-1955",
+   "title_latin": null,
+   "year": 2011,
+   "credited_as": null,
+   "artists": [
+    "Various Artists"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 42,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/various-artists/native-north-america-vol-1-aboriginal-folk-rock-and-country-1966–1985/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Native North America (Vol. 1): Aboriginal Folk, Rock, and Country 1966–1985",
+   "title_latin": null,
+   "year": 2014,
+   "credited_as": null,
+   "artists": [
+    "Various Artists"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 43,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/scott_tuma/not_for_nobody/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Not for Nobody",
+   "title_latin": null,
+   "year": 2008,
+   "credited_as": null,
+   "artists": [
+    "Scott Tuma"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 44,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/single/roger_aubry/beau_jour_de_fete___sublime_amour/",
+   "rym_type": "single",
+   "type_label": "Album",
+   "title": "Beau jour de fete / Sublime amour",
+   "title_latin": null,
+   "year": null,
+   "credited_as": null,
+   "artists": [
+    "Roger Aubry"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 45,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/hoosier-hot-shots/rural-rhythm-1935-1942/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Rural Rhythm 1935-1942",
+   "title_latin": null,
+   "year": 1992,
+   "credited_as": null,
+   "artists": [
+    "Hoosier Hot Shots"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 46,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/souled-american/flubber/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Flubber",
+   "title_latin": null,
+   "year": 1989,
+   "credited_as": null,
+   "artists": [
+    "Souled American"
+   ],
+   "status": "not_found",
+   "reason": "3 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "aavW77FGv4U",
+     "url": "https://www.youtube.com/watch?v=aavW77FGv4U",
+     "title": "Souled American   Flubber, 1989 Rough Trade 0001",
+     "channel": "souledamerican1",
+     "duration": 1122,
+     "views": 4890,
+     "reason": "wrong length: 18:42 vs 50:54 expected (Spotify)"
+    },
+    {
+     "id": "M43DsVViLvg",
+     "url": "https://www.youtube.com/watch?v=M43DsVViLvg",
+     "title": "Souled American - the Torch Singer [Flubber, 1989]",
+     "channel": "souled american",
+     "duration": 429,
+     "views": 475,
+     "reason": "wrong length: 7:09 vs 50:54 expected (Spotify)"
+    },
+    {
+     "id": "vJunakhwVGI",
+     "url": "https://www.youtube.com/watch?v=vJunakhwVGI",
+     "title": "Souled American - Drop In The Basket (from Flubber, 1989)",
+     "channel": "Aaron Oppenheim",
+     "duration": 178,
+     "views": 787,
+     "reason": "wrong length: 2:58 vs 50:54 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3054,
+    "tracks": 13,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/4qDtyjbIirBZs6XILCewFV"
+   }
+  },
+  {
+   "position": 47,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/friends-of-dean-martinez/the-shadow-of-your-smile/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Shadow of Your Smile",
+   "title_latin": null,
+   "year": 1995,
+   "credited_as": null,
+   "artists": [
+    "Friends of Dean Martinez"
+   ],
+   "status": "not_found",
+   "reason": "3 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "QnPJ-vwN57w",
+     "url": "https://www.youtube.com/watch?v=QnPJ-vwN57w",
+     "title": "The Shadow Of Your Smile",
+     "channel": "Friends Of Dean Martinez - Topic",
+     "duration": 255,
+     "views": 7207,
+     "reason": "wrong length: 4:15 vs 42:35 expected (Spotify)"
+    },
+    {
+     "id": "duCXDFSdC94",
+     "url": "https://www.youtube.com/watch?v=duCXDFSdC94",
+     "title": "The Shadow of Your Smile • Friends of Dean Martinez",
+     "channel": "Aka Kea-Noir",
+     "duration": 255,
+     "views": 39,
+     "reason": "wrong length: 4:15 vs 42:35 expected (Spotify)"
+    },
+    {
+     "id": "8vuDfr2IwVg",
+     "url": "https://www.youtube.com/watch?v=8vuDfr2IwVg",
+     "title": "Friends Of Dean Martinez - Horseshoe Tavern, Toronto October 24 95 * Shadow Of Your Smile * Sub Pop",
+     "channel": "heldopen",
+     "duration": 2039,
+     "views": 1579,
+     "reason": "wrong length: 33:59 vs 42:35 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2555,
+    "tracks": 13,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/1c0blVVPxQbkAk9jFcGUoB"
+   }
+  },
+  {
+   "position": 48,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/album/world-standard/country-gazette/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Country Gazette",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "World Standard"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "1YHE5DFEfhA",
+    "url": "https://www.youtube.com/watch?v=1YHE5DFEfhA",
+    "title": "World Standard - Country Gazette [Full Album]",
+    "channel": "CrashBoom le belge",
+    "duration": 3321,
+    "views": 1213
+   },
+   "video_ids": [
+    "1YHE5DFEfhA"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 55:21 vs 55:15 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "Nc53l1KK0LQ",
+     "url": "https://www.youtube.com/watch?v=Nc53l1KK0LQ",
+     "title": "World Standard - Country Gazette - Intro",
+     "channel": "Jon Proudman",
+     "duration": 76,
+     "views": 1399,
+     "reason": "wrong length: 1:16 vs 55:15 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3315,
+    "tracks": 14,
+    "url": "https://musicbrainz.org/release/18a11d84-b90c-3a5c-8c60-7cd782a38dc6",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 49,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/ep/fire-on-fire/fire-on-fire/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Fire on Fire",
+   "title_latin": null,
+   "year": 2007,
+   "credited_as": null,
+   "artists": [
+    "Fire on Fire"
+   ],
+   "status": "not_found",
+   "reason": "19 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "RGUgoxHaXQM",
+     "url": "https://www.youtube.com/watch?v=RGUgoxHaXQM",
+     "title": "FIRE ON FIRE - COUNTDOWN (Official Music Video)",
+     "channel": "FIRE ON FIRE",
+     "duration": 132,
+     "views": 54902,
+     "reason": "wrong length: 2:12 vs 31:20 expected (Spotify)"
+    },
+    {
+     "id": "RQnf73afaZk",
+     "url": "https://www.youtube.com/watch?v=RQnf73afaZk",
+     "title": "FIRE ON FIRE - SMILE (Official Music Video)",
+     "channel": "FIRE ON FIRE",
+     "duration": 138,
+     "views": 9789,
+     "reason": "wrong length: 2:18 vs 31:20 expected (Spotify)"
+    },
+    {
+     "id": "vyfG7b6GoYs",
+     "url": "https://www.youtube.com/watch?v=vyfG7b6GoYs",
+     "title": "FIRE ON FIRE - STAY (Official Music Video)",
+     "channel": "FIRE ON FIRE",
+     "duration": 172,
+     "views": 10562,
+     "reason": "wrong length: 2:52 vs 31:20 expected (Spotify)"
+    },
+    {
+     "id": "rjsljyFjf7k",
+     "url": "https://www.youtube.com/watch?v=rjsljyFjf7k",
+     "title": "FIRE ON FIRE - ENTER : RAGE (Official Music Video)",
+     "channel": "FIRE ON FIRE",
+     "duration": 175,
+     "views": 16524,
+     "reason": "wrong length: 2:55 vs 31:20 expected (Spotify)"
+    },
+    {
+     "id": "8SrSM-MTJa0",
+     "url": "https://www.youtube.com/watch?v=8SrSM-MTJa0",
+     "title": "FIRE ON FIRE - ONE WISH (Official Music Video)",
+     "channel": "FIRE ON FIRE",
+     "duration": 189,
+     "views": 13417,
+     "reason": "wrong length: 3:09 vs 31:20 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1880,
+    "tracks": 5,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/1bvlovcgetcXorR09J4CJh"
+   }
+  },
+  {
+   "position": 50,
+   "page": 2,
+   "rym_url": "https://rateyourmusic.com/release/comp/harry_choates/fiddle_king_of_cajun_swing/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Fiddle King of Cajun Swing",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "Harry Choates"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 51,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/sir-douglas-quintet/sir-douglas-quintet-2-honkey-blues/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Sir Douglas Quintet + 2 = Honkey Blues",
+   "title_latin": null,
+   "year": 1968,
+   "credited_as": null,
+   "artists": [
+    "Sir Douglas Quintet"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 52,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/califone/roomsound/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Roomsound",
+   "title_latin": null,
+   "year": 2001,
+   "credited_as": null,
+   "artists": [
+    "Califone"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 53,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/mixtape/young-thug/beautiful-thugger-girls/",
+   "rym_type": "mixtape",
+   "type_label": "Mixtape",
+   "title": "Beautiful Thugger Girls",
+   "title_latin": null,
+   "year": 2017,
+   "credited_as": null,
+   "artists": [
+    "Young Thug"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "LDAevvR4zo4",
+    "url": "https://www.youtube.com/watch?v=LDAevvR4zo4",
+    "title": "(FULL ALBUM) Young Thug \"Beautiful Thugger Girls\"",
+    "channel": "Sha'Niqua Coleman",
+    "duration": 3384,
+    "views": 117573
+   },
+   "video_ids": [
+    "LDAevvR4zo4"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 56:24 vs 56:45 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "bus8_zwTQD8",
+     "url": "https://www.youtube.com/watch?v=bus8_zwTQD8",
+     "title": "Young Thug - Beautiful Thugger Girls ALBUM REVIEW",
+     "channel": "theneedledrop",
+     "duration": 666,
+     "views": 402682,
+     "reason": "looks like a review, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 3405,
+    "tracks": 14,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
+   }
+  },
+  {
+   "position": 54,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/bob-joe/vaqueiro-solitario/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Vaqueiro solitário",
+   "title_latin": null,
+   "year": 1973,
+   "credited_as": null,
+   "artists": [
+    "Bob Joe"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "dJcbm4voyUg",
+     "url": "https://www.youtube.com/watch?v=dJcbm4voyUg",
+     "title": "Vaqueiro Solitário - Bob Joe - 1974 - Edição: Joe Becerra",
+     "channel": "Joe Becerra Junior",
+     "duration": 181,
+     "views": 23168,
+     "reason": "3:01 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 55,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/the-holy-modal-rounders/the-moray-eels-eat-the-holy-modal-rounders/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Moray Eels Eat The Holy Modal Rounders",
+   "title_latin": null,
+   "year": 1968,
+   "credited_as": null,
+   "artists": [
+    "The Holy Modal Rounders"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "KM_zAcvmR40",
+    "url": "https://www.youtube.com/watch?v=KM_zAcvmR40",
+    "title": "The Holy Modal Rounders - The Moray Eels Eat The Holy Modal Rounders (1968)",
+    "channel": "Post-Noise Archive",
+    "duration": 1589,
+    "views": 5323
+   },
+   "video_ids": [
+    "KM_zAcvmR40"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 26:29 vs 26:28 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "fghkH9lNsNk",
+     "url": "https://www.youtube.com/watch?v=fghkH9lNsNk",
+     "title": "The Holy Modal Rounders- The Moray Eels Eat The Holy Modal Rounders (Side A)",
+     "channel": "Dan Pollock & The Pretensions Music  ",
+     "duration": 815,
+     "views": 67,
+     "reason": "wrong length: 13:35 vs 26:28 expected (MusicBrainz)"
+    },
+    {
+     "id": "MOIv5GTVR-0",
+     "url": "https://www.youtube.com/watch?v=MOIv5GTVR-0",
+     "title": "The Holy Modal Rounders- The Moray Eels Eat The Holy Modal Rounders (Side B)",
+     "channel": "Dan Pollock & The Pretensions Music  ",
+     "duration": 768,
+     "views": 58,
+     "reason": "wrong length: 12:48 vs 26:28 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1588,
+    "tracks": 13,
+    "url": "https://musicbrainz.org/release/5b31102c-267e-4ab8-b040-87f79e55791a",
+    "source": "MusicBrainz"
+   }
+  },
+  {
+   "position": 56,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/comp/ウイリー沖山/スイスの娘-anthology-king-of-yodel-vol-1/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "スイスの娘 - Anthology: King of Yodel, Vol. 1",
+   "title_latin": null,
+   "year": 2003,
+   "credited_as": null,
+   "artists": [
+    "ウイリー沖山 [Willy Okiyama]"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 57,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/those-poor-bastards/satan-is-watching/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Satan Is Watching",
+   "title_latin": null,
+   "year": 2008,
+   "credited_as": null,
+   "artists": [
+    "Those Poor Bastards"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "NCBXmn6mjjU",
+    "url": "https://www.youtube.com/watch?v=NCBXmn6mjjU",
+    "title": "Those Poor Bastards - Satan is Watching [FULL ALBUM]",
+    "channel": "Alicia Cantor",
+    "duration": 1968,
+    "views": 73573
+   },
+   "video_ids": [
+    "NCBXmn6mjjU"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 32:48 vs 32:47 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "BLXprBeEJ9g",
+     "url": "https://www.youtube.com/watch?v=BLXprBeEJ9g",
+     "title": "Those Poor Bastards  I walk the Line  LP Satan is Watching (2008)",
+     "channel": "Alexander E.  78rpm, Vinyl & Anderes",
+     "duration": 166,
+     "views": 144,
+     "reason": "wrong length: 2:46 vs 32:47 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1967,
+    "tracks": 12,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/6bNsfIGHf09tMQzBsm74Lb"
+   }
+  },
+  {
+   "position": 58,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/sturgill-simpson/metamodern-sounds-in-country-music/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Metamodern Sounds in Country Music",
+   "title_latin": null,
+   "year": 2014,
+   "credited_as": null,
+   "artists": [
+    "Sturgill Simpson"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "wABhwIChUrE",
+    "url": "https://www.youtube.com/watch?v=wABhwIChUrE",
+    "title": "Sturgill Simpson - Metamodern Sounds in Country Music (Full Album) 2014",
+    "channel": "Radiorock TheOriginal",
+    "duration": 2071,
+    "views": 117551
+   },
+   "video_ids": [
+    "wABhwIChUrE"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 34:31 vs 34:30 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "mpNlInEfNQ8",
+     "url": "https://www.youtube.com/watch?v=mpNlInEfNQ8",
+     "title": "Sturgill Simpson -- Metamodern Sounds in Country Music -- ALBUM REVIEW",
+     "channel": "Last Week's Album",
+     "duration": 641,
+     "views": 1865,
+     "reason": "looks like a review, not the release"
+    },
+    {
+     "id": "r4o1mnpSmfs",
+     "url": "https://www.youtube.com/watch?v=r4o1mnpSmfs",
+     "title": "Sturgill Simpson-\"Just Let Go\" (Metamodern Sounds In Country Music)",
+     "channel": "Dan Deel",
+     "duration": 149,
+     "views": 1189896,
+     "reason": "wrong length: 2:29 vs 34:30 expected (Spotify)"
+    },
+    {
+     "id": "ZN8IJoEl4-s",
+     "url": "https://www.youtube.com/watch?v=ZN8IJoEl4-s",
+     "title": "Sturgill Simpson ‘Metamodern Sounds in Country Music’ | Country May 2021 | VMP",
+     "channel": "VMP",
+     "duration": 28,
+     "views": 1079,
+     "reason": "wrong length: 0:28 vs 34:30 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2070,
+    "tracks": 10,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/5N1kfa3omZENLwlVhEgqHF"
+   }
+  },
+  {
+   "position": 59,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/sir-richard-bishop/salvador-kali/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Salvador Kali",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "Sir Richard Bishop"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "Oks7ZaLIfek",
+    "url": "https://www.youtube.com/watch?v=Oks7ZaLIfek",
+    "title": "Sir Richard Bishop ‎– Salvador Kali (1998)",
+    "channel": "Pedro Nóbrega",
+    "duration": 3009,
+    "views": 8937
+   },
+   "video_ids": [
+    "Oks7ZaLIfek"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 50:09 vs 49:50 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "runtime": {
+    "seconds": 2990,
+    "tracks": 9,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/0iaGHX6KYdVY62E6TJQIMa"
+   }
+  },
+  {
+   "position": 60,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/lavender-country/lavender-country/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Lavender Country",
+   "title_latin": null,
+   "year": 1973,
+   "credited_as": null,
+   "artists": [
+    "Lavender Country"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "QAVTEHY7R2E",
+    "url": "https://www.youtube.com/watch?v=QAVTEHY7R2E",
+    "title": "Lavender Country - Blackberry Rose (2022)",
+    "channel": "Don Giovanni",
+    "duration": 2546,
+    "views": 3172
+   },
+   "video_ids": [
+    "QAVTEHY7R2E"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100"
+   ],
+   "warnings": [
+    "duration off: 42:26 vs 37:42 expected (Spotify)"
+   ],
+   "rejected": [
+    {
+     "id": "yFItJ3etWD8",
+     "url": "https://www.youtube.com/watch?v=yFItJ3etWD8",
+     "title": "Lavender Country - \"Lavender Country\" (Official Audio)",
+     "channel": "Paradise of Bachelors",
+     "duration": 241,
+     "views": 11346,
+     "reason": "wrong length: 4:01 vs 37:42 expected (Spotify)"
+    },
+    {
+     "id": "fENnlOYAtgo",
+     "url": "https://www.youtube.com/watch?v=fENnlOYAtgo",
+     "title": "Lavender Country - \"I Can't Shake The Stranger Out Of You\"",
+     "channel": "Don Giovanni",
+     "duration": 268,
+     "views": 4004,
+     "reason": "wrong length: 4:28 vs 37:42 expected (Spotify)"
+    },
+    {
+     "id": "SM1zX73qKkg",
+     "url": "https://www.youtube.com/watch?v=SM1zX73qKkg",
+     "title": "Lavender Country \"I Can't Shake The Stranger Out Of You\" (Official Music Video)",
+     "channel": "Don Giovanni",
+     "duration": 267,
+     "views": 20609,
+     "reason": "wrong length: 4:27 vs 37:42 expected (Spotify)"
+    },
+    {
+     "id": "B1mvQt50UMU",
+     "url": "https://www.youtube.com/watch?v=B1mvQt50UMU",
+     "title": "Lavender Country (1973) - Lavender Country",
+     "channel": "J L",
+     "duration": 234,
+     "views": 8772,
+     "reason": "wrong length: 3:54 vs 37:42 expected (Spotify)"
+    },
+    {
+     "id": "IrU7dCKehVA",
+     "url": "https://www.youtube.com/watch?v=IrU7dCKehVA",
+     "title": "Lavender Country - \"Cryin' These Cocksucking Tears\" (Official Audio)",
+     "channel": "Paradise of Bachelors",
+     "duration": 196,
+     "views": 76993,
+     "reason": "wrong length: 3:16 vs 37:42 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2262,
+    "tracks": 10,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/4Tw0CuP1RixX0fDBZx3Cvq"
+   }
+  },
+  {
+   "position": 61,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/earth/hex-or-printing-in-the-infernal-method/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Hex; or Printing in the Infernal Method",
+   "title_latin": null,
+   "year": 2005,
+   "credited_as": null,
+   "artists": [
+    "Earth"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "p58rup6uwVY",
+    "url": "https://www.youtube.com/watch?v=p58rup6uwVY",
+    "title": "Earth - Hex; or Printing in the Infernal Method (FULL ALBUM 2005)",
+    "channel": "Where No Life Dwells",
+    "duration": 2790,
+    "views": 3013
+   },
+   "video_ids": [
+    "p58rup6uwVY"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 46:30 vs 46:29 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "VhcSsuRK-Ss",
+     "url": "https://www.youtube.com/watch?v=VhcSsuRK-Ss",
+     "title": "My Vinyl Collection # 17 Earth - Hex; Or Printing In the Infernal Method (Album Review)",
+     "channel": "MrFartboy79",
+     "duration": 402,
+     "views": 762,
+     "reason": "looks like a review, not the release"
+    },
+    {
+     "id": "9QFVBqaqJjM",
+     "url": "https://www.youtube.com/watch?v=9QFVBqaqJjM",
+     "title": "Album Reviews: Hex: Or Printing In The Infernal Method by Earth",
+     "channel": "YoureWrongImRight",
+     "duration": 142,
+     "views": 1725,
+     "reason": "looks like a reviews, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 2789,
+    "tracks": 9,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/14m2sGv2Ezs9fdUdOJEvDG"
+   }
+  },
+  {
+   "position": 62,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/the-louvin-brothers/satan-is-real/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Satan Is Real",
+   "title_latin": null,
+   "year": 1959,
+   "credited_as": null,
+   "artists": [
+    "The Louvin Brothers"
+   ],
+   "status": "not_found",
+   "reason": "9 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "C6zovYEZs5g",
+     "url": "https://www.youtube.com/watch?v=C6zovYEZs5g",
+     "title": "Satan Is Real",
+     "channel": "The Louvin Brothers - Topic",
+     "duration": 182,
+     "views": 233184,
+     "reason": "wrong length: 3:02 vs 32:17 expected (Spotify)"
+    },
+    {
+     "id": "bffPVFZDhrQ",
+     "url": "https://www.youtube.com/watch?v=bffPVFZDhrQ",
+     "title": "The Louvin Brothers \"Satan Is Real\" LP - What's Inside?",
+     "channel": "Light in the Attic",
+     "duration": 141,
+     "views": 38410,
+     "reason": "wrong length: 2:21 vs 32:17 expected (Spotify)"
+    },
+    {
+     "id": "i_rZqypc2Kg",
+     "url": "https://www.youtube.com/watch?v=i_rZqypc2Kg",
+     "title": "The Louvin Brothers - Satan Is Real",
+     "channel": "MisterCanning",
+     "duration": 178,
+     "views": 48345,
+     "reason": "wrong length: 2:58 vs 32:17 expected (Spotify)"
+    },
+    {
+     "id": "P0EPfb-iFl0",
+     "url": "https://www.youtube.com/watch?v=P0EPfb-iFl0",
+     "title": "Louvin Brothers - Satan Is Real [1958].",
+     "channel": "mrblindfreddy9999",
+     "duration": 183,
+     "views": 1670,
+     "reason": "wrong length: 3:03 vs 32:17 expected (Spotify)"
+    },
+    {
+     "id": "tyuFLDuf5GE",
+     "url": "https://www.youtube.com/watch?v=tyuFLDuf5GE",
+     "title": "The Louvin Brothers - Satan Is Real",
+     "channel": "Vintage Country Jukebox",
+     "duration": 181,
+     "views": 1996,
+     "reason": "wrong length: 3:01 vs 32:17 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1937,
+    "tracks": 12,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/0CluD7Nl9LuRCn0kSUysBK"
+   }
+  },
+  {
+   "position": 63,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/henry-flynt-and-novabilly/henry-flynt-and-novabilly/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Henry Flynt & Nova'Billy",
+   "title_latin": null,
+   "year": 2007,
+   "credited_as": null,
+   "artists": [
+    "Henry Flynt & Nova'Billy"
+   ],
+   "status": "uncertain",
+   "youtube": {
+    "id": "zvnFUJnp36k",
+    "url": "https://www.youtube.com/watch?v=zvnFUJnp36k",
+    "title": "\"Amphetamine Rhapsody\" by Henry Flynt & Nova'Billy",
+    "channel": "flashkaput",
+    "duration": 352,
+    "views": 6801
+   },
+   "video_ids": [
+    "zvnFUJnp36k"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "5:52 long, no known runtime to compare"
+   ],
+   "warnings": [
+    "short for a full album (5:52): fine for punk/grind, check it"
+   ],
+   "rejected": [
+    {
+     "id": "ERikM53H1GA",
+     "url": "https://www.youtube.com/watch?v=ERikM53H1GA",
+     "title": "Henry Flynt & Nova'Billy — The International",
+     "channel": "Nathan Nathan",
+     "duration": 205,
+     "views": 908,
+     "reason": "3:25 is too short for a full album"
+    },
+    {
+     "id": "YPjWIU-yoTM",
+     "url": "https://www.youtube.com/watch?v=YPjWIU-yoTM",
+     "title": "Henry Flynt & Nova'Billy - The International",
+     "channel": "Muhaimin Pulok",
+     "duration": 205,
+     "views": 495,
+     "reason": "3:25 is too short for a full album"
+    },
+    {
+     "id": "SPVa_VexJlo",
+     "url": "https://www.youtube.com/watch?v=SPVa_VexJlo",
+     "title": "Henry Flynt & Nova'Billy — Conga",
+     "channel": "Nathan Nathan",
+     "duration": 216,
+     "views": 641,
+     "reason": "3:36 is too short for a full album"
+    },
+    {
+     "id": "LuSiUBObjaU",
+     "url": "https://www.youtube.com/watch?v=LuSiUBObjaU",
+     "title": "Henry Flynt & Nova'Billy — Twist Out",
+     "channel": "Nathan Nathan",
+     "duration": 152,
+     "views": 299,
+     "reason": "2:32 is too short for a full album"
+    },
+    {
+     "id": "f7oVtEUtsGc",
+     "url": "https://www.youtube.com/watch?v=f7oVtEUtsGc",
+     "title": "Henry Flynt & Nova'Billy — Good Morning",
+     "channel": "Nathan Nathan",
+     "duration": 198,
+     "views": 331,
+     "reason": "3:18 is too short for a full album"
+    }
+   ],
+   "runtime": null
+  },
+  {
+   "position": 64,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/wovenhand/consider-the-birds/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Consider the Birds",
+   "title_latin": null,
+   "year": 2004,
+   "credited_as": null,
+   "artists": [
+    "Wovenhand"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 65,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/jackie-o-motherfucker/fig-5/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Fig. 5",
+   "title_latin": null,
+   "year": 2000,
+   "credited_as": null,
+   "artists": [
+    "Jackie-O Motherfucker"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "u8-GAblGNs8",
+    "url": "https://www.youtube.com/watch?v=u8-GAblGNs8",
+    "title": "Jackie-O Motherfucker ‎– Fig. 5 (2000)",
+    "channel": "Pedro Nóbrega",
+    "duration": 4437,
+    "views": 10625
+   },
+   "video_ids": [
+    "u8-GAblGNs8"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "duration 1:13:57 vs 1:13:52 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "378DTb77XvE",
+     "url": "https://www.youtube.com/watch?v=378DTb77XvE",
+     "title": "Jackie-O Motherfucker | \"Michigan Avenue Social Club\" | Fig. 5 | c.2000",
+     "channel": "✞ Cross Dimensions ✞",
+     "duration": 1475,
+     "views": 330,
+     "reason": "wrong length: 24:35 vs 1:13:52 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 4432,
+    "tracks": 9,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/1eoY0OgIzlpwsUxmHQsEYC"
+   }
+  },
+  {
+   "position": 66,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/bill-frisell/good-dog-happy-man/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Good Dog, Happy Man",
+   "title_latin": null,
+   "year": 1999,
+   "credited_as": null,
+   "artists": [
+    "Bill Frisell"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "BXeO8Ys6TgQ",
+    "url": "https://www.youtube.com/watch?v=BXeO8Ys6TgQ",
+    "title": "Bill Frisell – Good Dog, Happy Man (FULL ALBUM)",
+    "channel": "DISCOS REDONDOS  ( FULL ALBUMS )",
+    "duration": 3708,
+    "views": 3332
+   },
+   "video_ids": [
+    "BXeO8Ys6TgQ"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 1:01:48 vs 1:02:21 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "nJ8JaHjS1XY",
+     "url": "https://www.youtube.com/watch?v=nJ8JaHjS1XY",
+     "title": "Good Dog, Happy Man",
+     "channel": "Bill Frisell",
+     "duration": 155,
+     "views": 28010,
+     "reason": "wrong length: 2:35 vs 1:02:21 expected (Spotify)"
+    },
+    {
+     "id": "uV9mZh5RwiI",
+     "url": "https://www.youtube.com/watch?v=uV9mZh5RwiI",
+     "title": "Good Dog, Happy Man",
+     "channel": "Bill Frisell",
+     "duration": 184,
+     "views": 10150,
+     "reason": "wrong length: 3:04 vs 1:02:21 expected (Spotify)"
+    },
+    {
+     "id": "dq1ovHXAqHo",
+     "url": "https://www.youtube.com/watch?v=dq1ovHXAqHo",
+     "title": "Bill Frisell Good Dog Happy Man",
+     "channel": "Gianfranco Delussu",
+     "duration": 155,
+     "views": 51517,
+     "reason": "wrong length: 2:35 vs 1:02:21 expected (Spotify)"
+    },
+    {
+     "id": "ZrcCekmgQnQ",
+     "url": "https://www.youtube.com/watch?v=ZrcCekmgQnQ",
+     "title": "Cadillac 1959 - Bill Frisell - Good Dog, Happy Man",
+     "channel": "Ic Asc",
+     "duration": 389,
+     "views": 12413,
+     "reason": "wrong length: 6:29 vs 1:02:21 expected (Spotify)"
+    },
+    {
+     "id": "ULEo6D18lsM",
+     "url": "https://www.youtube.com/watch?v=ULEo6D18lsM",
+     "title": "\"Good Dog, Happy Man\" by Bill Frisell",
+     "channel": "Peter Naughton",
+     "duration": 239,
+     "views": 634,
+     "reason": "wrong length: 3:59 vs 1:02:21 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3741,
+    "tracks": 12,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/4ICZxA4JmNgkrjT9d30TJX"
+   }
+  },
+  {
+   "position": 67,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/meat-puppets/huevos/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Huevos",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Meat Puppets"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "tZSPe8F7sRI",
+    "url": "https://www.youtube.com/watch?v=tZSPe8F7sRI",
+    "title": "Meat Puppets \"Huevos\" (FULL ALBUM)",
+    "channel": "Abraham Ramírez",
+    "duration": 3470,
+    "views": 126368
+   },
+   "video_ids": [
+    "tZSPe8F7sRI"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 57:50 vs 57:49 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "9aYreHfBuy0",
+     "url": "https://www.youtube.com/watch?v=9aYreHfBuy0",
+     "title": "Meat Puppets Automatic Mojo - Huevos",
+     "channel": "Scott Carlson",
+     "duration": 204,
+     "views": 13772,
+     "reason": "wrong length: 3:24 vs 57:49 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3469,
+    "tracks": 14,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/3YQBupuImH0sIeJ63yNxrQ"
+   }
+  },
+  {
+   "position": 68,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/daughn_gibson/all_hell/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "All Hell",
+   "title_latin": null,
+   "year": 2012,
+   "credited_as": null,
+   "artists": [
+    "Daughn Gibson"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "06AtmoHDXuU",
+    "url": "https://www.youtube.com/watch?v=06AtmoHDXuU",
+    "title": "Daughn Gibson - All Hell [Full Album]",
+    "channel": "João Pimentel",
+    "duration": 1876,
+    "views": 72610
+   },
+   "video_ids": [
+    "06AtmoHDXuU"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 31:16 vs 30:51 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "RsE5i7uQGhA",
+     "url": "https://www.youtube.com/watch?v=RsE5i7uQGhA",
+     "title": "Daughn Gibson - All Hell",
+     "channel": "Luke Tickner",
+     "duration": 392,
+     "views": 9991,
+     "reason": "wrong length: 6:32 vs 30:51 expected (Spotify)"
+    },
+    {
+     "id": "q-eKC2QPxpw",
+     "url": "https://www.youtube.com/watch?v=q-eKC2QPxpw",
+     "title": "Daughn Gibson - All Hell",
+     "channel": "R. Peters",
+     "duration": 236,
+     "views": 13119,
+     "reason": "wrong length: 3:56 vs 30:51 expected (Spotify)"
+    },
+    {
+     "id": "Up6gmlUBRYo",
+     "url": "https://www.youtube.com/watch?v=Up6gmlUBRYo",
+     "title": "Daughn Gibson - \"All Hell\"",
+     "channel": "Dickgoodbody",
+     "duration": 233,
+     "views": 52,
+     "reason": "wrong length: 3:53 vs 30:51 expected (Spotify)"
+    },
+    {
+     "id": "2rfaRJs_vM4",
+     "url": "https://www.youtube.com/watch?v=2rfaRJs_vM4",
+     "title": "Daughn Gibson   All Hell",
+     "channel": "Nathan Atkinson",
+     "duration": 386,
+     "views": 46,
+     "reason": "wrong length: 6:26 vs 30:51 expected (Spotify)"
+    },
+    {
+     "id": "I3ySDVHYdBE",
+     "url": "https://www.youtube.com/watch?v=I3ySDVHYdBE",
+     "title": "Daughn Gibson - \"All Hell\" | Mom, Meet The Band | Bonnaroo365",
+     "channel": "Bonnaroo",
+     "duration": 503,
+     "views": 8337,
+     "reason": "wrong length: 8:23 vs 30:51 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 1851,
+    "tracks": 10,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/4SbiRDHbbQsP2SzAjk6rFw"
+   }
+  },
+  {
+   "position": 69,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/mekons/the-mekons-honky-tonkin/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Mekons Honky Tonkin'",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Mekons"
+   ],
+   "status": "not_found",
+   "reason": "no YouTube upload matched the artist and title",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "runtime": null
+  },
+  {
+   "position": 70,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/james-luther-dickinson/dixie-fried/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Dixie Fried",
+   "title_latin": null,
+   "year": 1972,
+   "credited_as": null,
+   "artists": [
+    "James Luther Dickinson"
+   ],
+   "status": "not_found",
+   "reason": "4 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "qYQJTZp8Fbk",
+     "url": "https://www.youtube.com/watch?v=qYQJTZp8Fbk",
+     "title": "Dixie Fried",
+     "channel": "James Luther Dickinson - Topic",
+     "duration": 144,
+     "views": 10614,
+     "reason": "wrong length: 2:24 vs 37:36 expected (Spotify)"
+    },
+    {
+     "id": "Ki-IX03nu6E",
+     "url": "https://www.youtube.com/watch?v=Ki-IX03nu6E",
+     "title": "Dixie Fried",
+     "channel": "James Luther Dickinson - Topic",
+     "duration": 144,
+     "views": 231,
+     "reason": "wrong length: 2:24 vs 37:36 expected (Spotify)"
+    },
+    {
+     "id": "vJ4lX8tCM7U",
+     "url": "https://www.youtube.com/watch?v=vJ4lX8tCM7U",
+     "title": "James Luther Dickinson Dixie Fried",
+     "channel": "Chris Tipton",
+     "duration": 397,
+     "views": 23384,
+     "reason": "wrong length: 6:37 vs 37:36 expected (Spotify)"
+    },
+    {
+     "id": "ksnUAWnXz10",
+     "url": "https://www.youtube.com/watch?v=ksnUAWnXz10",
+     "title": "James Luther Dickinson. Dixie fried.",
+     "channel": "-GreasyGrooves- Deep Cuts 1969-79.",
+     "duration": 145,
+     "views": 390,
+     "reason": "wrong length: 2:25 vs 37:36 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2256,
+    "tracks": 9,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/4WNqrzRcPoQmmhjAUnqmsz"
+   }
+  },
+  {
+   "position": 71,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/mixtape/young-thug/beautiful-thugger-girls/",
+   "rym_type": "mixtape",
+   "type_label": "Mixtape",
+   "title": "Beautiful Thugger Girls",
+   "title_latin": null,
+   "year": 2017,
+   "credited_as": null,
+   "artists": [
+    "Young Thug"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "LDAevvR4zo4",
+    "url": "https://www.youtube.com/watch?v=LDAevvR4zo4",
+    "title": "(FULL ALBUM) Young Thug \"Beautiful Thugger Girls\"",
+    "channel": "Sha'Niqua Coleman",
+    "duration": 3384,
+    "views": 117573
+   },
+   "video_ids": [
+    "LDAevvR4zo4"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 56:24 vs 56:45 expected (Spotify)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "bus8_zwTQD8",
+     "url": "https://www.youtube.com/watch?v=bus8_zwTQD8",
+     "title": "Young Thug - Beautiful Thugger Girls ALBUM REVIEW",
+     "channel": "theneedledrop",
+     "duration": 666,
+     "views": 402682,
+     "reason": "looks like a review, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 3405,
+    "tracks": 14,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
+   }
+  },
+  {
+   "position": 72,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/bela_fleck/drive/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Drive",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Béla Fleck"
+   ],
+   "status": "not_found",
+   "reason": "4 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "7i2B6cpFA20",
+     "url": "https://www.youtube.com/watch?v=7i2B6cpFA20",
+     "title": "Béla Fleck - Four Wheel Drive",
+     "channel": "sj music",
+     "duration": 238,
+     "views": 1618,
+     "reason": "wrong length: 3:58 vs 47:55 expected (Spotify)"
+    },
+    {
+     "id": "JaPpoJ1nOBs",
+     "url": "https://www.youtube.com/watch?v=JaPpoJ1nOBs",
+     "title": "Béla Fleck - Four Wheel Drive (Official Audio)",
+     "channel": "Béla Fleck",
+     "duration": 240,
+     "views": 581,
+     "reason": "wrong length: 4:00 vs 47:55 expected (Spotify)"
+    },
+    {
+     "id": "QXEnD1RJnrQ",
+     "url": "https://www.youtube.com/watch?v=QXEnD1RJnrQ",
+     "title": "Béla Fleck - Four Wheel Drive (Official Audio)",
+     "channel": "Béla Fleck",
+     "duration": 240,
+     "views": 108,
+     "reason": "wrong length: 4:00 vs 47:55 expected (Spotify)"
+    },
+    {
+     "id": "aZefGD6UIlM",
+     "url": "https://www.youtube.com/watch?v=aZefGD6UIlM",
+     "title": "Bela Fleck  Drive - Shuckin' The Corn, bonus track",
+     "channel": "Anthony Kost",
+     "duration": 249,
+     "views": 7623,
+     "reason": "wrong length: 4:09 vs 47:55 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 2875,
+    "tracks": 11,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/0KclPgeyUzBKU4pic1to9z"
+   }
+  },
+  {
+   "position": 73,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/jonny-fritz/sweet-creep/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Sweet Creep",
+   "title_latin": null,
+   "year": 2016,
+   "credited_as": null,
+   "artists": [
+    "Jonny Fritz"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "PzYGqqZalX4",
+     "url": "https://www.youtube.com/watch?v=PzYGqqZalX4",
+     "title": "Will Jonny Fritz’s Country-ish ‘Sweet Creep’ Creep Into Your Playlist? -- Album Review",
+     "channel": "Last Week's Album",
+     "duration": 385,
+     "views": 159,
+     "reason": "looks like a review, not the release"
+    }
+   ],
+   "runtime": {
+    "seconds": 1833,
+    "tracks": 11,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/5Y1qqXiM5cPep3XeKAOaOu"
+   }
+  },
+  {
+   "position": 74,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/a-small-good-thing/slim-westerns/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Slim Westerns",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "A Small Good Thing"
+   ],
+   "status": "not_found",
+   "reason": "1 upload(s) matched the names but were rejected",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "6-BDu5B0CKM",
+     "url": "https://www.youtube.com/watch?v=6-BDu5B0CKM",
+     "title": "A SMALL, GOOD THING - \"A Mighty Stillness\" - (Slim Westerns Vol II)",
+     "channel": "chilledfil",
+     "duration": 259,
+     "views": 7071,
+     "reason": "wrong length: 4:19 vs 52:32 expected (Spotify)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3152,
+    "tracks": 13,
+    "source": "Spotify",
+    "url": "https://open.spotify.com/album/4bou79tnXBeOTThQ5P2A3h"
+   }
+  },
+  {
+   "position": 75,
+   "page": 3,
+   "rym_url": "https://rateyourmusic.com/release/album/world-standard/country-gazette/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Country Gazette",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "World Standard"
+   ],
+   "status": "verified",
+   "youtube": {
+    "id": "1YHE5DFEfhA",
+    "url": "https://www.youtube.com/watch?v=1YHE5DFEfhA",
+    "title": "World Standard - Country Gazette [Full Album]",
+    "channel": "CrashBoom le belge",
+    "duration": 3321,
+    "views": 1213
+   },
+   "video_ids": [
+    "1YHE5DFEfhA"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "labelled as the full release",
+    "duration 55:21 vs 55:15 expected (MusicBrainz)"
+   ],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "Nc53l1KK0LQ",
+     "url": "https://www.youtube.com/watch?v=Nc53l1KK0LQ",
+     "title": "World Standard - Country Gazette - Intro",
+     "channel": "Jon Proudman",
+     "duration": 76,
+     "views": 1399,
+     "reason": "wrong length: 1:16 vs 55:15 expected (MusicBrainz)"
+    }
+   ],
+   "runtime": {
+    "seconds": 3315,
+    "tracks": 14,
+    "url": "https://musicbrainz.org/release/18a11d84-b90c-3a5c-8c60-7cd782a38dc6",
+    "source": "MusicBrainz"
+   }
+  }
+ ]
+}

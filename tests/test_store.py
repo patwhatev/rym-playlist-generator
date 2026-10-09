@@ -39,3 +39,14 @@ def test_move_refuses_to_overwrite(repo):
     with pytest.raises(SystemExit):
         store.move('u__list', 'done')
     assert (repo / 'pending' / 'u__list' / 'leftovers.md').exists()
+
+
+def test_old_single_playlist_status_is_migrated(repo):
+    lst, _ = store.load('u__list')
+    assert 'playlist' not in lst['status']
+    store.write_json(repo / 'pending' / 'u__list' / 'list.json', {
+        'id': 'u__list', 'items': [], 'status': {'playlist': {'url': 'https://x', 'parts': [{'id': 'abc'}]}},
+    })
+    lst, _ = store.load('u__list')
+    assert lst['status']['playlists'][0]['parts'][0]['id'] == 'abc'
+    assert lst['status']['playlists'][0]['section'] is None

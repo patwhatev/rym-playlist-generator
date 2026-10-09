@@ -1,0 +1,3561 @@
+{
+ "list": {
+  "id": "DazedandBrutal__ode-to-papua-a-decade-homage-to-rym",
+  "title": "Ode To Papua - A Decade Homage To RYM [Page 5]",
+  "url": "https://rateyourmusic.com/list/DazedandBrutal/ode-to-papua-a-decade-homage-to-rym/",
+  "user": "DazedandBrutal",
+  "captured_at": "2026-10-09T11:20:37.105Z"
+ },
+ "results": [
+  {
+   "position": 1,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/comp/the-misfits/beware/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Beware",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "The Misfits"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Misfits is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 2,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/pere-ubu/datapanik-in-the-year-zero/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Datapanik in the Year Zero",
+   "title_latin": null,
+   "year": 1978,
+   "credited_as": null,
+   "artists": [
+    "Pere Ubu"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Pere Ubu is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/835861dc-c01e-392c-ad85-f19a0dd29f68",
+    "first_release_date": "1978-04",
+    "linked_spotify_artists": [
+     "3V4FPipSnuYjtHnnAw9cZd"
+    ]
+   }
+  },
+  {
+   "position": 3,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/basic-channel/quadrant-dub/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Quadrant Dub",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "Basic Channel"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "42nhTxeaxPiqdi6VHBz08f",
+    "url": "https://open.spotify.com/album/42nhTxeaxPiqdi6VHBz08f",
+    "name": "Quadrant Dub",
+    "album_type": "album",
+    "release_date": "1994",
+    "total_tracks": 2,
+    "upc": "827670742364",
+    "label": "Basic Channel",
+    "artists": [
+     "Basic Channel"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0dC0x8MaaASf0zenCVA4zc",
+    "spotify:track:3YMuK4hHy4Q7Y3NhKjaCd4"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 2 matches MusicBrainz",
+    "year 1994 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/08cd4c08-0233-3c3d-9acc-a4f7fb6beedd",
+    "first_release_date": "1994-04",
+    "linked_spotify_artists": [
+     "37um1uxI92g4ll61LzrtB5"
+    ]
+   }
+  },
+  {
+   "position": 4,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/my-bloody-valentine/you-made-me-realise/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "You Made Me Realise",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "my bloody valentine"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "2koh1DylbwkKhvxGMpA4HJ",
+    "url": "https://open.spotify.com/album/2koh1DylbwkKhvxGMpA4HJ",
+    "name": "you made me realise",
+    "album_type": "single",
+    "release_date": "1988-08-08",
+    "total_tracks": 5,
+    "upc": "887835052660",
+    "label": "Domino Recording Co",
+    "artists": [
+     "my bloody valentine"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:6XXcWVWc4Y8Msqypisg105",
+    "spotify:track:0YY6lMfcrZEa7BTn16MK7I",
+    "spotify:track:3kGDYOXxPrIZSo612DYIeC",
+    "spotify:track:6F7Es4pX9loG3v30IhZmSq",
+    "spotify:track:6ruc46esqrjq8dA1PFiSjb"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 5 matches MusicBrainz",
+    "year 1988 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/d76912e5-b648-32a5-b521-384be78266d5",
+    "first_release_date": "1988-08-08",
+    "linked_spotify_artists": [
+     "3G3Gdm0ZRAOxLrbyjfhii5"
+    ]
+   }
+  },
+  {
+   "position": 5,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/slayer/haunting-the-chapel/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Haunting the Chapel",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Slayer"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "1lQkKqULIeIavDG5OwJZIp",
+    "url": "https://open.spotify.com/album/1lQkKqULIeIavDG5OwJZIp",
+    "name": "Haunting the Chapel",
+    "album_type": "single",
+    "release_date": "1984-08-04",
+    "total_tracks": 4,
+    "upc": "039841949322",
+    "label": "Metal Blade Records",
+    "artists": [
+     "Slayer"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:2F85XBO7N65cav45W5Lc0T",
+    "spotify:track:1dGWlZ9SSm3wY1Qw0xui7K",
+    "spotify:track:71C5LlE8ezoifGhU4oOsmo",
+    "spotify:track:4uDF4DP1B8VquFf8BgwySU"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 039841949322 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 4 matches MusicBrainz",
+    "year 1984 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/bcd5be5d-defa-341b-9546-8c16c4e14cf0",
+    "first_release_date": "1984",
+    "linked_spotify_artists": [
+     "1IQ2e1buppatiN1bxUVkrk"
+    ]
+   }
+  },
+  {
+   "position": 6,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/the-fall/slates/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Slates",
+   "title_latin": null,
+   "year": 1981,
+   "credited_as": null,
+   "artists": [
+    "The Fall"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "6AsI3hP0yKJBuYWLARjTU8",
+    "url": "https://open.spotify.com/album/6AsI3hP0yKJBuYWLARjTU8",
+    "name": "Slates",
+    "album_type": "compilation",
+    "release_date": "1981-04-27",
+    "total_tracks": 13,
+    "upc": "5414939551871",
+    "label": "Castle Communications",
+    "artists": [
+     "The Fall"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:6ggHD3f866Z1eqWVXhA5BM",
+    "spotify:track:1ZgvXpDMATo2xaQf2kZcV0",
+    "spotify:track:0UxVAKrMCRSJx4iT6AYFI2",
+    "spotify:track:4YxWkLHQBNuu8QkO0xvEWw",
+    "spotify:track:4KnKSAxmRNaXmnwZXXhUeG",
+    "spotify:track:2HNpAPAcJ1TUfVflayHkTQ",
+    "spotify:track:7LbtQTmcE1OnuwniR2bUTI",
+    "spotify:track:6J3qH2WzzvIEfCrKreXcug",
+    "spotify:track:4W6BielVyoikYCZv6AhDep",
+    "spotify:track:3vtAdaEhgB72RqA5LOg9NV",
+    "spotify:track:0m2Zau7IRfMYk1xYGxIjpg",
+    "spotify:track:4s7EggmgguY7Nyz1JM39cj",
+    "spotify:track:7yC0qPC40mdIlTvzCnmUkN"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 5414939551871 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 13 matches MusicBrainz",
+    "year 1981 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/cdd63b6e-209e-3635-95cf-510fbfe3a7d5",
+    "first_release_date": "1981-04-27",
+    "linked_spotify_artists": [
+     "6WoTvA9qinpHtSRJuldYh6"
+    ]
+   }
+  },
+  {
+   "position": 7,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/the-misfits/bullet/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Bullet",
+   "title_latin": null,
+   "year": 1978,
+   "credited_as": null,
+   "artists": [
+    "The Misfits"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Misfits is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 8,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/stereolab/fluorescences/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Fluorescences",
+   "title_latin": null,
+   "year": 1996,
+   "credited_as": null,
+   "artists": [
+    "Stereolab"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Stereolab is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/cdc79fbe-81ef-3ae0-a114-bbe3e5ea34e4",
+    "first_release_date": "1996-11-18",
+    "linked_spotify_artists": [
+     "3Rj0tDHoX7C5NFq5DKIpHt"
+    ]
+   }
+  },
+  {
+   "position": 9,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/hellhammer/apocalyptic-raids/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Apocalyptic Raids",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Hellhammer"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "5p0t1Dr6mpbh12R4ZGhmhS",
+    "url": "https://open.spotify.com/album/5p0t1Dr6mpbh12R4ZGhmhS",
+    "name": "Apocalyptic Raids",
+    "album_type": "single",
+    "release_date": "1984-03-05",
+    "total_tracks": 6,
+    "upc": "4050538508765",
+    "label": "Noise Records",
+    "artists": [
+     "Hellhammer"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:5QiiJr1ipWgyyhI2dF8lB6",
+    "spotify:track:5rw9ed6f9o8RepCbdM4MEq",
+    "spotify:track:0ITdpIZrG4IyKyyy3DMT4f",
+    "spotify:track:0mtjxQSpwvZlbe4a7pjwXy",
+    "spotify:track:5TulL1m0p6NYf23cl373vH",
+    "spotify:track:0fqRBOC7OclT34Zb7rPhuw"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 4050538508765 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 6 matches MusicBrainz",
+    "year 1984 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/15eb6523-c65c-38f3-b937-bcd2aa0790a8",
+    "first_release_date": "1984-03-07",
+    "linked_spotify_artists": [
+     "3FrsGZO0uosIs2Vn2TJhQY"
+    ]
+   }
+  },
+  {
+   "position": 10,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/black-tambourine/throw-aggi-off-the-bridge/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Throw Aggi Off the Bridge",
+   "title_latin": null,
+   "year": 1992,
+   "credited_as": null,
+   "artists": [
+    "Black Tambourine"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Black Tambourine is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/bd1ddc61-c82b-4164-b302-34653c476acd",
+    "first_release_date": "1992",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 11,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/robert-rental-the-normal/live-at-west-runton-pavilion-6-3-79/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Live at West Runton Pavilion, 6-3-79.",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": "411. Robert Rental & The Normal",
+   "artists": [
+    "Robert Rental",
+    "The Normal"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Robert Rental is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 12,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/butthole-surfers/butthole-surfers/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Butthole Surfers",
+   "title_latin": null,
+   "year": 1983,
+   "credited_as": null,
+   "artists": [
+    "Butthole Surfers"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Butthole Surfers is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/f2b10968-98f5-3a09-8e11-c506adcdf83d",
+    "first_release_date": "1983",
+    "linked_spotify_artists": [
+     "62BcWP4fzR8axESibNQEhs"
+    ]
+   }
+  },
+  {
+   "position": 13,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/mission-of-burma/signals-calls-and-marches/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Signals, Calls, and Marches",
+   "title_latin": null,
+   "year": 1981,
+   "credited_as": null,
+   "artists": [
+    "Mission of Burma"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "3MylADAiyOAf5ddH6iiflo",
+    "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo",
+    "name": "Signals, Calls and Marches",
+    "album_type": "album",
+    "release_date": "1981-07-04",
+    "total_tracks": 10,
+    "upc": "744861073062",
+    "label": "Matador",
+    "artists": [
+     "Mission Of Burma"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:7jOWRM3Me16IP99EqgZzHN",
+    "spotify:track:517YsHcV52sheiV7dX7zwx",
+    "spotify:track:3F9vydIRGFp29sFKtZ8lcr",
+    "spotify:track:75cVSsnwv4o073D5jFdAp7",
+    "spotify:track:3bSKHihztyH9D1ZyQsoqzI",
+    "spotify:track:5hR7F69mVeZWT7JpkCmWby",
+    "spotify:track:2dR0ySCtWekaSPA9I7opId",
+    "spotify:track:2HReLEDAdWfibGdig8ilMo",
+    "spotify:track:0Q3rL5T0aCn6268vJSfV3y",
+    "spotify:track:3kBtULWluRlUTAaNam4VNP"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 744861073062 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 10 matches MusicBrainz",
+    "year 1981 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/52e9803d-0920-3202-9e94-92dbcaee5273",
+    "first_release_date": "1981-08",
+    "linked_spotify_artists": [
+     "5UMQV83wwZCCvRSQCVjZw6"
+    ]
+   }
+  },
+  {
+   "position": 14,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/dj-assault/jungle-love-ep/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Jungle Love EP",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "DJ Assault"
+   ],
+   "status": "not_found",
+   "reason": "an artist named DJ Assault is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 15,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/دمار/triumph-through-spears-of-sacrilege/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Triumph Through Spears of Sacrilege",
+   "title_latin": null,
+   "year": 2007,
+   "credited_as": null,
+   "artists": [
+    "دمار [Damaar]"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Damaar is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/3b00ae68-c742-4754-b655-c644f921fc04",
+    "first_release_date": "2007-12-05",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 16,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/shake/_waiting-for-russell/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "...Waiting for Russell",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "Shake"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Shake is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/8492a813-ad38-452b-8761-811c286d4b94",
+    "first_release_date": "1998",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 17,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/basic-channel/phylyps-trak/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Phylyps Trak",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "Basic Channel"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "7C58OTvaGOkDzc3yp4gsyc",
+    "url": "https://open.spotify.com/album/7C58OTvaGOkDzc3yp4gsyc",
+    "name": "Phylyps Trak",
+    "album_type": "single",
+    "release_date": "1993",
+    "total_tracks": 3,
+    "upc": "827670741961",
+    "label": "Basic Channel",
+    "artists": [
+     "Basic Channel"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:3kpEWFAzNVgFTGdxVX3E8w",
+    "spotify:track:2qqMzTmehGRpo6d5uWUV4R",
+    "spotify:track:39PmCx0tNP9odkhgM8v5S1"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 3 matches MusicBrainz",
+    "year 1993 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/8ae7525f-11a6-39d3-8494-0bddedf0b7ea",
+    "first_release_date": "1993-10",
+    "linked_spotify_artists": [
+     "37um1uxI92g4ll61LzrtB5"
+    ]
+   }
+  },
+  {
+   "position": 18,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/slowdive/slowdive/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Slowdive",
+   "title_latin": null,
+   "year": 1990,
+   "credited_as": null,
+   "artists": [
+    "Slowdive"
+   ],
+   "status": "uncertain",
+   "spotify": {
+    "id": "1qDA0jVhj4ZTjGHmpbmmwa",
+    "url": "https://open.spotify.com/album/1qDA0jVhj4ZTjGHmpbmmwa",
+    "name": "Slowdive",
+    "album_type": "album",
+    "release_date": "2017-05-05",
+    "total_tracks": 8,
+    "upc": "656605143262",
+    "label": "Dead Oceans",
+    "artists": [
+     "Slowdive"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0KYOthr76o5GlmYLEfp9OX",
+    "spotify:track:7nq6qpHhCJ3pNOa3KHi8fe",
+    "spotify:track:3X3bnDoDXEuxt5R1iNJgmV",
+    "spotify:track:0eVz3hV2xOXdneGpnWDFpb",
+    "spotify:track:6wPeyFOPttrFZ5cWr77wRg",
+    "spotify:track:3q4YT4K5Xj6v9bWFb7OudB",
+    "spotify:track:4WAOdPcGchhto2JyJrWcQL",
+    "spotify:track:4EocLlVV582YshaT7aXZxR"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links"
+   ],
+   "warnings": [
+    "Spotify date 2017-05-05 vs RYM 1990: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/d123a649-b909-3303-9a78-dc26b8b6d328",
+    "first_release_date": "1990-11-05",
+    "linked_spotify_artists": [
+     "72X6FHxaShda0XeQw3vbeF"
+    ]
+   }
+  },
+  {
+   "position": 19,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/comp/iggy-and-the-stooges/im-sick-of-you/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "I'm Sick of You!",
+   "title_latin": null,
+   "year": 1981,
+   "credited_as": null,
+   "artists": [
+    "Iggy and The Stooges"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Iggy & The Stooges is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 20,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/rudimentary-peni/farce/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Farce",
+   "title_latin": null,
+   "year": 1982,
+   "credited_as": null,
+   "artists": [
+    "Rudimentary Peni"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "33anDvleIoTQRDliTJe3gl",
+    "url": "https://open.spotify.com/album/33anDvleIoTQRDliTJe3gl",
+    "name": "Farce",
+    "album_type": "album",
+    "release_date": "2023-09-29",
+    "total_tracks": 11,
+    "upc": "5016958104207",
+    "label": "Crass Records",
+    "artists": [
+     "Rudimentary Peni"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:5WJL0kDn22JXOMeN54l3Es",
+    "spotify:track:2XfjWtK7gWlmWwNROlNega",
+    "spotify:track:4XNkjW0kST0mnr3pWzqRf4",
+    "spotify:track:1ozbaeaYLVAqwLJ1r9q460",
+    "spotify:track:7eeLGV3Js80bOHvYmIKPoH",
+    "spotify:track:1cks0gv7YiqreMRnDfWopC",
+    "spotify:track:2XsmyOTrjLcno0jbSWDmj4",
+    "spotify:track:6olAfHZB9F4kYuh4EFDZRf",
+    "spotify:track:6FCVMbAlXKoBsU96zel3tD",
+    "spotify:track:5Tn1b6XP1RKLt0TzD5h3pG",
+    "spotify:track:7dCEcAbiqSV4ksHkcsAycB"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 11 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2023-09-29 vs RYM 1982: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/88e744b0-1f27-3b98-967c-827e54d77610",
+    "first_release_date": "1982",
+    "linked_spotify_artists": [
+     "6NCFDKbtkbJhgjQcFicLBi"
+    ]
+   }
+  },
+  {
+   "position": 21,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/single/loop-7/the-theme/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "The Theme",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "Loop 7"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "4EzVPtUDnlvwO8unXJkJWP",
+    "url": "https://open.spotify.com/album/4EzVPtUDnlvwO8unXJkJWP",
+    "name": "The Theme",
+    "album_type": "single",
+    "release_date": "1994-01-01",
+    "total_tracks": 4,
+    "upc": "0732183226266",
+    "label": "Strictly Rhythm Records",
+    "artists": [
+     "Loop 7"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:686ljlxf3FZchuJpXKFVsC",
+    "spotify:track:0ExtPGk4PLfN1EqnChzCJp",
+    "spotify:track:0PyfkW3mbN6tFS4fB12i0q",
+    "spotify:track:3LviDinCv4NJNqV8hePOUr"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 4 matches MusicBrainz",
+    "year 1994 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/38efcfaa-68c2-4c8f-8aac-47278082e88b",
+    "first_release_date": "1994-06-15",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 22,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/pussy-galore/groovy-hate-fuck/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Groovy Hate Fuck",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "Pussy Galore"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Pussy Galore is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/7ca2fefc-8ce1-379f-949d-33cb66b3c8aa",
+    "first_release_date": "1986-06",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 23,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/jim-orourke/halfway-to-a-threeway/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Halfway to a Threeway",
+   "title_latin": null,
+   "year": 1999,
+   "credited_as": null,
+   "artists": [
+    "Jim O'Rourke"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Jim O'Rourke is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/1a1bc15a-63f5-375f-a0c7-ac7297c79a64",
+    "first_release_date": "1999-11-22",
+    "linked_spotify_artists": [
+     "46urSPEzIrRVqKqciwOq2f"
+    ]
+   }
+  },
+  {
+   "position": 24,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/xtc/xtc-ep/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "XTC EP",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "XTC"
+   ],
+   "status": "not_found",
+   "reason": "an artist named XTC is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 25,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/album/celtic-frost/morbid-tales/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "Morbid Tales",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Celtic Frost"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "44zdONTM6zSrXMJUV93BBM",
+    "url": "https://open.spotify.com/album/44zdONTM6zSrXMJUV93BBM",
+    "name": "Morbid Tales",
+    "album_type": "album",
+    "release_date": "1984-01-01",
+    "total_tracks": 9,
+    "upc": "4050538839432",
+    "label": "Noise Records",
+    "artists": [
+     "Celtic Frost"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:1E1qKI6JcbpF8LkClDQ4GV",
+    "spotify:track:59AssriS93tcokyQYn2H4W",
+    "spotify:track:5U85Vq37sURrhLW57opXfp",
+    "spotify:track:1QZx0Kokk16sAdT7OtxMFN",
+    "spotify:track:79vnHUZcgBsoQt4lt1dRW8",
+    "spotify:track:7A4FtzpkmC1lNAr2kRBKmi",
+    "spotify:track:4WUSZamjeWasAeSCtExulv",
+    "spotify:track:3tS243TeuD8CYKML8Tn219",
+    "spotify:track:34p8q6p3EFQkxCh9FaW7B1"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 4050538839432 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 9 matches MusicBrainz",
+    "year 1984 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/c0787405-1e45-4cb3-b2c4-41cffb1c9ae0",
+    "first_release_date": "1984-06-24",
+    "linked_spotify_artists": [
+     "4ZISAmHmQUDCpv8xydqeKG"
+    ]
+   }
+  },
+  {
+   "position": 26,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/black-flag/nervous-breakdown/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Nervous Breakdown",
+   "title_latin": null,
+   "year": 1979,
+   "credited_as": null,
+   "artists": [
+    "Black Flag"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "4jBYjoYLD7GOHzVQ8olPlV",
+    "url": "https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV",
+    "name": "Nervous Breakdown",
+    "album_type": "single",
+    "release_date": "1979-01-01",
+    "total_tracks": 4,
+    "upc": "669910743850",
+    "label": "SST Records",
+    "artists": [
+     "Black Flag"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:3NoOwvxhI2yMYknxqnFUVx",
+    "spotify:track:63ISXOWS5gmluVZabtaEzF",
+    "spotify:track:5b0kcwMjAES1SKEHBxQHAJ",
+    "spotify:track:4nrsxlCHeaa8NLrfhCI05b"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 669910743850 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 4 matches MusicBrainz",
+    "year 1979 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/db01619d-f228-3f17-8205-2b63e11d6493",
+    "first_release_date": "1978-01-01",
+    "linked_spotify_artists": [
+     "5Mhs3Eu8lU6sRCtRYsmABV"
+    ]
+   }
+  },
+  {
+   "position": 27,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/the-pogues/poguetry-in-motion/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Poguetry in Motion",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "The Pogues"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "5cN82vKT7doS8kTAFD7CyC",
+    "url": "https://open.spotify.com/album/5cN82vKT7doS8kTAFD7CyC",
+    "name": "Poguetry in Motion",
+    "album_type": "single",
+    "release_date": "1986-02-24",
+    "total_tracks": 4,
+    "upc": "190295663735",
+    "label": "Rhino",
+    "artists": [
+     "The Pogues"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0fav4btljCVego6AYkV2DR",
+    "spotify:track:3FaSFEX5Uw9zXwGMjZdtjO",
+    "spotify:track:3Bfgv74kpqdwfN8zICD6Ts",
+    "spotify:track:1y28g5MTNEuOV1HVtnQfoR"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 190295663735 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 4 matches MusicBrainz",
+    "year 1986 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/8dd08291-7883-323f-b7ec-29b934a69d5f",
+    "first_release_date": "1986-02",
+    "linked_spotify_artists": [
+     "2wzMOQwNT6ZvVB4amvhFAH"
+    ]
+   }
+  },
+  {
+   "position": 28,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/cyrus/inversion/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Inversion",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "Cyrus"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Cyrus is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/aaea6ae8-d494-3718-becc-f159fc184736",
+    "first_release_date": "1994-01",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 29,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/dead_congregation/purifying_consecrated_ground/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Purifying Consecrated Ground",
+   "title_latin": null,
+   "year": 2006,
+   "credited_as": null,
+   "artists": [
+    "Dead Congregation"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "7Do0frzuYIqzWqmsjl0XYl",
+    "url": "https://open.spotify.com/album/7Do0frzuYIqzWqmsjl0XYl",
+    "name": "Purifying Consecrated Ground (2022 Remastered Version)",
+    "album_type": "single",
+    "release_date": "2023-01-10",
+    "total_tracks": 5,
+    "upc": "859769576390",
+    "label": "Dead Congregation",
+    "artists": [
+     "Dead Congregation"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:5eDzPR0tsYMLKqXrKHkpsk",
+    "spotify:track:7IbDMQaD862YyRHJUpePzD",
+    "spotify:track:658tVV84oM4Z1Y881f6Zld",
+    "spotify:track:57m0xY4MNopCANgKIkSlU6",
+    "spotify:track:1xfOEzVlSFWnOvdBV8HcUu"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 859769576390 matches a MusicBrainz release",
+    "track count 5 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2023-01-10 vs RYM 2006: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/b6f7350e-777c-3052-9816-a4d665399066",
+    "first_release_date": "2005",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 30,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/my-bloody-valentine/tremolo-e_p/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Tremolo E.P.",
+   "title_latin": null,
+   "year": 1991,
+   "credited_as": null,
+   "artists": [
+    "my bloody valentine"
+   ],
+   "status": "not_found",
+   "reason": "an artist named my bloody valentine is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 31,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/current-93/lucifer-over-london/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Lucifer Over London",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "Current 93"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Current 93 is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/c3499ca2-6a07-3377-8a4d-7b85e7c9d126",
+    "first_release_date": "1994-04-28",
+    "linked_spotify_artists": [
+     "7vF3DcPluq6lZI36VniagW"
+    ]
+   }
+  },
+  {
+   "position": 32,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/clothilde/saperlipopette/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Saperlipopette",
+   "title_latin": null,
+   "year": 1967,
+   "credited_as": null,
+   "artists": [
+    "Clothilde"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Clothilde is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/fdbd36a7-d12c-4761-9848-661d3a20d38b",
+    "first_release_date": "1967",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 33,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/ur/the-final-frontier/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "The Final Frontier",
+   "title_latin": null,
+   "year": 1991,
+   "credited_as": null,
+   "artists": [
+    "UR"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/5edcc77e-3fab-35a4-bbd0-06930857d01d",
+    "first_release_date": "1991",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 34,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/yoran/montparnasse/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Montparnasse",
+   "title_latin": null,
+   "year": 1981,
+   "credited_as": null,
+   "artists": [
+    "Yōran"
+   ],
+   "status": "not_found",
+   "reason": "an artist named YORAN is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/1dda26a5-0a31-4898-b371-83a08e0427ee",
+    "first_release_date": "1981",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 35,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/this-heat/health-and-efficiency/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Health and Efficiency",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "This Heat"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "6ZmIx15nnYBTLvyG1LaTaA",
+    "url": "https://open.spotify.com/album/6ZmIx15nnYBTLvyG1LaTaA",
+    "name": "Health and Efficiency",
+    "album_type": "single",
+    "release_date": "1980-07-25",
+    "total_tracks": 2,
+    "upc": "5060049550046",
+    "label": "This Heat",
+    "artists": [
+     "This Heat"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:4qkuZ5vAFQsloYdmt9dAnB",
+    "spotify:track:4lpaSprVtsTdrgWwhpARde"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 5060049550046 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 2 matches MusicBrainz",
+    "year 1980 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/3fd03287-c292-353e-be91-951cede35243",
+    "first_release_date": "1980",
+    "linked_spotify_artists": [
+     "2wXUKlYvdBHn2MNeRKgG6W"
+    ]
+   }
+  },
+  {
+   "position": 36,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/boredoms/super-roots-7/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Super Roots 7",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "Boredoms"
+   ],
+   "status": "uncertain",
+   "spotify": {
+    "id": "6D8HD7W0KtSt4wKWj0eRZK",
+    "url": "https://open.spotify.com/album/6D8HD7W0KtSt4wKWj0eRZK",
+    "name": "Super Roots #9",
+    "album_type": "single",
+    "release_date": "2004-04-08",
+    "total_tracks": 1,
+    "upc": "790377019728",
+    "label": "Thrill Jockey",
+    "artists": [
+     "Boredoms"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:4QYyQZJEP5iejwBnZiv9iS"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 92"
+   ],
+   "warnings": [
+    "Spotify date 2004-04-08 vs RYM 1998: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/1745b303-65d8-391a-a9ff-fdf6e9a06ae1",
+    "first_release_date": "1998-11-26",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 37,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/godflesh/godflesh/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Godflesh",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Godflesh"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "41Cm2L0F3Vmzp5VcrmCxKc",
+    "url": "https://open.spotify.com/album/41Cm2L0F3Vmzp5VcrmCxKc",
+    "name": "Godflesh",
+    "album_type": "album",
+    "release_date": "1988",
+    "total_tracks": 8,
+    "upc": "5018615102021",
+    "label": "Earache Records Ltd",
+    "artists": [
+     "Godflesh"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:4gU6IN1PSMpfkQARADBRql",
+    "spotify:track:4Vq3HmP8QBtIB3E8DKvsEE",
+    "spotify:track:4k3wSMXXvJgV2OsDLA2lZp",
+    "spotify:track:52aDK5McEPBxK7w0dsaWZC",
+    "spotify:track:2qNZNqfWvQnJJhCmzgN2Tn",
+    "spotify:track:2yvgGIdirlZAz5NcamW3wW",
+    "spotify:track:78MOmnTwtVkxzSUyRj8R4c",
+    "spotify:track:1peCVw3TjkGHL2UvtsgBBm"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 5018615102021 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 8 matches MusicBrainz",
+    "year 1988 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/b746cfe7-c0a3-3683-8a97-2843bcacfef9",
+    "first_release_date": "1988",
+    "linked_spotify_artists": [
+     "5A4ebXQf38xWIq0xSWLhsS"
+    ]
+   }
+  },
+  {
+   "position": 38,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/the-gerogerigegege/北の丸百景/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "北の丸百景",
+   "title_latin": "Kitanomaru hyakkei",
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "The Gerogerigegege"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Gerogerigegege is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/aa908df8-2c0c-4518-868c-425be2407f3b",
+    "first_release_date": "1993",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 39,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/rocky-dennis/maple-leaves/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Maple Leaves",
+   "title_latin": null,
+   "year": 2003,
+   "credited_as": null,
+   "artists": [
+    "Rocky Dennis"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 40,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/christian-marclay/record-without-a-cover/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Record Without a Cover",
+   "title_latin": null,
+   "year": 1985,
+   "credited_as": null,
+   "artists": [
+    "Christian Marclay"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Christian Marclay is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/2988a3dc-8acf-4135-9137-ff259b2bcd2d",
+    "first_release_date": "1985",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 41,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/minutemen/buzz_or_howl_under_the_influence_of_heat/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Buzz or Howl Under the Influence of Heat",
+   "title_latin": null,
+   "year": 1983,
+   "credited_as": null,
+   "artists": [
+    "Minutemen"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "5G6YCclLa3K8lPuFNMbw4x",
+    "url": "https://open.spotify.com/album/5G6YCclLa3K8lPuFNMbw4x",
+    "name": "Buzz or Howl Under the Influence of Heat",
+    "album_type": "single",
+    "release_date": "1983",
+    "total_tracks": 9,
+    "upc": "669910740354",
+    "label": "SST Records",
+    "artists": [
+     "Minutemen"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:2PddrXIAv1I9Jb3E9Zc5n8",
+    "spotify:track:5OBTn6gfqIulH5F8SD66vD",
+    "spotify:track:2QGZhNqh0aX3O7BIITaCEw",
+    "spotify:track:6KwCy122KEYCr0rEKOfOP1",
+    "spotify:track:6cS0noeZVAkTvtTc4UC32h",
+    "spotify:track:6k2rZoSohrURxfo4YtzI6f",
+    "spotify:track:0eO0Fx8SCp7wHdyqRX75k1",
+    "spotify:track:3rx424lBV5i6F3WpMtAIw7",
+    "spotify:track:1v8SMibONhYhGDOmjtvj85"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 669910740354 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 9 matches MusicBrainz",
+    "year 1983 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/c724268a-5b4c-31f9-81ea-0a477d949f61",
+    "first_release_date": "1983-11",
+    "linked_spotify_artists": [
+     "0z6zRFzl5njXWLVAisXQBz"
+    ]
+   }
+  },
+  {
+   "position": 42,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/additional/carnage/the-day-man-lost/",
+   "rym_type": "additional",
+   "type_label": "Additional release",
+   "title": "The Day Man Lost...",
+   "title_latin": null,
+   "year": 1989,
+   "credited_as": null,
+   "artists": [
+    "Carnage"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Carnage is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/fe31ac71-7c82-4b56-999c-65ff68098723",
+    "first_release_date": "1989-01",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 43,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/coil/autumn-equinox-amethyst-deceivers/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Autumn Equinox: Amethyst Deceivers",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "Coil"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Coil is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/eee8e9d6-988b-3342-9f01-f914c54821c2",
+    "first_release_date": "1998-09",
+    "linked_spotify_artists": [
+     "37KB5e6cGsN1AQAB9Omm1U"
+    ]
+   }
+  },
+  {
+   "position": 44,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/godspeed-you-black-emperor/slow-riot-for-new-zero-kanada-e_p-1/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Slow Riot for New Zero Kanada E.P.",
+   "title_latin": null,
+   "year": 1999,
+   "credited_as": null,
+   "artists": [
+    "Godspeed You Black Emperor!"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 45,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/fugazi/fugazi/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Fugazi",
+   "title_latin": null,
+   "year": 1988,
+   "credited_as": null,
+   "artists": [
+    "Fugazi"
+   ],
+   "status": "not_found",
+   "reason": "no Spotify candidates passed validation",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [
+    {
+     "id": "0CzDtj1Ze4gMWEB3aHOYxc",
+     "url": "https://open.spotify.com/album/0CzDtj1Ze4gMWEB3aHOYxc",
+     "name": "FUGAZIIN",
+     "album_type": "single",
+     "release_date": "2024-12-05",
+     "total_tracks": 6,
+     "upc": "199096957586",
+     "label": "8397741 Records DK",
+     "artists": [
+      "Fugazii"
+     ],
+     "reason": "same-name artist: MusicBrainz links this artist to a different Spotify profile"
+    },
+    {
+     "id": "3y05OORuOlceqrtxKnfrD1",
+     "url": "https://open.spotify.com/album/3y05OORuOlceqrtxKnfrD1",
+     "name": "Fugazing",
+     "album_type": "single",
+     "release_date": "2022-10-11",
+     "total_tracks": 2,
+     "upc": "859766160431",
+     "label": "Worldwide No Label",
+     "artists": [
+      "Fugazing"
+     ],
+     "reason": "same-name artist: MusicBrainz links this artist to a different Spotify profile"
+    }
+   ],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/5be01c92-bb45-326c-9634-badf08f9ad7f",
+    "first_release_date": "1988",
+    "linked_spotify_artists": [
+     "62sC6lUEWRjbFqXpMmOk4G"
+    ]
+   }
+  },
+  {
+   "position": 46,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/mayhem/deathcrush/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Deathcrush",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Mayhem"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "2RxBdrvHKwgx57RKrNQ9hz",
+    "url": "https://open.spotify.com/album/2RxBdrvHKwgx57RKrNQ9hz",
+    "name": "Deathcrush",
+    "album_type": "single",
+    "release_date": "1993",
+    "total_tracks": 6,
+    "upc": "7071155278074",
+    "label": "Voices Of Wonder",
+    "artists": [
+     "Mayhem"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0BCILt5ETtMS99ONaIexDm",
+    "spotify:track:5wWRdIjndDOh1j4OXAPpdD",
+    "spotify:track:0GoyU0X4nwqUigVwBPSDen",
+    "spotify:track:7Kvk7VM5yI9iXzJnmE2YuV",
+    "spotify:track:0aqQOryIUPPgtAhSP8YTGk",
+    "spotify:track:0SV9f6s9hmm6gE2ujst1yd"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 7071155278074 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 6 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 1993 vs RYM 1987: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/05f535dd-d5cf-30ba-aa3d-647f8685f3a5",
+    "first_release_date": "1987-03",
+    "linked_spotify_artists": [
+     "0dR10i73opHXuRuLbgxltM"
+    ]
+   }
+  },
+  {
+   "position": 47,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/dj-funk/ghetto-house-anthems/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Ghetto House Anthems",
+   "title_latin": null,
+   "year": 1996,
+   "credited_as": null,
+   "artists": [
+    "DJ Funk"
+   ],
+   "status": "not_found",
+   "reason": "an artist named dj funk is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/58ef400e-6631-436f-9388-20c0ba14ec84",
+    "first_release_date": "1996",
+    "linked_spotify_artists": [
+     "6M0FCfVRUo5DUuziqLFjJ0",
+     "6teHVusq7aOvo7Tjo5Cevs"
+    ]
+   }
+  },
+  {
+   "position": 48,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/dystopia/human-garbage/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Human = Garbage",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "Dystopia"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "7w6ExTkJw1ZtCOk7da5JxE",
+    "url": "https://open.spotify.com/album/7w6ExTkJw1ZtCOk7da5JxE",
+    "name": "Human = Garbage",
+    "album_type": "album",
+    "release_date": "1994-10-14",
+    "total_tracks": 12,
+    "upc": "889845640646",
+    "label": "Tankcrimes",
+    "artists": [
+     "Dystopia"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:5XsdXJJYkUfFjEtXEdmlw1",
+    "spotify:track:1XgEQLn5DrYN0E18l7QWis",
+    "spotify:track:1BxZADEWX9hMRjpOy46u8X",
+    "spotify:track:4qWy3C6boIUgdzueJHGxOk",
+    "spotify:track:365vOT425lDMJlUxWfkwyy",
+    "spotify:track:2vMyIYBadDqyiSEnzlG2j9",
+    "spotify:track:465tfcs2w59ucIPktjpcri",
+    "spotify:track:5kE71G1yqbKx96FcHsv5Il",
+    "spotify:track:25DEHlP94YcI98TWDQ6Alz",
+    "spotify:track:5qPp3nf8kvwjG4sBvH6Zh6",
+    "spotify:track:05YrEniPYW7YNFmsMDOVRN",
+    "spotify:track:1TKP9ueXeFWVWU7t1RVkKw"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 12 matches MusicBrainz",
+    "year 1994 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/d76c5c1f-799b-4365-8f8c-4a23393a8e4f",
+    "first_release_date": "1994",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 49,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/comp/siege/drop-dead-4/",
+   "rym_type": "comp",
+   "type_label": "Compilation",
+   "title": "Drop Dead",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "Siege"
+   ],
+   "status": "uncertain",
+   "spotify": {
+    "id": "7kIvlhU8SmzVu8C9zB6EWQ",
+    "url": "https://open.spotify.com/album/7kIvlhU8SmzVu8C9zB6EWQ",
+    "name": "Drop Dead (30th Anniversary Edition)",
+    "album_type": "album",
+    "release_date": "2015-03-01",
+    "total_tracks": 13,
+    "upc": "889176698873",
+    "label": "Armageddon Label",
+    "artists": [
+     "Siege"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:7yG6XqTFKe2fLTOoAm2ek1",
+    "spotify:track:5ZX47XAYtfL74NqXVgwXn6",
+    "spotify:track:7c79Upam046MaHiUsohjJt",
+    "spotify:track:3s6zTt7BSZrlNXrDyxpaCN",
+    "spotify:track:6CbtnoixjAtTipAbbjXoWG",
+    "spotify:track:0WO5SQtxi7Ew0bG7hPf5EY",
+    "spotify:track:1bc6DpfT5hKeL7wJMhOiic",
+    "spotify:track:7ypxj06EK7xlYf7qKjXO4j",
+    "spotify:track:4njagVU9Lui46VYynaGJgP",
+    "spotify:track:24pRsX1UpM15KAXqX25Ikt",
+    "spotify:track:1pYSer4SRIf60mvjifpnvF",
+    "spotify:track:4LJLJhfUiA7jOS49HNtspK",
+    "spotify:track:2WXtODv5s1K2Lz5uFEfEDt"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100"
+   ],
+   "warnings": [
+    "Spotify date 2015-03-01 vs RYM 1993: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 50,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/slowdive/morningrise/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Morningrise",
+   "title_latin": null,
+   "year": 1991,
+   "credited_as": null,
+   "artists": [
+    "Slowdive"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Slowdive is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/328560b2-aeee-30ad-8180-89a1ed7697a7",
+    "first_release_date": "1991-02-18",
+    "linked_spotify_artists": [
+     "72X6FHxaShda0XeQw3vbeF"
+    ]
+   }
+  },
+  {
+   "position": 51,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/nasty_facts/drive_my_car/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Drive My Car",
+   "title_latin": null,
+   "year": 1981,
+   "credited_as": null,
+   "artists": [
+    "Nasty Facts"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "3tgEKcoAGvKRZk7vanUODj",
+    "url": "https://open.spotify.com/album/3tgEKcoAGvKRZk7vanUODj",
+    "name": "Drive My Car",
+    "album_type": "single",
+    "release_date": "1981-01-01",
+    "total_tracks": 3,
+    "upc": "781876100512",
+    "label": "Left For Dead",
+    "artists": [
+     "Nastyfacts"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0EblA5l2Q66Llw8hr0pfP3",
+    "spotify:track:336Xj1YVXajkj8GCgMfSrX",
+    "spotify:track:3OPFumLxC9X4TkC06WdmX7"
+   ],
+   "evidence": [
+    "artist similarity 95, title similarity 100",
+    "track count 3 matches MusicBrainz",
+    "year 1981 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/2da66534-1229-3954-96a2-7b403f46daa3",
+    "first_release_date": "1981",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 52,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/savatage/the-dungeons-are-calling/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "The Dungeons Are Calling",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Savatage"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "0vdqAhwqzVSErTcdiuI2vv",
+    "url": "https://open.spotify.com/album/0vdqAhwqzVSErTcdiuI2vv",
+    "name": "The Dungeons Are Calling",
+    "album_type": "single",
+    "release_date": "1984-03-22",
+    "total_tracks": 6,
+    "upc": "195497313037",
+    "label": "MRI",
+    "artists": [
+     "Savatage"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:7ojKuf2fLf3I2CaYXKyWc7",
+    "spotify:track:7nQD61umuojFEjPVE6ofxG",
+    "spotify:track:0PicuJqyCDBHewvaHI7BIH",
+    "spotify:track:6UD6ivm2lfk4V06OBKVTXn",
+    "spotify:track:7mdBPbfAufOo6HwE6rnla2",
+    "spotify:track:2T3naAvtq0BvxlIGjTuH2Z"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 195497313037 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 6 matches MusicBrainz",
+    "year 1984 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/9d7f8926-2d31-34bf-bd11-1916c3002036",
+    "first_release_date": "1984",
+    "linked_spotify_artists": [
+     "3N1B1g6JtIgd6ClRkzD4yT"
+    ]
+   }
+  },
+  {
+   "position": 53,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/t_s_o_l/t_s_o_l/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "T.S.O.L.",
+   "title_latin": null,
+   "year": 1981,
+   "credited_as": null,
+   "artists": [
+    "T.S.O.L."
+   ],
+   "status": "not_found",
+   "reason": "an artist named T.S.O.L. is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/513fa02f-1054-372e-b914-1a0d69b3c272",
+    "first_release_date": "1981",
+    "linked_spotify_artists": [
+     "4oPMm2idleIKLdBWgZilSi"
+    ]
+   }
+  },
+  {
+   "position": 54,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/destruction/sentence-of-death/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Sentence of Death",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Destruction"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "7HOTAkNpLiNtBg70E8BhV1",
+    "url": "https://open.spotify.com/album/7HOTAkNpLiNtBg70E8BhV1",
+    "name": "Sentence Of Death",
+    "album_type": "single",
+    "release_date": "1984",
+    "total_tracks": 6,
+    "upc": "4050215260917",
+    "label": "Brain Butcher Compact",
+    "artists": [
+     "Destruction"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:01BTEdWbKU2qKw6nfcDia2",
+    "spotify:track:6rLepWsjkFl7oQgoEpckQp",
+    "spotify:track:71m98VPEFV3vwVYBmpFxcV",
+    "spotify:track:6qjOQSSLUealhSEd4Uy1dq",
+    "spotify:track:04tnE9Te0ahLAuGlzuYHOZ",
+    "spotify:track:6qSClWUROBdWfpkZUfQygp"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 4050215260917 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 6 matches MusicBrainz",
+    "year 1984 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/ef137689-0529-3954-ac4d-469f59f72f13",
+    "first_release_date": "1984-09-03",
+    "linked_spotify_artists": [
+     "5d6KI8frPEo3qGsIL8Sak2"
+    ]
+   }
+  },
+  {
+   "position": 55,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/album/dave-phillips/the-hermeneutics-of-fear-of-god/",
+   "rym_type": "album",
+   "type_label": "Album",
+   "title": "The Hermeneutics of Fear of God",
+   "title_latin": null,
+   "year": 2003,
+   "credited_as": null,
+   "artists": [
+    "Dave Phillips"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Dave Phillips is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 56,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/human-remains/using-sickness-as-a-hero/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Using Sickness as a Hero",
+   "title_latin": null,
+   "year": 1996,
+   "credited_as": null,
+   "artists": [
+    "Human Remains"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "0a2pznUCA1JGmSJo1LAosc",
+    "url": "https://open.spotify.com/album/0a2pznUCA1JGmSJo1LAosc",
+    "name": "Using Sickness as a Hero",
+    "album_type": "album",
+    "release_date": "1996-09-10",
+    "total_tracks": 12,
+    "upc": "781676692729",
+    "label": "Relapse Records",
+    "artists": [
+     "Human Remains"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:6kWDwPpGGKOnXOhWuBpxW5",
+    "spotify:track:3kKDOPxEqxIXUVYTIav4it",
+    "spotify:track:69sqgSNCFIH5fdYEmhKfV2",
+    "spotify:track:4qVLCSzgDX4YJFdTXVMG4Y",
+    "spotify:track:4dAx4GHEncN1IvMq6lXriL",
+    "spotify:track:2L8cuda5xeGZ8BPUp1wf1t",
+    "spotify:track:7niwxiZXmrLrRiyYClnzXW",
+    "spotify:track:3C0fY95g1gewfDBEGAdBCt",
+    "spotify:track:0OvEMlpldITlkeFHsjxP9e",
+    "spotify:track:7uPyIUR5yXfnD1jApuC0Od",
+    "spotify:track:5vh35HUB00ngruZpUqJjkF",
+    "spotify:track:6i1MRs1a9s6wELXguEXDjG"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 781676692729 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "year 1996 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/dc7f5b83-00a0-3e86-8aec-7d378bd72dfe",
+    "first_release_date": "1996-01",
+    "linked_spotify_artists": [
+     "3CwEQNIPT6wVlDwm1NihY2"
+    ]
+   }
+  },
+  {
+   "position": 57,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/glenn-branca/lesson-no-1/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Lesson No. 1",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Glenn Branca"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Glenn Branca is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/f981f13d-fe5f-300f-ba9c-4d047b13fd04",
+    "first_release_date": "1980",
+    "linked_spotify_artists": [
+     "0eiyrB0ET8AbrR5s6rrLJr"
+    ]
+   }
+  },
+  {
+   "position": 58,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/апорєа/на-рєкахъ-вавл҃нскыхъ/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "На рєкахъ Вавл҃нскыхъ",
+   "title_latin": "On the Rivers of Babylon",
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Апорєа [Aporea]"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Aporeal is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/f514e021-5652-4b5c-b9a0-d7e221e8d10b",
+    "first_release_date": "1988",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 59,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/the-residents/duck-stab/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Duck Stab",
+   "title_latin": null,
+   "year": 1978,
+   "credited_as": null,
+   "artists": [
+    "The Residents"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "0PEMxmj2m6pLKoqYR0WtzW",
+    "url": "https://open.spotify.com/album/0PEMxmj2m6pLKoqYR0WtzW",
+    "name": "Duck Stab",
+    "album_type": "album",
+    "release_date": "2016-09-09",
+    "total_tracks": 14,
+    "upc": "760137953029",
+    "label": "CRYPTIC CORP",
+    "artists": [
+     "The Residents"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:12hltjj9gODVp3wgvatDZ6",
+    "spotify:track:7r8WrtzJCXR6yrc8sKRDIi",
+    "spotify:track:1fIRTikRAK7CwcVoRqBirz",
+    "spotify:track:7CwTs0nbbSaKlpTTvphsc4",
+    "spotify:track:42CanPrA2qxsiv4ODqxumD",
+    "spotify:track:22ovPwwMYMcA9rN1iPRE6A",
+    "spotify:track:6cvH7E6oas7o6LVT0E5lli",
+    "spotify:track:0nINX5ZoYpnw3tukAGr9AQ",
+    "spotify:track:542K0lrepv6eWg9GyLUofn",
+    "spotify:track:4hJzP6OUEHKBvBU6J7V6Nk",
+    "spotify:track:38ZrgNPcwuN58Z81YbbONh",
+    "spotify:track:4zOSkAQWeTi0NZr6XDossL",
+    "spotify:track:3XmEhnV211FcqW8tdBHoxm",
+    "spotify:track:7u5JhYnSrpit1gjXaiiSgn"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 760137953029 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 14 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2016-09-09 vs RYM 1978: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/7a9795b6-327e-3944-a515-1e304bdfe4ce",
+    "first_release_date": "1978-02",
+    "linked_spotify_artists": [
+     "0X7nkgtJrvXcn1W8lN9Mtm"
+    ]
+   }
+  },
+  {
+   "position": 60,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/suffocation/despise-the-sun/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Despise the Sun",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "Suffocation"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "1lWCAe18KVQero0JgWSZQX",
+    "url": "https://open.spotify.com/album/1lWCAe18KVQero0JgWSZQX",
+    "name": "Despise the Sun",
+    "album_type": "single",
+    "release_date": "2002-04-30",
+    "total_tracks": 5,
+    "upc": "781676652723",
+    "label": "Relapse Records",
+    "artists": [
+     "Suffocation"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:3ywnVanY59SrPxNhhSUrN8",
+    "spotify:track:2U2aSYFQE7OSOkmTe3zhMa",
+    "spotify:track:15HTnt9ztNTJG2Ura7VJdQ",
+    "spotify:track:6tLlCEOwIfqXFLBJw7un4s",
+    "spotify:track:1TKiL4BBZ00WaD5HQeDkBN"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 781676652723 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 5 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2002-04-30 vs RYM 1998: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/59b992e4-f32b-3918-85d3-5fb892bdb16c",
+    "first_release_date": "1998",
+    "linked_spotify_artists": [
+     "4ItRDIouodpnW6nm4TYDk1"
+    ]
+   }
+  },
+  {
+   "position": 61,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/jeff-mills/kat-moda-ep/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Kat Moda EP",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "Jeff Mills"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Jeff Mills is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/acb38b21-9063-3ea3-b578-35c14d9aa488",
+    "first_release_date": "1997",
+    "linked_spotify_artists": [
+     "2eIDAcLKnWc4D350YyzvgS"
+    ]
+   }
+  },
+  {
+   "position": 62,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/god-is-my-co-pilot/gender-is-as-gender-does/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Gender Is As Gender Does",
+   "title_latin": null,
+   "year": 1992,
+   "credited_as": null,
+   "artists": [
+    "God Is My Co-Pilot"
+   ],
+   "status": "not_found",
+   "reason": "an artist named God Is My Co-Pilot is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/1eb2275a-e685-4f69-8526-83b19320f30d",
+    "first_release_date": "1992",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 63,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/bolzer/aura/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Aura",
+   "title_latin": null,
+   "year": 2013,
+   "credited_as": null,
+   "artists": [
+    "Bølzer"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Bøler is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/dd323a9f-c2ba-444b-9e57-891b7e87ac1d",
+    "first_release_date": "2013-05-13",
+    "linked_spotify_artists": [
+     "6toR2I8BssfcGNJWkL2S0W"
+    ]
+   }
+  },
+  {
+   "position": 64,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/siah-and-yeshua-dapo-ed/siah-and-yeshua-dapo-ed/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Siah and Yeshua Dapo ED",
+   "title_latin": null,
+   "year": 1996,
+   "credited_as": "Siah and Yeshua Dapo ED",
+   "artists": [
+    "Siah",
+    "Yeshua Dapo ED"
+   ],
+   "status": "not_found",
+   "reason": "an artist named SIAH* is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 65,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/skitslickers/gbg-1982/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "GBG 1982",
+   "title_latin": null,
+   "year": 1982,
+   "credited_as": null,
+   "artists": [
+    "Skitslickers"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 66,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/belle-and-sebastian/dog-on-wheels/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Dog on Wheels",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "Belle & Sebastian"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Belle and Sebastian is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/d96679e3-8de1-3d5b-894d-f05e695eff7e",
+    "first_release_date": "1997-05-12",
+    "linked_spotify_artists": [
+     "4I2BJf80C0skQpp1sQmA0h"
+    ]
+   }
+  },
+  {
+   "position": 67,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/robert-hood/minimal-nation/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Minimal Nation",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "Robert Hood"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "4vBBFo44z0W1hVpCBwcxUF",
+    "url": "https://open.spotify.com/album/4vBBFo44z0W1hVpCBwcxUF",
+    "name": "Minimal Nation",
+    "album_type": "album",
+    "release_date": "1994",
+    "total_tracks": 10,
+    "upc": "8717578104758",
+    "label": "M-Plant",
+    "artists": [
+     "Robert Hood"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:6JrPueOXRks1hKU5ewD7Ia",
+    "spotify:track:3oILrTbXCG4IJF6vSuapAo",
+    "spotify:track:2fjnkB5q2NfphBknvUH25d",
+    "spotify:track:3PxI10OJhF7y9txEcEMukZ",
+    "spotify:track:1x89Re7HT3maKR8PZmNa6T",
+    "spotify:track:6sKpzZWBTFXH48EmFPdcty",
+    "spotify:track:2ws0DBEXzu0Gk10MHXRCUM",
+    "spotify:track:4z4OPkKdfnOyrYfc33TXdd",
+    "spotify:track:2VLyYc2ytsYVOkP963joVX",
+    "spotify:track:0Gbe1X25eGF8leasuT9bQa"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 10 matches MusicBrainz",
+    "year 1994 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/b2deac73-f988-4a06-b7d1-427ce8935def",
+    "first_release_date": "1994",
+    "linked_spotify_artists": [
+     "5ipQlfnpRCtyOuhYqvPvQ8"
+    ]
+   }
+  },
+  {
+   "position": 68,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/additional/timeghoul/tumultuous-travelings/",
+   "rym_type": "additional",
+   "type_label": "Additional release",
+   "title": "Tumultuous Travelings",
+   "title_latin": null,
+   "year": 1992,
+   "credited_as": null,
+   "artists": [
+    "Timeghoul"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Timeghoul is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/f3046c50-2dba-30e6-ae7d-e5f6dccd655b",
+    "first_release_date": "1992",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 69,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/les-joyaux-de-la-princesse/douce-france/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Douce France",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": null,
+   "artists": [
+    "Les Joyaux de la Princesse"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Les Joyaux De La Princesse is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 70,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/stereolab-•-nurse-with-wound/simple-headphone-mind/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Simple Headphone Mind",
+   "title_latin": null,
+   "year": 1997,
+   "credited_as": "Stereolab • Nurse With Wound",
+   "artists": [
+    "Stereolab",
+    "Nurse With Wound"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Stereolab is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/04157bd6-5307-3552-8eac-32c23a59587d",
+    "first_release_date": "1997-04-28",
+    "linked_spotify_artists": [
+     "3Rj0tDHoX7C5NFq5DKIpHt",
+     "7BqVdvWeMLlWkZAOGRPe0I"
+    ]
+   }
+  },
+  {
+   "position": 71,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/additional/slaughter/surrender-or-die/",
+   "rym_type": "additional",
+   "type_label": "Additional release",
+   "title": "Surrender or Die",
+   "title_latin": null,
+   "year": 1985,
+   "credited_as": null,
+   "artists": [
+    "Slaughter"
+   ],
+   "status": "uncertain",
+   "spotify": {
+    "id": "5t3NngqwNpAxM4THPuQ0Xn",
+    "url": "https://open.spotify.com/album/5t3NngqwNpAxM4THPuQ0Xn",
+    "name": "Surrender or Die",
+    "album_type": "album",
+    "release_date": "2026-03-28",
+    "total_tracks": 13,
+    "upc": "4069493719772",
+    "label": "HR-Digital",
+    "artists": [
+     "Slaughter"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:1ZC92v1I0wbCGNPijeMRld",
+    "spotify:track:5xF2M9GtwRHDB8HBqgxkBP",
+    "spotify:track:6XMMhvgH7Dg9w5Zd5ISFBz",
+    "spotify:track:3vynIR0TAxtf2IpR1xiwQF",
+    "spotify:track:02No2m4f2tVb15MXUiGRcK",
+    "spotify:track:3hBoXeUbTLcYVDljacdxhI",
+    "spotify:track:6UqsPB0TxCzT9nNBKB4bmm",
+    "spotify:track:4tHxp3P6H0UJAq2j6mSHck",
+    "spotify:track:4AqMRUm41v216te4HhiVRL",
+    "spotify:track:0RW2lrJxQAOrqODjezKy6q",
+    "spotify:track:1sIQjr5wLSWSNFNB33oKhU",
+    "spotify:track:0hil5J2Qn7O5WjDjKFzP1S",
+    "spotify:track:0ykpxsNhA5fc70YpIjPfR5"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "track count 13 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2026-03-28 vs RYM 1985: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/2cbc141c-152d-3b9e-8458-885d22d40e97",
+    "first_release_date": "1985-04",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 72,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/dna/a-taste-of-dna-1/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "A Taste of DNA",
+   "title_latin": null,
+   "year": 1981,
+   "credited_as": null,
+   "artists": [
+    "DNA"
+   ],
+   "status": "not_found",
+   "reason": "an artist named DNA is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/67214de5-a11b-398e-8947-2a953d1e230f",
+    "first_release_date": "1981",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 73,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/additional/cruciamentum/convocation-of-crawling-chaos/",
+   "rym_type": "additional",
+   "type_label": "Additional release",
+   "title": "Convocation of Crawling Chaos",
+   "title_latin": null,
+   "year": 2009,
+   "credited_as": null,
+   "artists": [
+    "Cruciamentum"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "7Gnzw6oLWDrqlwd20LCEZb",
+    "url": "https://open.spotify.com/album/7Gnzw6oLWDrqlwd20LCEZb",
+    "name": "Convocation of Crawling Chaos",
+    "album_type": "single",
+    "release_date": "2009-05-04",
+    "total_tracks": 4,
+    "upc": "198086021740",
+    "label": "1236180 Records DK2",
+    "artists": [
+     "Cruciamentum"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:22RYB6REHc881kBgy36tuE",
+    "spotify:track:3Urw5jpjrn2yoEBn4kJjUr",
+    "spotify:track:4t3BblApyCfSpLdTxsVfBi",
+    "spotify:track:2q5qfOf7n68k30JI7Dbokb"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 4 matches MusicBrainz",
+    "year 2009 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/c146569d-3a64-4740-b4fd-3772f7d4ffc8",
+    "first_release_date": "2009-05-04",
+    "linked_spotify_artists": [
+     "4cM4Vlx41zMs5lLQcSFlTy"
+    ]
+   }
+  },
+  {
+   "position": 74,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/crash-course-in-science/signals-from-pier-thirteen/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Signals From Pier Thirteen",
+   "title_latin": null,
+   "year": 1981,
+   "credited_as": null,
+   "artists": [
+    "Crash Course in Science"
+   ],
+   "status": "uncertain",
+   "spotify": {
+    "id": "2xmWpoD8BeML93TtII9dEg",
+    "url": "https://open.spotify.com/album/2xmWpoD8BeML93TtII9dEg",
+    "name": "Signals from Pier Thirteen",
+    "album_type": "single",
+    "release_date": "2014-03-04",
+    "total_tracks": 4,
+    "upc": "191515479594",
+    "label": "Dark Entries Records",
+    "artists": [
+     "Crash Course In Science"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:7ppeyOi72nI32b6RYmwOnk",
+    "spotify:track:4zaJYIKMiH1c8uSM8x5JTt",
+    "spotify:track:3MW91k9f3vKlYvEnJCtTFF",
+    "spotify:track:08prKd5l5SlAHvpSuyDUAm"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100"
+   ],
+   "warnings": [
+    "Spotify date 2014-03-04 vs RYM 1981: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 75,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/coil/spring-equinox-moons-milk-or-under-an-unquiet-skull/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Spring Equinox: Moon's Milk or Under an Unquiet Skull",
+   "title_latin": null,
+   "year": 1998,
+   "credited_as": null,
+   "artists": [
+    "Coil"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Coil is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/7f5bf868-50c0-3795-9c22-d7216d874e2d",
+    "first_release_date": "1998-03-20",
+    "linked_spotify_artists": [
+     "37KB5e6cGsN1AQAB9Omm1U"
+    ]
+   }
+  },
+  {
+   "position": 76,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/die-kreuzen/cows-and-beer/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Cows and Beer",
+   "title_latin": null,
+   "year": 1982,
+   "credited_as": null,
+   "artists": [
+    "Die Kreuzen"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Die Kreuzen is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/703494d2-0350-3377-893a-e1a2de8166a0",
+    "first_release_date": "1982",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 77,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/sodom/in-the-sign-of-evil/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "In the Sign of Evil",
+   "title_latin": null,
+   "year": 1985,
+   "credited_as": null,
+   "artists": [
+    "Sodom"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Sodom is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/da0a4339-4181-31f0-bb11-b5fb08b24707",
+    "first_release_date": "1984",
+    "linked_spotify_artists": [
+     "6SYbLA9utoNsllunR1TnkM"
+    ]
+   }
+  },
+  {
+   "position": 78,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/devo/b-stiff/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "B Stiff",
+   "title_latin": null,
+   "year": 1978,
+   "credited_as": null,
+   "artists": [
+    "Devo"
+   ],
+   "status": "not_found",
+   "reason": "an artist named DEVO is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/effdbb01-c094-3b7f-8692-9ef587d380b5",
+    "first_release_date": "1978-10",
+    "linked_spotify_artists": [
+     "0UKfenbZb15sqhfPC6zbt3"
+    ]
+   }
+  },
+  {
+   "position": 79,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/morpheus-descends/chronicles-of-the-shadowed-ones/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Chronicles of the Shadowed Ones",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "Morpheus Descends"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Morpheus Descends is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/40937114-6e52-4c1a-be6c-cd8c92924422",
+    "first_release_date": "1994",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 80,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/zouo/the-final-agony-1/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "The Final Agony",
+   "title_latin": null,
+   "year": 1984,
+   "credited_as": null,
+   "artists": [
+    "Zouo"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Zouo is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/aba4bd7a-2e12-453a-81a0-470ee592330c",
+    "first_release_date": "1984",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 81,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/additional/necrovore/divus-de-mortuus/",
+   "rym_type": "additional",
+   "type_label": "Additional release",
+   "title": "Divus de mortuus",
+   "title_latin": null,
+   "year": 1987,
+   "credited_as": null,
+   "artists": [
+    "Necrovore"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/19bd0840-cee3-3579-980d-64ddc34ec768",
+    "first_release_date": "1987-03",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 82,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/minor-threat/in-my-eyes/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "In My Eyes",
+   "title_latin": null,
+   "year": 1981,
+   "credited_as": null,
+   "artists": [
+    "Minor Threat"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Minor Threat is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/3c908a48-f662-3910-ba29-6a0d3315398b",
+    "first_release_date": "1981-12",
+    "linked_spotify_artists": [
+     "07PiZYrhllpSXtELkUxlrf"
+    ]
+   }
+  },
+  {
+   "position": 83,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/husker-du/metal-circus/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Metal Circus",
+   "title_latin": null,
+   "year": 1983,
+   "credited_as": null,
+   "artists": [
+    "Hüsker Dü"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "18LrM1Ag5HCyRIIzj7H7mK",
+    "url": "https://open.spotify.com/album/18LrM1Ag5HCyRIIzj7H7mK",
+    "name": "Metal Circus (EP)",
+    "album_type": "single",
+    "release_date": "1983-10-01",
+    "total_tracks": 7,
+    "upc": "884385263409",
+    "label": "SST Records",
+    "artists": [
+     "Hüsker Dü"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:1o32J46unAwKXiIgrL788R",
+    "spotify:track:4rmbZDBDgE0KEz6mkIEMns",
+    "spotify:track:7ueBtEWg5iGvnFFC5b1hFU",
+    "spotify:track:0KLsTu5FRob0ejqzRj6PKL",
+    "spotify:track:0c6HxdkZj1pEXqSAbEVdJm",
+    "spotify:track:2s68MtSLUsP0xip7WuIDoS",
+    "spotify:track:0ss6RN3kjkQ6B09SBJWX5M"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 89",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 884385263409 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 7 matches MusicBrainz",
+    "year 1983 matches"
+   ],
+   "warnings": [
+    "name is a near-miss, check spelling/edition"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/b0d7336b-1edc-3df6-a176-96b0a9a93e52",
+    "first_release_date": "1983-10",
+    "linked_spotify_artists": [
+     "16bN8mhtDFdegWbg0z3s10"
+    ]
+   }
+  },
+  {
+   "position": 84,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/basic-channel/octagon/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Octagon",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "Basic Channel"
+   ],
+   "status": "likely",
+   "spotify": {
+    "id": "5JWAA6Gaeksx1ZlkJUPkou",
+    "url": "https://open.spotify.com/album/5JWAA6Gaeksx1ZlkJUPkou",
+    "name": "Octagon",
+    "album_type": "single",
+    "release_date": "1994",
+    "total_tracks": 2,
+    "upc": "827670742463",
+    "label": "Basic Channel",
+    "artists": [
+     "Basic Channel"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:0lbeEcQXDMou9NkShtfz9w",
+    "spotify:track:0rlBl5dSAhzrz9NFFxr075"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "year 1994 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 85,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/r_e_m/chronic-town/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Chronic Town",
+   "title_latin": null,
+   "year": 1982,
+   "credited_as": null,
+   "artists": [
+    "R.E.M."
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "4GKHyDVQYaMbpXpTckjX6G",
+    "url": "https://open.spotify.com/album/4GKHyDVQYaMbpXpTckjX6G",
+    "name": "Chronic Town",
+    "album_type": "single",
+    "release_date": "1982-08-24",
+    "total_tracks": 5,
+    "upc": "00602537885725",
+    "label": "A&M",
+    "artists": [
+     "R.E.M."
+    ]
+   },
+   "track_uris": [
+    "spotify:track:5HZzcCLbX2LY4IP5qPRcqj",
+    "spotify:track:4z80LOrUJonngRGzzrfjnD",
+    "spotify:track:4mKD8O4BwG7iHTDU33i9OG",
+    "spotify:track:5NEch7N9yeF4wP35AV1IpM",
+    "spotify:track:51WkjnymXvl15nanoGPYni"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 00602537885725 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 5 matches MusicBrainz",
+    "year 1982 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/19c331a6-c93e-3ef4-82cf-24adf4f4b14b",
+    "first_release_date": "1982-08",
+    "linked_spotify_artists": [
+     "4KWTAlx2RvbpseOGMEmROg"
+    ]
+   }
+  },
+  {
+   "position": 86,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/basic-channel/q-1_1/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Q 1.1",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "Basic Channel"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "41N4fslRyEoVllxpHXswXl",
+    "url": "https://open.spotify.com/album/41N4fslRyEoVllxpHXswXl",
+    "name": "Q 1.1",
+    "album_type": "single",
+    "release_date": "1993",
+    "total_tracks": 4,
+    "upc": "827670742166",
+    "label": "Basic Channel",
+    "artists": [
+     "Basic Channel"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:6YMctIDjfEbm5QsbKSwIW1",
+    "spotify:track:7fN8STc8zd4jG7XOCEcwvM",
+    "spotify:track:6sv6NmtF41crSlOO9H5lOB",
+    "spotify:track:6JgNQhVcIFHqfdZMBENBhD"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 827670742166 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 4 matches MusicBrainz",
+    "year 1993 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/cbc907d0-a236-3480-90d4-63b8351528d8",
+    "first_release_date": "1993-10",
+    "linked_spotify_artists": [
+     "37um1uxI92g4ll61LzrtB5"
+    ]
+   }
+  },
+  {
+   "position": 87,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/tuxedomoon/no-tears/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "No Tears",
+   "title_latin": null,
+   "year": 1978,
+   "credited_as": null,
+   "artists": [
+    "Tuxedomoon"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Tuxedomoon is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/2017b7fd-abd8-4db7-9e10-e3871f2371f7",
+    "first_release_date": "1978",
+    "linked_spotify_artists": [
+     "4zn0m3hBUQVl6Nf36Sb0A6"
+    ]
+   }
+  },
+  {
+   "position": 88,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/additional/jenovavirus/demo-1/",
+   "rym_type": "additional",
+   "type_label": "Additional release",
+   "title": "Demo 1",
+   "title_latin": null,
+   "year": 2006,
+   "credited_as": null,
+   "artists": [
+    "Jenovavirus"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/6cdb9236-d360-4087-a6f3-ca5da53b8e72",
+    "first_release_date": "2006",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 89,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/chronic-sick/cutest-band-in-hardcore-e_p/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Cutest Band in Hardcore E.P.",
+   "title_latin": null,
+   "year": 1982,
+   "credited_as": null,
+   "artists": [
+    "Chronic Sick"
+   ],
+   "status": "uncertain",
+   "spotify": {
+    "id": "3cvBaA1lv9EiiS3lMX4Ayd",
+    "url": "https://open.spotify.com/album/3cvBaA1lv9EiiS3lMX4Ayd",
+    "name": "Cutest Band In Hardcore",
+    "album_type": "single",
+    "release_date": "2010-10-12",
+    "total_tracks": 6,
+    "upc": "881034630896",
+    "label": "No Way Records",
+    "artists": [
+     "Chronic Sick"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:74hnACIYsI0sT1PePOMqdV",
+    "spotify:track:3rSMWTa165OxotoNK6zCyW",
+    "spotify:track:7gZ2yFHjs0z78rB0xsjOBc",
+    "spotify:track:4e50MRQzqrEiRAZSoprtNN",
+    "spotify:track:7qm9xVjgdXRE3KP6u1aLQB",
+    "spotify:track:7djBrw8QEBuafCZzueofVF"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 92",
+    "track count 6 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2010-10-12 vs RYM 1982: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/5fdb86a7-30d3-3cfc-a706-8d027bf37ceb",
+    "first_release_date": "1982",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 90,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/tranquilizer/tranquilizer/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Tranquilizer",
+   "title_latin": null,
+   "year": 1985,
+   "credited_as": null,
+   "artists": [
+    "Tranquilizer"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Tranquilizer is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/2048b83e-479b-4194-84ae-a60683f0edd0",
+    "first_release_date": "1985",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 91,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/きどりっこ/セレレガンスな愉しみ-cest-lelegance-na-tanoshimi/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "セレレガンスな愉しみ (C'est l'élégance na tanoshimi)",
+   "title_latin": null,
+   "year": 1986,
+   "credited_as": null,
+   "artists": [
+    "きどりっこ [Kidorikko]"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 92,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/thinking-fellers-union-local-282/admonishing-the-bishops/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Admonishing the Bishops",
+   "title_latin": null,
+   "year": 1993,
+   "credited_as": null,
+   "artists": [
+    "Thinking Fellers Union Local 282"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "2HF8BhwNVNbaLRf2Rk2WIG",
+    "url": "https://open.spotify.com/album/2HF8BhwNVNbaLRf2Rk2WIG",
+    "name": "Admonishing the Bishops",
+    "album_type": "single",
+    "release_date": "1993-10-26",
+    "total_tracks": 4,
+    "upc": "744861006824",
+    "label": "Matador",
+    "artists": [
+     "Thinking Fellers Union Local 282"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:56CEUZxGwtfB0g2RgoCySf",
+    "spotify:track:2l37fLduuGyJg7sH9flD8E",
+    "spotify:track:1e7Zsno1u3R8NMkRWZy79Q",
+    "spotify:track:2bQb9MvQzruZ8DFSDFBgI7"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 744861006824 matches a MusicBrainz release",
+    "track count 4 matches MusicBrainz",
+    "year 1993 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/5994353a-2fc7-3209-8d7f-9798122d822f",
+    "first_release_date": "1993-10-26",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 93,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/single/trevor-horne-paul-morley-with-the-art-of-noise/moments-in-love-beat-box-love-beat-1/",
+   "rym_type": "single",
+   "type_label": "Single",
+   "title": "Moments in Love / Beat Box / Love Beat",
+   "title_latin": null,
+   "year": 1985,
+   "credited_as": "Trevor Horne, Paul Morley With The Art of Noise",
+   "artists": [
+    "Trevor Horn",
+    "Paul Morley",
+    "Art of Noise"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Trevor Horn is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 94,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/slowdive/holding-our-breath/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Holding Our Breath",
+   "title_latin": null,
+   "year": 1991,
+   "credited_as": null,
+   "artists": [
+    "Slowdive"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Slowdive is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/76d19093-c21f-3303-838b-ed72778bcd0e",
+    "first_release_date": "1991-06-03",
+    "linked_spotify_artists": [
+     "72X6FHxaShda0XeQw3vbeF"
+    ]
+   }
+  },
+  {
+   "position": 95,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/melvins/eggnog/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Eggnog",
+   "title_latin": null,
+   "year": 1991,
+   "credited_as": null,
+   "artists": [
+    "Melvins"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "461H4JqTCyFgHcKRVFlejr",
+    "url": "https://open.spotify.com/album/461H4JqTCyFgHcKRVFlejr",
+    "name": "Eggnog",
+    "album_type": "single",
+    "release_date": "1992-03-01",
+    "total_tracks": 4,
+    "upc": "038161002823",
+    "label": "Boner",
+    "artists": [
+     "Melvins"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:3vhbH5P67sLmul1BqDuL0q",
+    "spotify:track:6ZMz3zY8hu2QQdGOn4dPFH",
+    "spotify:track:5D5ii5aGh6EAHTTaFHC3Pz",
+    "spotify:track:4edQtS9dijjCKKCHjCCzcd"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 038161002823 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 4 matches MusicBrainz",
+    "year 1992 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/2279cfd2-436c-3196-af0b-54a9cba3b133",
+    "first_release_date": "1991",
+    "linked_spotify_artists": [
+     "6aVjo0xHSiuW5hkasoYSR3"
+    ]
+   }
+  },
+  {
+   "position": 96,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/april-march/chick-habit-2/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Chick Habit",
+   "title_latin": null,
+   "year": 1995,
+   "credited_as": null,
+   "artists": [
+    "April March"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "0yQ1AZQJr5I83Gxf1toa2T",
+    "url": "https://open.spotify.com/album/0yQ1AZQJr5I83Gxf1toa2T",
+    "name": "Chick Habit",
+    "album_type": "album",
+    "release_date": "1995-10-20",
+    "total_tracks": 8,
+    "upc": "0790168299667",
+    "label": "April March",
+    "artists": [
+     "April March"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:1IhLr3JeynDVdTPbjQ1ulv",
+    "spotify:track:0R3EZrXjuAsgvoh9xZwR9E",
+    "spotify:track:5eeZ7esn4ThYd49ft7H1BJ",
+    "spotify:track:164dTqs5BqX14vSxtZMRSm",
+    "spotify:track:6cz3J0zP6EgzxvWaSlY2jD",
+    "spotify:track:6DjNfJCWF4khxDPoT10E22",
+    "spotify:track:0WVBji1jdYxH8gLvylgugZ",
+    "spotify:track:5keleLNmEVZjeJJARCt6MG"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 0790168299667 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 8 matches MusicBrainz",
+    "year 1995 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/905ff9ff-8184-352c-8ad6-036d30a8f1ee",
+    "first_release_date": "1995-10-20",
+    "linked_spotify_artists": [
+     "0bbvrSsm0Dh4erBbE1dhHD"
+    ]
+   }
+  },
+  {
+   "position": 97,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/mars/mars-ep/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Mars EP",
+   "title_latin": null,
+   "year": 1980,
+   "credited_as": null,
+   "artists": [
+    "Mars"
+   ],
+   "status": "not_found",
+   "reason": "artist not found on Spotify",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": null
+  },
+  {
+   "position": 98,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/clarence_g/hyperspace_sound_lab/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Hyperspace Sound Lab",
+   "title_latin": null,
+   "year": 1991,
+   "credited_as": null,
+   "artists": [
+    "Clarence G"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "2catcuaaEhVxIdgq6ftsJh",
+    "url": "https://open.spotify.com/album/2catcuaaEhVxIdgq6ftsJh",
+    "name": "Hyperspace Sound Lab",
+    "album_type": "single",
+    "release_date": "2016-06-27",
+    "total_tracks": 4,
+    "upc": "8718723070799",
+    "label": "Clone Aqualung Series",
+    "artists": [
+     "Clarence G"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:370gNT5S5HDN8Yr1bE4MOO",
+    "spotify:track:6V6fJ64NEXHjZhJjOAFAXx",
+    "spotify:track:70692aofpkRcuZLiRXDgNo",
+    "spotify:track:0mxhhsZWldGvAl0z77BUZV"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "barcode 8718723070799 matches a MusicBrainz release",
+    "track count 4 matches MusicBrainz"
+   ],
+   "warnings": [
+    "Spotify date 2016-06-27 vs RYM 1991: probably a reissue"
+   ],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/8d7292d3-19df-307f-87f0-75ddd69acb0d",
+    "first_release_date": "1991",
+    "linked_spotify_artists": []
+   }
+  },
+  {
+   "position": 99,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/current-93/tamlin/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Tamlin",
+   "title_latin": null,
+   "year": 1994,
+   "credited_as": null,
+   "artists": [
+    "Current 93"
+   ],
+   "status": "not_found",
+   "reason": "an artist named Current 93 is on Spotify, but not this release",
+   "evidence": [],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/4607e340-6c0f-32b4-80c6-5571380561a3",
+    "first_release_date": "1994",
+    "linked_spotify_artists": [
+     "7vF3DcPluq6lZI36VniagW"
+    ]
+   }
+  },
+  {
+   "position": 100,
+   "page": 5,
+   "rym_url": "https://rateyourmusic.com/release/ep/queensryche/queensryche/",
+   "rym_type": "ep",
+   "type_label": "EP",
+   "title": "Queensrÿche",
+   "title_latin": null,
+   "year": 1983,
+   "credited_as": null,
+   "artists": [
+    "Queensrÿche"
+   ],
+   "status": "verified",
+   "spotify": {
+    "id": "49lapJZmkJIgph4fhuI5gF",
+    "url": "https://open.spotify.com/album/49lapJZmkJIgph4fhuI5gF",
+    "name": "Queensryche (Remasterd) [Expanded Edition]",
+    "album_type": "compilation",
+    "release_date": "1983",
+    "total_tracks": 14,
+    "upc": "00724358052855",
+    "label": "EMI/EMI Records (USA)",
+    "artists": [
+     "Queensrÿche"
+    ]
+   },
+   "track_uris": [
+    "spotify:track:1CLTuG0I0iUf68kCIyXP44",
+    "spotify:track:1tLl6iab5xdcCIHhn2tnW9",
+    "spotify:track:3lvRCTCbnbdZ6FdO6HOyrA",
+    "spotify:track:3ZZcFvE6EgnvMo41JWAgfu",
+    "spotify:track:67wfLJVIu8zkosEMhz4y7z",
+    "spotify:track:1ZAaqaiNuCcQf7QWoKdUqC",
+    "spotify:track:3B5EVAZXmsjTr497XgS5WX",
+    "spotify:track:4PmABhOGylIgEpN59u1iHz",
+    "spotify:track:4yQ6avco0ooK160ZyMqJH5",
+    "spotify:track:7zaLaXfigyMa9EBFWJaPy0",
+    "spotify:track:0MiPxOrdDvlYKWOeDwfO4O",
+    "spotify:track:7mh0hrnYPfgP29KuU3iy90",
+    "spotify:track:7933CWpJ16nOFGoYXZCgPO",
+    "spotify:track:32iPj27JMTWEJpG4tpinV6"
+   ],
+   "evidence": [
+    "artist similarity 100, title similarity 100",
+    "MusicBrainz links this exact Spotify album",
+    "barcode 00724358052855 matches a MusicBrainz release",
+    "Spotify artist is the one MusicBrainz links",
+    "track count 14 matches MusicBrainz",
+    "year 1983 matches"
+   ],
+   "warnings": [],
+   "rejected": [],
+   "musicbrainz": {
+    "url": "https://musicbrainz.org/release-group/9a41b012-2555-373e-8c76-86a6f1141af4",
+    "first_release_date": "1982",
+    "linked_spotify_artists": [
+     "2OgUPVlWYgGBGMefZgGvCO"
+    ]
+   }
+  }
+ ]
+}

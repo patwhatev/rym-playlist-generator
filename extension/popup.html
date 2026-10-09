@@ -1,11 +1,40 @@
 <!doctype html>
 <meta charset="utf-8">
 <style>
-  body { width: 260px; margin: 0; padding: 14px; font: 13px/1.4 -apple-system, system-ui, sans-serif; }
+  body { width: 300px; margin: 0; padding: 14px; font: 13px/1.4 -apple-system, system-ui, sans-serif; }
+  h1 { margin: 0 0 6px; font-size: 11px; font-weight: 600; letter-spacing: .04em; text-transform: uppercase; color: #777; }
+  section + section { margin-top: 14px; padding-top: 12px; border-top: 1px solid #ddd; }
   button { width: 100%; padding: 8px; font: inherit; cursor: pointer; }
-  #status { margin-top: 10px; color: #555; white-space: pre-wrap; word-break: break-word; }
+  button + button { margin-top: 6px; }
+  .small { padding: 4px; font-size: 12px; background: none; border: 1px solid #ccc; border-radius: 4px; }
+  .status { margin-top: 10px; color: #555; white-space: pre-wrap; word-break: break-word; }
+  progress { width: 100%; margin-top: 8px; }
   .error { color: #b00020 !important; }
+  #rec-start { background: #b00020; color: #fff; border: 0; border-radius: 4px; }
+  #rec-lists { margin-top: 8px; }
+  .list { margin-top: 6px; }
+  .list b { display: block; font-weight: 600; word-break: break-all; }
+  .page { display: inline-flex; align-items: center; gap: 2px; margin: 3px 4px 0 0; padding: 1px 2px 1px 6px;
+          border: 1px solid #ccc; border-radius: 10px; font-size: 12px; }
+  .page button { width: auto; margin: 0; padding: 0 5px; border: 0; background: none; color: #999; }
+  .page button:hover { color: #b00020; }
 </style>
-<button id="capture">Capture this list</button>
-<div id="status"></div>
+
+<section>
+  <h1>Whole list</h1>
+  <button id="capture">Capture this list</button>
+  <button id="reset" class="small" hidden>Start over (discard saved pages)</button>
+  <progress id="bar" value="0" max="1" hidden></progress>
+  <div id="status" class="status"></div>
+</section>
+
+<section>
+  <h1>Manual record</h1>
+  <button id="rec-start">● Start manual record</button>
+  <button id="rec-stop" hidden>Stop record and export JSON</button>
+  <button id="rec-discard" class="small" hidden>Discard recording</button>
+  <div id="rec-lists"></div>
+  <div id="rec-status" class="status"></div>
+</section>
+
 <script src="popup.js"></script>

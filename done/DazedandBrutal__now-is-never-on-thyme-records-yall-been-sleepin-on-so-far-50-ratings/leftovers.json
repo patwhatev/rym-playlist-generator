@@ -1,0 +1,3080 @@
+[
+ {
+  "service": "spotify",
+  "position": 1,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/amy-denio/no-elevators/",
+  "title": "No Elevators",
+  "title_latin": null,
+  "year": 1988,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Amy Denio"
+  ],
+  "reason": "an artist named Amy Denio is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 2,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/unauth/feminist_improvising_group/live_in_hamburg__ndr_funkhaus_studio_10_/",
+  "title": "Live in Hamburg (NDR Funkhaus Studio 10)",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Bootleg / Unauthorized",
+  "credited_as": null,
+  "artists": [
+   "Feminist Improvising Group"
+  ],
+  "reason": "an artist named Feminist Improvising Group is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 3,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/owen-marshall/captain-puff-in-the-naked-truth-1/",
+  "title": "Captain Puff in the Naked Truth",
+  "title_latin": null,
+  "year": 2012,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Owen Marshall"
+  ],
+  "reason": "an artist named Owen Marshall is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 4,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/ojo-sembrono/jathilan-jaranan-vol_1/",
+  "title": "Jathilan / Jaranan Vol.1",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Ojo Sembrono"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 5,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/eric-lou-root/dont-worry/",
+  "title": "Don't Worry",
+  "title_latin": null,
+  "year": 1987,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Eric Lou Root"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 6,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/sigridur-nielsdottir/grandma-lo-fi-the-basement-tapes-of-sigridur-nielsdottir-1/",
+  "title": "Grandma Lo-Fi: The Basement Tapes of Sigríður Níelsdóttir",
+  "title_latin": null,
+  "year": 2014,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Sigríður Níelsdóttir"
+  ],
+  "reason": "an artist named Sigríður Níelsdóttir is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 7,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/the-ullulators/beyond-the-gates-of-ull/",
+  "title": "Beyond the Gates of Ull",
+  "title_latin": null,
+  "year": 1986,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "The Ullulators"
+  ],
+  "reason": "an artist named The Ullulators is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 8,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/porter-wagoner/the-rubber-room-the-late-love-of-mine/",
+  "title": "The Rubber Room / The Late Love of Mine",
+  "title_latin": null,
+  "year": 1971,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Porter Wagoner"
+  ],
+  "reason": "an artist named Porter Wagoner is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 9,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/ida-widawati/tilam-sono/",
+  "title": "Tilam sono",
+  "title_latin": null,
+  "year": 1975,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Ida Widawati"
+  ],
+  "reason": "Spotify date 2022-06-29 vs RYM 1975: probably a reissue",
+  "best_spotify_candidate": "https://open.spotify.com/album/3lIPn7HsYhCLvksOHGi7pV"
+ },
+ {
+  "service": "spotify",
+  "position": 10,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/zadkiel/hells-bomber/",
+  "title": "Hell's Bomber",
+  "title_latin": null,
+  "year": 1986,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Zadkiel"
+  ],
+  "reason": "an artist named Zadkiel is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 11,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/စိုင်းဆိုင်မောဝ်/အမှတ်တရ-သျှမ်းတေးစုများ-အမှတ်-2/",
+  "title": "အမှတ်တရ သျှမ်းတေးစုများ အမှတ် 2",
+  "title_latin": "Amanat taya Shan taysu mya amanat 2",
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "စိုင်းဆိုင်မောဝ် [Sai Sai Mou]"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 12,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/candidate-gangrene/candidate-gangrene/",
+  "title": "Candidate / Gangrène",
+  "title_latin": null,
+  "year": 1985,
+  "type_label": "Album",
+  "credited_as": "Candidate / Gangrène",
+  "artists": [
+   "Candidate",
+   "Gangrène"
+  ],
+  "reason": "an artist named Candidate is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 13,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/ၼၢင်းၼၢင်း/လိူၵ်ႈသဵင်ၵႂၢမ်း/",
+  "title": "လိူၵ်ႈသဵင်ၵႂၢမ်း",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "ၼၢင်းၼၢင်း [Nang Nang]"
+  ],
+  "reason": "an artist named Nang Nang is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 14,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/agony-bag/rabies-is-a-killer-never-never-land/",
+  "title": "Rabies Is a Killer / Never Never Land",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Agony Bag"
+  ],
+  "reason": "an artist named Agony Bag is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 15,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/kamuran-akkor/ikimiz-bir-fidaniz-dogru-mu-dogru-mu/",
+  "title": "İkimiz Bir Fidanız / Doğru Mu Doğru Mu",
+  "title_latin": null,
+  "year": 1975,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Kamuran Akkor"
+  ],
+  "reason": "an artist named Kamuran Akkor is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 16,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/jim_brown/see_him_deh___version/",
+  "title": "See Him Deh / Version",
+  "title_latin": null,
+  "year": 1979,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Jim Brown"
+  ],
+  "reason": "an artist named Jim Brown is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 17,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/bernard-c-prince-emile-de-ly-de-magneville/les-chants-revolutionnaires-les-jardins-despagne/",
+  "title": "Les chants révolutionnaires / Les jardins d'Espagne",
+  "title_latin": null,
+  "year": 1983,
+  "type_label": "Album",
+  "credited_as": "Bernard C / Prince Emile de Ly de Magneville",
+  "artists": [
+   "Bernard C",
+   "Prince Emile de Ly de Magneville"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 21,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/the-donald-knaack-percussion-ensemble-jay-clayton/three-constructions/",
+  "title": "Three Constructions",
+  "title_latin": null,
+  "year": 1989,
+  "type_label": "Album",
+  "credited_as": "The Donald Knaack Percussion Ensemble / Jay Clayton",
+  "artists": [
+   "The Donald Knaack Percussion Ensemble",
+   "Jay Clayton"
+  ],
+  "reason": "an artist named Jay Clayton is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 22,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/grudge/when-christine-comes-around-im-gonna-smash-your-face-in/",
+  "title": "When Christine Comes Around / I'm Gonna Smash Your Face In",
+  "title_latin": null,
+  "year": 1973,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Grudge"
+  ],
+  "reason": "an artist named GRUDGE is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 23,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/helen-love/beat-him-up-super-boy-super-girl/",
+  "title": "Beat Him Up / Super Boy Super Girl",
+  "title_latin": null,
+  "year": 1995,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Helen Love"
+  ],
+  "reason": "an artist named Helen Love is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 24,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/hidden-agenda/the-sun-12-seconds/",
+  "title": "The Sun / 12 Seconds",
+  "title_latin": null,
+  "year": 1997,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Hidden Agenda"
+  ],
+  "reason": "an artist named Hidden Agenda is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 25,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/chris_hulsbeck/turrican/",
+  "title": "Turrican",
+  "title_latin": null,
+  "year": 1993,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Chris Hülsbeck"
+  ],
+  "reason": "an artist named Chris Huelsbeck is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 27,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/tim-krog/the-boogey-man/",
+  "title": "The Boogey Man",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Tim Krog"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 28,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/lugubrum-trio/wakar-cartel-1/",
+  "title": "Wakar Cartel",
+  "title_latin": null,
+  "year": 2017,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Lugubrum Trio"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 29,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/lsd/karen-nash-jast-last-憎悪戦争～lsd/",
+  "title": "Karen Nash / Jast Last / 憎悪戦争～LSD",
+  "title_latin": null,
+  "year": 1986,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "LSD"
+  ],
+  "reason": "an artist named LSD is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 30,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/meek-mill/tupac-back/",
+  "title": "Tupac Back",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Meek Mill"
+  ],
+  "reason": "an artist named Meek Mill is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 31,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/monks-of-the-sourian-monastery/midnight-praises/",
+  "title": "Midnight Praises",
+  "title_latin": null,
+  "year": 2000,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Monks of the Sourian Monastery"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 32,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/mr__ghetto/walmart/",
+  "title": "Walmart",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Mr. Ghetto"
+  ],
+  "reason": "an artist named Mr. Ghetto is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 33,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/dick_nolan/truck_driving_man/",
+  "title": "Truck Driving Man",
+  "title_latin": null,
+  "year": 1965,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Dick Nolan"
+  ],
+  "reason": "an artist named Dick Nolan is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 34,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/ovenmen/rock-against-racism/",
+  "title": "Rock Against Racism",
+  "title_latin": null,
+  "year": 1981,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Ovenmen"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 35,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/hasan-pardede/gondang-batak-toba-vol-8/",
+  "title": "Gondang Batak Toba: Vol. 8",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Hasan Pardede"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 37,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/raksha-mancham/the-way-of-dead-indians/",
+  "title": "The Way of Dead Indians",
+  "title_latin": null,
+  "year": 1987,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Raksha Mancham"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 38,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/die-synthetische-republik/faktor-d/",
+  "title": "Faktor D",
+  "title_latin": null,
+  "year": 1984,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Die Synthetische Republik"
+  ],
+  "reason": "an artist named Die Synthetische Republik is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 39,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/team-dresch-longstocking/its-a-conversation-never-nowhere/",
+  "title": "It's a Conversation / Never Nowhere",
+  "title_latin": null,
+  "year": 1998,
+  "type_label": "Single",
+  "credited_as": "Team Dresch / Longstocking",
+  "artists": [
+   "Team Dresch",
+   "Longstocking"
+  ],
+  "reason": "an artist named Team Dresch is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 40,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/tronics/whats-the-hubub-bub/",
+  "title": "What's the Hubub Bub",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Tronics"
+  ],
+  "reason": "an artist named Tronics is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 42,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/various-artists/steam-kodok-17-a-go-go-ultrararities-from-the-60s-singapore-and-south-east-asia-underground/",
+  "title": "Steam Kodok - 17 A-Go-Go Ultrararities From the 60's Singapore and South-East Asia Underground",
+  "title_latin": null,
+  "year": 2003,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Various Artists"
+  ],
+  "reason": "an artist named Various Artists is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 43,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/ጌታቸው-መኩሪያ/በመሣሪያ-ብቻ-የተቀነባበሩ-ባህላዊና-ዘመናዊ-ሙዚቃ/",
+  "title": "በመሣሪያ ብቻ የተቀነባበሩ ባህላዊና ዘመናዊ ሙዚቃ",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "ጌታቸው መኩሪያ [Gétatchèw Mèkurya]"
+  ],
+  "reason": "an artist named Getatchew Mekurya is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 44,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/サイケアウツ/classics-1994-1999/",
+  "title": "Classics 1994-1999",
+  "title_latin": null,
+  "year": 2006,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "サイケアウツ [Cycheouts]"
+  ],
+  "reason": "an artist named Cycheouts G is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 45,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/ep/24hr-experience/the-test-press-e_p/",
+  "title": "The Test Press E.P.",
+  "title_latin": null,
+  "year": 1995,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "24hr Experience"
+  ],
+  "reason": "Spotify date 2021-09-29 vs RYM 1995: probably a reissue",
+  "best_spotify_candidate": "https://open.spotify.com/album/1IfjAw8O8rGO328I0kTgws"
+ },
+ {
+  "service": "spotify",
+  "position": 46,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/abel/katharsis/",
+  "title": "Katharsis",
+  "title_latin": null,
+  "year": 1984,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Abel"
+  ],
+  "reason": "an artist named Abel is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 47,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/ampnoise/beyond-the-spectacle/",
+  "title": "Beyond the Spectacle",
+  "title_latin": null,
+  "year": 1983,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Ampnoise"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 48,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/asmodaeus/lies-and-logic/",
+  "title": "Lies & Logic",
+  "title_latin": null,
+  "year": 1985,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Asmodaeus"
+  ],
+  "reason": "an artist named Asmodaeus is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 49,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/mariam-bogayogo/vol-2/",
+  "title": "Vol. 2",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Mariam Bogayogo"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 51,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/carrion-commandos/i-hear-america-frying/",
+  "title": "I Hear America Frying!",
+  "title_latin": null,
+  "year": 1983,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Carrion Commandos"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 52,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne/therell-be-no-tears-tonight-1/",
+  "title": "There'll Be No Tears Tonight",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Eugene Chadbourne"
+  ],
+  "reason": "an artist named Eugene Chadbourne is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 54,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/company/fables/",
+  "title": "Fables",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Company"
+  ],
+  "reason": "an artist named Company is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 55,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/controlled-bleeding/trailer-fuck/",
+  "title": "Trailer Fuck",
+  "title_latin": null,
+  "year": 1985,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Controlled Bleeding"
+  ],
+  "reason": "an artist named Controlled Bleeding is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 56,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/crime/nucler-blood/",
+  "title": "Nucler Blood",
+  "title_latin": null,
+  "year": 1985,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Crime"
+  ],
+  "reason": "an artist named Crime is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 57,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/current_obsessions/current_obsessions/",
+  "title": "Current Obsessions",
+  "title_latin": null,
+  "year": 1982,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Current Obsessions"
+  ],
+  "reason": "an artist named Current Obsession is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 58,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/dj-fokus/vexxed-chill-out/",
+  "title": "Vexxed / Chill Out",
+  "title_latin": null,
+  "year": 1993,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "DJ Fokus"
+  ],
+  "reason": "an artist named DJ Fokus is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 59,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/djmix/dj-jeno/inside-the-mind/",
+  "title": "Inside the Mind",
+  "title_latin": null,
+  "year": 1991,
+  "type_label": "DJ Mix",
+  "credited_as": null,
+  "artists": [
+   "DJ Jeno"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 62,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/additional/dr-shrinker/wedding-the-grotesque/",
+  "title": "Wedding the Grotesque",
+  "title_latin": null,
+  "year": 1989,
+  "type_label": "Additional release",
+  "credited_as": null,
+  "artists": [
+   "Dr. Shrinker"
+  ],
+  "reason": "an artist named Dr. Shrinker is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 64,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/druadan-forest/mirkwood/",
+  "title": "Mirkwood",
+  "title_latin": null,
+  "year": 1998,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Druadan Forest"
+  ],
+  "reason": "an artist named Druadan Forest is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 65,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/tom-ellard/80s-cheesecake/",
+  "title": "80s Cheesecake",
+  "title_latin": null,
+  "year": 1982,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Tom Ellard"
+  ],
+  "reason": "an artist named Tom Ellard is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 66,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/anthony-ellis-sound-dimension/i-am-the-ruler-version/",
+  "title": "I Am the Ruler / Version",
+  "title_latin": null,
+  "year": 1979,
+  "type_label": "Single",
+  "credited_as": "Anthony Ellis / Sound Dimension",
+  "artists": [
+   "Anthony Rocky Ellis",
+   "Sound Dimension"
+  ],
+  "reason": "an artist named Sound Dimension is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 67,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/eurich/discography/",
+  "title": "Discography",
+  "title_latin": null,
+  "year": 2003,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Eurich"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 68,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/evil-ednas-horror-toilet/too-much-gristle-in-the-blancmange/",
+  "title": "Too Much Gristle in the Blancmange",
+  "title_latin": null,
+  "year": 1986,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Evil Edna's Horror Toilet!"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 69,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/additional/evil-priest/pretention-is-no-excuse/",
+  "title": "Pretention Is No Excuse",
+  "title_latin": null,
+  "year": 1988,
+  "type_label": "Additional release",
+  "credited_as": null,
+  "artists": [
+   "Evil Priest"
+  ],
+  "reason": "an artist named Evil Priest is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 70,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/fabio-fabor-armando-sciascia/n-38-infini/",
+  "title": "N° 38 - Infini",
+  "title_latin": null,
+  "year": 1972,
+  "type_label": "Album",
+  "credited_as": "Fabio Fabor / Armando Sciascia",
+  "artists": [
+   "Fabio Fabor",
+   "Armando Sciascia"
+  ],
+  "reason": "an artist named Fabio Fabor is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 71,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/felicita/climb-up-eh-bring-it/",
+  "title": "Climb Up Eh / Bring It",
+  "title_latin": null,
+  "year": 2013,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "felicita"
+  ],
+  "reason": "an artist named felicita is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 72,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/marky-and-bungle/back-like-that-marky-and-bungle-remix/",
+  "title": "Back Like That (Marky & Bungle Remix)",
+  "title_latin": null,
+  "year": 2007,
+  "type_label": "Single",
+  "credited_as": "Marky & Bungle",
+  "artists": [
+   "DJ Marky",
+   "Bungle"
+  ],
+  "reason": "an artist named DJ Marky is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 74,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/unauth/the-hanatarashi/we-are-hardcore/",
+  "title": "We Are Hardcore!!",
+  "title_latin": null,
+  "year": 2001,
+  "type_label": "Bootleg / Unauthorized",
+  "credited_as": null,
+  "artists": [
+   "The Hanatarashi"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 75,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/ronnie-hawkins/bo-diddley-who-do-you-love/",
+  "title": "Bo Diddley / Who Do You Love",
+  "title_latin": null,
+  "year": 1963,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Ronnie Hawkins"
+  ],
+  "reason": "an artist named Ronnie Hawkins is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 76,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/hellias/revenge_of_hellias/",
+  "title": "Revenge of Hellias",
+  "title_latin": null,
+  "year": 1988,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Hellias"
+  ],
+  "reason": "an artist named Hellias is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 77,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/jack-ruby/for-adults-only-the-shadow/",
+  "title": "For Adults Only / The Shadow",
+  "title_latin": null,
+  "year": 1995,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Jack Ruby"
+  ],
+  "reason": "an artist named Jack Ruby is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 78,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/milt-jackson-joe-pass-ray-brown/the-big-three/",
+  "title": "The Big Three",
+  "title_latin": null,
+  "year": 1975,
+  "type_label": "Album",
+  "credited_as": "Milt Jackson, Joe Pass & Ray Brown",
+  "artists": [
+   "Milt Jackson",
+   "Joe Pass",
+   "Ray Brown"
+  ],
+  "reason": "an artist named Milt Jackson is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 79,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/toshiki-kadomatsu/girl-in-the-box/",
+  "title": "Girl in the Box",
+  "title_latin": null,
+  "year": 1984,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Toshiki Kadomatsu"
+  ],
+  "reason": "an artist named Toshiki Kadomatsu is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 80,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/ep/komprex/trance-hates-me-e_p/",
+  "title": "Trance Hates Me E.P.",
+  "title_latin": null,
+  "year": 2006,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Komprex"
+  ],
+  "reason": "name is a near-miss, check spelling/edition",
+  "best_spotify_candidate": "https://open.spotify.com/album/0yoBIdbPMxa5awf5fEZk8c"
+ },
+ {
+  "service": "spotify",
+  "position": 81,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/konstruktivits_nkvd_f2_vagina_dentata_organ/nkvd_compilation/",
+  "title": "NKVD Compilation",
+  "title_latin": null,
+  "year": 1989,
+  "type_label": "Album",
+  "credited_as": "Konstruktivits / NKVD / Vagina Dentata Organ",
+  "artists": [
+   "Konstruktivits",
+   "NKVD",
+   "Vagina Dentata Organ"
+  ],
+  "reason": "an artist named NKVD is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 82,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/rolf-kuhn-quintett/solarius/",
+  "title": "Solarius",
+  "title_latin": null,
+  "year": 1965,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Rolf Kühn Quintett"
+  ],
+  "reason": "an artist named Rolf Kühn Quintett is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 83,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/lord_litter/space_age/",
+  "title": "Space Age",
+  "title_latin": null,
+  "year": 1989,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Lord Litter"
+  ],
+  "reason": "an artist named Lord Litter is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 84,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/lou_champagne_system/no_visible_means/",
+  "title": "No Visible Means",
+  "title_latin": null,
+  "year": 1984,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Lou Champagne System"
+  ],
+  "reason": "Spotify date 2013-01-02 vs RYM 1984: probably a reissue",
+  "best_spotify_candidate": "https://open.spotify.com/album/3vzG7io53fRvpGrfG8ttsM"
+ },
+ {
+  "service": "spotify",
+  "position": 85,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/additional/maimed/demo-1-91/",
+  "title": "Demo #1 91'",
+  "title_latin": null,
+  "year": 1991,
+  "type_label": "Additional release",
+  "credited_as": null,
+  "artists": [
+   "Maimed"
+  ],
+  "reason": "an artist named Maimed is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 86,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/malignus-youth/malignus-youth/",
+  "title": "Malignus Youth",
+  "title_latin": null,
+  "year": 1990,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Malignus Youth"
+  ],
+  "reason": "an artist named Malignus Youth is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 87,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/mass-psychosis-exterminance/goremachine-vomiting-the-trinity/",
+  "title": "Goremachine / Vomiting the Trinity",
+  "title_latin": null,
+  "year": 1993,
+  "type_label": "EP",
+  "credited_as": "Mass Psychosis / Exterminance",
+  "artists": [
+   "Mass Psychosis",
+   "Exterminance"
+  ],
+  "reason": "an artist named Exterminance is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 88,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/gwen-mccrae/all-this-love-that-im-giving-90-of-me-is-you-1/",
+  "title": "All This Love That I'm Giving / 90% of Me Is You",
+  "title_latin": null,
+  "year": 1988,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Gwen McCrae"
+  ],
+  "reason": "an artist named Gwen McCrae is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 89,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/sugar-minott-horace-andy/wicked-ah-go-feel-it-musical-episode-1/",
+  "title": "Wicked Ah Go Feel It / Musical Episode",
+  "title_latin": null,
+  "year": 2002,
+  "type_label": "Single",
+  "credited_as": "Sugar Minott / Horace Andy",
+  "artists": [
+   "Sugar Minott",
+   "Horace Andy"
+  ],
+  "reason": "an artist named Sugar Minott is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 90,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/victor-nubla/dance-music/",
+  "title": "Dance Music",
+  "title_latin": null,
+  "year": 1986,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Víctor Nubla"
+  ],
+  "reason": "an artist named Victor Nubla is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 92,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/the-peppers/pepper-box-pinch-of-salt/",
+  "title": "Pepper Box / Pinch of Salt",
+  "title_latin": null,
+  "year": 1973,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "The Peppers"
+  ],
+  "reason": "an artist named The Peppers is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 94,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/pompidoo/synthesizer_voice___version/",
+  "title": "Synthesizer Voice / Version",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Pompidoo"
+  ],
+  "reason": "an artist named Pompidoo is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 95,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/prince-fatty/insane-in-the-brain-insane-in-the-brain-dub-mix/",
+  "title": "Insane in the Brain / Insane in the Brain (dub mix)",
+  "title_latin": null,
+  "year": 2010,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Prince Fatty"
+  ],
+  "reason": "an artist named Prince Fatty is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 96,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/the-ragga-twins/ragga-trip-hooligan-69/",
+  "title": "Ragga Trip / Hooligan 69",
+  "title_latin": null,
+  "year": 1990,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "The Ragga Twins"
+  ],
+  "reason": "an artist named Ragga Twins is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 97,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/unauth/visarad-srima-ratnayaka/pali-devotional-hymns/",
+  "title": "Pāli Devotional Hymns",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Visarad Srima Ratnayaka"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 99,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/harry-rusli/titik-api/",
+  "title": "Titik Api",
+  "title_latin": null,
+  "year": 1976,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Harry Rusli"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 100,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/umaru-sanda/dariya-da-makiya/",
+  "title": "Dariya da makiya",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Umaru Sanda"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 101,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/dj-scot-project/o/",
+  "title": "O",
+  "title_latin": null,
+  "year": 2001,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "DJ Scot Project"
+  ],
+  "reason": "an artist named DJ Scot Project is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 103,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/shoes/too-late-now-and-then/",
+  "title": "Too Late / Now and Then",
+  "title_latin": null,
+  "year": 1979,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Shoes"
+  ],
+  "reason": "an artist named Shoes is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 104,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/sindy_arthur/what_about_/",
+  "title": "What About?",
+  "title_latin": null,
+  "year": 1987,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Sindy Arthur"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 105,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/the_solitaires_f1/i_dont_stand_a_ghost_of_a_chance___girl_of_mine/",
+  "title": "I Don't Stand a Ghost of a Chance / Girl of Mine",
+  "title_latin": null,
+  "year": 1955,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "The Solitaires"
+  ],
+  "reason": "an artist named The Solitaires is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 106,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/sonntag_f1/le_tambour/",
+  "title": "Le tambour",
+  "title_latin": null,
+  "year": 1987,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Sønntag"
+  ],
+  "reason": "artist not found on Spotify"
+ },
+ {
+  "service": "spotify",
+  "position": 107,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/super_11/super_onze/",
+  "title": "Super Onze",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Super 11"
+  ],
+  "reason": "an artist named Super 11 is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 108,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/tar_babies/face_the_music/",
+  "title": "Face the Music",
+  "title_latin": null,
+  "year": 1983,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Tar Babies"
+  ],
+  "reason": "an artist named The Tar Babies is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 109,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/theatre-of-ice/beyond-the-graves-of-passion/",
+  "title": "Beyond the Graves of Passion",
+  "title_latin": null,
+  "year": 1984,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Theatre of Ice"
+  ],
+  "reason": "an artist named Theatre Of Voices is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 110,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/thor/aliens-dont-boogie/",
+  "title": "Aliens Don't Boogie",
+  "title_latin": null,
+  "year": 1999,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Thor"
+  ],
+  "reason": "an artist named Thor is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 111,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/torn-hawk/tarifa/",
+  "title": "Tarifa",
+  "title_latin": null,
+  "year": 2012,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Torn Hawk"
+  ],
+  "reason": "an artist named Torn Hawk is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 112,
+  "page": 2,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/additional/torture/torture/",
+  "title": "Torture",
+  "title_latin": null,
+  "year": 1996,
+  "type_label": "Additional release",
+  "credited_as": null,
+  "artists": [
+   "Torture"
+  ],
+  "reason": "Spotify date 2013-04-06 vs RYM 1996: probably a reissue; 1 other Spotify artist(s) share this name",
+  "best_spotify_candidate": "https://open.spotify.com/album/5q7gNTDI8FOVzeq8Skeq6A"
+ },
+ {
+  "service": "spotify",
+  "position": 114,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/two-daughters/two-daughters/",
+  "title": "Two Daughters",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Two Daughters"
+  ],
+  "reason": "an artist named Two Daughters is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 115,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/vast-majority/i-wanna-be-a-number-gods-groin-throwdown/",
+  "title": "I Wanna Be a Number / God's Groin / Throwdown",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Vast Majority"
+  ],
+  "reason": "an artist named Vast Majority is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 116,
+  "page": 2,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/single/josey_wales/let_go_mi_hand/",
+  "title": "Let Go Mi Hand",
+  "title_latin": null,
+  "year": 1986,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Josey Wales"
+  ],
+  "reason": "Spotify date 2025-07-14 vs RYM 1986: probably a reissue",
+  "best_spotify_candidate": "https://open.spotify.com/album/6trJJ3iGN4oySbP0h85I4P"
+ },
+ {
+  "service": "spotify",
+  "position": 119,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/навь/чертоги-смерти/",
+  "title": "Чертоги смерти",
+  "title_latin": "Halls of Death",
+  "year": 2004,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Навь [Nav']"
+  ],
+  "reason": "an artist named NAV is on Spotify, but not this release"
+ },
+ {
+  "service": "spotify",
+  "position": 120,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/葛蘭/曼波女郎回來了/",
+  "title": "曼波女郎回來了",
+  "title_latin": "Man bo nu lang hui lai le",
+  "year": 2010,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "葛蘭 [Grace Chang]"
+  ],
+  "reason": "an artist named Grace Chang is on Spotify, but not this release"
+ },
+ {
+  "service": "youtube",
+  "position": 2,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/unauth/feminist_improvising_group/live_in_hamburg__ndr_funkhaus_studio_10_/",
+  "title": "Live in Hamburg (NDR Funkhaus Studio 10)",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Bootleg / Unauthorized",
+  "credited_as": null,
+  "artists": [
+   "Feminist Improvising Group"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 3,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/owen-marshall/captain-puff-in-the-naked-truth-1/",
+  "title": "Captain Puff in the Naked Truth",
+  "title_latin": null,
+  "year": 2012,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Owen Marshall"
+  ],
+  "reason": "2 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 4,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/ojo-sembrono/jathilan-jaranan-vol_1/",
+  "title": "Jathilan / Jaranan Vol.1",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Ojo Sembrono"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=lDTYuN2Dx9A"
+ },
+ {
+  "service": "youtube",
+  "position": 8,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/porter-wagoner/the-rubber-room-the-late-love-of-mine/",
+  "title": "The Rubber Room / The Late Love of Mine",
+  "title_latin": null,
+  "year": 1971,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Porter Wagoner"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 9,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/ida-widawati/tilam-sono/",
+  "title": "Tilam sono",
+  "title_latin": null,
+  "year": 1975,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Ida Widawati"
+  ],
+  "reason": "short for a full album (5:37): fine for punk/grind, check it",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=rlA4dP8pBfM"
+ },
+ {
+  "service": "youtube",
+  "position": 11,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/စိုင်းဆိုင်မောဝ်/အမှတ်တရ-သျှမ်းတေးစုများ-အမှတ်-2/",
+  "title": "အမှတ်တရ သျှမ်းတေးစုများ အမှတ် 2",
+  "title_latin": "Amanat taya Shan taysu mya amanat 2",
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "စိုင်းဆိုင်မောဝ် [Sai Sai Mou]"
+  ],
+  "reason": "3:59:18 is long for one album: maybe a discography or compilation upload",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=6OZCyzojWgw"
+ },
+ {
+  "service": "youtube",
+  "position": 12,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/candidate-gangrene/candidate-gangrene/",
+  "title": "Candidate / Gangrène",
+  "title_latin": null,
+  "year": 1985,
+  "type_label": "Album",
+  "credited_as": "Candidate / Gangrène",
+  "artists": [
+   "Candidate",
+   "Gangrène"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 13,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/comp/ၼၢင်းၼၢင်း/လိူၵ်ႈသဵင်ၵႂၢမ်း/",
+  "title": "လိူၵ်ႈသဵင်ၵႂၢမ်း",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "ၼၢင်းၼၢင်း [Nang Nang]"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=2pq7jEIWO60"
+ },
+ {
+  "service": "youtube",
+  "position": 14,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/agony-bag/rabies-is-a-killer-never-never-land/",
+  "title": "Rabies Is a Killer / Never Never Land",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Agony Bag"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 15,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/kamuran-akkor/ikimiz-bir-fidaniz-dogru-mu-dogru-mu/",
+  "title": "İkimiz Bir Fidanız / Doğru Mu Doğru Mu",
+  "title_latin": null,
+  "year": 1975,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Kamuran Akkor"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 16,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/single/jim_brown/see_him_deh___version/",
+  "title": "See Him Deh / Version",
+  "title_latin": null,
+  "year": 1979,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Jim Brown"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=Sc7I7-Yng28"
+ },
+ {
+  "service": "youtube",
+  "position": 17,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/bernard-c-prince-emile-de-ly-de-magneville/les-chants-revolutionnaires-les-jardins-despagne/",
+  "title": "Les chants révolutionnaires / Les jardins d'Espagne",
+  "title_latin": null,
+  "year": 1983,
+  "type_label": "Album",
+  "credited_as": "Bernard C / Prince Emile de Ly de Magneville",
+  "artists": [
+   "Bernard C",
+   "Prince Emile de Ly de Magneville"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 20,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/amy-denio/no-bones/",
+  "title": "No Bones",
+  "title_latin": null,
+  "year": 1986,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Amy Denio"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 21,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/the-donald-knaack-percussion-ensemble-jay-clayton/three-constructions/",
+  "title": "Three Constructions",
+  "title_latin": null,
+  "year": 1989,
+  "type_label": "Album",
+  "credited_as": "The Donald Knaack Percussion Ensemble / Jay Clayton",
+  "artists": [
+   "The Donald Knaack Percussion Ensemble",
+   "Jay Clayton"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 22,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/grudge/when-christine-comes-around-im-gonna-smash-your-face-in/",
+  "title": "When Christine Comes Around / I'm Gonna Smash Your Face In",
+  "title_latin": null,
+  "year": 1973,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Grudge"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 23,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/helen-love/beat-him-up-super-boy-super-girl/",
+  "title": "Beat Him Up / Super Boy Super Girl",
+  "title_latin": null,
+  "year": 1995,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Helen Love"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 24,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/hidden-agenda/the-sun-12-seconds/",
+  "title": "The Sun / 12 Seconds",
+  "title_latin": null,
+  "year": 1997,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Hidden Agenda"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 26,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/susan-justin/forbidden-world/",
+  "title": "Forbidden World",
+  "title_latin": null,
+  "year": 1982,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Susan Justin"
+  ],
+  "reason": "6 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 28,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/lugubrum-trio/wakar-cartel-1/",
+  "title": "Wakar Cartel",
+  "title_latin": null,
+  "year": 2017,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Lugubrum Trio"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 29,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/lsd/karen-nash-jast-last-憎悪戦争～lsd/",
+  "title": "Karen Nash / Jast Last / 憎悪戦争～LSD",
+  "title_latin": null,
+  "year": 1986,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "LSD"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 30,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/single/meek-mill/tupac-back/",
+  "title": "Tupac Back",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Meek Mill"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=m5spMjy8uhc"
+ },
+ {
+  "service": "youtube",
+  "position": 31,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/monks-of-the-sourian-monastery/midnight-praises/",
+  "title": "Midnight Praises",
+  "title_latin": null,
+  "year": 2000,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Monks of the Sourian Monastery"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 35,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/hasan-pardede/gondang-batak-toba-vol-8/",
+  "title": "Gondang Batak Toba: Vol. 8",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Hasan Pardede"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 36,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/prince-charles-and-the-city-beat-band/stone-killers/",
+  "title": "Stone Killers!",
+  "title_latin": null,
+  "year": 1982,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Prince Charles & The City Beat Band"
+  ],
+  "reason": "3 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 39,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/team-dresch-longstocking/its-a-conversation-never-nowhere/",
+  "title": "It's a Conversation / Never Nowhere",
+  "title_latin": null,
+  "year": 1998,
+  "type_label": "Single",
+  "credited_as": "Team Dresch / Longstocking",
+  "artists": [
+   "Team Dresch",
+   "Longstocking"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 40,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/tronics/whats-the-hubub-bub/",
+  "title": "What's the Hubub Bub",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Tronics"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 42,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/various-artists/steam-kodok-17-a-go-go-ultrararities-from-the-60s-singapore-and-south-east-asia-underground/",
+  "title": "Steam Kodok - 17 A-Go-Go Ultrararities From the 60's Singapore and South-East Asia Underground",
+  "title_latin": null,
+  "year": 2003,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Various Artists"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 43,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/ጌታቸው-መኩሪያ/በመሣሪያ-ብቻ-የተቀነባበሩ-ባህላዊና-ዘመናዊ-ሙዚቃ/",
+  "title": "በመሣሪያ ብቻ የተቀነባበሩ ባህላዊና ዘመናዊ ሙዚቃ",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "ጌታቸው መኩሪያ [Gétatchèw Mèkurya]"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=c8xlK0bJ2k8"
+ },
+ {
+  "service": "youtube",
+  "position": 45,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/ep/24hr-experience/the-test-press-e_p/",
+  "title": "The Test Press E.P.",
+  "title_latin": null,
+  "year": 1995,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "24hr Experience"
+  ],
+  "reason": "short for a full ep (5:01): fine for punk/grind, check it",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=cCaZgrcO4Qs"
+ },
+ {
+  "service": "youtube",
+  "position": 46,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/abel/katharsis/",
+  "title": "Katharsis",
+  "title_latin": null,
+  "year": 1984,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Abel"
+  ],
+  "reason": "3 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 47,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/ampnoise/beyond-the-spectacle/",
+  "title": "Beyond the Spectacle",
+  "title_latin": null,
+  "year": 1983,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Ampnoise"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 49,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/mariam-bogayogo/vol-2/",
+  "title": "Vol. 2",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Mariam Bogayogo"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 50,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/beastiality/worshippers-of-unearthly-perversions/",
+  "title": "Worshippers of Unearthly Perversions",
+  "title_latin": null,
+  "year": 2017,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Beastiality"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 52,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/eugene-chadbourne/therell-be-no-tears-tonight-1/",
+  "title": "There'll Be No Tears Tonight",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Eugene Chadbourne"
+  ],
+  "reason": "15 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 55,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/controlled-bleeding/trailer-fuck/",
+  "title": "Trailer Fuck",
+  "title_latin": null,
+  "year": 1985,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Controlled Bleeding"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 58,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/dj-fokus/vexxed-chill-out/",
+  "title": "Vexxed / Chill Out",
+  "title_latin": null,
+  "year": 1993,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "DJ Fokus"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 59,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/djmix/dj-jeno/inside-the-mind/",
+  "title": "Inside the Mind",
+  "title_latin": null,
+  "year": 1991,
+  "type_label": "DJ Mix",
+  "credited_as": null,
+  "artists": [
+   "DJ Jeno"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 60,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/drakkar/x-rated/",
+  "title": "X-Rated",
+  "title_latin": null,
+  "year": 1988,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Drakkar"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 61,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/d_r_s/gangsta-lean/",
+  "title": "Gangsta Lean",
+  "title_latin": null,
+  "year": 1993,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "D.R.S."
+  ],
+  "reason": "6 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 63,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/dux-content/lifestyle/",
+  "title": "Lifestyle",
+  "title_latin": null,
+  "year": 2012,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Dux Content"
+  ],
+  "reason": "4 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 65,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/tom-ellard/80s-cheesecake/",
+  "title": "80s Cheesecake",
+  "title_latin": null,
+  "year": 1982,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Tom Ellard"
+  ],
+  "reason": "1 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 66,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/single/anthony-ellis-sound-dimension/i-am-the-ruler-version/",
+  "title": "I Am the Ruler / Version",
+  "title_latin": null,
+  "year": 1979,
+  "type_label": "Single",
+  "credited_as": "Anthony Ellis / Sound Dimension",
+  "artists": [
+   "Anthony Rocky Ellis",
+   "Sound Dimension"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=0X4xhuEXUyk"
+ },
+ {
+  "service": "youtube",
+  "position": 67,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/comp/eurich/discography/",
+  "title": "Discography",
+  "title_latin": null,
+  "year": 2003,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "Eurich"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=BtWVvUmMLv8"
+ },
+ {
+  "service": "youtube",
+  "position": 69,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/additional/evil-priest/pretention-is-no-excuse/",
+  "title": "Pretention Is No Excuse",
+  "title_latin": null,
+  "year": 1988,
+  "type_label": "Additional release",
+  "credited_as": null,
+  "artists": [
+   "Evil Priest"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 70,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/fabio-fabor-armando-sciascia/n-38-infini/",
+  "title": "N° 38 - Infini",
+  "title_latin": null,
+  "year": 1972,
+  "type_label": "Album",
+  "credited_as": "Fabio Fabor / Armando Sciascia",
+  "artists": [
+   "Fabio Fabor",
+   "Armando Sciascia"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=z2opc4ScjGc"
+ },
+ {
+  "service": "youtube",
+  "position": 71,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/felicita/climb-up-eh-bring-it/",
+  "title": "Climb Up Eh / Bring It",
+  "title_latin": null,
+  "year": 2013,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "felicita"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 72,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/single/marky-and-bungle/back-like-that-marky-and-bungle-remix/",
+  "title": "Back Like That (Marky & Bungle Remix)",
+  "title_latin": null,
+  "year": 2007,
+  "type_label": "Single",
+  "credited_as": "Marky & Bungle",
+  "artists": [
+   "DJ Marky",
+   "Bungle"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=jCMK31vVAWw"
+ },
+ {
+  "service": "youtube",
+  "position": 73,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/peter-gutteridge/pure/",
+  "title": "Pure",
+  "title_latin": null,
+  "year": 1989,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Peter Gutteridge"
+  ],
+  "reason": "2 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 74,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/unauth/the-hanatarashi/we-are-hardcore/",
+  "title": "We Are Hardcore!!",
+  "title_latin": null,
+  "year": 2001,
+  "type_label": "Bootleg / Unauthorized",
+  "credited_as": null,
+  "artists": [
+   "The Hanatarashi"
+  ],
+  "reason": "5:28:47 is long for one album: maybe a discography or compilation upload",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=rqW-N7IcXPE"
+ },
+ {
+  "service": "youtube",
+  "position": 76,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/hellias/revenge_of_hellias/",
+  "title": "Revenge of Hellias",
+  "title_latin": null,
+  "year": 1988,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Hellias"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 77,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/single/jack-ruby/for-adults-only-the-shadow/",
+  "title": "For Adults Only / The Shadow",
+  "title_latin": null,
+  "year": 1995,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Jack Ruby"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=A06OySpChNY"
+ },
+ {
+  "service": "youtube",
+  "position": 78,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/milt-jackson-joe-pass-ray-brown/the-big-three/",
+  "title": "The Big Three",
+  "title_latin": null,
+  "year": 1975,
+  "type_label": "Album",
+  "credited_as": "Milt Jackson, Joe Pass & Ray Brown",
+  "artists": [
+   "Milt Jackson",
+   "Joe Pass",
+   "Ray Brown"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 79,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/single/toshiki-kadomatsu/girl-in-the-box/",
+  "title": "Girl in the Box",
+  "title_latin": null,
+  "year": 1984,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Toshiki Kadomatsu"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=iDZPJELWUEU"
+ },
+ {
+  "service": "youtube",
+  "position": 81,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/konstruktivits_nkvd_f2_vagina_dentata_organ/nkvd_compilation/",
+  "title": "NKVD Compilation",
+  "title_latin": null,
+  "year": 1989,
+  "type_label": "Album",
+  "credited_as": "Konstruktivits / NKVD / Vagina Dentata Organ",
+  "artists": [
+   "Konstruktivits",
+   "NKVD",
+   "Vagina Dentata Organ"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=bmQLsrVuHBM"
+ },
+ {
+  "service": "youtube",
+  "position": 84,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/lou_champagne_system/no_visible_means/",
+  "title": "No Visible Means",
+  "title_latin": null,
+  "year": 1984,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Lou Champagne System"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 87,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/ep/mass-psychosis-exterminance/goremachine-vomiting-the-trinity/",
+  "title": "Goremachine / Vomiting the Trinity",
+  "title_latin": null,
+  "year": 1993,
+  "type_label": "EP",
+  "credited_as": "Mass Psychosis / Exterminance",
+  "artists": [
+   "Mass Psychosis",
+   "Exterminance"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 88,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/gwen-mccrae/all-this-love-that-im-giving-90-of-me-is-you-1/",
+  "title": "All This Love That I'm Giving / 90% of Me Is You",
+  "title_latin": null,
+  "year": 1988,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Gwen McCrae"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 89,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/sugar-minott-horace-andy/wicked-ah-go-feel-it-musical-episode-1/",
+  "title": "Wicked Ah Go Feel It / Musical Episode",
+  "title_latin": null,
+  "year": 2002,
+  "type_label": "Single",
+  "credited_as": "Sugar Minott / Horace Andy",
+  "artists": [
+   "Sugar Minott",
+   "Horace Andy"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 90,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/victor-nubla/dance-music/",
+  "title": "Dance Music",
+  "title_latin": null,
+  "year": 1986,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Víctor Nubla"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 93,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/the_pipkins/gimme_dat_ding_/",
+  "title": "Gimme Dat Ding!",
+  "title_latin": null,
+  "year": 1970,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "The Pipkins"
+  ],
+  "reason": "16 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 94,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/pompidoo/synthesizer_voice___version/",
+  "title": "Synthesizer Voice / Version",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Pompidoo"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 95,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/prince-fatty/insane-in-the-brain-insane-in-the-brain-dub-mix/",
+  "title": "Insane in the Brain / Insane in the Brain (dub mix)",
+  "title_latin": null,
+  "year": 2010,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Prince Fatty"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 96,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/the-ragga-twins/ragga-trip-hooligan-69/",
+  "title": "Ragga Trip / Hooligan 69",
+  "title_latin": null,
+  "year": 1990,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "The Ragga Twins"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 97,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/unauth/visarad-srima-ratnayaka/pali-devotional-hymns/",
+  "title": "Pāli Devotional Hymns",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Visarad Srima Ratnayaka"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 98,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/richie-rich/seasoned-veteran/",
+  "title": "Seasoned Veteran",
+  "title_latin": null,
+  "year": 1996,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Richie Rich"
+  ],
+  "reason": "2 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 99,
+  "page": 1,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/harry-rusli/titik-api/",
+  "title": "Titik Api",
+  "title_latin": null,
+  "year": 1976,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Harry Rusli"
+  ],
+  "reason": "2 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 100,
+  "page": 1,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/umaru-sanda/dariya-da-makiya/",
+  "title": "Dariya da makiya",
+  "title_latin": null,
+  "year": null,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Umaru Sanda"
+  ],
+  "reason": "short for a full album (6:39): fine for punk/grind, check it",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=FuBq0C0GJpI"
+ },
+ {
+  "service": "youtube",
+  "position": 101,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/dj-scot-project/o/",
+  "title": "O",
+  "title_latin": null,
+  "year": 2001,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "DJ Scot Project"
+  ],
+  "reason": "12 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 102,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/sensate-focus/sensate-focus-1_666666666/",
+  "title": "Sensate Focus 1.666666666",
+  "title_latin": null,
+  "year": 2013,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Sensate Focus"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 103,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/shoes/too-late-now-and-then/",
+  "title": "Too Late / Now and Then",
+  "title_latin": null,
+  "year": 1979,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Shoes"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 104,
+  "page": 2,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/sindy_arthur/what_about_/",
+  "title": "What About?",
+  "title_latin": null,
+  "year": 1987,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Sindy Arthur"
+  ],
+  "reason": "not labelled as a full release, from a channel that isn't the artist's",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=Z5A_v8nwMAA"
+ },
+ {
+  "service": "youtube",
+  "position": 107,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/album/super_11/super_onze/",
+  "title": "Super Onze",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Super 11"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 111,
+  "page": 2,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/ep/torn-hawk/tarifa/",
+  "title": "Tarifa",
+  "title_latin": null,
+  "year": 2012,
+  "type_label": "EP",
+  "credited_as": null,
+  "artists": [
+   "Torn Hawk"
+  ],
+  "reason": "short for a full ep (4:43): fine for punk/grind, check it",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=f2Z6yHCLPi8"
+ },
+ {
+  "service": "youtube",
+  "position": 114,
+  "page": 2,
+  "section": null,
+  "status": "uncertain",
+  "rym_url": "https://rateyourmusic.com/release/album/two-daughters/two-daughters/",
+  "title": "Two Daughters",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Album",
+  "credited_as": null,
+  "artists": [
+   "Two Daughters"
+  ],
+  "reason": "short for a full album (7:20): fine for punk/grind, check it",
+  "best_youtube_candidate": "https://www.youtube.com/watch?v=anNAl0A1GRk"
+ },
+ {
+  "service": "youtube",
+  "position": 115,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/vast-majority/i-wanna-be-a-number-gods-groin-throwdown/",
+  "title": "I Wanna Be a Number / God's Groin / Throwdown",
+  "title_latin": null,
+  "year": 1980,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Vast Majority"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ },
+ {
+  "service": "youtube",
+  "position": 118,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/single/youandewan/1988/",
+  "title": "1988",
+  "title_latin": null,
+  "year": 2011,
+  "type_label": "Single",
+  "credited_as": null,
+  "artists": [
+   "Youandewan"
+  ],
+  "reason": "15 upload(s) matched the names but were rejected"
+ },
+ {
+  "service": "youtube",
+  "position": 120,
+  "page": 2,
+  "section": null,
+  "status": "not_found",
+  "rym_url": "https://rateyourmusic.com/release/comp/葛蘭/曼波女郎回來了/",
+  "title": "曼波女郎回來了",
+  "title_latin": "Man bo nu lang hui lai le",
+  "year": 2010,
+  "type_label": "Compilation",
+  "credited_as": null,
+  "artists": [
+   "葛蘭 [Grace Chang]"
+  ],
+  "reason": "no YouTube upload matched the artist and title"
+ }
+]

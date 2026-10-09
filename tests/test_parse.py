@@ -66,3 +66,16 @@ def test_cloudflare_page_rejected():
 def test_split_translit():
     assert split_translit('Plain Title') == ('Plain Title', None)
     assert split_translit('夜想曲 [Yasoukyoku]') == ('夜想曲', 'Yasoukyoku')
+
+
+def test_manual_capture_keeps_real_page_numbers():
+    import copy
+    manual = copy.deepcopy(FIXTURE)
+    manual['mode'] = 'manual'
+    manual['pages'][0]['page'] = 7  # only page 7 was recorded
+    lst = parse_capture(manual)
+    assert lst['capture_mode'] == 'manual'
+    assert lst['page_numbers'] == [7]
+    assert {i['page'] for i in lst['items']} == {7}
+    assert lst['items'][0]['position'] == 1
+    assert parse_capture(FIXTURE)['capture_mode'] == 'full'

@@ -12816,24 +12816,41 @@
   }
  ],
  "status": {
-  "state": "pending",
+  "state": "done",
   "captured_at": "2026-10-08T23:57:24.169Z",
-  "folder": "pending/DazedandBrutal__tapestry-compliments-to-walkman",
+  "folder": "done/DazedandBrutal__tapestry-compliments-to-walkman",
   "playlist": {
    "created_at": "2026-10-09T00:20:09+00:00",
+   "updated_at": "2026-10-09T00:44:11+00:00",
    "url": "https://open.spotify.com/playlist/2C8d0ugAFK2zEsdps6aNPk",
    "name": "RYM Tapestry; Compliments to Walkman",
-   "tracks": 467,
-   "releases": 35,
+   "tracks": 1174,
+   "releases": 118,
    "parts": [
     {
      "id": "2C8d0ugAFK2zEsdps6aNPk",
      "name": "RYM Tapestry; Compliments to Walkman",
      "url": "https://open.spotify.com/playlist/2C8d0ugAFK2zEsdps6aNPk",
-     "tracks": 467,
-     "releases": 35
+     "tracks": 1174,
+     "releases": 118
     }
    ]
-  }
+  },
+  "matched_at": "2026-10-09T00:44:08+00:00",
+  "musicbrainz": true,
+  "counts": {
+   "not_found": 558,
+   "likely": 58,
+   "verified": 60,
+   "uncertain": 25
+  },
+  "leftovers": {
+   "count": 583,
+   "not_found": 558,
+   "needs_review": 25,
+   "file": "done/DazedandBrutal__tapestry-compliments-to-walkman/leftovers.md"
+  },
+  "error": null,
+  "completed_at": "2026-10-09T00:44:11+00:00"
  }
 }

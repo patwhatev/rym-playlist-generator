@@ -1,11 +1,13 @@
 # rymlist
 
-Turn rateyourmusic lists into Spotify or YouTube playlists, with a report of what was found, what needs a human look, and what isn't on Spotify. Matches are validated, not just "same name": see [How matches are validated](#how-matches-are-validated).
+Turn rateyourmusic lists into Spotify or YouTube playlists, with a report of what was found, what needs a human look, and what couldn't be found. Matches are validated, not just "same name": see [How matches are validated](#how-matches-are-validated) and [YouTube](#youtube).
+
+Every report leads with **coverage**: how many of the list's releases each service actually got into a playlist, and how many it left out. Run a list on both services and it also shows how many releases are only on Spotify, only on YouTube, or on neither, so you can tell when Spotify is underperforming. It varies by list: on *Now is Never On Thyme*, Spotify got 19 of 120 releases and YouTube 43, while on *Mirage* Spotify did better (32 against 26 of 75). The two mostly find different releases, so running both can cover a lot more.
 
 The workflow:
 
 1. **Capture** lists as you browse, with the extension (RYM sits behind Cloudflare, so scripts can't fetch it).
-2. **`rymlist run`** whenever you like: ingests new captures, then matches and builds a playlist for every pending list and moves each finished list to `done/`.
+2. **`rymlist run`** (Spotify) or **`rymlist run --to youtube`** whenever you like: ingests new captures, then matches and builds playlists for every pending list and moves each finished list to `done/`.
 
 ## Setup
 
@@ -23,6 +25,8 @@ export SPOTIFY_SECRET=...
 
 Load the extension once: `chrome://extensions` → Developer mode → **Load unpacked** → pick `extension/`.
 
+For YouTube playlists, see [YouTube setup](#youtube-setup-once): a Google OAuth client in `secrets/`. Discogs is optional; see [Discogs](#discogs).
+
 ## Use
 
 ```sh
@@ -30,7 +34,8 @@ Load the extension once: `chrome://extensions` → Developer mode → **Load unp
 # → ~/Downloads/rymlist/<user>__<slug>.json once every page is in
 
 uv run rymlist run      # ingest + match + playlist + move to done/, for everything pending
-uv run rymlist lists    # every list with its state, counts and playlist link
+uv run rymlist run --to youtube   # same, onto YouTube
+uv run rymlist lists    # every list with its state, coverage per service and playlist links
 ```
 
 Capturing is resumable. Pages are fetched 3-5s apart and each one is kept in the extension's storage as soon as it arrives; a 503/429/Cloudflare check is retried after 20s, 60s and 2min. If it still stops, the popup says how many pages are saved and **Resume** continues from the first missing page. The popup can be closed while it works. **Start over** discards saved pages for that list. After changing the extension, hit reload on it in `chrome://extensions`.
@@ -41,7 +46,12 @@ For lists where you only want some pages: click **● Start manual record**, the
 
 A manual capture keeps RYM's real page numbers, so `sections.toml` still applies. It also replaces any earlier capture of the same list: the list becomes exactly the pages you exported, and playlists for sections that are no longer in it aren't touched on Spotify.
 
-The first `run` opens a Spotify login in your browser once. A list that fails (network, Spotify error) stays in `pending/` with the error recorded and is retried on the next `run`; the rest of the batch carries on.
+The first `run` opens a Spotify login in your browser once. Failures are contained:
+- **One release:** if a lookup fails, that release is marked `error`, left out of the playlist and listed in the report and leftovers, and the rest of the list carries on. Search queries over Spotify's 250-character limit (long multi-artist credits) are shortened before they're sent.
+- **Five in a row:** that means a service or the network is down, so the list stops.
+- **A whole list:** a list that stops or fails stays in `pending/` with the error recorded, and the next `run` retries it. The rest of the batch carries on.
+
+`rymlist reset <list>` followed by `run` retries a list's `error` releases. Lookups are cached, so only the failed ones are redone.
 
 Playlists are named `RYM <list title>`. Recapturing a list that's already done moves it back to pending, and the next `run` updates **the same** playlist rather than making a new one. `rymlist reset <list>` does that without recapturing (after editing `overrides.toml`, say).
 
@@ -62,7 +72,7 @@ Spotify currently ignores the API's privacy flag, so new playlists show up as pu
 
 `run` options: `--to spotify|youtube`, `--include-uncertain` (also add "needs review" matches), `--no-mb` (fast, skips MusicBrainz so less can be "verified"), `--no-discogs`, `--refresh` (ignore cached responses), and for YouTube `--unlisted` / `--public`.
 
-Single steps are there too: `ingest`, `match <list> [--to youtube] [--limit N]`, `playlist <list> [--to youtube]`, `reset <list>`. `<list>` is a list id, any unique part of one, or `all`.
+Single steps are there too: `ingest`, `match <list> [--to youtube] [--limit N]`, `playlist <list> [--to youtube]`, `reset <list>`. `<list>` is a list id, any unique part of one, or `all`. Full-width ids match plain typing too: `broken` finds `ｂｒｏｋｅｎ-ｓｉｍｕｌａｔｉｏｎ`.
 
 First matches are slow because MusicBrainz allows ~1 request/second (20-30 min for 700 releases). Every response is cached in `.cache/`, so reruns take seconds.
 
@@ -74,16 +84,17 @@ uv run rymlist reset <list>            # to do a list that's already done on Spo
 uv run rymlist run --to youtube
 ```
 
-Each list remembers the service it was last run with, so a plain `rymlist run` continues where it left off. Lists can have both: playlists are tracked per service, and the report compares them.
+Each list remembers the service it was last run with, so a plain `rymlist run` continues where it left off. Lists can have both: playlists are tracked per service, and the report compares them. A quick way to decide is to run a list on YouTube after Spotify and look at the coverage table at the top of its `report.md`.
 
 **How it searches:** public YouTube search results through yt-dlp. It reads metadata only (titles, lengths, channels), downloads nothing and uses no API quota. Searches are paced about 1.5 seconds apart and cached. It looks for a full-album upload: the artist and the title must both be in the video title (or the artist is the channel), with no review, reaction, cover, edit, remix or similar words, and no "live" unless RYM lists it as live. Then the length has to be right:
 
 - **With a known runtime:** compared against it, allowing 5% for verified, 10% for likely and 20% for needs review, with tighter limits on short releases. The runtime comes from the Spotify match if there is one, then MusicBrainz track lengths, then Discogs. Discogs is only asked when its answer can change the outcome: uploads matched but none passed, the best is only "needs review", or the uploads disagree on length.
 - **Without one:** a full album has to be at least 15 minutes and labelled "full" (or on the artist's channel) to count as likely. Five to 15 minutes is needs review (fine for punk or grind, but check it), and anything under 5 minutes is rejected. EPs use 8 and 3 minutes. Anything over 3 hours is needs review, since it may be a discography upload.
 
-**How it writes playlists:** through the official YouTube Data API. Playlists are **private** unless you pass `--unlisted` or `--public`. YouTube respects this, unlike Spotify.
+**How it writes playlists:** through the official YouTube Data API. Playlists are **private** unless you pass `--unlisted` (anyone with the link) or `--public` (shown on your channel and in search). YouTube respects this, unlike Spotify. Public is fairly low-risk: a playlist only points at other people's uploads, so takedowns go to the uploader and the video just disappears from your playlist. It is public under your account's name, though, so think twice for lists with sections you wouldn't want on your channel. You can also flip privacy later in YouTube itself; rymlist only changes it when you pass a different flag.
 - The daily quota is 10,000 units, and adding one video costs 50, so about 195 albums a day.
 - When the quota runs out, the list stays in `pending/` marked paused, and the next `run` carries on. What's already in the playlist is read back from YouTube, so nothing is added twice.
+- The same goes for any other error part-way through: the playlist's id is saved first, so a rerun fills the same playlist instead of creating a duplicate. YouTube's occasional "409 operation aborted" on back-to-back adds is retried automatically.
 - Deleted or private videos are dropped before adding, and listed under `unavailable` in `list.json`.
 - Lists over 5,000 videos are split into numbered playlists.
 

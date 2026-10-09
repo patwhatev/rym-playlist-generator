@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "rymlist capture",
+  "version": "0.1.0",
+  "description": "Save a rateyourmusic list (every page) for the rymlist CLI.",
+  "action": {
+    "default_title": "Capture this RYM list",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "scripting", "downloads"],
+  "host_permissions": ["https://rateyourmusic.com/*"]
+}

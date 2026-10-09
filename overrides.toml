@@ -1,0 +1,7 @@
+# Fix individual matches, keyed by the RYM release url, then rerun `rymlist match <list>`.
+#
+# ["https://rateyourmusic.com/release/album/artist/title/"]
+# spotify = "https://open.spotify.com/album/..."   # pin this exact album
+#
+# ["https://rateyourmusic.com/release/album/artist/other-title/"]
+# skip = true                                      # leave it out of playlists
